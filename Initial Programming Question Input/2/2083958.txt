@@ -1,0 +1,1745 @@
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+@
+Newer results are available.
+1yr ago
+Ref Range & Units
+65 - 99 mg/dL
+Glucose
+107
+Comment:
+Fasting reference interval
+For someone without known diabetes, a glucose value between 100 and 125 mg/dL is consistent with prediabetes and should be confirmed with a follow-up test.
+Blood Urea Nitrogen (BUN) 7 - 25 mg/dL
+271
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Creatinine
+0.60 -0.93 mg/dL 1.10
+Comment: For patients >49 years of age, the reference limit for Creatinine is approximately 13% higher for people identified as African-American.
+48
+EGER Non-African American > OR = 60
+V
+|eGFR African American|mL/min/1.73m2 > OR = 60 mL/min/1.73m2|56 V||
+|BUN/Creatinine Ratio|6 - 22 (calc)|A 25||
+|Sodium|135 - 146 mmol/L|140||
+|Potassium|3.5 - 5.3 mmol/L|4.6||
+|Chloride|98 - 110 mmol/L|104||
+|CO2|20 - 32 mmol/L|27||
+|Calcium|8.6 - 10.4 mg/dL|9.3||
+|Protein, Total|6.1 - 8.1 g/dL|6.4||
+|Albumin|3.6 - 5.1 g/dL|3.9||
+|Globulin|1.9 - 3.7 g/dL (calc)|2.5||
+|Albumin/Globulin Ratio|1.0 - 2.5 (calc)|1.6||
+|Bilirubin, Total|0.2 - 1.2 mg/dL|0.4||
+|Alkaline Phosphatase|33 - 130 U/L|73||
+|Aspartate Aminotrans (AST)|10 - 35 U/L|13||
+|Alanine Aminotrans (ALT)|6 - 29 U/L|10||
+|Resulting Agency||NL1||
+
+)
+Narrative
+Performed by: Quest
+FASTING: YES
+FASTING: YES
+Resulting Agency's Comment
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd Fl, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+Specimen Collected:
+08/17/18 9:44 AM
+Last Resulted: 08/17/18
+6:37 PM
+Order Details View Encounter Lab and Collection
+Details Routing Result History
+Other Results from 5/17/2018
+Result Notes for Lipid Panel Reflex Direct LDL (Quest Only)
+Notes recorded by Jose M Lizardi, MA on 8/21/2018 at 2:25 PM EDT
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Pt aware!
+Notes recorded by Kathleen Bonin, APRN on 8/18/2018 at 4:13 PM EDT
+Blood sugars are still a bit high but not diabetic Considered pre. Should avoid sweets and eat more protein thn carbs. Otherwise labs are normal and chol is now great. Thank you
+Lipid Panel Reflex Direct LDL (Quest Only)
+Order: 151232174
+Status: Final result Visible to patient: No (Not Released) Next appt: 11/05/2019 at 01:00 PM in Colorectal (Claudette G Faucher-Charles, APRN) Dx: Elevated blood sugar
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+4/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+@
+Newer results are available.
+||Ref Range & Units|1yr ago|
+|Cholesterol, Total|<200 mg/dL|165|
+|Cholesterol, HDL|>50 mg/dL|49 V|
+|Triglycerides|<150 mg/dL|111|
+|LDL Cholesterol|mg/dL (calc)|95|
+|Comment: Reference|range: <100||
+
+Desirable range <100 mg/dL for primary prevention;
+ < 70 mg/dL for patients with CHD or diabetic patients with > or 2 CHD risk factors.
+=
+LDL-C is now calculated using the Martin-Hopkins
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+5/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813] calculation, which is a validated novel method providing better accuracy than the Friedewald equation in the estimation of LDL-C.
+Martin SS et al. JAMA. 2013;310 (19): 2061-2068
+(http://education.QuestDiagnostics.com/faq/FAQ164)
+Cholesterol/HDL Ratio <5.0 (calc)
+3.4
+Non HDL Chol. (LDL+VLDL) <130 mg/dL (calc) 116
+Comment: For patients with diabetes plus 1 major ASCVD risk factor, treating to a non-HDL-C goal of <100 mg/dL
+(LDL-C of <70 mg/dL) is considered a therapeutic option.
+Resulting Agency
+NL1
+Narrative
+Performed by: Quest
+FASTING: YES
+FASTING: YES
+Resulting Agency's Comment
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd Fl, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+Specimen Collected: Last Resulted: 08/17/18 Order Details View Encounter Lab and Collection
+08/17/18 9:44 AM 6:37 PM
+Details Routing Result History
+Result Notes for Hemoglobin A1c
+Notes recorded by Jose M Lizardi, MA on 8/21/2018 at 2:25 PM EDT
+Pt aware!
+Notes recorded by Kathleen Bonin, APRN on 8/18/2018 at 4:13 PM EDT
+Blood sugars are still a bit high but not diabetic Considered pre. Should avoid sweets and eat more protein thn carbs. Otherwise labs are normal and chol is now great. Thank you
+Hemoglobin A1c
+Order: 151232175
+Status: Final result Visible to patient: No (Not Released) Next appt: 11/05/2019 at 01:00 PM in Colorectal (Claudette G Faucher-Charles, APRN) Dx: Elevated blood sugar
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+6/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+@
+Newer results are available.
+Ref Range & Units
+1 yr ago
+Hemoglobin A1C <5.7 % of total Hgb 6.0
+Comment: For someone without known diabetes, a hemoglobin
+Alc value between 5.7% and 6.4% is consistent with prediabetes and should be confirmed with a follow-up test.
+For someone with known diabetes, a value <7% indicates that their diabetes is well controlled. Alc targets should be individualized based on duration of diabetes, age, comorbid conditions, and other considerations.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+7/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+This assay result is consistent with an increased risk of diabetes.
+Currently, no consensus exists regarding use of hemoglobin Alc for diagnosis of diabetes for children.
+Resulting Agency
+NL1
+Narrative
+Performed by: Quest
+FASTING: YES
+FASTING: YES
+Resulting Agency's Comment
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd Fl, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+Specimen Collected: Last Resulted: 08/17/18 Order Details View Encounter Lab and Collection
+08/17/18 9:44 AM 6:37 PM
+Details Routing Result History
+Performing Laboratory Information
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd FI, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+All Reviewers List
+Jose M Lizardi, MA on 8/21/2018 2:26 PM
+Kathleen Bonin, APRN on 8/18/2018 4:13 PM
+Additional Information
+Bill Type
+Specimen ID
+WC025960A
+Client ID
+22232805
+Third-Party
+Additional Information
+|Specimen Date|Specimen|Time Specimen|Specimen|Result Date|Result Time|
+|Taken|Taken|Received Date|Received Time|||
+|Aug 17, 2018|9:44 AM|Aug 17, 2018|9:44 AM|Aug 17,2018|6:37 PM|
+
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+8/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hartford Healthcare Laboratories, CT State License No.
+Backus Hospital Lab: HP-0230, Backus Plainfield Emergency Center Lab: CL-0766, HHC Cancer Institute: CL-0719, Charlotte Hungerford Hospital: HP-
+0245, Charlotte Hungerford Winsted Emergency Center Lab: CL-0720, Hartford Hospital: HP-0254, Hartford Hospital, Newington Campus: CL-0385, Midstate Medical Center Lab: HP-0310, The Hospital of Central CT Lab: HP-0222, The Hospital of Central CT Lab (Blood Gas): HP-0303, The Hospital of Central CT Bradley Emergency Center Lab: HP-0240, The Hospital of Central CT-Satellite Campus: HP-0261, Windham Hospital Lab: HP-0366
+Additional Comments
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd FI, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+External Results Report
+Open External Results Report
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:34 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+9/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Results
+Basic Metabolic Panel (Order 160114608)
+!
+Basic Metabolic Panel
+Order: 160114608
+Status: Final result Visible to patient: No (Not Released) Next appt: 11/05/2019 at 01:00 PM in Colorectal (Claudette G Faucher-Charles, APRN)
+HHC BH Backus Hospital Hayden, Nancy
+326 Washington Street MRN: 2000602369, DOB: 8/31/1939, Sex: F
+Norwich CT 06360 Acct #: 41817102461
+Adm: 6/20/2018, D/C: 6/21/2018
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/3
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+@
+Newer results are available.
+|Glucose|Ref Range & Units 65 - 99 mg/dL|1yr ago 106|
+|Comment: Fasting :|<100 mg/dL, Non-Fasting:|: <200 mg/dL (ADA 2005)|
+|Blood Urea Nitrogen (BUN)|8 - 21 mg/dL|19|
+|Creatinine|0.4 - 1.1 mg/dL|1.0|
+|eGFR|>59|54 V|
+|Comment: MDRD in|mL/min/1.73 sq meters.||
+|GFR - African American|59|65|
+|Comment: MDRD in|mL/min/1.73 sq meters.||
+|Sodium|136 - 145 mmol/L|142|
+|||3.9|
+
+< )
+mL
+mL
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/3
+
+-------------------------------------------
+-------------------------------------------
+|10/28/2019|Hayden, Nancy (MR#2000602369)|Printed by RODRIGUEZ, CHRISTINE [13813]|
+|Potassium|3.4 - 5.3 mmol/L||
+|Chloride|98 - 107 mmol/L|101|
+|CO2|22 - 33 mmol/L|30|
+|Anion Gap|7 17|11|
+|Calcium|8.7 - 10.5 mg/dL|9.5|
+|BUN/Creatinine Ratio|10.0 - 25.0 Ratio|19|
+|Resulting Agency||Hospital|
+|Specimen Collected: 06/21/18 8:08 AM|Last Resulted: 06/21/18 9:04 AM|Order Details View Encounter Lab and Details Routing Result|
+
+)
+-
+Collection
+History
+Additional Information
+Bill Type
+Client ID
+Specimen ID
+H278983_20180620230200
+Additional Information
+|Specimen Date|Specimen Time|Specimen|Specimen|Result Date|Result Time|
+|Taken|Taken|Received Date|Received Time|||
+|Jun 21, 2018|8:08 AM|Jun 21, 2018|8:24 AM|Jun 21, 2018|9:04 AM|
+
+Hartford Healthcare Laboratories, CT State License No.
+Backus Hospital Lab: HP-0230, Backus Plainfield Emergency Center Lab: CL-0766, HHC Cancer Institute: CL-0719, Charlotte Hungerford Hospital: HP-
+0245, Charlotte Hungerford Winsted Emergency Center Lab: CL-0720, Hartford Hospital: HP-0254, Hartford Hospital, Newington Campus: CL-0385, Midstate Medical Center Lab: HP-0310, The Hospital of Central CT Lab: HP-0222, The Hospital of Central CT Lab (Blood Gas): HP-0303, The Hospital of Central CT Bradley Emergency Center Lab: HP-0240, The Hospital of Central CT-Satellite Campus: HP-0261, Windham Hospital Lab: HP-0366
+External Results Report
+Open External Results Report
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:34 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/3
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Results
+Comprehensive Metabolic Panel (Order 158149839)
+Comprehensive Metabolic Panel
+Order: 158149839
+Status: Final result Visible to patient: No (Not Released) Next appt: 11/05/2019 at 01:00 PM in Colorectal (Claudette G Faucher-Charles, APRN)
+HHC BH Backus Hospital Hayden, Nancy
+326 Washington Street MRN: 2000602369, DOB: 8/31/1939, Sex: F
+Norwich CT 06360 Acct #: 41815501976
+Adm: 6/4/2018, D/C: 6/6/2018
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/3
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+@
+Newer results are available.
+|Glucose|Ref Range & Units 65 - 99 mg/dL|1yr ago 108|
+|Comment: Fasting :|<100 mg/dL, Non-Fasting|: <200 mg/dL (ADA 2005)|
+|Blood Urea Nitrogen (BUN)|8 - 21 mg/dL|22|
+|Creatinine|0.4 - 1.1 mg/dL|1.2|
+|eGFR|>59|43|
+|Comment: MDRD in|mL/min/1.73 sq meters.||
+
+ < ) mL GFR - African American > 59
+52
+Comment: MDRD in mL/min/1.73
+sq meters.
+Sodium
+136 - 145 mmol/L
+142
+V
+V
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/3
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE (13813]
+|Potassium|3.4 - 5.3 mmol/L|3.5|
+|Chloride|98 - 107 mmol/L|102|
+|CO2|22 - 33 mmol/L|25|
+|Calcium|8.7 - 10.5 mg/dL|9.2|
+|Alkaline Phosphatase|32 - 122 U/L|66|
+|Aspartate Aminotrans (AST)|10 - 50 U/L|12|
+|Alanine Aminotrans (ALT)|10 - 50 U/L|11|
+|Bilirubin, Total|0.2 - 1.0 mg/dL|0.4|
+|Protein, Total|6.3 - 8.3 g/dL|6.2|
+|Albumin|3.4 - 4.8 g/dL|3.4|
+|BUN/Creatinine Ratio|10.0 - 25.0 Ratio|18|
+|Globulin|1.5 - 3.9 g/dL|2.8|
+|Albumin/Globulin Ratio|1.0 - 3.0 Ratio|1.2|
+|Anion Gap|7 17|15|
+|Resulting Agency||Hospital|
+|Specimen Collected:|Last Resulted: 06/05/18|Order|
+|06/05/18 4:55 AM|5:35 AM||
+
+)
+-
+. .
+Details View Encounter Lab and Collection
+Details Routing Result History
+Additional Information
+Bill Type
+Client ID
+Specimen ID
+T241969_20180604230200
+Additional Information
+|Specimen Date|Specimen Time|Specimen|Specimen|Result Date|Result Time|
+|Taken|Taken|Received Date|Received Time|||
+|Jun 5, 2018|4:55 AM|Jun 5, 2018|5:03 AM|Jun 5, 2018|5:35 AM|
+
+Hartford Healthcare Laboratories, CT State License No.
+Backus Hospital Lab: HP-0230, Backus Plainfield Emergency Center Lab: CL-0766, HHC Cancer Institute: CL-0719, Charlotte Hungerford Hospital: HP-
+0245, Charlotte Hungerford Winsted Emergency Center Lab: CL-0720, Hartford Hospital: HP-0254, Hartford Hospital, Newington Campus: CL-0385, Midstate Medical Center Lab: HP-0310, The Hospital of Central CT Lab: HP-0222, The Hospital of Central CT Lab (Blood Gas): HP-0303, The Hospital of Central CT Bradley Emergency Center Lab: HP-0240, The Hospital of Central CT-Satellite Campus: HP-0261, Windham Hospital Lab: HP-0366
+Routing History
+Priority Sent On From
+ 
+Message
+Type
+John Matthew Snowden, MD
+6/7/2018 1:55 Interface, Transcription
+PM
+Incoming
+External Results Report
+Open External Results Report
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:34 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/3
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 08/08/2018
+Nancy Hayden
+8/8/2018 1:00 PM Office Visit
+MRN: 2000602369
+Description: Female DOB: 8/31/1939 Provider: Kathleen Bonin, APRN
+Department: Hartford HealthCare Medical Group Norwichtown
+Diagnoses
+Reason for Visit
+id
+Hypertension
+Reason for Visit History
+Essential hypertension - Primary
+Codes: 110
+Paroxysmal atrial fibrillation (HCC)
+Codes: 148.0
+Grade III hemorrhoids
+Codes: K64.2
+Progress Notes
+8/8/2018 1:36 PM
+8/8/2018
+Progress Notes by Kathleen Bonin, APRN at 8/8/2018 1:14 PM
+Author: Kathleen Bonin, APRN Author Type: Advanced Practice RN Filed:
+Note Status: Signed
+Cosign: Cosign Not Required Encounter
+Date:
+Editor: Kathleen Bonin, APRN (Advanced Practice RN)
+Assessment & Plan
+Assessment
+Nancy was seen today for hypertension.
+Diagnoses and all orders for this visit:
+Essential hypertension losartan-hydrochlorothiazide (HYZAAR) 100-25 MG per tablet; Take 1 tablet by mouth daily.
+atenolol (TENORMIN) 25 MG tablet; Take 1 tablet (25 mg total) by mouth daily.
+-
+-
+Paroxysmal atrial fibrillation (HCC)
+Grade Ill hemorrhoids hydrocortisone (ANUSOL-HC) 2.5 % rectal cream; Insert into the rectum 3 (three) times a day as needed for hemorrhoids.
+-
+Her hemorrhoids are bothering her. The OTC products DO NOT work and I asked her to take
+Colace 100mg daily and stay hydrated.
+In RSR. She has a great attitude. Trying to lose the weight. Has flu with Dr. Atef. I changed her tenormin to 25mg daily because she couldn't tolerate 50mg due to lethargy. And she is doing better off the atorvastin. Less pain and more mobility. Continue the same POC. She is doing so well.
+Blood work is pending. Colonoscopy has been done. Went to see Dr. Kalla. And he would like to put in a mesh. She is having a hard time with hemorrhoids. Dr. Sang follows.
+No results found for this or any previous visit (from the past 2 hour(s)).
+Communication barriers and lifestyle preferences were addressed with the patient. The care plan including medications and self-management goals were reviewed to the best of the patient's
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:28 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 08/08/2018 abilities. All questions and concerns were answered. Patient and/or family verbalized understanding of the plan of care.
+Subjective
+Subjective
+Patient ID: Nancy Hayden is a 78 y.o. female.
+Hypertension
+She is here for f/u hyperlipidemia and CAD. And she is doing well. Dr. Atef is her cardiologist. And she stopped her atorvastin because she had severe joint and muiscle pain. Now on Pravastatin.
+6/4-6/6 with rapid atrial fibrillation. She jhad a TEE. She has had a successful cardioversion. MIBI negative. She has lost 2 more pounds. She has cut out the salt in her diet. Non smoker. She is feeling well. She is very tired and feels out of it when she was on 50mg of Tenormin. Feels much more energetic on 25mg.
+Review of Systems
+All other systems reviewed and are negative.
+Objective
+Objective
+Vitals:
+BP:
+Pulse:
+Resp:
+Temp:
+Sp02:
+Weight:
+08/08/18 1251
+128/72
+71
+18
+98 F (36.7 C)
+98%
+105 kg (231 lb)
+Physical Exam
+Constitutional: She is oriented to person, place, and time. She appears well-developed and well- nourished.
+HENT:
+Head: Normocephalic.
+Eyes: Conjunctivae are normal. No scleral icterus.
+Neck: No thyromegaly present.
+Cardiovascular: Normal rate and regular rhythm. Exam reveals no gallop.
+No murmur heard.
+Pulmonary/Chest: Effort normal and breath sounds normal. She has no wheezes. She has no rales.
+Abdominal: She exhibits no distension.
+Musculoskeletal: She exhibits no edema or deformity.
+Lymphadenopathy:
+She has no cervical adenopathy.
+Neurological: She is alert and oriented to person, place, and time. Coordination normal.
+Skin: Skin is warm. No rash noted.
+Psychiatric: She has a normal mood and affect. Her behavior is normal. Thought content normal.
+Vitals reviewed.
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:28 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 08/08/2018
+Z Medications Ordered This Encounter
+||Disp|Refills|Start|End|
+|losartan-hydrochlorothiazide (HYZAAR) 100-25 MG per tablet (Discontinued) Take 1 tablet by mouth daily. - Oral Reason for Discontinue: Reorder|90 tablet|1|8/8/2018|2/8/2019|
+|atenolol (TENORMIN) 25 MG tablet (Discontinued) Take 1 tablet (25 mg total) by mouth daily. - Oral Reason for Discontinue: Reorder|90 tablet|1|8/8/2018|1/21/2019|
+|hydrocortisone (ANUSOL-HC) 2.5 % rectal cream|60 g|11|8/8/2018||
+
+Insert into the rectum 3 ( three ) times a day as needed for hemorrhoids . - Rectal
+Z Discontinued Medications
+Reason for Discontinue
+Therapy completed
+valsartan-hydrochlorothiazide (DIOVAN-
+HCT) 160-25 MG per tablet
+atenolol (TENORMIN) 50 MG tablet
+Therapy completed
+Medication List Reviewed
+User
+HANNAH E GOODALE, MA [18634]
+Date and Time
+10/24/2019 11:48 AM
+* Vitals
+|BP|Pulse|Temp|Resp|Wt|
+|128/72 (BP Location: Left arm, Patient Position: Sitting, Cuff Size: Medium (Standard))|71|98 F (36.7 C) (Oral)|18|105 kg (231 lb)|
+|LMP|SpO2|BMI|OB Status|Smoking Status|
+|(LMP Unknown)|98%|41.58 kg/m |Hysterectomy|Never Smoker|
+||||||
+
+Follow-up and Dispositions
+ Return in about 6 months (around 2/8/2019), or AF, HTN, for 15 min visit.
+Follow-up and Disposition History
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez (13813] at 10/28/19 5:28 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 08/08/2018
+All Flowsheet Templates (all
+recorded)
+Custom Formula Data
+Encounter Vitals
+Vital Signs
+Referring Provider
+Kathleen Bonin, APRN.
+Level of Service
+Level of Service
+PR ESTABLISHED OFFICE LOW 15 MIN [99213]
+All Charges for This Encounter
+Code
+99213
+Description
+PR ESTABLISHED OFFICE LOW 15 MIN
+Service Date
+8/8/2018
+Service Provider
+Kathleen Bonin, APRN
+Modifiers Qty
+1
+BestPractice Advisories
+Click to view BestPractice Advisory history
+A. Allergies as of 8/8/2018
+Reviewed by Jose M Lizardi, MA on 8/8/2018
+||Noted|Reaction Type|Reactions|
+|Ampicillin|08/07/2017||Anaphylaxis|
+|Codeine|08/07/2017||Anaphylaxis|
+|Latex|08/07/2017||Hives|
+|Ibuprofen|08/07/2017||GI intolerance/Nausea/Vomiting|
+
+Deletion Reason
+Z Medications at Start of Encounter
+||Disp|Refills|Start|End|
+|Acetaminophen 500 MG coapsule||||4/28/2019|
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 500 mg by mouth every|other day. - Oral||||
+|Class: Historical Med|||||
+|Reason for Discontinue: Error|||||
+|Number of times this order has been|||||
+|changed since signing: 2 Order Audit Trail|||||
+|apixaban (ELIQUIS) 5 MG tablet|180 tablet|3|7/3/2018|7/1/2019|
+|(Taking/Discontinued)|||||
+
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:28 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+4/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 08/08/2018
+|Disp Refills|Start|End|
+|Sig - Route: Take 1 tablet (5 mg total) by mouth every 12 (twelve) hours|around the clock.|- Oral|
+|Class: E Prescribe|||
+|Reason for Discontinue: Reorder|||
+|Number of times this order has been|||
+|changed since signing: 1|||
+|Order Audit Trail|||
+|aspirin enteric coated (ECOTRIN LOW||10/29/2018|
+|STRENGTH) 81 MG EC tablet|||
+|(Taking/Discontinued)|||
+|Sig - Route: Take 81 mg by mouth daily. - Oral|||
+|Class: Historical Med|||
+|Reason for Discontinue: Therapy completed|||
+|dexlansoprazole (DEXILANT) 60 MG capsule||6/6/2019|
+|(Taking/Discontinued)|||
+|Sig - Route: Take 60 mg by mouth every other day. - Oral|||
+|Class: Historical Med|||
+|Reason for Discontinue: Reorder|||
+|levothyroxine (SYNTHROID) 112 MCG tablet||10/2/2018|
+|(Taking/Discontinued)|||
+|Sig - Route: Take 112 mcg by mouth daily on an empty stomach. - Oral|||
+||||
+||||
+||||
+|(Taking/Discontinued)|||
+||||
+|Class: E Prescribe|||
+||||
+|Number of times this order has been changed since signing: 1 Order Audit Trail|||
+||||
+|HCT) 160-25 MG per tablet|||
+||||
+|Sig - Route: Take 1 tablet by mouth daily. - Oral|||
+||||
+|Reason for Discontinue: Therapy completed|||
+||||
+||||
+|Sig - Route: Take 1 tablet (50 mg total) by mouth daily. - Oral|||
+||||
+|Reason for Discontinue: Therapy completed|||
+||||
+
+||||||
+|Class: Historical Med|||||
+|Reason for Discontinue: Reorder|||||
+|pravastatin (PRAVACHOL) 40 MG tablet|90 tablet|3|7/23/2018|4/22/2019|
+||||||
+|Sig - Route: Take 1 tablet (40 mg total) by|mouth daily. -|Oral|||
+||||||
+|Reason for Discontinue: Reorder|||||
+||||||
+|valsartan-hydrochlorothiazide (DIOVAN-||||8/8/2018|
+||||||
+|(Taking/Discontinued)|||||
+||||||
+|Class: Historical Med|||||
+||||||
+|atenolol (TENORMIN) 50 MG tablet|30 tablet|0|6/7/2018|8/8/2018|
+|(Discontinued)|||||
+||||||
+|Class: E Prescribe|||||
+||||||
+|Number of times this order has been|||||
+|changed since signing: 2|||||
+|Order Audit Trail|||||
+|diltiazem (CARDIZEM) 30 MG tablet|180 tablet|3|7/5/2018|4/1/2019|
+|(Discontinued)|||||
+|Sig - Route: Take 1 tablet (30 mg total) by|mouth twice daily|(every|12 hours). - Oral||
+|Class: E Prescribe|||||
+|Number of times this order has been|||||
+|changed since signing: 5 Order Audit Trail|||||
+
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:28 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+5/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 08/08/2018
+Medications at End of Encounter
+||Disp|Refills|Start|End|
+|Acetaminophen 500 MG coapsule||||4/28/2019|
+|Taking/Discontinued)|||||
+|Sig - Route: Take 500 mg by mouth every|other day. -|Oral|||
+|Class: Historical Med|||||
+|Reason for Discontinue: Error|||||
+|Number of times this order has been|||||
+|changed since signing: 2|||||
+|Order Audit Trail|||||
+|apixaban (ELIQUIS) 5 MG tablet|180 tablet|3|7/3/2018|7/1/2019|
+
+( Taking / Discontinued )
+Sig - Route: Take 1 tablet (5 mg total) by mouth every 12 (twelve) hours around the clock. - Oral
+Class: E Prescribe
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+aspirin enteric coated (ECOTRIN LOW
+10/29/2018
+STRENGTH) 81 MG EC tablet
+(Taking/Discontinued)
+Sig - Route: Take 81 mg by mouth daily. - Oral
+Class: Historical Med
+Reason for Discontinue: Therapy completed
+dexlansoprazole (DEXILANT) 60 MG capsule
+6/6/2019
+(Taking/Discontinued)
+Sig - Route: Take 60 mg by mouth every other day. - Oral
+Class: Historical Med
+Reason for Discontinue: Reorder
+levothyroxine (SYNTHROID) 112 MCG tablet
+10/2/2018
+(Taking/Discontinued)
+Sig - Route: Take 112 mcg by mouth daily on an empty stomach. - Oral
+Class: Historical Med
+Reason for Discontinue: Reorder pravastatin (PRAVACHOL) 40 MG tablet 90 tablet 3
+7/23/2018 4/22/2019
+(Taking/Discontinued)
+Sig - Route: Take 1 tablet (40 mg total) by mouth daily. - Oral
+Class: E Prescribe
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 1
+Order Audit Trail hydrocortisone (ANUSOL-HC) 2.5 % rectal 60 g
+11
+8/8/2018
+cream
+Sig - Route: Insert into the rectum 3 (three) times a day as needed for hemorrhoids. - Rectal
+Class: E Prescribe
+Number of times this order has been changed since signing: 1
+Order Audit Trail atenolol (TENORMIN) 25 MG tablet 90 tablet 1
+8/8/2018
+(Discontinued)
+Sig - Route: Take 1 tablet (25 mg total) by mouth daily. - Oral
+1/21/2019
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:28 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+6/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+|Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939|Encounter Date:|08/08/2018|||
+||Disp|Refills|Start|End|
+|Class: E Prescribe Reason for Discontinue: Reorder Number of times this order has been changed since signing: 1 Order Audit Trail|||||
+|diltiazem (CARDIZEM) 30 MG tablet|180 tablet|3|7/5/2018|4/1/2019|
+|(Discontinued) Sig - Route: Take 1 tablet (30 mg total) by Class: E Prescribe|mouth twice|daily (every 12|hours). - Oral||
+|Number of times this order has been changed since signing: 5 Order Audit Trail|||||
+|losartan-hydrochlorothiazide (HYZAAR)|90 tablet|1|8/8/2018|2/8/2019|
+|100-25 MG per tablet (Discontinued)|||||
+|Sig - Route: Take 1 tablet by mouth daily.|- Oral||||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1 Order Audit Trail|||||
+
+Medications the Patient Reported Taking
+Acetaminophen 500 MG coapsule (Taking/Discontinued)
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+apixaban (ELIQUIS) 5 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail aspirin enteric coated (ECOTRIN LOW STRENGTH) 81 MG EC tablet (Taking/Discontinued)
+dexlansoprazole (DEXILANT) 60 MG capsule (Taking/Discontinued)
+levothyroxine (SYNTHROID) 112 MCG tablet (Taking/Discontinued)
+pravastatin (PRAVACHOL) 40 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail valsartan-hydrochlorothiazide (DIOVAN-HCT) 160-25 MG per tablet (Taking/Discontinued) haye Immunizations as of 8/8/2018
+Never Reviewed
+|Name|Date|Dose|VIS Date|Route|
+|Influenza Inactivated/Split Preservative Free IM|10/5/2016|0.5 mL|--|--|
+|Influenza Inactivated/Split Preservative Free IM|10/1/2015|--|--|--|
+|Influenza, Unspecified External: Patient reported|11/13/2017|0.5 mL|--|--|
+|Pneumococcal Conjugate 13- Valent|9/17/2015|0.5 mL|--|--|
+
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:28 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+7/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 08/08/2018
+02 Problem List
+Date Reviewed: 8/8/2018
+as of 8/8/2018
+|Anxiety and depression|ICD-10-CM Priority F41.8|Class|Noted - Resolved 1/29/2018 - Present|
+|Constipation|K59.00||1/29/2018 - Present|
+|Dermatitis|L30.9||1/29/2018 - Present|
+|Dry skin dermatitis|L85.3||1/29/2018 - Present|
+|Dyslipidemia|E78.5||1/29/2018 - Present|
+|Increased glucose level|R73.09||1/29/2018 - Present|
+|Encounter for other screening for malignant neoplasm of breast|Z12.39||1/20/2015 - Present|
+|HTN (hypertension)|I10||1/29/2018 -|
+|Relevant Medications verapamil (ISOPTIN) injection 2.5 mg (Completed) diltiazem (CARDIZEM) 30 MG tablet losartan-hydrochlorothiazide (HYZAAR) 100-25 atenolol (TENORMIN) 25 MG tablet|MG per tablet||Present|
+|Hypothyroidism|E03.9||1/29/2018 -|
+|Relevant Medications levothyroxine (SYNTHROID) 112 MCG tablet atenolol (TENORMIN) 25 MG tablet|||Present|
+|Insomnia|G47.00||1/29/2018 - Present|
+|Obesity|E66.9||1/29/2018 - Present|
+|Prophylactic vaccination against streptococcus pneumoniae and influenza|Z23||9/17/2015 - Present|
+|Atrial fibrillation with rapid ventricular response (HCC)|148.91||6/4/2018 -|
+|Relevant Medications verapamil (ISOPTIN) injection 2.5 mg (Completed) diltiazem (CARDIZEM) 30 MG tablet atenolol (TENORMIN) 25 MG tablet|||Present|
+|Chest pain|R07.9||6/20/2018 - Present|
+
+)
+Surgical History
+Laterality Date
+Comment
+Procedure
+CHOLECYSTECTOMY
+Source
+Provider
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:28 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+8/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 08/08/2018
+Procedure
+Laterality Date
+Comment
+HYSTERECTOMY
+KIDNEY STONE SURGERY
+Source
+Provider
+Provider
+Family History
+ii
+Age of Onset
+Comments
+Problem
+Heart disease
+Heart disease
+Relation
+Brother
+Father
+9 OB History
+Preterm
+AB
+Gravida
+3
+SAB
+Para
+3
+TAB
+Term
+3
+Ectopic
+Living
+2
+Live Births
+3
+Molar
+Multiple
+#
+GA
+Labor
+Sex
+Weight
+Anes
+1
+2
+3
+Date
+11/22/58
+11/15/60
+12/23/61
+Outcome
+Term
+Term
+Term
+i Social Documentation
+No social documentation on file.
+Pediatric History
+Show all answered pediatric history
+No questionnaires available.
+O AVS Reports
+Date/Time
+8/8/2018 1:40
+Report
+AVS - With Med List
+Action
+Printed
+User
+Ariel C Swan-Daly
+PM
+All Flowsheet Templates (all recorded)
+Custom Formula Data
+Encounter Vitals
+Vital Signs
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:28 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+9/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 08/08/2018
+Chart Review Routing History
+No encounter routing history is on file
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:28 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+10/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 09/28/2018
+Nancy Hayden
+9/28/2018 11:00 AM Office Visit
+MRN: 2000602369
+Description: Female DOB: 8/31/1939 Provider: Amr M Atef, MD
+Department: Hartford HealthCare Heart & Vascular Institute Norwich
+Diagnoses
+Reason for Visit
+id
+Atrial
+Fibrillation
+Hypertension
+Reason for Visit History
+Paroxysmal atrial fibrillation (HCC) - Primary
+Codes: 148.0
+Essential hypertension
+Codes: 110
+Hypercholesteremia
+Codes: E78.00
+Chest pain, unspecified type
+Codes: R07.9
+Current use of long term anticoagulation
+Codes: 779.01
+Progress Notes
+Progress Notes by Amr M Atef, MD at 9/28/2018 11:09 AM
+Author: Amr M Atef, MD Author Type: Physician
+Note Status: Signed
+Cosign: Cosign Not Required
+Filed:
+Encounter
+Date:
+10/2/2018 5:14 AM
+9/28/2018
+Editor: Amr M Atef, MD (Physician)
+Nancy Hayden
+8/31/1939
+Assessment:
+1. Paroxysmal atrial fibrillation: No evidence of significant recurrence, no sense of palpitations, she has been tolerating her medications reasonably well. She is feeling tired especially in the morning after taking her medications. At 3:00 in the afternoon she starts feeling better. I will plan to change the timing of atenolol to at bedtime. She continues to be on diltiazem twice daily as well.
+2. Anticoagulation: On apixaban. She recently had some rectal bleeding from hemorrhoids.
+Is doing better after using suppositories with prednisone. She is being considered for possible surgery if her bleeding recurs. Aspirin will be stopped. We will monitor her response to that.
+3. Chest discomfort and pain: No recurrence, most of her symptoms are related to reflux disease. She has had few episodes at times. I advised her to completely stop aspirin as that could be making her symptoms worse. Her stress test in June of this year was negative for ischemia with evidence of preserved LV function.
+4. Cardiac function: Clinically well compensated, without evidence of significant CHF or volume overload. Her last echo in June of this year showed evidence of preserved LV systolic function.
+5. Dyslipidemia: On statin therapy, tolerating it well. She is using coenzyme Q10 which has helped muscle cramping and pain.
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE (13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 09/28/2018
+6. Hypertension: Her blood pressure has been under excellent control with losartan HCTZ, as well as low-dose atenolol and diltiazem therapy.
+Plan:
+Continue current management.
+Stop aspirin due to significant bruising.
+She can stop apixaban few days before her dental procedure, 3 days, then restart once the procedure is completed
+Change atenolol timing to nighttime due to sense of fatigue
+If insomnia, and fatigue, continues then consideration for a sleep study would be done.
+Follow-up is planned in 6 months time or earlier if needed.
+HPI:
+I had the pleasure of reevaluating Nancy today, a very pleasant 79-year-old female here for follow-up of paroxysmal atrial fibrillation, and multiple cardiac risk factors as well as systemic anticoagulation with Dabigatran.
+Since her last visit she has been feeling reasonably well. She bruises easily.
+She had one episode of rectal bleeding that has now resolved. Possibly related to a hemorrhoidal source.
+She's been feeling slightly fatigued and tired. That is mostly in the morning. He gets better in the afternoon.
+She is getting her tooth pulled recently. And I advised her to stop anticoagulation 2 days prior to that and restart that once appropriate postoperatively.
+She was given rectal suppositories for control of lower GI bleed with improvement in symptoms.
+She denies any significant chest pressure, or tightness, no jaw pain or arm discomfort. She denies any dysarthria, dysphagia, no significant wheezing or cough, no orthopnea or PND.
+No double vision, or muscle weakness.
+REVIEW OF SYSTEMS
+General: No fever, chills, diaphoresis, unintended weight loss, fatigue, malaise, myalgias.
+HEENT: No diplopia, blurring or other vision changes, no hearing changes, no nasal congestion, drainage, post nasal drip, no sore throat, dysphagia, no epistaxis.
+Respiratory: No sputum production, cough, wheeze, dyspnea at rest, hemoptysis.
+GI: No nausea, vomiting, anorexia, diarrhea, constipation or other changes in bowel habits, abdominal distention, abdominal pain, hematemesis, hematochezia or melena.
+GU: No dysuria, hematuria, difficulty initiating urination.
+Skin: No rashes, itching or dryness.
+Neuro: No syncope, pre-syncope, vertigo, focal weakness or seizure.
+Musculoskeletal: No back pain, joint pain or swelling, muscle cramping, weakness or arthritis.
+Date
+.
+Past medical history:
+Past Medical History:
+Diagnosis
+Arthritis
+Cancer (HCC)
+Cataracts, bilateral
+Colon polyp
+GERD (gastroesophageal reflux disease)
+High cholesterol
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+O
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 09/28/2018
+Hypertension
+Kidney stones
+Social history:
+Social History
+Tobacco Use
+Smoking Status
+Never Smoker
+Smokeless Tobacco
+Never Used she lives at home. No smoking, no drinking, no heavy alcohol use, no illicit drug use.
+.
+Medications : Current Outpatient Medications
+|Medication|Sig|Dispense Refill|
+|Acetaminophen 500 MG coapsule|Take 500 mg by mouth every other day.||
+|apixaban (ELIQUIS) 5 MG tablet|Take 1 tablet (5 mg total) by mouth every 12 (twelve) hours around the clock.|180 tablet 3|
+|aspirin enteric coated (ECOTRIN LOW STRENGTH) 81 MG EC tablet|Take 81 mg by mouth daily.||
+|atenolol (TENORMIN) 25 MG tablet|Take 1 tablet (25 mg total) by mouth daily.|90 tablet 1|
+|coenzyme Q10 (CO Q 10) 100 MG capsule|Take 100 mg by mouth daily.||
+|dexlansoprazole (DEXILANT) 60 MG capsule|Take 60 mg by mouth every other day.||
+|diltiazem (CARDIZEM) 30 MG tablet|Take 1 tablet (30 mg total) by mouth twice daily (every 12 hours).|180 tablet 3|
+|hydrocortisone (ANUSOL-HC) 2.5 % rectal cream|Insert into the rectum 3 (three) times a day as needed for hemorrhoids.|60 g 11|
+|levothyroxine (SYNTHROID) 112 MCG tablet|Take 112 mcg by mouth daily on an empty stomach.||
+|losartan-hydrochlorothiazide (HYZAAR) 100-25 MG per tablet|Take 1 tablet by mouth daily.|90 tablet 1|
+|naproxen sodium (ALEVE) 220 mg tablet|Take 220 mg by mouth every other day. Take with meals or food to reduce stomach upset.||
+|pravastatin (PRAVACHOL) 40 MG tablet|Take 1 tablet (40 mg total) by mouth daily.|90 tablet 3|
+
+ 
+ 
+ 
+ 
+No current facility-administered medications for this visit.
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 09/28/2018
+Allergies:
+Allergies
+Allergen
+ Ampicillin
+Codeine
+ Latex
+Ibuprofen
+Reactions
+Anaphylaxis
+Anaphylaxis
+Hives
+GI
+Intolerance/Nausea/Vomiting
+Physical examination:
+Vitals:
+09/28/18 1053
+BP:
+126/74
+Pulse:
+62
+Resp:
+16
+Sp02
+99%
+Weight: 104 kg (228 lb 6.4 oz)
+Height:
+1.53 m (5' 0.25')
+Body mass index is 44.24 kg/m2.
+GENERAL: Pleasant female patient in no apparent distress.
+HEENT: No pallor or icterus. EOMI.
+NECK: Supple, no elevated JVP or carotid bruit. No thyromegaly or lymphadenopathy.
+CARDIAC: Regular rate and rhythm, normal S1, S2. No thrill no diastolic murmurs. No S3 or
+S4. Normal PMI. Equal carotid pulses. No significant systolic murmurs.
+LUNGS: Clear to auscultation bilaterally, no wheezes, rhonchi or rales.
+ABDOMINAL: Soft nontender without hepatosplenomegaly. Bowel sounds present. No pulsatile masses no bruit.
+EXTREMITIES: No clubbing, cyanosis. No edema; warm to touch, 2+ bilateral radial/ dorsalis pedis pulses.
+NEURO: Awake, alert and oriented X3. Normal gait and speech.
+SKIN: Warm, dry and intact, no rashes noted.
+Previous cardiac workup:
+Transesophageal echo 6/5/18: Preserved LV systolic function, LVEF 60-65%. Trace-mild mitral regurgitation and tricuspid regurgitation. No significant valvular abnormalities otherwise. No pericardial effusion. Normal aortic root and ascending aorta with mild atherosclerotic disease. No evidence of thrombus in the left atrial appendage or in the left atrium.
+ECG on 9/9/2018. Sinus rhythm, 66 bpm, RBBB. Unchanged from previous.
+Vasodilator nuclear stress test 6/21/2018: Normal myocardial perfusion, no ischemia, LVEF 66%.
+Normal wall motion. No significant ECG changes and relation to vasodilator stress.
+Transesophageal echo on 6/5/2018:
+Preserved LV systolic function, LVEF 60-65%. Trace-mild mitral regurgitation and tricuspid regurgitation. No significant valvular abnormalities otherwise. No pericardial effusion. Normal aortic root and ascending aorta with mild atherosclerotic disease. No evidence of thrombus in the left atrial appendage or in the left atrium.
+Labs on 9/9/2018: Hemoglobin 12.6, hematocrit 38.3, platelets 260. Sodium 142, potassium 4.2, serum creatinine 1.1, calcium 9.5, glucose 130.
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+4/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 09/28/2018
+Medication List Reviewed
+|User HANNAH E|GOODALE, MA [18634]||Date and Time 10/24/2019 11:48|AM|
+|Vitals BP 126/74|Pulse 62|Resp 16|Ht 1.53 m (5' ' 0.25')|Wt 104 kg (228 lb 6.4 oz)|
+|LMP|SpO2|BMI|OB Status|Smoking Status|
+|(LMP Unknown)|99%|44.24 kg/m |Hysterectomy|Never Smoker|
+
+*
+Patient Instructions
+Take atenolol at night.
+Stop aspirin
+You can stop Eliquis 3 days before dental appointment then restart after.
+If you feel that the breathing and the sleeping is getting worse, let me know and I can arrange for a sleep study.
+Patient Instructions History
+Follow-up and Dispositions
+ Return in about 6 months (around 3/28/2019).
+Follow-up and Disposition History
+All Flowsheet Templates (all
+recorded)
+Custom Formula Data
+Encounter Vitals
+Vital Signs
+Letters
+Letter on: 10/2/2018 by: ATEF, AMR M [AATEF] Status: Sent. Not shared in MyChart
+Referring Provider
+Kathleen Bonin, APRN
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+5/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 09/28/2018
+Level of Service
+Level of Service
+PR ESTABLISHED OFFICE MODERATE 25 MIN [99214]
+All Charges for This Encounter
+Code
+99214
+Description
+Service Date
+PR ESTABLISHED OFFICE MODERATE 25 9/28/2018
+MIN
+Service Provider
+Amr M Atef, MD
+Modifiers Qty
+1
+Best Practice Advisories
+Click to view Best Practice Advisory history
+4. Allergies as of 9/28/2018
+Reviewed by Catherine Laprade, MA on 9/28/2018
+||Noted|Reaction Type|Reactions|Deletion Reason|
+|Ampicillin|08/07/2017||Anaphylaxis||
+|Codeine|08/07/2017||Anaphylaxis||
+
+Latex Ibuprofen
+08/07/2017 08/07/2017
+Hives GI Intolerance / Nausea / Vomiting
+Medications at Start of Encounter
+Start
+Disp
+Refills
+End coenzyme Q10 (CO Q 10) 100 MG capsule
+(Taking)
+Sig - Route: Take 100 mg by mouth every morning. - Oral
+Class: Historical Med
+Number of times this order has been changed since signing: 2
+Order Audit Trail hydrocortisone (ANUSOL-HC) 2.5 % rectal 60 g
+11
+8/8/2018
+cream (Taking)
+Sig - Route: Insert into the rectum 3 (three) times a day as needed for hemorrhoids. - Rectal
+Class: E Prescribe
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+naproxen sodium (ALEVE) 220 mg tablet
+(Taking)
+Sig - Route: Take 220 mg by mouth as needed for mild pain. Take with meals or food to reduce stomach upset.
+- Oral
+Class: Historical Med
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+6/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE (13813]
+|Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939|Encounter Date:|09/28/2018|||
+||Disp|Refills|Start|End|
+|Acetaminophen 500 MG coapsule||||4/28/2019|
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 500 mg by mouth every|other day. -|Oral|||
+|Class: Historical Med|||||
+|Reason for Discontinue: Error|||||
+|Number of times this order has been|||||
+|changed since signing: 2|||||
+|Order Audit Trail|||||
+|apixaban (ELIQUIS) 5 MG tablet|180 tablet|3|7/3/2018|7/1/2019|
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 1 tablet (5 mg total) by|mouth every 12|(twelve)|hours around the clock.|- Oral|
+|Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been changed since signing: 1 Order Audit Trail|||||
+|aspirin enteric coated (ECOTRIN LOW||||10/29/2018|
+|STRENGTH) 81 MG EC tablet|||||
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 81 mg by mouth daily. -|Oral||||
+|Class: Historical Med|||||
+|Reason for Discontinue: Therapy completed|||||
+|atenolol (TENORMIN) 25 MG tablet|90 tablet|1|8/8/2018|1/21/2019|
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 1 tablet (25 mg total) by|mouth daily. -|Oral|||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1|||||
+|Order Audit Trail|||||
+|dexlansoprazole (DEXILANT) 60 MG capsule||||6/6/2019|
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 60 mg by mouth every Class: Historical Med|other day. - Oral||||
+|Reason for Discontinue: Reorder|||||
+|diltiazem (CARDIZEM) 30 MG tablet|180 tablet|3|7/5/2018|4/1/2019|
+|(Taking/Discontinued) Sig - Route: Take 1 tablet (30 mg total) by Class: E Prescribe|mouth twice|daily (every|12 hours). - Oral||
+|Number of times this order has been changed since signing: 5 Order Audit Trail|||||
+
+levothyroxine ( SYNTHROID ) 112 MCG tablet
+( Taking / Discontinued )
+10/2/2018
+Sig - Route: Take 112 mcg by mouth daily on an empty stomach. - Oral
+Class: Historical Med
+Reason for Discontinue: Reorder
+losartan-hydrochlorothiazide (HYZAAR) 90 tablet
+8/8/2018 2/8/2019
+100-25 MG per tablet (Taking/Discontinued)
+1
+Sig - Route: Take 1 tablet by mouth daily. - Oral
+Class: E Prescribe
+Reason for Discontinue: Reorder
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+7/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+|Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939|Encounter Date:|09/28/2018|||
+|Number of times this order has been changed since signing: 1 Order Audit Trail|Disp|Refills|Start|End|
+|pravastatin (PRAVACHOL) 40 MG tablet|90 tablet|3|7/23/2018|4/22/2019|
+|Taking/Discontinued)|||||
+|Sig - Route: Take 1 tablet (40 mg total) by|mouth daily.|- Oral|||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1 Order Audit Trail|||||
+||||||
+
+Z Medications at End of Encounter
+Disp
+Refills
+Start
+End coenzyme Q10 (CO Q 10) 100 MG capsule
+(Taking)
+Sig - Route: Take 100 mg by mouth every morning. - Oral
+Class: Historical Med
+Number of times this order has been changed since signing: 2
+Order Audit Trail hydrocortisone (ANUSOL-HC) 2.5 % rectal 60 g
+11
+8/8/2018
+cream (Taking)
+Sig - Route: Insert into the rectum 3 (three) times a day as needed for hemorrhoids. - Rectal
+Class: E Prescribe
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+naproxen sodium (ALEVE) 220 mg tablet
+(Taking)
+Sig - Route: Take 220 mg by mouth as needed for mild pain. Take with meals or food to reduce stomach upset.
+- Oral
+Class: Historical Med
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+Acetaminophen 500 MG coapsule
+4/28/2019
+(Taking/Discontinued)
+Sig - Route: Take 500 mg by mouth every other day. - Oral
+Class: Historical Med
+Reason for Discontinue: Error
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+apixaban (ELIQUIS) 5 MG tablet
+180 tablet 3
+7/3/2018 7/1/2019
+(Taking/Discontinued)
+Sig - Route: Take 1 tablet (5 mg total) by mouth every 12 (twelve) hours around the clock. - Oral
+Class: E Prescribe
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 1
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+8/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+|Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939|Encounter Date:|09/28/2018|||
+|Order Audit Trail|Disp|Refills|Start|End|
+|aspirin enteric coated (ECOTRIN LOW STRENGTH) 81 MG EC tablet||||10/29/2018|
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 81 mg by mouth daily. - Class: Historical Med|Oral||||
+|Reason for Discontinue: Therapy completed|||||
+|atenolol (TENORMIN) 25 MG tablet|90 tablet|1|8/8/2018|1/21/2019|
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 1 tablet (25 mg total) by|mouth daily.|- Oral|||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1|||||
+|Order Audit Trail|||||
+|dexlansoprazole (DEXILANT) 60 MG capsule||||6/6/2019|
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 60 mg by mouth every|other day. -|Oral|||
+|Class: Historical Med|||||
+|Reason for Discontinue: Reorder|||||
+|diltiazem (CARDIZEM) 30 MG tablet|180 tablet|3|7/5/2018|4/1/2019|
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 1 tablet (30 mg total) by|mouth twice|daily (every 12|hours). - Oral||
+
+:
+Class: E Prescribe
+Number of times this order has been changed since signing: 5
+Order Audit Trail
+levothyroxine (SYNTHROID) 112 MCG tablet
+(Taking/Discontinued)
+Sig - Route: Take 112 mcg by mouth daily on an empty stomach. - Oral
+Class: Historical Med
+Reason for Discontinue: Reorder
+losartan-hydrochlorothiazide (HYZAAR) 90 tablet 1
+8/8/2018
+100-25 MG per tablet (Taking/Discontinued)
+Sig - Route: Take 1 tablet by mouth daily. - Oral
+Class: E Prescribe
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 1
+Order Audit Trail pravastatin (PRAVACHOL) 40 MG tablet 90 tablet 3
+7/23/2018
+(Taking/Discontinued)
+Sig - Route: Take 1 tablet (40 mg total) by mouth daily. - Oral
+Class: E Prescribe
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+10/2/2018
+2/8/2019
+4/22/2019
+Medications the Patient Reported Taking coenzyme Q10 (CO Q 10) 100 MG capsule (Taking)
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+9/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 09/28/2018
+Number of times this order has been changed since signing: 2
+Order Audit Trail hydrocortisone (ANUSOL-HC) 2.5 % rectal cream (Taking)
+Number of times this order has been changed since signing: 1
+Order Audit Trail naproxen sodium (ALEVE) 220 mg tablet (Taking)
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+Acetaminophen 500 MG coapsule (Taking/Discontinued)
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+apixaban (ELIQUIS) 5 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail aspirin enteric coated (ECOTRIN LOW STRENGTH) 81 MG EC tablet (Taking/Discontinued)
+atenolol (TENORMIN) 25 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+dexlansoprazole (DEXILANT) 60 MG capsule (Taking/Discontinued)
+diltiazem (CARDIZEM) 30 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 5
+Order Audit Trail
+levothyroxine (SYNTHROID) 112 MCG tablet (Taking/Discontinued)
+losartan-hydrochlorothiazide (HYZAAR) 100-25 MG per tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+pravastatin (PRAVACHOL) 40 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+range Immunizations as of 9/28/2018
+Never Reviewed
+|Name|Date|Dose|VIS Date|Route|
+|Influenza Inactivated/Split Preservative Free IM|10/5/2016|0.5 mL|--|--|
+|Influenza Inactivated/Split Preservative Free IM|10/1/2015|--|--|--|
+|Influenza, Unspecified External: Patient reported|11/13/2017|0.5 mL|--|--|
+|Pneumococcal Conjugate 13- Valent|9/17/2015|0.5 mL|--|--|
+
+- Problem List
+Date Reviewed: 8/8/2018
+as of 9/28/2018
+Class
+ICD-10-CM Priority
+F41.8
+Anxiety and depression
+Noted -
+Resolved
+1/29/2018 -
+Present
+1/29/2018 -
+Present
+Constipation
+K59.00
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+10/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE (13813]
+Hayden, Nancy (MR # 2000602369) DOB: 08/31/1939 Encounter Date: 09/28/2018
+||ICD-10-CM Priority|Class|Noted - Resolved|
+|Dermatitis|L30.9||1/29/2018 - Present|
+|Dry skin dermatitis|L85.3||1/29/2018 - Present|
+|Dyslipidemia|E78.5||1/29/2018 - Present|
+|Increased glucose level|R73.09||1/29/2018 - Present|
+|Encounter for other screening for malignant neoplasm of breast|Z12.39||1/20/2015 - Present|
+|HTN (hypertension) Relevant Medications verapamil (ISOPTIN) injection 2.5 mg (Completed) diltiazem (CARDIZEM) 30 MG tablet losartan-hydrochlorothiazide (HYZAAR) 100-25 MG atenolol (TENORMIN) 25 MG tablet|I10 per tablet||1/29/2018 - Present| |Hypothyroidism|E03.9||1/29/2018 -|
+|Relevant Medications levothyroxine (SYNTHROID) 112 MCG tablet atenolol (TENORMIN) 25 MG tablet|||Present|
+|Insomnia|G47.00||1/29/2018 - Present|
+|Obesity|E66.9||1/29/2018 - Present|
+|Prophylactic vaccination against streptococcus pneumoniae and influenza|Z23||9/17/2015 - Present|
+|Atrial fibrillation with rapid ventricular response (HCC)|148.91||6/4/2018 - Present|
+|Relevant Medications verapamil (ISOPTIN) injection 2.5 mg (Completed) diltiazem (CARDIZEM) 30 MG tablet atenolol (TENORMIN) 25 MG tablet||||
+|Chest pain|R07.9||6/20/2018 - Present|
+
+Surgical History
+s
+|Procedure|Laterality Date|Comment|Source|
+|CHOLECYSTECTOMY|||Provider|
+|HYSTERECTOMY|||Provider|
+|KIDNEY STONE SURGERY|||Provider|
+
+Family History
+Problem
+Heart disease
+Comments
+Relation
+Brother
+Age of Onset
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+11/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden , Nancy ( MR # 2000602369 ) Printed by RODRIGUEZ , CHRISTINE [ 13813 ] )
+|Hayden, Nancy (MR # 2000602369)|DOB: 08/31/1939 Encounter|Date: 09/28/2018|||
+|Problem|Relation|Age of|Onset|Comments|
+|Heart disease|Father||||
+|D OB History|||||
+|Gravida Para 3 3 SAB TAB|Term 3 Ectopic|Preterm Molar|AB Multiple|Living 2 Live Births 3|
+||||||
+|# Date GA|Outcome|Labor Sex|Weight|Anes|
+|1 11/22/58|Term||||
+|2 11/15/60|Term||||
+|3 12/23/61|Term||||
+
+ Social Documentation
+No social documentation on file.
+Pediatric History
+Show all answered pediatric history
+No questionnaires available.
+V AVS Reports
+Date/Time Report
+9/28/2018 11:27 AVS - With Med List
+AM
+Action
+Printed
+User
+Jodielynn Thompson
+All Flowsheet Templates (all recorded)
+Custom Formula Data
+Encounter Vitals
+Vital Signs
+Chart Review Routing History
+No encounter routing history is on file
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:27 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+12/12
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE (13813]
+ImageConnect
+HHC BH SP 330
+Washington Street
+330 Washington Street
+Norwich CT 06360
+Result
+Report
+Hayden, Nancy
+MRN: 2000602369, DOB: 8/31/1939, Sex: F
+Acct #: 41813501667
+Visit date: 5/30/2018
+Display Study Images
+Study Result
+PROCEDURE: CT ABDOMEN+PELVIS W/O CONTRAST
+INDICATION: History of nephrolithiasis
+COMPARISON: CT abdomen and pelvis 12/18/2013, abdominal ultrasound 7/6/2011
+TECHNIQUE: The examination was performed using a helical acquisition from the dome of the diaphragm to the pubic symphysis utilizing automatic exposure control and iterative reconstruction to decrease patient radiation exposure. Oral contrast was not administered.
+FINDINGS:
+The evaluation of solid organs is limited without intravenous contrast.
+Lung bases: The visualized lung bases are clear.
+Liver/biliary: Allowing for the lack of intravenous contrast, the liver is unremarkable. There is no biliary ductal dilatation.
+The gallbladder is without CT evidence of gallstones.
+Pancreas: Normal noncontrast appearance.
+Spleen: Normal noncontrast appearance.
+Adrenal glands: 2 nodules in the right adrenal gland measuring 0.6 and 0.9 cm are stable and have attenuation compatible
+with benign adenoma. A stable 1.1 cm nodule in the left adrenal gland also has attenuation compatible with benign adenoma.
+Kidneys/Ureters/Bladder: There is stable exophytic 1.6 cm cyst from the interpolar region and a 1.3 cm cyst in the lower
+pole of left kidney. In the upper pole there is a 1 cm mildly hyperdense focus. The ureters are not dilated. The urinary bladder is normal.
+Gastrointestinal/Mesentery: There is a moderate hiatal hernia again visualized. The bowel is normal without focal wall thickening, inflammatory changes or bowel dilatation. The mesentery is normal. There is colonic diverticulosis. The appendix is normal.
+Retroperitoneum/Lymph nodes: No abdominal or pelvic lymphadenopathy. There are atherosclerotic calcifications of the aorta without aortic aneurysmal dilatation.
+Pelvis: The uterus is surgically absent.
+Musculoskeletal/abdominal wall: The urinary bladder partially extends into a left inguinal hernia. There is mild dorsal scoliosis of the lumbar spine. There are degenerative changes of the spine.
+Other: No free fluid or free air.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/3
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE (13813]
+IMPRESSION:
+1. No evidence for urolithiasis or obstructive uropathy.
+2. Small left renal cysts are stable.
+3. Indeterminant 1 cm hyperdense focus in the upper pole of the left kidney. Noncontrast technique limits evaluation for a discrete lesion. Ultrasound may be useful for further evaluation.
+4. The urinary bladder partially extends into a left inguinal hernia.
+Imaging
+CT Abdomen+pelvis w/o contrast (Order: 157509437) - 5/30/2018
+Result History
+CT Abdomen+pelvis w/o contrast (Order #157509437) on 6/13/2018 - Order Result History Report
+CT Abdomen+pelvis w/o contrast
+Status: Final result
+Signed by
+|Signed|Date/Time|Phone|Pager|
+|GESSMAN, RICHARD J|6/13/2018 12:08|860-889-8331||
+|Exam Information||||
+|Status|Exam||Exam|
+||Begun||Ended|
+|Final [99]|6/13/2018|10:03|6/13/2018 11:07|
+|Reviewed by||||
+|Sandra A Glenney, APRN|6/18/2018|12:04 PM||
+
+Link to Epic Procedure Log
+Procedure Log
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/3
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+External Result Report Encounter
+External Result Report
+View Encounter
+Reprint Order Requisition
+CT Abdomen+pelvis w/o contrast (Order #157509437) on 5/30/18
+Ordered On 5/30/2018 11:11 AM
+Ordering Provider Authorizing Provider Ordering User Ordering Department
+Sandra A Glenney, APRN Sandra A Glenney, APRN Sandra A Glenney, APRN XXXHHCMG UROLOGY
+NRWCH
+860-886-1956
+860-886-1956
+ImageConnect
+Display Study Images
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:30 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/3
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+Hayden, Nancy (MRN2000602369)
+Auth Prov: Matthew J Spates
+326 Washington St
+Norwich CT 06360
+Backus
+Hospital
+Connect to healthier.'
+Hartford Healthcare
+Result
+|||||
+|Name:|DOB:|Sex:|Patient Class:|
+|Hayden, Nancy|8/31/1939|Female|Emergency|
+|Procedures Performed:|Exam Date and Time:|Reason for Exam:|Diagnosis:|
+|XR Chest 2 views|06/20/2018 2:17 PM|Chest pain|None Specified|
+|Performing Department:|Accession Number:|Patient MRN:|PCP:|
+|BH PBECC XRAY|BH2018062002390|2000602369|Bonin, Kathleen|
+|582 Norwich Road||||
+|Plainfield CT 06374-1727||||
+
+860-823-6304
+PA & lateral views of the chest. Comparison 6/4/2018.
+The lungs are clear. Hyperinflation.
+No pneumothorax, pleural fluid, or vascular congestion.
+Normal heart size. Small hiatal hernia.
+IMPRESSION:
+No acute abnormality.
+Signed By: William D Donovan, MD on 6/20/2018 2:19 PM
+Ordered On 6/20/2018 1:56 PM
+|Ordering Provider|Authorizing Provider|Ordering User|Ordering Department|
+|Matthew J Spates, MD|Matthew J Spates, MD|Matthew J Spates, MD|BH PBECC EMERGENCY|
+|860-889-8331|860-889-8331|||
+|Printed||||
+|||||
+|||||
+
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/1
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE (13813]
+ImageConnect
+HHC BH SP 330
+Washington Street
+330 Washington Street
+Norwich CT 06360
+Result
+Report
+Hayden, Nancy
+MRN: 2000602369, DOB: 8/31/1939, Sex: F
+Acct #: 41813501667
+Visit date: 5/30/2018
+Display Study Images
+Study Result
+PROCEDURE: CT ABDOMEN+PELVIS W/O CONTRAST
+INDICATION: History of nephrolithiasis
+COMPARISON: CT abdomen and pelvis 12/18/2013, abdominal ultrasound 7/6/2011
+TECHNIQUE: The examination was performed using a helical acquisition from the dome of the diaphragm to the pubic symphysis utilizing automatic exposure control and iterative reconstruction to decrease patient radiation exposure. Oral contrast was not administered.
+FINDINGS:
+The evaluation of solid organs is limited without intravenous contrast.
+Lung bases: The visualized lung bases are clear.
+Liver/biliary: Allowing for the lack of intravenous contrast, the liver is unremarkable. There is no biliary ductal dilatation.
+The gallbladder is without CT evidence of gallstones.
+Pancreas: Normal noncontrast appearance.
+Spleen: Normal noncontrast appearance.
+Adrenal glands: 2 nodules in the right adrenal gland measuring 0.6 and 0.9 cm are stable and have attenuation compatible
+with benign adenoma. A stable 1.1 cm nodule in the left adrenal gland also has attenuation compatible with benign adenoma.
+Kidneys/Ureters/Bladder: There is stable exophytic 1.6 cm cyst from the interpolar region and a 1.3 cm cyst in the lower
+pole of left kidney. In the upper pole there is a 1 cm mildly hyperdense focus. The ureters are not dilated. The urinary bladder is normal.
+Gastrointestinal/Mesentery: There is a moderate hiatal hernia again visualized. The bowel is normal without focal wall thickening, inflammatory changes or bowel dilatation. The mesentery is normal. There is colonic diverticulosis. The appendix is normal.
+Retroperitoneum/Lymph nodes: No abdominal or pelvic lymphadenopathy. There are atherosclerotic calcifications of the aorta without aortic aneurysmal dilatation.
+Pelvis: The uterus is surgically absent.
+Musculoskeletal/abdominal wall: The urinary bladder partially extends into a left inguinal hernia. There is mild dorsal scoliosis of the lumbar spine. There are degenerative changes of the spine.
+Other: No free fluid or free air.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/3
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE (13813]
+IMPRESSION:
+1. No evidence for urolithiasis or obstructive uropathy.
+2. Small left renal cysts are stable.
+3. Indeterminant 1 cm hyperdense focus in the upper pole of the left kidney. Noncontrast technique limits evaluation for a discrete lesion. Ultrasound may be useful for further evaluation.
+4. The urinary bladder partially extends into a left inguinal hernia.
+Imaging
+CT Abdomen+pelvis w/o contrast (Order: 157509437) - 5/30/2018
+Result History
+CT Abdomen+pelvis w/o contrast (Order #157509437) on 6/13/2018 - Order Result History Report
+CT Abdomen+pelvis w/o contrast
+Status: Final result
+Signed by
+|Signed|Date/Time|Phone|Pager|
+|GESSMAN, RICHARD J|6/13/2018 12:08|860-889-8331||
+|Exam Information||||
+|Status|Exam||Exam|
+||Begun||Ended|
+|Final [99]|6/13/2018|10:03|6/13/2018 11:07|
+|Reviewed by||||
+|Sandra A Glenney, APRN|6/18/2018|12:04 PM||
+
+Link to Epic Procedure Log
+Procedure Log
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/3
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE [13813]
+External Result Report Encounter
+External Result Report
+View Encounter
+Reprint Order Requisition
+CT Abdomen+pelvis w/o contrast (Order #157509437) on 5/30/18
+Ordered On 5/30/2018 11:11 AM
+Ordering Provider Authorizing Provider Ordering User Ordering Department
+Sandra A Glenney, APRN Sandra A Glenney, APRN Sandra A Glenney, APRN XXXHHCMG UROLOGY
+NRWCH
+860-886-1956
+860-886-1956
+ImageConnect
+Display Study Images
+Hayden, Nancy (MRN 2000602369) Printed by Christine Rodriguez [13813] at 10/28/19 5:30 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/3
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Hayden, Nancy (MR#2000602369) Printed by RODRIGUEZ, CHRISTINE (13813]
+Result Notes for Comprehensive Metabolic
+Panel
+HHC BH PC 42 Town Hayden, Nancy
+Street Norwich
+MRN: 2000602369, DOB: 8/31/1939, Sex: F
+42 Town Street
+Visit date: 5/17/2018
+Norwich CT 06360-2316
+Notes recorded by Jose M Lizardi, MA on 8/21/2018 at 2:25 PM EDT
+Pt aware!
+Notes recorded by Kathleen Bonin, APRN on 8/18/2018 at 4:13 PM EDT
+Blood sugars are still a bit high but not diabetic Considered pre. Should avoid sweets and eat more protein thn carbs. Otherwise labs are normal and chol is now great. Thank you
+Results
+Comprehensive Metabolic Panel (Order 151232173)
+Result Notes for Comprehensive Metabolic Panel
+Notes recorded by Jose M Lizardi, MA on 8/21/2018 at 2:25 PM EDT
+Pt aware!
+Notes recorded by Kathleen Bonin, APRN on 8/18/2018 at 4:13 PM EDT
+Blood sugars are still a bit high but not diabetic Considered pre. Should avoid sweets and eat more protein thn carbs. Otherwise labs are normal and chol is now great. Thank you
+Comprehensive Metabolic Panel
+Order: 151232173
+Status: Final result Visible to patient: No (Not Released) Next appt: 11/05/2019 at 01:00 PM in Colorectal (Claudette G Faucher-Charles, APRN) Dx: Hyperlipidemia, unspecified hyperlipi...
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/9
+
+-------------------------------------------
+-------------------------------------------

@@ -1,0 +1,52 @@
+// Q3. List out Entity Text with less than 90% "Score" value from given JSON folder 
+// using fasterxml dependency
+
+
+//This is code for json.simple dependency
+package com.internQuestions;
+
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.*;
+
+public class Question03Sol {
+
+	public static void main(String[] args) throws IOException, ParseException {
+		
+		JSONParser jsonParser = new JSONParser();  
+		
+		File dir = new File("/home/trishalaswain/Downloads/Problem_Input/3/AmazonMed_Json");
+		File[] files = dir.listFiles();
+		for(File f: files) {
+			if (f.length()==0) {
+				System.out.println(f.getName() + " Empty.");
+				continue;
+			} else {
+				FileReader reader = new FileReader(f);
+				
+				Object obj = jsonParser.parse(reader);
+				JSONObject o = (JSONObject)obj;
+				
+				JSONArray array = (JSONArray) o.get("Entities");
+				
+					for(int i=0; i<array.size(); i++) {
+						JSONObject content = (JSONObject) array.get(i);
+						double score = (Double) content.get("Score");
+						if (score < 0.90) {
+							//System.out.println(content.toString());
+							System.out.println( content.get("Text").toString() );
+						}
+					}
+				}
+				
+			}
+		
+
+	}
+
+}
+

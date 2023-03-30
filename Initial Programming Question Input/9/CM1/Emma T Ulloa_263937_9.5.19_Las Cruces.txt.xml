@@ -1,0 +1,192 @@
+<ezNLP>
+<Icd10CmCode>
+<code value="Z88.6" rank="999" knowledgeId="9" isDisable="0" text="PRAVASTATIN;" isBillable="false" evidence="PRAVASTATIN" evidenceBegin="4986" evidenceEnd="4997" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="PRAVASTATIN" begin="4986" end="4997" status="0" certainty="0" code="NO-CODE" cui="C0085542" tui="T109,T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R39.198" rank="177" knowledgeId="112" isDisable="0" text="urinary weak stream;" isBillable="false" evidence="weak stream" evidenceBegin="9171" evidenceEnd="9182" cuiList="232854;" acceptRejectFlag="DEFAULT"/>
+<problem value="urinary weak stream" begin="9163" end="9182" status="0" certainty="0" cui="C1762617;C0232854;C0442540;C0004093" tui="T184;T070;T080;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M10.9" rank="750" knowledgeId="117" isDisable="0" text="gout;" isBillable="false" evidence="gout" evidenceBegin="6076" evidenceEnd="6080" cuiList="18099;" acceptRejectFlag="DEFAULT"/>
+<problem value="gout" begin="6076" end="6080" status="0" certainty="0" cui="C0018099;S00008563" tui="T046;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R23.3" rank="213" knowledgeId="116" isDisable="0" text="petechiae;" isBillable="false" evidence="petechiae" evidenceBegin="9361" evidenceEnd="9370" cuiList="31256;" acceptRejectFlag="DEFAULT"/>
+<code value="P54.5" rank="81" knowledgeId="48" isDisable="0" text="petechiae;" isBillable="false" evidence="petechiae" evidenceBegin="9361" evidenceEnd="9370" cuiList="31256;" acceptRejectFlag="DEFAULT"/>
+<problem value="petechiae" begin="9361" end="9370" status="0" certainty="0" cui="C0031256" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="P54.5" rank="81" knowledgeId="48" isDisable="0" text="ecchymosis;" isBillable="false" evidence="ecchymosis" evidenceBegin="9377" evidenceEnd="9387" cuiList="13491;" acceptRejectFlag="DEFAULT"/>
+<problem value="ecchymosis" begin="9377" end="9387" status="0" certainty="0" cui="C0013491;C0333283" tui="T169;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="P83.88" rank="129" knowledgeId="128" isDisable="0" text="rash;" isBillable="false" evidence="rash" evidenceBegin="9350" evidenceEnd="9354" cuiList="15230;" acceptRejectFlag="DEFAULT"/>
+<problem value="rash" begin="9350" end="9354" status="0" certainty="0" cui="C0015230" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.49" rank="129" knowledgeId="128" isDisable="0" text="Family History;Hypertensive disorder;" isBillable="false" evidence="Hypertensive disorder" evidenceBegin="3338" evidenceEnd="3359" cuiList="20538;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Hypertensive disorder" begin="3338" end="3359" status="2" certainty="0" cui="C0020538" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R35.5" rank="213" knowledgeId="116" isDisable="0" text="nocturia;" isBillable="false" evidence="nocturia" evidenceBegin="9148" evidenceEnd="9156" cuiList="28734;" acceptRejectFlag="DEFAULT"/>
+<problem value="nocturia" begin="9148" end="9156" status="0" certainty="0" cui="C0028734" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R12" rank="278" knowledgeId="116" isDisable="0" text="pyrosis;" isBillable="false" evidence="pyrosis" evidenceBegin="8795" evidenceEnd="8802" cuiList="18834;" acceptRejectFlag="DEFAULT"/>
+<problem value="pyrosis" begin="8795" end="8802" status="0" certainty="0" cui="C0018834;C0847097" tui="T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R39.12" rank="213" knowledgeId="116" isDisable="0" text="urinary weak stream;" isBillable="false" evidence="urinary_SEP_weak_SEP_stream" evidenceBegin="9163,9171,9176" evidenceEnd="9170,9175,9182" cuiList="4093;" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="O86.20" rank="129" knowledgeId="128" isDisable="0" text="Urinary tract infection;" isBillable="false" evidence="Urinary tract infection" evidenceBegin="10759" evidenceEnd="10782" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<code value="P39.3" rank="81" knowledgeId="48" isDisable="0" text="Urinary tract infection;" isBillable="false" evidence="Urinary tract infection" evidenceBegin="10759" evidenceEnd="10782" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<code value="N39.0" rank="213" knowledgeId="116" isDisable="0" text="Urinary tract infection;" isBillable="false" evidence="Urinary tract infection" evidenceBegin="10759" evidenceEnd="10782" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<code value="O23.40" rank="129" knowledgeId="128" isDisable="0" text="Urinary tract infection;" isBillable="false" evidence="Urinary tract infection" evidenceBegin="10759" evidenceEnd="10782" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<problem value="Urinary tract infection" begin="10759" end="10782" status="0" certainty="0" cui="C0042029" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z87.17" rank="129" knowledgeId="128" isDisable="0" text="History;diverticulitis;" isBillable="false" evidence="diverticulitis" evidenceBegin="11446" evidenceEnd="11460" cuiList="12813;262926;" acceptRejectFlag="DEFAULT"/>
+<problem value="diverticulitis" begin="11446" end="11460" status="1" certainty="0" cui="C0012813" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="65" knowledgeId="64" isDisable="0" text="Diabetic;" isBillable="false" evidence="Diabetic" evidenceBegin="3898" evidenceEnd="3906" cuiList="241863;" acceptRejectFlag="DEFAULT"/>
+<problem value="Diabetic" begin="3898" end="3906" status="0" certainty="0" cui="C0241863" tui="T061;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="P39.3" rank="81" knowledgeId="48" isDisable="0" text="Urinary tract infectious disease;" isBillable="false" evidence="Urinary tract infectious disease" evidenceBegin="10634" evidenceEnd="10666" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<code value="N39.0" rank="213" knowledgeId="116" isDisable="0" text="Urinary tract infectious disease;" isBillable="false" evidence="Urinary tract infectious disease" evidenceBegin="10634" evidenceEnd="10666" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<code value="O86.20" rank="129" knowledgeId="128" isDisable="0" text="Urinary tract infectious disease;" isBillable="false" evidence="Urinary tract infectious disease" evidenceBegin="10634" evidenceEnd="10666" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<code value="O23.40" rank="129" knowledgeId="128" isDisable="0" text="Urinary tract infectious disease;" isBillable="false" evidence="Urinary tract infectious disease" evidenceBegin="10634" evidenceEnd="10666" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<problem value="Urinary tract infectious disease" begin="10634" end="10666" status="0" certainty="0" cui="C1508753;C1280341;C0009450;C0042027;C0042029;C1185740" tui="T022;T023;T023;T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M10.9" rank="750" knowledgeId="117" isDisable="0" text="Gout;" isBillable="false" evidence="Gout" evidenceBegin="10587" evidenceEnd="10591" cuiList="18099;" acceptRejectFlag="DEFAULT"/>
+<problem value="Gout" begin="10587" end="10591" status="0" certainty="0" cui="C0018099;S00008563" tui="T046;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M79.19" rank="213" knowledgeId="116" isDisable="0" text="myalgias;" isBillable="false" evidence="myalgias" evidenceBegin="8926" evidenceEnd="8934" cuiList="231528;" acceptRejectFlag="DEFAULT"/>
+<problem value="myalgias" begin="8926" end="8934" status="0" certainty="0" cui="C0231528" tui="T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="F32.2" rank="259" knowledgeId="96" isDisable="0" text="depression;agitation;" isBillable="false" evidence="depression_SEP_agitation" evidenceBegin="9043,9060" evidenceEnd="9053,9069" cuiList="11570;85631;" acceptRejectFlag="DEFAULT"/>
+<problem value="depression" begin="9043" end="9053" status="0" certainty="0" cui="C0011570;C1579931;C0338908;C1999266;C0011581;C0344315;C0460137" tui="T048;T048;T169;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<problem value="agitation" begin="9060" end="9069" status="0" certainty="0" cui="C1963060;C0085631" tui="T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R05.7" rank="600" knowledgeId="116" isDisable="0" text="Cough;" isBillable="false" evidence="Cough" evidenceBegin="1240" evidenceEnd="1245" cuiList="10200;" acceptRejectFlag="DEFAULT"/>
+<problem value="Cough" begin="1240" end="1245" status="0" certainty="0" cui="S00003732;S20004098;C1961131;C0010200;C0687152" tui="T046;T046;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R07.9" rank="375" knowledgeId="117" isDisable="0" text="pains;" isBillable="false" evidence="chest pains" evidenceBegin="8648" evidenceEnd="8659" cuiList="8031;" acceptRejectFlag="DEFAULT"/>
+<problem value="pains" begin="8654" end="8659" status="0" certainty="0" cui="C0030193;C1557397;S00016270;C0242936;C1882272;C0008031" tui="T073,T093;T033;T184;T184;T046;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R20.2" rank="177" knowledgeId="112" isDisable="0" text="paresthesias;" isBillable="false" evidence="paresthesias" evidenceBegin="8992" evidenceEnd="9004" cuiList="2242996;" acceptRejectFlag="DEFAULT"/>
+<problem value="paresthesias" begin="8992" end="9004" status="0" certainty="0" cui="C2242996;C0030554" tui="T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R35.8" rank="213" knowledgeId="116" isDisable="0" text="polyuria;" isBillable="false" evidence="polyuria" evidenceBegin="9300" evidenceEnd="9308" cuiList="32617;" acceptRejectFlag="DEFAULT"/>
+<problem value="polyuria" begin="9300" end="9308" status="0" certainty="0" cui="C0032617" tui="T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R39.11" rank="213" knowledgeId="116" isDisable="0" text="hesitancy;" isBillable="false" evidence="hesitancy" evidenceBegin="9214" evidenceEnd="9223" cuiList="152032;" acceptRejectFlag="DEFAULT"/>
+<problem value="hesitancy" begin="9214" end="9223" status="0" certainty="0" cui="C0152032" tui="T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R11.0" rank="246" knowledgeId="128" isDisable="0" text="nausea;" isBillable="false" evidence="nausea" evidenceBegin="8757" evidenceEnd="8763" cuiList="1963179;" acceptRejectFlag="DEFAULT"/>
+<problem value="nausea" begin="8757" end="8763" status="0" certainty="0" cui="C1963179;C0027497" tui="T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z87.891" rank="999" knowledgeId="9" isDisable="0" text=";" isBillable="false" evidence="Former smoker" evidenceBegin="3642" evidenceEnd="3655" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<modifier value="" begin="0" end="0" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R06.01" rank="278" knowledgeId="116" isDisable="0" text="orthopnea;" isBillable="false" evidence="orthopnea" evidenceBegin="8725" evidenceEnd="8734" cuiList="85619;" acceptRejectFlag="DEFAULT"/>
+<problem value="orthopnea" begin="8725" end="8734" status="0" certainty="0" cui="C0085619;C2188830" tui="T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M10.9" rank="750" knowledgeId="117" isDisable="0" text="Gout;" isBillable="false" evidence="Gout" evidenceBegin="5914" evidenceEnd="5918" cuiList="18099;" acceptRejectFlag="DEFAULT"/>
+<problem value="Gout" begin="5914" end="5918" status="0" certainty="0" cui="C0018099;S00008563" tui="T046;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z96.658" rank="387" knowledgeId="128" isDisable="0" text="History;Total knee arthroplasty;left;" isBillable="false" evidence="Total knee arthroplasty_SEP_left_SEP_knee" evidenceBegin="4097,4136,4141" evidenceEnd="4120,4140,4145" cuiList="86511;205091;262926;" acceptRejectFlag="DEFAULT"/>
+<modifier value="left" begin="4136" end="4140" status="1" certainty="0" cui="C0205091" tui="T082" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<procedure value="Total knee arthroplasty" begin="4097" end="4120" status="1" certainty="0" cui="C0230432;C0439810;C0517666;S00011376;C1279572;C1963703;C2945671;C1283838;C0086511;C0371178;S00008167;C0003893;C0022742;S00017920;S00013824;C0022745;S20007741" tui="T061;T029;T023;T030;T046;T033;T023;T061;T046;T080;T046;T046;T046;T046;T061;T061;T061" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R19.7" rank="342" knowledgeId="116" isDisable="0" text="diarrhea;" isBillable="false" evidence="diarrhea" evidenceBegin="8780" evidenceEnd="8788" cuiList="11991;" acceptRejectFlag="DEFAULT"/>
+<problem value="diarrhea" begin="8780" end="8788" status="0" certainty="0" cui="C0011991;S00007979;C1963091" tui="T046;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="K92.1" rank="391" knowledgeId="116" isDisable="0" text="melena;" isBillable="false" evidence="melena" evidenceBegin="8837" evidenceEnd="8843" cuiList="25222;" acceptRejectFlag="DEFAULT"/>
+<code value="P54.1" rank="81" knowledgeId="48" isDisable="0" text="melena;" isBillable="false" evidence="melena" evidenceBegin="8837" evidenceEnd="8843" cuiList="25222;" acceptRejectFlag="DEFAULT"/>
+<problem value="melena" begin="8837" end="8843" status="0" certainty="0" cui="C0025222;C3241945;C0474585" tui="T046;T047;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R25.1" rank="213" knowledgeId="116" isDisable="0" text="tremors;" isBillable="false" evidence="tremors" evidenceBegin="8966" evidenceEnd="8973" cuiList="40822;" acceptRejectFlag="DEFAULT"/>
+<problem value="tremors" begin="8966" end="8973" status="0" certainty="0" cui="C0237299;C0040822;C1963252" tui="T033;T184;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R00.2" rank="278" knowledgeId="116" isDisable="0" text="palpitations;" isBillable="false" evidence="palpitations" evidenceBegin="8666" evidenceEnd="8678" cuiList="30252;" acceptRejectFlag="DEFAULT"/>
+<problem value="palpitations" begin="8666" end="8678" status="0" certainty="0" cui="C3160712;C0030252" tui="T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R60.9" rank="246" knowledgeId="117" isDisable="0" text="edema;" isBillable="false" evidence="edema" evidenceBegin="8685" evidenceEnd="8690" cuiList="13604;" acceptRejectFlag="DEFAULT"/>
+<problem value="edema" begin="8685" end="8690" status="0" certainty="0" cui="C0085649;C0013604;C1827170;S00022732;C0239340" tui="T046;T046;T184;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="K57.92" rank="177" knowledgeId="112" isDisable="0" text="diverticulitis;" isBillable="false" evidence="diverticulitis" evidenceBegin="11226" evidenceEnd="11240" cuiList="12813;" acceptRejectFlag="DEFAULT"/>
+<problem value="diverticulitis" begin="11226" end="11240" status="0" certainty="0" cui="C0012813" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z90.710" rank="1420" knowledgeId="128" isDisable="0" text="History;Hysterectomy;" isBillable="false" evidence="Hysterectomy" evidenceBegin="4429" evidenceEnd="4441" cuiList="20699;262512;" acceptRejectFlag="DEFAULT"/>
+<procedure value="Hysterectomy" begin="4429" end="4441" status="1" certainty="0" cui="C1548863;C0020699" tui="T061;T058" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J11.1" rank="246" knowledgeId="117" isDisable="0" text="flu;" isBillable="false" evidence="flu" evidenceBegin="6069" evidenceEnd="6072" cuiList="21400;" acceptRejectFlag="DEFAULT"/>
+<problem value="flu" begin="6069" end="6072" status="0" certainty="0" cui="C0021400;C2348686" tui="T081;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="N39.0" rank="999" knowledgeId="9" isDisable="0" text="N39.0;" isBillable="false" evidence="N39.0" evidenceBegin="10752" evidenceEnd="10757" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z90.710" rank="1420" knowledgeId="128" isDisable="0" text="History;Hysterectomy;" isBillable="false" evidence="Hysterectomy" evidenceBegin="4290" evidenceEnd="4302" cuiList="20699;262512;" acceptRejectFlag="DEFAULT"/>
+<procedure value="Hysterectomy" begin="4290" end="4302" status="1" certainty="0" cui="C1548863;C0020699" tui="T061;T058" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="F41.8" rank="213" knowledgeId="116" isDisable="0" text="anxiety;" isBillable="false" evidence="anxiety_SEP_depression" evidenceBegin="9029,9043" evidenceEnd="9036,9053" cuiList="338908;" acceptRejectFlag="DEFAULT"/>
+<problem value="anxiety" begin="9029" end="9036" status="0" certainty="0" cui="C1963064;C0860603;C0338908;C0003467;C0003469" tui="T048;T048;T033;T041" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M79.10" rank="129" knowledgeId="128" isDisable="0" text="aching pain;aching pain;" isBillable="false" evidence="aching pain" evidenceBegin="5989" evidenceEnd="6000" cuiList="234238;30193;" acceptRejectFlag="DEFAULT"/>
+<problem value="aching pain" begin="5989" end="6000" status="0" certainty="0" cui="C0030193;C1557397;C0201829;C0242936;C1882272;C0234238" tui="T059;T184;T046;T201;T184;T073,T093;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R10.9" rank="375" knowledgeId="117" isDisable="0" text="abdominal pain;" isBillable="false" evidence="abdominal pain" evidenceBegin="11261" evidenceEnd="11275" cuiList="737;" acceptRejectFlag="DEFAULT"/>
+<problem value="abdominal pain" begin="11261" end="11275" status="0" certainty="0" cui="C0000737;S20004548;S00001470;S00014489" tui="T046;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="K57.90" rank="213" knowledgeId="116" isDisable="0" text="CT scan diverticulosis;" isBillable="false" evidence="diverticulosis" evidenceBegin="11477" evidenceEnd="11491" cuiList="1510475;" acceptRejectFlag="DEFAULT"/>
+<procedure value="CT scan diverticulosis" begin="11469" end="11491" status="0" certainty="0" cui="C2183251;C0040405;C0441633;C3540513;C0009244;C1510475;C0079164;C1705783;C0034606;C2826292" tui="T060;T060;T058;T033;T060;T061;T080;T028;T047,T190;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R10.9" rank="375" knowledgeId="117" isDisable="0" text="Abdominal pain;" isBillable="false" evidence="Abdominal pain" evidenceBegin="10860" evidenceEnd="10874" cuiList="737;" acceptRejectFlag="DEFAULT"/>
+<problem value="Abdominal pain" begin="10860" end="10874" status="0" certainty="0" cui="C0000737;S20004548;S00001470;S00014489" tui="T046;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z87.19" rank="5" knowledgeId="4" isDisable="0" text="diverticulitis;" isBillable="false" evidence="hx_SEP_diverticulitis" evidenceBegin="11379,11385" evidenceEnd="11381,11399" cuiList="375805;" acceptRejectFlag="DEFAULT"/>
+<problem value="diverticulitis" begin="11385" end="11399" status="1" certainty="0" cui="C0375805;C0012813" tui="T033;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.84" rank="999" knowledgeId="9" isDisable="0" text="Metformin;" isBillable="false" evidence="Metformin" evidenceBegin="7921" evidenceEnd="7930" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="Metformin" begin="7921" end="7930" status="0" certainty="0" code="NO-CODE" cui="C0025598;C0987664" tui="T200;T109,T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="1000" strengthBegin="7932" strengthEnd="7936" strengthUnit="mg" strengthUnitBegin="7937" strengthUnitEnd="7939" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="daily" frequencyBegin="7940" frequencyEnd="7945" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M10.9" rank="750" knowledgeId="117" isDisable="0" text="GOUT;" isBillable="false" evidence="GOUT" evidenceBegin="10606" evidenceEnd="10610" cuiList="18099;" acceptRejectFlag="DEFAULT"/>
+<problem value="GOUT" begin="10606" end="10610" status="0" certainty="0" cui="C0018099;S00008563" tui="T046;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+</ezNLP>

@@ -1,0 +1,2144 @@
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/25/2018 11:25|5/25/2018 07:3|5/25/2018 06:33|5/24/2018 17:46|
+|Complete Blood Cell Count Components|||||
+|WBC.|||9.2 cells X 10^3/uL||
+|RBC:|||4.86 cells X 10^6/uL||
+|Hgb.|||12.1 g/dL (L)||
+|Hct.|||39.8 % (L)||
+|MCV.|||81.9 fL||
+|MCH.|||24.9 pg (L)||
+|MCHC:|||30.4 g/dL (L)||
+|RDW (CV).|||18.5 % (H)||
+|RDW (SD).|||52.6 fL (H)||
+|Platelet.|||184 cells X 10^3/uL||
+|MPV.|||10.8 fL||
+|Gran %.|||52.3 % *||
+|Imm Gran %.|||0.4 % *||
+|Lymph %.|||36.1 %||
+|Mono %.|||9.0 %||
+|Eosinophil %.|||1.8 %||
+|Baso %.|||0.4 %||
+|Gran #.|||4.8 cells X 10^3/uL *||
+|Imm Gran #.|||0.00 cells X 10^3/uL||
+|Lymph #.|||3.3 cells X 10^3/uL||
+|Mono #.|||0.8 cells X 10^3/uL||
+|Eosinophil #.|||0.2 cells X 10^3/uL||
+|Baso #.|||0.0 cells X 10^3/uL||
+|RBC Morph.|||||
+|Hypochromasia.|||||
+|Anisocytosis.|||||
+|Macrocytosis.|||||
+|Poikilocytosis.|||||
+|Burr Cells.|||||
+|Coagulation Studies|||||
+|PT|||29.8 second (H)||
+|INR|||3.08 (H)||
+|Urinalysis|||||
+|UA Color|||||
+|UA Appear|||||
+|UA Spec Grav|||||
+|UA pH|||||
+|UA Protein|||||
+|UA Glucose|||||
+|UA Ketones|||||
+|UA Bili|||||
+|UA Blood|||||
+|UA Nitrite|||||
+|UA Urobilinogen|||||
+|UA Leuk Est|||||
+|UA WBC.|||||
+|UA RBC.|||||
+|UA Epi Cell.|||||
+|UA Cast.|||||
+|UA Bacteria.|||||
+
+* *
+Page 11
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/25/2018 11:25|5/25/2018 07:36|5/25/2018 06:33|5/24/2018 17:46|
+|UA Crystal.|||||
+|UA Yeast.|||||
+|UA Small Round Cells.|||||
+|UA Path Cast.|||||
+|Routine Cultures|||||
+|Culture Urine|||||
+
+Page 12
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/24/2018 12:08|5/24/2018 ( 07:00|5/23/2018 17:08|5/23/2018 12:31|
+|Chemistry General|||||
+|Sodium||142 mmol/L|||
+|Potassium||4.0 mmol/L|||
+|Chloride||100 mmol/L|||
+|CO2||32.4 mmol/L|||
+|Anion Gap||10|||
+|Glucose Level||136 mg/dL (H)|||
+|BUN||19 mg/dL|||
+|Creatinine, Serum||0.8 mg/dL|||
+|B/Cr Ratio|||||
+|Glomerular Filtration Rate||>60 ml/min/1.73 m2 *|||
+|Rx Estimated CrCI||64.2 mL/min *|||
+|Calcium||9.1 mg/dL|||
+|Protein Total|||||
+|Albumin Level|||||
+|A/G Ratio|||||
+|TBil|||||
+|ALT|||||
+|AST|||||
+|Alk Phos|||||
+|Magnesium Level||1.5 mg/dL (L)|||
+|C-Reactive Protein|||||
+|Chemistry Special|||||
+|Hemoglobin A1c|||||
+|Estimated Average Glucose|||||
+|Iron|||||
+|Cholesterol Studies|||||
+|Cholesterol|||||
+|Triglyceride|||||
+|HDL|||||
+|% Total|||||
+|LDL|||||
+|ISTAT Testing|||||
+|ISTAT INR|||||
+|Meter Location:|||||
+|Glucometer Testing|||||
+|Glucose (meter)|190 mg/dL * (H)||166 mg/dL (H)|176 mg/dL * (H)|
+|Meter Location.|Middlesex *||Middlesex *|Middlesex *|
+|Clinical Point of Care|||||
+|Occult Blood Perform Location, POC|||||
+|Occult Blood Specimen Type, POC|||||
+|Occult Blood Result, POC|||||
+|Therapeutic Drugs|||||
+|Digoxin Level|||||
+|Cardiac Studies|||||
+|B-Type Nat. Peptide|||||
+|Troponin-l, High Sensitivity|||||
+|Endocrinology|||||
+|TSH, High Sensitivity|||||
+|Random Urine Studies|||||
+|Microalbumin Rand Ur|||||
+
+-
+-
+*
+Page 13
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/24/2018 12:08|5/24/2018 07:00|5/23/2018 17:08|5/23/2018 12:31|
+|Complete Blood Cell Count Components|||||
+|WBC.||9.4 cells X 10^3/uL|||
+|RBC:||4.94 cells X 10^6/uL|||
+|Hgb.||12.4 g/dL (L)|||
+|Hct.||40.2 %|||
+|MCV.||81.4 fL|||
+|MCH.||25.1 pg (L)|||
+|MCHC:||30.8 g/dL (L)|||
+|RDW (CV).||18.0 % (H)|||
+|RDW (SD).||50.9 fL (H)|||
+|Platelet.||189 cells X 10^3/uL|||
+|MPV.||11.3 fL|||
+|Gran %.||56.6 % *|||
+|Imm Gran %.||0.4 % *|||
+|Lymph %.||30.0 %|||
+|Mono %.||10.7 %|||
+|Eosinophil %.||1.9%|||
+|Baso %.||0.4 %|||
+|Gran #.||5.3 cells X 10^3/uL *|||
+|Imm Gran #.||0.00 cells X 10^3/uL|||
+|Lymph #.||2.8 cells X 10^3/uL|||
+|Mono #.||1.0 cells X 10^3/uL|||
+|Eosinophil #.||0.2 cells X 10^3/uL|||
+|Baso #.||0.0 cells X 10^3/uL|||
+|RBC Morph.|||||
+|Hypochromasia.|||||
+|Anisocytosis.|||||
+|Macrocytosis.|||||
+|Poikilocytosis.|||||
+|Burr Cells.|||||
+|Coagulation Studies|||||
+|PT||25.8 second * (H)|||
+|INR||2.64 (H)|||
+|Urinalysis|||||
+|UA Color|||||
+|UA Appear|||||
+|UA Spec Grav|||||
+|UA pH|||||
+|UA Protein|||||
+|UA Glucose|||||
+|UA Ketones|||||
+|UA Bili|||||
+|UA Blood|||||
+|UA Nitrite|||||
+|UA Urobilinogen|||||
+|UA Leuk Est|||||
+|UA WBC.|||||
+|UA RBC.|||||
+|UA Epi Cell.|||||
+|UA Cast.|||||
+|UA Bacteria.|||||
+
+*
+Page 14
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/24/2018 12:08|5/24/2018 07:00|5/23/2018 17:08|5/23/2018 12:31|
+|UA Crystal.|||||
+|UA Yeast.|||||
+|UA Small Round Cells.|||||
+|UA Path Cast.|||||
+|Routine Cultures|||||
+|Culture Urine|||||
+
+Page 15
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/23/2018 07:44|5/23/2018 ( 06:46|5/22/2018 16:39|5/22/2018 12:46|
+|Chemistry General|||||
+|Sodium||141 mmol/L|||
+|Potassium||3.5 mmol/L|||
+|Chloride||100 mmol/L|||
+|CO2||32.3 mmol/L|||
+|Anion Gap||9|||
+|Glucose Level||141 mg/dL (H)|||
+|BUN||16 mg/dL|||
+|Creatinine, Serum||0.7 mg/dL|||
+|B/Cr Ratio|||||
+|Glomerular Filtration Rate||>60 ml/min/1.73 m2 *|||
+|Rx Estimated CrCI||64.2 mL/min *|||
+|Calcium||8.8 mg/dL|||
+|Protein Total|||||
+|Albumin Level|||||
+|A/G Ratio|||||
+|TBil|||||
+|ALT|||||
+|AST|||||
+|Alk Phos|||||
+|Magnesium Level||1.2 mg/dL (L)|||
+|C-Reactive Protein|||||
+|Chemistry Special|||||
+|Hemoglobin A1c|||||
+|Estimated Average Glucose|||||
+|Iron|||||
+|Cholesterol Studies|||||
+|Cholesterol|||||
+|Triglyceride|||||
+|HDL|||||
+|% Total|||||
+|LDL|||||
+|ISTAT Testing|||||
+|ISTAT INR|||||
+|Meter Location:|||||
+|Glucometer Testing|||||
+|Glucose (meter)|142 mg/dL * (H)||116 mg/dL (H)||
+|Meter Location.|Middlesex *||Middlesex *||
+|Clinical Point of Care|||||
+|Occult Blood Perform Location, POC||||MH *|
+|Occult Blood Specimen Type, POC||||Stool|
+|Occult Blood Result, POC||||Negative|
+|Therapeutic Drugs|||||
+|Digoxin Level|||||
+|Cardiac Studies|||||
+|B-Type Nat. Peptide|||||
+|Troponin-l, High Sensitivity|||||
+|Endocrinology|||||
+|TSH, High Sensitivity|||||
+|Random Urine Studies|||||
+|Microalbumin Rand Ur|||||
+
+-
+-
+*
+Page 16
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/23/2018 07:44|5/23/2018 06:46|5/22/2018 16:39|5/22/2018 12:46|
+|Complete Blood Cell Count Components|||||
+|WBC.|||||
+|RBC:|||||
+|Hgb.|||||
+|Hct.|||||
+|MCV.|||||
+|MCH.|||||
+|MCHC:|||||
+|RDW (CV).|||||
+|RDW (SD).|||||
+|Platelet.|||||
+|MPV.|||||
+|Gran %.|||||
+|Imm Gran %.|||||
+|Lymph %.|||||
+|Mono %.|||||
+|Eosinophil %.|||||
+|Baso %.|||||
+|Gran #.|||||
+|Imm Gran #.|||||
+|Lymph #.|||||
+|Mono #.|||||
+|Eosinophil #.|||||
+|Baso #.|||||
+|RBC Morph.|||||
+|Hypochromasia.|||||
+|Anisocytosis.|||||
+|Macrocytosis.|||||
+|Poikilocytosis.|||||
+|Burr Cells.|||||
+|Coagulation Studies|||||
+|PT||22.4 second * (H)|||
+|INR||2.27 (H)|||
+|Urinalysis|||||
+|UA Color|||||
+|UA Appear|||||
+|UA Spec Grav|||||
+|UA pH|||||
+|UA Protein|||||
+|UA Glucose|||||
+|UA Ketones|||||
+|UA Bili|||||
+|UA Blood|||||
+|UA Nitrite|||||
+|UA Urobilinogen|||||
+|UA Leuk Est|||||
+|UA WBC.|||||
+|UA RBC.|||||
+|UA Epi Cell.|||||
+|UA Cast.|||||
+|UA Bacteria.|||||
+
+*
+Page 17
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/23/2018 07:44|5/23/2018 06:46|5/22/2018 16:39|5/22/2018 12:46|
+|UA Crystal.|||||
+|UA Yeast.|||||
+|UA Small Round Cells.|||||
+|UA Path Cast.|||||
+|Routine Cultures|||||
+|Culture Urine|||||
+
+Page 18
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/22/2018 11:54|5/22/2018 07:20|5/22/2018 05:00|5/21/2018 19:20|
+|Chemistry General|||||
+|Sodium|||144 mmol/L||
+|Potassium|||3.3 mmol/L||
+|Chloride|||99 mmol/L||
+|CO2|||33.9 mmol/L||
+|Anion Gap|||11||
+|Glucose Level|||120 mg/dL (H)||
+|BUN|||17 mg/dL||
+|Creatinine, Serum|||0.8 mg/dL||
+|B/Cr Ratio|||||
+|Glomerular Filtration Rate|||>60 ml/min/1.73 m2 *||
+|Rx Estimated CrCI|||64.2 mL/min *||
+|Calcium|||8.8 mg/dL||
+|Protein Total|||||
+|Albumin Level|||||
+|A/G Ratio|||||
+|TBil|||||
+|ALT|||||
+|AST|||||
+|Alk Phos|||||
+|Magnesium Level|||1.2 mg/dL (L)||
+|C-Reactive Protein|||||
+|Chemistry Special|||||
+|Hemoglobin A1c|||||
+|Estimated Average Glucose|||||
+|Iron|||||
+|Cholesterol Studies|||||
+|Cholesterol|||||
+|Triglyceride|||||
+|HDL|||||
+|% Total|||||
+|LDL|||||
+|ISTAT Testing|||||
+|ISTAT INR|||||
+|Meter Location:|||||
+|Glucometer Testing|||||
+|Glucose (meter)|148 mg/dL * (H)|117 mg/dL (H)|||
+|Meter Location.|Middlesex *|Middlesex *|||
+|Clinical Point of Care|||||
+|Occult Blood Perform Location, POC|||||
+|Occult Blood Specimen Type, POC|||||
+|Occult Blood Result, POC|||||
+|Therapeutic Drugs|||||
+|Digoxin Level|||||
+|Cardiac Studies|||||
+|B-Type Nat. Peptide|||||
+|Troponin-l, High Sensitivity|||||
+|Endocrinology|||||
+|TSH, High Sensitivity||||1.002 ulU/mL|
+|Random Urine Studies|||||
+|Microalbumin Rand Ur|||||
+
+-
+-
+*
+Page 19
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/22/2018 11:54|5/22/2018 07:20|5/22/2018 05:00|5/21/2018 19:20|
+|Complete Blood Cell Count Components|||||
+|WBC.|||||
+|RBC:|||||
+|Hgb.|||||
+|Hct.|||||
+|MCV.|||||
+|MCH.|||||
+|MCHC:|||||
+|RDW (CV).|||||
+|RDW (SD).|||||
+|Platelet.|||||
+|MPV.|||||
+|Gran %.|||||
+|Imm Gran %.|||||
+|Lymph %.|||||
+|Mono %.|||||
+|Eosinophil %.|||||
+|Baso %.|||||
+|Gran #.|||||
+|Imm Gran #.|||||
+|Lymph #.|||||
+|Mono #.|||||
+|Eosinophil #.|||||
+|Baso #.|||||
+|RBC Morph.|||||
+|Hypochromasia.|||||
+|Anisocytosis.|||||
+|Macrocytosis.|||||
+|Poikilocytosis.|||||
+|Burr Cells.|||||
+|Coagulation Studies|||||
+|PT|||17.7 second (H)||
+|INR|||1.77 (H)||
+|Urinalysis|||||
+|UA Color|||||
+|UA Appear|||||
+|UA Spec Grav|||||
+|UA pH|||||
+|UA Protein|||||
+|UA Glucose|||||
+|UA Ketones|||||
+|UA Bili|||||
+|UA Blood|||||
+|UA Nitrite|||||
+|UA Urobilinogen|||||
+|UA Leuk Est|||||
+|UA WBC.|||||
+|UA RBC.|||||
+|UA Epi Cell.|||||
+|UA Cast.|||||
+|UA Bacteria.|||||
+
+* *
+Page 20
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/22/2018 11:54|5/22/2018 07:20|5/22/2018 05:00|5/21/2018 19:20|
+|UA Crystal.|||||
+|UA Yeast.|||||
+|UA Small Round Cells.|||||
+|UA Path Cast.|||||
+|Routine Cultures|||||
+|Culture Urine|||||
+
+Page 21
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Printed McRae Nicole 14:42
+Patient : JOSEPH S
+|MASSELLI, MRN: 247112||Last 500 Results||by: Printed on: 10/15/2019|
+|Laboratory|5/21/2018 17:19|5/21/2018 12:00|5/21/2018 09:35|5/3/2018 09:13|
+|Chemistry General|||||
+|Sodium|||141 mmol/L|142 mmol/L|
+|Potassium|||3.7 mmol/L|3.8 mmol/L|
+|Chloride|||101 mmol/L|101 mmol/L|
+|CO2|||29.4 mmol/L|32.3 mmol/L|
+|Anion Gap|||11|9|
+|Glucose Level|||229 mg/dL (H)|152 mg/dL (H)|
+|BUN|||23 mg/dL|22 mg/dL|
+|Creatinine, Serum|||0.9 mg/dL|1.0 mg/dL|
+|B/Cr Ratio||||22.0|
+|Glomerular Filtration Rate|||>60 ml/min/1.73 m2 *|>60 ml/min/1.73 m2 *|
+|Rx Estimated CrCI|||57.1 mL/min *||
+|Calcium|||8.6 mg/dL|9.5 mg/dL|
+|Protein Total|||6.6 g/dL|6.7 g/dL|
+|Albumin Level|||4.0 g/dL|4.0 g/dL|
+|A/G Ratio||||1.5|
+|TBil|||1.7 mg/dL (H)|2.0 mg/dL (H)|
+|ALT|||13 IU/L|10 IU/L|
+|AST|||19 IU/L|17 IU/L|
+|Alk Phos|||142 IU/L (H)|125 IU/L|
+|Magnesium Level|||||
+|C-Reactive Protein|||||
+|Chemistry Special|||||
+|Hemoglobin A1c|||6.9% (H)|7.2% (H)|
+|Estimated Average Glucose|||151 mg/dL|160 mg/dL|
+|Iron|||||
+|Cholesterol Studies|||||
+|Cholesterol||||96 mg/dL|
+|Triglyceride||||90 mg/dL|
+|HDL||||29 mg/dL (L)|
+|% Total||||30|
+|LDL||||49 mg/dL|
+|ISTAT Testing|||||
+|ISTAT INR|||||
+|Meter Location:|||||
+|Glucometer Testing|||||
+|Glucose (meter)|129 mg/dL * (H)||||
+|Meter Location.|Middlesex *||||
+|Clinical Point of Care|||||
+|Occult Blood Perform Location, POC|||||
+|Occult Blood Specimen Type, POC|||||
+|Occult Blood Result, POC|||||
+|Therapeutic Drugs|||||
+|Digoxin Level|||0.9 ng/mL||
+|Cardiac Studies|||||
+|B-Type Nat. Peptide|||630 pg/mL * (H)||
+|Troponin-l, High Sensitivity||0.029 ng/mL *|0.029 ng/mL *||
+|Endocrinology|||||
+|TSH, High Sensitivity|||||
+|Random Urine Studies|||||
+|Microalbumin Rand Ur|||||
+
+-
+-
+Page 22
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+|Patient: MASSELLI, JOSEPH S MRN: 247112||Last 500 Results||Printed by: McRae Printed on: 10/15/2019|
+|Laboratory|5/21/2018 17:19|5/21/2018 12:00|5/21/2018 09|5/3/2018 09:13|
+|Complete Blood Cell Count Components|||||
+|WBC.|||7.5 cells X 10^3/uL|9.2 cells X 10^3/uL|
+|RBC:|||4.57 cells X 10^6/uL (L)|4.82 cells X 10^6/uL|
+|Hgb.|||11.4 g/dL (L)|11.8 g/dL (L)|
+|Hct.|||36.8 % (L)|39.7 % (L)|
+|MCV.|||80.5 fL|82.4 fL|
+|MCH.|||24.9 pg (L)|24.5 pg (L)|
+|MCHC:|||31.0 g/dL (L)|29.7 g/dL (L)|
+|RDW (CV).|||17.9 % (H)|17.8 % (H)|
+|RDW (SD).|||50.8 fL (H)|52.3 fL (H)|
+|Platelet.|||155 cells X 10^3/uL|190 cells X 10^3/uL|
+|MPV.|||11.5 fL|11.7 fL|
+|Gran %.|||60.4 % *|43.3 % *|
+|Imm Gran %.|||0.5 % *|0.4 % *|
+|Lymph %.|||28.1 %|45.1 %|
+|Mono %.|||8.6 %|9.1 %|
+|Eosinophil %.|||1.9 %|1.5 %|
+|Baso %.|||0.5 %|0.6 %|
+|Gran #.|||4.6 cells X 10^3/uL *|4.0 cells X 10^3/uL *|
+|Imm Gran #.|||0.00 cells X 10^3/uL|0.00 cells X 10^3/uL|
+|Lymph #.|||2.1 cells X 10^3/uL|4.2 cells X 10^3/uL|
+|Mono #.|||0.7 cells X 10^3/uL|0.8 cells X 10^3/uL|
+|Eosinophil #.|||0.1 cells X 10^3/uL|0.1 cells X 10^3/uL|
+|Baso #.|||0.0 cells X 10^3/uL|0.1 cells X 10^3/uL|
+|RBC Morph.|||||
+|Hypochromasia.|||||
+|Anisocytosis.|||||
+|Macrocytosis.|||||
+|Poikilocytosis.|||||
+|Burr Cells.|||||
+|Coagulation Studies|||||
+|PT|||15.3 second (H)||
+|INR|||1.51 (H)||
+|Urinalysis|||||
+|UA Color|||||
+|UA Appear|||||
+|UA Spec Grav|||||
+|UA pH|||||
+|UA Protein|||||
+|UA Glucose|||||
+|UA Ketones|||||
+|UA Bili|||||
+|UA Blood|||||
+|UA Nitrite|||||
+|UA Urobilinogen|||||
+|UA Leuk Est|||||
+|UA WBC.|||||
+|UA RBC.|||||
+|UA Epi Cell.|||||
+|UA Cast.|||||
+|UA Bacteria.|||||
+
+Nicole 14:42
+* *
+Page 23
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/21/2018 17:19|5/21/2018 12:00|5/21/2018 09:35|5/3/2018 09:13|
+|UA Crystal.|||||
+|UA Yeast.|||||
+|UA Small Round Cells.|||||
+|UA Path Cast.|||||
+|Routine Cultures|||||
+|Culture Urine|||||
+
+Page 24
+
+-------------------------------------------
+-------------------------------------------
+05/24/2019 4:56 PM
+Retina Consultants, P.C.
+> Matthew Nichols, MD
+pg 1 of 2
+C
+O RETINA CONSULTANTS, P.C.
+Marion Joseph Stoj, M.D. - Jerry Neuwirth, M.D. - Peter H. Judson, M.D. Michael S. Ruddat, M.D.
+Andrew J. Packer, M.D. Ron Margolis, M.D. Scott D. Walter, M.D. MSC
+Peter Shriver, MD , Scott D. Walter, MD
+Dear Dr. Shriver: Thank you for sending Joseph Masselli (07/23/1935) whom I examined in consultation on 05/24/2019. The following is a summary of my findings.
+Reason For Visit: New Patient - Dry AMD, Early Dry Stage Ou.
+Secondary: Nuclear Sclerosis OU. Diabetes, Type II, No Ocular Complications, Not Insulin Dependent.
+HPI: CC: Blurred Vision OS > OD. Severity: mild. Duration of Problem: about 1 year os. Course: worsening.
+Quality: blurry OS. Activity Affected: reading ou. Modifying Factors: worse in dim light. Activity Affected: driving ou. Modifying Factors: worse at night. Pertinent Negatives: No Headache. Pertinent Negatives: No Eye
+Pain. Other: Patient is accompanied by daughter. HPI obtained by Scott D. Walter, MD
+Ocular Meds (Initial): PreserVision AREDS 2 1 tablet bid.
+VA OD: Dcc20/20-2. OS: Dcc20/60-2, PH20/50-1. IOP: TP OD: 18 OS: 16
+2:34 PM
+Anterior
+Right Eye
+Left Eye 
+|General|||
+|L/C/S|Blepharitis.|Blepharitis.|
+|Cornea|Epithelium Intact. Clear Stroma. Clear Endothelium.|Epithelium Intact. Clear Stroma. Clear Endothelium.|
+|Anterior Chamber|Normal Depth. Quiet.|Normal Depth. Quiet.|
+|Iris|Flat.|Flat.|
+|Lens|2+ NS.|2+ NS. 1+ PSC.|
+|Posterior|Right Eye|Left Eye|
+|General|No Diabetic Retinopathy.|No Diabetic Retinopathy.|
+|Nerve|No Disc Edema. No Disc Pallor. Nerve Fiber Layer Defects. CDR 0.3. Tilted Disc. Peripapillary Atrophy.|No Disc Edema. No Disc Pallor. Nerve Fiber Layer Defects. CDR 0.3.|
+|Vitreous|Posterior Vitreous Detachment.|Posterior Vitreous Detachment.|
+|Retinal Vessels|Normal Caliber.|Normal Caliber.|
+|Macula|RPE Mottling. Epiretinal Membrane. No Subretinal Fluid. No Edema. No Lipid. No Subretinal Hemorrhage.|Atrophic RPE Changes. No Subretinal Fluid. No Edema. No Lipid. No Subretinal Hemorrhage.| |Periphery|No Holes or Tears. Attached 360 Degrees.|No Holes or Tears. Attached 360 Degrees.|
+
+ 
+ 
+.
+ 
+ 
+ 
+OCT Macula: Findings OD: Diagnostic Testing Ordered by Physician. Reason for Testing: Guide Treatment.
+Vitreous Separation Consistent with a Posterior Vitreous Detachment. Epiretinal Membrane with mild Macular
+Pucker. Tilted Disc. Subfoveal Choroidal Thickness is 130. No Evidence of Macular Edema. No Evidence of Subretinal Fluid. Findings OS: Diagnostic Testing Ordered by Physician. Reason for Testing: Guide Treatment.
+Vitreous Separation Consistent with a Posterior Vitreous Detachment. Patchy areas of RPE Atrophy, Subfoveal
+Choroidal Thickness is 110. Intraretinal Pigment migration. No Evidence of Macular Edema. No Evidence of Subretinal Fluid.
+OCT RNFL: Findings OD: Reason for Testing: Diagnostic Testing Ordered by Physician. Retinal Nerve Fiber Layer
+Thinning (Superior), Findings OS: Reason for Testing: Diagnostic Testing Ordered by Physician. NFL Thinning in the ST. NFL Thinning in the IT.
+Optos Ultra-Wide Field Photos: Findings OD: Reason For Testing: Guide Treatment. Normal Disc Color.
+Peripapillary Atrophy. Tilted Disc. No Hemorrhage. Findings OS: Reason For Testing: Guide Treatment. Normal
+Disc Color, Patchy areas of RPE Atrophy. No Hemorrhage.
+Intelle ChartPRO Powered By:
+Page 1 of 2
+Patient: Joseph Masselli (DOB 7/23/1935)
+Friday, May 24, 2019
+Nextech
+
+-------------------------------------------
+-------------------------------------------
+05/24/2019 4:56 PM
+Retina Consultants, P.C.
+-> Matthew Nichols, MD
+pg 2 of 2
+C
+Imp/Plan:
+1. Dry AMD, Intermediate Dry Stage OU. Dry ARMD is responsible for some decrease in vision. Difficult to say for certain whether VA is limited primarily by cataract or ARMD, however the fact that patient reports vision improved with dilation suggests that PSC cataract is a major contributor to his visual impairment in the OS.
+Discussed that there is no evidence of CNVM seen on clinical exam or diagnostic testing. Advised regular use of Amsler grid. Advised to call immediately if any worsening distortion or blurring is noted. Discussed with patient to continue taking AREDS 2 vitamins, Educational brochures given to patient. Patient was a former smoker who quit 40 years ago. Smoked a pack a day, 2. Epiretinal Membrane OD. Not significant; recommended observation.
+3. Posterior Vitreous Detachment ou. No retinal detachment or retinal tear noted. Retinal detachment warnings given. Recommended observation.
+4. Combined Senile Cataract OU. Patient states vision improved OS post dilation in the office, suggesting that central PSC cataract is a significant contributor to his vision loss in the OS. Patient advised that visual recovery may be limited due to retinal condition. Cataract surgery recommended. Suggest patient to make an appointment with Dr. Shriver.
+5. Unspecified Blepharitis OU. Recommended observation.
+6. Diabetes, Type II, No Ocular Complications, Not Insulin Dependent (last A1c 7.2), Retinal exam findings communicated to Physician managing diabetes. The level of diabetic retinopathy was communicated to provider. The absence of macula edema findings were communicated to provider, Ocular Meds (Final): PreserVision AREDS 2 1 tablet bid.
+Follow Up: Dr. Walter 6 Months - Comprehensive Exam OU. Possible OCT Macula OU. Possible Optos Ultra-Wide
+Field Photos OU, The patient is to keep their regular appointment with you. Please contact me if I can offer any further information. Thank you again for allowing me to assist in the care of Joseph Masselli.
+Sincerely, Swap
+Electronically signed by Scott D. Walter, MD
+CC: Matthew Nichols, MD
+Intelle ChartPRO Powered By:
+Page 2 of 2
+Patient: Joseph Masselli (DOB 7/23/1935)
+Friday, May 24, 2019
+Nextech
+
+-------------------------------------------
+-------------------------------------------
+Page 1 of 9
+M+ Middlesex
+Middlesex
+MASSELLI, JOSEPH
+Health
+Primary Care Guarantor: MASSELLI, JOSEPH Insurance: MEDICARE
+-
+84 Y old Male, DOB: 07/23/1935
+Account Number: 12177
+64 FREESTONE AVE, PORTLAND, CT-06480
+Home: 860-342-4668
+CtCare PASSAGE MA
+Appointment Facility: Portland MH rimary Care
+09/19/2019
+MATTHEW NICHOLS, MD
+Reason for Appointment
+1. 3-4 weeks 30 min (Reason: anemia/memory, gait/labs )
+History of Present Illness
+General HPI:
+1-memory-has had some recent memory issues seemed alert and oriented to place and time and person today, recently he was taken off gabapentin which daughter indicates has improved his memory he is not having any significant issues such as forgetting people or where he is or leaving the stove on. We'll continue to monitor as he is off the gabapentin now
+2-anemia-iron deficiency-reviewed labs-has been relatively stable over a fair number of years, no overt bleeding he is on warfarin we did make a referral for colonoscopy but that had to be canceled and he is still open to doing that which I will make another referral today.
+3-new problem-reviewed labs-elevated alkaline phosphatase unclear etiology is not have any abdominal pain, we'll repeat number could be reactive will wait for labs
+4-abnormal creatinine-new problem-reviewed labs-creatinine 1.4 recently on labs, patient does take furosemide, questionable dehydration, will recheck lab today he does not have any problem producing urine or having any urinary
+symptoms
+5-skin lesions-patient over time as developed skin lesions on only his upper extremities and shoulders look like flat scab that he's been possibly picking at. He does admit that sometimes he scratches at them. I do not notice any on his back torso or legs. They are interested in having dermatology look at this and so I will make a referral
+6-cataracts-cardiac clearance-patient could not sit still for cataract surgery and needs to be switched to general anesthesia, in addition even any the above colonoscopy so I would like Dr. Franklin to clear him for general anesthesia. I will try and call his office today to inform them that I would like that also the daughter will call Dr. Franklin's office tomorrow.
+7-new problem as I'm getting ready to leave the room patient looks over the wall and the pain is moving, when asked what he is talking about he feels like the pains on the wall assertive slipping to one side though it seemed to resolve over a short period of time for him. He does not have any numbness weakness tingling slurred speech or other neurological symptoms at this time when I inquired the patient he says this happens from time to time it is not particularly a new sensation. May have to do with his vision and cataracts, he does not have any other neurological symptoms at this point necessarily indicate a stroke workup. Though I did speak with the daughter and let her know that if he experienced any recurrent symptoms or new neurological symptoms or complaints today to please proceed to the emergency room.
+Current Medications
+Taking
+ Furosemide 20 MG Tablet 2 tablets Orally Once a day in the morning and 1 extra tablet for leg edema as needed
+ Toprol XL 100 MG Tablet Extended 3 Tablet Orally Once a day
+ Prilosec OTC 20 MG Tablet Delayed Release 1 tablet Orally Once a day
+ Coumadin 2.5 MG Tablet 1 tablet Orally AS DIRECTED
+ Digoxin 0.125 MG Tablet 1 tablet Orally Once a day
+ Aldactone 50 MG Tablet 1 tablet Orally Once a day
+ Test Strips (Precision). Xtra as directed . 4 times a day, Notes: DX: E11.9
+ Nitroglycerin 0.4 MG Tablet Sublingual 1 tablet under the tongue and allow to dissolve as needed Sublingual prn chest pain, Notes: prn
+ Amlodipine Besylate 5 MG Tablet 1 tablet Orally Once a day
+ Niacin 500 MG Tablet 1 tablet with food Orally Once a day
+ Potassium Chloride 20 mEq Extended Release 1 tablet orally 1 time a day
+Patient: MASSELLI, JOSEPH DOB: 07/23/1935 Progress Note: MATTHEW NICHOLS, MD 09/19/2019
+Note generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 10/15/2019
+
+-------------------------------------------
+-------------------------------------------
+Page 2 of 9
+ Fish Oil Capsule i tablet Orally Once a day
+ Accupril 20 mg Tablet 1 tablet Orally Once a day
+ Precision Xtra Blood Glucose - Strip as directed In Vitro 4 times a day
+ Metformin HCl 500 Tablet 2 tablets Orally 2 times a day
+ Glucosamine Chond MSM Formula - Tablet 1 tablet Orally 2 times daily
+ Saline 0.4 % Solution nasally Nasally as needed, Notes: prn
+ Lipitor 10 mg Tablet 1 tablet Orally bedtime
+ Flomax 0.4 MG Capsule Extended Release 24 Hour 1 capsule 30 minutes after the same meal each day Orally Once a day
+ Avodart 0.5 MG Capsule 1 capsule Orally Once a day
+ Cialis 2.5 MG Tablet 1 tablet Orally Once a day
+Discontinued
+ Gabapentin 300 MG Capsule 1 capsule Orally 3 times a day
+ Gabapentin 300 MG Capsule 1 capsule as needed Orally 3 times a day, Notes: this medication is prn dose that is in addition to his baseline 300 mg TIB scheduled
+ Medication List reviewed and reconciled with the patient
+Active Problem List
+|I10|Hypertension, benign||||
+|E78.5|Hyperlipidemia, unspecified||||
+|I38|Heart valve insufficiency||||
+|E66.9|Obesity, unspecified||||
+|M19.90|Unspecified osteoarthritis, unspecified site||||
+|N40.1|Prostate hyperplasia with urinary obstruction||||
+|R97.2|Elevated prostate specific antigen [PSA]||||
+|M54.9|Back pain||||
+|I25.10|CAD (coronary artery disease)||||
+|E11.65|Type 2 diabetes mellitus with hyperglycemia||||
+|N52.9|Male erectile dysfunction, unspecified||||
+|Z95.5|Hx of heart artery stent||||
+|Q61.00|Renal cyst||||
+|M48.07|Lumbosacral spinal stenosis||||
+|G89.29|Other chronic pain||||
+|D50.9|Iron deficiency anemia, unspecified iron deficiency anemia type||||
+|I50.32|Chronic diastolic heart failure||||
+|I48.2|Permanent atrial fibrillation||||
+|I11.0|Hypertensive heart disease with heart failure||||
+|M10.9|Acute gout, unspecified cause, unspecified site||||
+|B02.23|Shingles (herpes zoster) polyneuropathy||||
+|H25.89|Other age-related cataract of left eye||||
+|R41.3|Memory problem||||
+
+Social History Tobacco Use
+Are you a: never smoker
+no Alcohol, occasional.
+no Smoking, ippd x 15 years. Quit >40 years ago.
+Geriatric: lives in own home, lives with spouse, no mobility issues , no home safety issues.
+Fall Risk
+Required Assessment: No falls in the past year
+Unsteady, Dizzy or afraid of falling? seldom
+Marital Status: married.
+Occupation: unemployed, retired, plumbing/heating contractor.
+no Recreational drug use.
+Household Number of Adults in household: wife + caretaker.
+Exercise: active lifestyle-does exercises in the jacuzzi.
+Diet
+Diet Mediterranean
+Lives w/ wife (wife had a stroke) as well as aid at home. 5 kids. 8 grandkids.
+Patient: MASSELLI, JOSEPH DOB: 07/23/1935 Progress Note: MATTHEW NICHOLS, MD 09/19/2019
+Note generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 10/15/2019
+
+-------------------------------------------
+-------------------------------------------
+Page of 9
+Review of Systems
+Pertinent ROS:
+Constitutional no fever or chills, no recent unexplained weight loss, no fatigue. Respiratory no dyspnea, no cough. Cardiovascular no chest pain, no palpitations, no dizziness. GI no changes in bowel habits, no abdominal pain. GU no urinary urgency, no dysuria, no urinary incontinence. Skin Skin lesion. Psych no new anxiety.
+Vital Signs
+Ht 63.5, Wt 182, BMI 31.73, BP 134/80, HR 104, RR 16, Oxygen sat % 95, Pain scale o, Staff Initials lc.
+Examination
+GEN:
+GEN no acute distress, well nourished.
+CV regular rate and rhythm, no murmur, gallup or rub.
+PULM clear to auscultation, symmetric air movement.
+DERM Multiple skin lesions on the upper arms and shoulders most are 3-5 millimeters flat red look like scabbing over..
+PSYCH normal hygiene and grooming, euthymic, eye contact appropriate.
+NEURO CN II-XII grossly intact, normal muscle tone, normal motor function, sensation grossly intact.
+Assessments
+1. Iron deficiency anemia, unspecified iron deficiency anemia type - D50.9 (Primary)
+2. Abnormal kidney function - N28.9
+3. Skin lesions - L98.9
+4. Abnormal vision - H53.9
+5. Elevated prostate specific antigen [PSA) - R97.2, due to BPH and followed by Dr. Frink (urologist)
+6. Other age-related cataract of left eye - H25.89
+7. Memory problem - R41.3
+8. Abnormal alkaline phosphatase test - R74.8
+9. Abnormal blood creatinine level - R79.9
+1-memory-seems to be improving after stopping gabapentin which she was on for shingles for some time. We'll monitor
+2-anemia-iron deficiency-reordered consultation for potential colonoscopy
+3-new problem-elevated alkaline phosphatase-repeat labs
+4-abnormal creatinine-new problem-creatinine 1.4 repeat labs
+5-skin lesions-upper extremity skin lesions 5 millimeters, red flat look like scabs he's picking at, Dermer referral
+6-cataracts-cardiac clearance-patient could not sit still for cataract surgery and needs to be switched to general anesthesia, in addition even any the above colonoscopy so I would like Dr. Franklin to clear him for general anesthesia. I will try and call his office today to inform them that I would like that also the daughter will call Dr. Franklin's office tomorrow.
+7-new problem as I'm getting ready to leave the room patient looks over the wall and the pain is moving, when asked what he is talking about he feels like the pains on the wall assertive slipping to one side though it seemed to resolve over a short period of time for him. He does not have any numbness weakness tingling slurred speech or other neurological symptoms at this time when I inquired the patient he says this happens from time to time it is not particularly a new sensation. May have to do with his vision and cataracts, he does not have any other neurological symptoms at this point necessarily indicate a stroke workup. Though I did speak with the daughter and let her know that if he experienced any recurrent symptoms or new neurological symptoms or complaints today to please proceed to the emergency room.
+Spent greater than 40 minutes with patient and daughter, greater than 50% of time spent on counseling and coordination of care.
+Treatment
+1. Iron deficiency anemia, unspecified iron deficiency anemia type
+Referral To:Gastroenterology
+Reason:eval and tx
+2. Abnormal kidney function
+LAB: CMP Comprehensive Metabolic Panel
+3. Skin lesions
+Patient: MASSELLI, JOSEPH DOB: 07/23/1935 Progress Note: MATTHEW NICHOLS, MD 09/19/2019
+Note generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 10/15/2019
+
+-------------------------------------------
+-------------------------------------------
+Page of 9
+Referral To:Dermatology
+Reason:eval and tx
+Within Tulala
+Electronically signed by MATTHEW NICHOLS, MD on 09/19/2019 at 10:31 AM EDT
+Sign off status: Completed
+Portland MH Primary Care
+270 MAIN STREET
+PORTLAND, CT 064801857
+Tel: 860-342-3392
+Fax: 860-358-8658
+Patient: MASSELLI, JOSEPH DOB: 07/23/1935 Progress Note: MATTHEW NICHOLS, MD 09/19/2019
+Note generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 10/15/2019
+
+-------------------------------------------
+-------------------------------------------
+09/25/19 11:45:59 860-224-5642
+->
+8658 Hartford Healthcare Page 001
+Hartford HealthCare Heart & Vascular Institute Middletown
+420 Saybrook Road
+Middletown CT 06457-4747
+Phone: 860-347-4258
+Fax: 860-975-0193
+Fax Transmission
+CONFIDENTIAL PATIENT INFORMATION
+The information contained in this facsimile message may be legally privileged and confidential information intended only for the use of the individual or entity name below.
+Date: September 25, 2019
+From: Stephen M Franklin
+To: Matthew Nichols, MD
+270 Main St
+Portland CT 06480
+Phone Number: 860-342-3392
+Fax Number: 860-358-8658
+CONFIDENTIALITY NOTE:
+This facsimile originates from Hartford Healthcare. The information contained in this transmittal may be privileged and confidential. If you are the intended recipient(s), you are obligated to maintain this transmittal in a secure and confidential manner in accordance with applicable laws. If you are not the intended recipient(s), you are hereby notified that you have received this transmittal in error any review, use, distribution or copying is strictly prohibited. If you have received this transmittal in error, please notify the sender immediately and destroy this message. Thank you.
+
+-------------------------------------------
+-------------------------------------------
+09/25/19 11:46:30 860-224-5642
+8658 Hartford Healthcare Page 002
+Patient's Name: Joseph S Masselli MRN: 1000597823 D.O.B: 7/23/1935
+Hartford Health Care Heart & Vascular Institute Middletown
+420 Saybrook Road
+Middletown CT 06457-4747
+Phone: 860-347-4258
+Fax: 860-975-0193
+September 25, 2019
+Matthew Nichols, MD
+270 Main St
+Portland CT 06480
+Patient: Joseph S Masselli
+Date of Birth: 7/23/1935
+Date of Visit: 9/25/2019
+Dear Matthew Nichols, MD:
+Joseph Masselli, was seen today September 25, 2019 regarding S/P aortic valve replacement with bioprosthetic valve [Z95.3].
+Middlesex Cardiology Associates
+Patient: Joseph S Masselli, 84 y.o.male DOB: 7/23/1935 MRN: 1000597823
+Encounter Provider: Stephen M Franklin, MD
+Primary: Matthew Nichols, MD
+Referring Provider: Matthew Nichols, MD
+++++++++ASSESSMENT AND PLAN++++++++
+Discussed:
+Preop eye surgery
+--- His atrial fibrillation heart rate is well controlled on current medications. He says he is off warfarin pending surgery. He does not want to use any of the NOACs. No active angina. Seems to be a bit fluid overloaded and therefore diuretic will be increased for the next 2 days. Ankle edema is more common for him at this point because he does a lot more sitting.
+--- He seems to be at reasonable risk for eye surgery without further cardiovascular testing. His heart rate is stable. I asked him to take his beta-blocker and digoxin on the day of surgery to avoid tachycardia.
+CAD with CABG 2010 and tissue AVR in 2010.
+- No angina or CHF symptoms. Continue medical management.
+Electronically signed by: Stephen M Franklin, MD
+Encounter Date: 9/25/2019
+Page 2
+
+-------------------------------------------
+-------------------------------------------
+09/25/19 11:46:42 860-224-5642
+->
+8658 Hartford Healthcare Page 003
+Patient's Name: Joseph S Masselli MRN: 1000597823 D.O.B: 7/23/1935
+Hypertension.
+--- Well treated
+Atrial fibrillation. Permanent.
+- Asymptomatic. Continue warfarin. Does not want DOACs.
+Shortness of breath.
+- As above. Stable.
+Hypercholesterolemia.
+--- Has been well treated.
+Obesity
+ Encouraged exercise and weight loss.
+-
+++++
+++++
+Diagnoses and all orders for this visit:
+S/P aortic valve replacement with bioprosthetic valve
+ECG 12 lead
+-
+Pulmonary HTN (HCC)
+Chronic systolic congestive heart failure (HCC)
+Permanent atrial fibrillation (HCC)
+Nonrheumatic mitral valve regurgitation
+Hypertension, essential
+Cardiovascular disease
+Current use of long term anticoagulation
+Mixed hyperlipidemia
+S/P drug eluting coronary stent placement
+Patient Instructions
+Please change your cardiac meds as instructed....and continue your other cardiac medications.
+- Take furosemide 40 mg today and tomorrow, then 20 mg daily
+--SUBJECTIVE
+Electronically signed by: Stephen M Franklin, MD
+Encounter Date: 9/25/2019
+Page 3
+
+-------------------------------------------
+-------------------------------------------
+99/25/19 11:46:50 860-224-5642
+8658 Hartford Healthcare Page 004
+Patient's Name: Joseph S Masselli MRN: 1000597823 D.O.B: 7/23/1935
+History of Present Illness:
+Cardiovascular follow-up for preoperative cardiovascular evaluation before eye surgery by Dr. Schriver planned for the near future. He states that a previous attempted surgery was canceled, he thinks because of atrial fibrillation. He also says that he is off warfarin at this point pending surgery.
+He feels no palpitations. He has had no bleeding abnormalities. He has no angina or CHF type symptoms. He has a slightly congested cough. No fevers or chills. He does not think he has an upper respiratory problem.
+He states he is on a medication for shingles, but does not know what it is, and that he may be having some vivid dreams from that medication.
+Medications:
+.
+.
+Current Outpatient Medications:
+ atorvastatin (LIPITOR) 10 MG tablet, Take 10 mg by mouth daily., Disp: , Rfl:
+ DIGOXIN 125 MCG tablet, TAKE 1 TABLET BY MOUTH EVERY DAY, Disp: 90 tablet, Rfi: 3
+dutasteride (AVODART) 0.5 MG capsule, Take 0.5 mg by mouth daily., Disp: , Rfi:
+furosemide (LASIX) 20 MG tablet, 40mg am, 20mg pm, Disp: , Rfl:
+gabapentin (NEURONTIN) 300 MG capsule, , Disp: , Rfl:
+HYDROcodone-acetaminophen (VICODIN) 5-300 MG per tablet, , Disp: , Rfi:
+ metFORMIN (GLUCOPHAGE) 500 MG tablet, , Disp: , Rfl:
+ metoPROLOL SUCCINATE (TOPROL-XL) 100 MG 24 hr tablet, , Disp: , Rfl:
+potassium chloride (KLOR-CON M20) 20 MEQ tablet, , Disp: , Rfi:
+quinapril (ACCUPRIL) 20 MG tablet, , Disp , Rfl:
+tamsulosin (FLOMAX) 0.4 MG capsule, Take 0.4 mg by mouth daily., Disp: , Rfi:
+ warfarin (COUMADIN) 2.5 MG tablet, , Disp: , Rfl:
+.
+.
+.
+Past Medical/Surgical History:
+- Nonischemic Cardiomyopathy/CAD/Valvular/Arrhythmia
+.....2/8/01 cath SMF HH- 30% RCA, EF 45%
+.....echo 7/09-EF 55%, mod AS, mild MR and AI, LVH
+.....echo 7/10-EF nl, sev AS w mean grad 41, mild MR/AI, LVH
+.11/19/10 cath @ MH, SMF- AVA 0.8 cm2, 80% ostial RCA
+..... 11/23/10 CABG and AVR @HH, Dr Takata- tissue AVR, SV to RCA postop AF
+..AF 7/11-> anticoagulation
+...pt prefers warfarin 8/11
+.. 10/13 CP/SOB-> mibi- rev inf
+..11/8/13 cath @ MH, SMF-80%RCA, 90% ostial SV to RCA (graft occluded during case)--> HH PCI Dr Hirst- (graft open on arrival
+HH) -- >stent SV to RCA
+.....echo 9/16- EF 45%, mod MR, AVR with increased gradient, mild
+ 
+.....echo 5/18 MH- EF 45%, mild-mod MR, AVR OK (mean 14, pk 27, Electronically signed by: Stephen M Franklin, MD
+Encounter Date: 9/25/2019
+Page 4
+
+-------------------------------------------
+-------------------------------------------
+09/25/19 11:47:05 860-224-5642
+->
+8658 Hartford Healthcare Page 005
+Patient's Name: Joseph S Masselli MRN: 1000597823 D.O.B: 7/23/1935
+AoV 2.6), PA 50
+- Htn
+- hypercholesterolemia/low HDL
+- carotid bruit
+.....U/S 10/09- mild bilat
+- obesity
+- pulm htn
+- colovesicular fistula with multiple UTIS
+- diverticulitis
+- Partial thyroidectomy for multinodular goiter
+- Hip replacement, bilateral
+- Colonoscopy, multiple
+- partial colectomy, repair of bladder.
+- shingles
+Social History
+Social History Narrative
+Married. Retired plumber. Foremr smoker d/c 1970s
+Family History:
+Family History
+Problem
+Relation
+Age of Onset
+Hypertension
+Father
+Review of Systems:
+Review of Systems
+Constitutional: Negative for activity change, appetite change, fatigue, fever and unexpected weight change.
+HENT: Negative for nosebleeds.
+Eyes: Negative for visual disturbance.
+Respiratory: Negative for chest tightness, shortness of breath and wheezing.
+Cardiovascular:
+See HPI
+Gastrointestinal: Negative for abdominal pain and blood in stool.
+Genitourinary: Negative for hematuria.
+Musculoskeletal: Negative for arthralgias and myalgias.
+Skin: Negative for rash.
+Neurological: Negative for dizziness and weakness.
+Hematological: Does not bruise/bleed easily.
+Psychiatric/Behavioral: Negative for confusion.
+--Objective-----------
+Electronically signed by: Stephen M Franklin, MD
+Encounter Date: 9/25/2019
+Page 5
+
+-------------------------------------------
+-------------------------------------------
+09/25/19 11:47:23 860-224-5642
+->
+8658 Hartford Healthcare Page 006
+Patient's Name: Joseph S Masselli MRN: 1000597823 D.O.B: 7/23/1935
+Physical Exam:
+Vitals:
+09/25/19 1052
+BP:
+110/80
+Pulse:
+84
+Weight: 83 kg (183 lb)
+Height: 1.676 m (5'6')
+Body mass index is 29.54 kg/m .
+Physical Exam
+Constitutional: He is oriented to person, place, and time. No distress.
+HENT:
+Head: Atraumatic.
+Eyes: No scleral icterus.
+Neck: Neck supple. No JVD present.
+Cardiovascular: Regular rhythm and normal heart sounds. Exam reveals no friction rub.
+276 systolic murmur left sternal border
+Pulmonary/Chest: No respiratory distress. He has no wheezes. He has no rales.
+Abdominal: Soft. Bowel sounds are normal. There is no tenderness.
+Musculoskeletal: He exhibits no edema.
+Neurological: He is alert and oriented to person, place, and time.
+Skin: No rash noted.
+Testing:
+EKG: Atrial fibrillation. Old anterior MI
+If you have questions, please do not hesitate to call me.
+Sincerely, Stephen M Franklin, MD
+860-347-4258
+CC: No Recipients
+ENCLOSURE
+Electronically signed by: Stephen M Franklin, MD
+Encounter Date: 9/25/2019
+Page 6
+
+-------------------------------------------
+-------------------------------------------
+Jan. 12. 2016 4:06PM
+MRN# 0000247112 Prt By:E13186
+No. 1774 P.ls JE 1
+JUDULI VILIULUI
+MIDDLESEX
+NAME: MASSELLI, JOSEPH
+MR#: 0000247112 Sex: M DOB: 07/23/1935
+ACCOUNT: 0027647899
+PT.TYPE, SERVICE: T, RAD
+HOSPITAL
+FINAL REPORT
+Exam Date: 10/08/15 Time: 12:01
+Exam: CHEST, FRONTAL \T\ LAT
+ORDERED By: ISRAEL CORDERO
+Clinical History
+SOB://Pt states SOB x several months, getting worse. Hx CHF, A-Fib, Diabetes, heart valve replacement about 3 yrs ago. Former smoker.
+Comparison
+Chest radiographs dating back through 12/07/2010.
+Technique
+Chest, 2 views, Frontal and Lateral views
+Findings
+Cardiomegaly and midline sternal wires and mediastinal clips and right upper paratracheal surgical clips are unchanged. Small to moderate right pleural effusion appears slightly increased.
+There are faint nodular densities in the periphery of the left mid lung, new. No left pleural effusion. No pneumothorax. There is thoracic spondylosis. The diaphragm is flattened.
+Impression
+1. Faint density in the mid left lung, atelectasis, pneumonia or other etiology. Follow up chest radiograph in 6 weeks for re-evaluation is recommended.
+2. Query increase in right pleural effusion.
+3. Cardiomegaly, unchanged.
+Exam entered into the PACs nodule folder for follow up.
+End of diagnostic report for accession: 3951412
+Interpreted By: RINI, NANCY MD
+Approved and Electronically Signed By: RINI, NANCY MD 10/8/2015 12:09:18 PM
+*** END OF REPORT ***
+http://mhsws/scripts/wsisa.dll/WService=wsbroker1/trarpt-dtl.w?RptID=807913216/no
+1/12/2016
+
+-------------------------------------------
+-------------------------------------------
+FaxAppliance 2017-10-10 12:38:23 (GMT -05:00) Page 1/3
+CREDITED
+CCREDITED
+IAC
+linn
+IACI
+LAC
+AUTY.
+ 
+ITOM OFTA
+DEJTATUAN.
+Danh
+NIMIN
+CI
+IXTHER &
+ULHELIN
+Hubo
+RONOGRAPATI
+MIDDLESEX CARDIOLOGY ASSOCIATES, P.C.
+420 Saybrook Rd, Middletown, C+06457 Ph.860-347-4258 Fax 860-638-3697
+14 Jones Hollow Rd, Marlborough, Ct 06447 Ph.860-295-9920 Fax: 860-295-9166
+51 Main St, Old Saybrook, Ct 06475 Ph. 860-388-3564 Fax 860-388-4318
+Patient:
+Date of Birth:
+SSN (last 4 #):
+Joseph S Masselli
+07/23/1935
+8215
+Visit Date:
+Attending Provider:
+Referring Provider:
+10/10/2017
+Keshava H. Aithal M.D.
+Israel Cordero M.D.
+Echocardiogram
+Test Ordered By: Dr. Franklin
+Test Interpreted By:
+MC4 Cardiologist: Stephen Franklin, MD, FACC
+Test Performed By: Amy Allen, RDCS
+Location: Middletown
+Quality: Technically difficult images
+Indications: Indications: AF, Tissue AVR
+Modes
+Methods
+M Mode
+2 D Mode
+Color Flow Doppler with Velocity Mapping
+Measurements
+l'itals taken 10/10/2017 11:58 am
+BP-Sitting
+Height
+Weight
+Body Mass Index
+Body Surface Area
+.
+124/70 mmHg
+64 in 220 lbs
+37.8 kg/m2
+2.04 m2
+IVS diastole: 1.3 cm
+LV PW diastole: 1.3 cm.
+LV ID diastole: 4.8 cm.
+LV ID systolic: 3.1 cm.
+RV ID diastole: 4.3 cm.
+LA Dimension systole: 5.5 cm
+Aortic Root diastole: 3.2 cm
+Aortic Arch diameter: 2.8 cm.
+LA Volume: 52 cm3.
+INTRACARDIAC DOPPLER STUDY
+
+-------------------------------------------
+-------------------------------------------
+FaxAppliance 2017-10-10 12:38:55 (GMT -05:00) Page 2/3
+Mitral Valve
+E/E': 7.5
+Tricuspid Valve
+TV Peak Flow Velocity: 2.2 m/sec Est. RASP 3
+Aortic Valve
+AV Peak Flow Velocity: 3.4 m/sec
+AV Peak Flow Gradient: 46 mmHg and AV Peak Flow Gradient: was obtained from the apical 5 chamber view
+AV Mean Flow Gradient: 22 mmHg
+Dimentionless Index: 0.12
+Pulmonic Valve
+Estimated Pul n. Artery Sys Pressure: 23 mmHg
+DESCRIPTION OF CARDIAC STRUCTURES
+Rhythm: Atrial Fibrillation
+Left Ventrice: Left ventricle is nondilated. Left ventricular systolic function is variable because of irregular rhythm. Overall left ventricular ejection fraction is mildly reduced and estimated to be about 45-50%. Mild left ventricular hypertrophy is present
+LL Wall Motion:
+Ejection Fraction : Estimated 45-50%
+Right Ventricle : Right ventricle was normal.
+IVC: IVC was normal.
+Right Atrium: Right atrium was normal.
+Left Atrium: The agents dilated
+Atrial Septum: Atrial septum was normal.
+Mitral Valve: Mitral annular calcification is present
+Aortic Valve: Bioprosthetic aortic valve is noted. Leaflets not well delineated
+Tricuspid Valve: Tricuspid valve was normal.
+Pulmonic Valve: Pulmonic valve is not well seen
+Pericardial Effusion: No pericardial effusion seen.
+Ascending Aorta: No abnormalities seen
+Aortic Arch: No abnormalities seen.
+Echo Doppler: Doppler study shows mild mitral regurgitation and mild tricuspid regurgitation.
+Estimated pulmonary artery systolic pressure is 23 mmHg.
+Doppler flow through the prosthetic aortic valve showed a peak velocity of 3.4 m/s giving a peak transvalvular gradient of 46. Mean gradient of 22 mmHg.
+IMPRESSIONS
+Comments:
+Conclusions:
+#1. Atrial fibrillation
+#2. Nondilated left ventricle with mildly reduced left ventricular ejection fraction
+#3. Mild left ventricular hypertrophy
+#4. Status post bioprosthetic aortic valve replacement exhibiting mild increase in the gradient suggesting possible mild stenosis.
+#5. Mitral annular calcification with mild mitral regurgitation into a dilated left atrium
+
+-------------------------------------------
+-------------------------------------------
+FaxAppliance 2017-10-10 12:39:21 (GMT-05:00) Page 3/3
+Patient Name: Joseph S Masselli
+Date: 10/10/2017
+#6. Mild tricuspid regurgitation with normal pulmonary artery systolic pressure
+Electronically signed Oct 10, 2017
+Keshava H. Aithal M.D.
+CC:
+Page 3 of 3
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+|Patient: MASSELLI, JOSEPH S MRN: 247112|Last 500|Results||Printed by: McRae Nicole Printed on: 10/15/2019 14:42|
+|Laboratory|9/19/2019 11:30|8/27/2019 10:30|5/29/2019 09:17|5/29/2019 05:30|
+|Chemistry General|||||
+|Sodium|143 mmol/L|144 mmol/L||142 mmol/L|
+|Potassium|4.1 mmol/L|4.5 mmol/L||4.0 mmol/L|
+|Chloride|102 mmol/L|102 mmol/L||104 mmol/L|
+|CO2|31.7 mmol/L|32.5 mmol/L||33.2 mmol/L|
+|Anion Gap|9|10||5|
+|Glucose Level|127 mg/dL (H)|133 mg/dL (H)||120 mg/dL (H)|
+|BUN|22 mg/dL|29 mg/dL (H)||17 mg/dL|
+|Creatinine, Serum|1.0 mg/dL|1.4 mg/dL (H)||0.8 mg/dL|
+|B/Cr Ratio|22.0|20.7||21.2|
+|Glomerular Filtration Rate|>60 ml/min/1.73 m2 *|48 ml/min/1.73 m2 * (L)||>60 ml/min/1.73 m2 *|
+|Rx Estimated CrCI||||63.1 mL/min *|
+|Calcium|8.0 mg/dL (L)|8.6 mg/dL||8.8 mg/dL|
+|Protein Total|5.8 g/dL (L)|6.0 g/dL||6.4 g/dL|
+|Albumin Level|3.7 g/dL|3.5 g/dL||3.4 g/dL (L)|
+|A/G Ratio|1.8|1.4||1.1|
+|TBil|0.7 mg/dL|0.9 mg/dL||1.7 mg/dL (H)|
+|ALT|15 IU/L|14 IU/L||10 IU/L|
+|AST|22 IU/L|21 IU/L||15 IU/L|
+|Alk Phos|195 IU/L (H)|161 IU/L (H)||122 IU/L|
+|Magnesium Level||||2.0 mg/dL|
+|C-Reactive Protein|||||
+|Chemistry Special|||||
+|Hemoglobin A1c||7.7% (H)|||
+|Estimated Average Glucose||174 mg/dL|||
+|Iron|||||
+|Cholesterol Studies|||||
+|Cholesterol||||109 mg/dL|
+|Triglyceride||||73 mg/dL|
+|HDL||||33 mg/dL (L)|
+|% Total||||30|
+|LDL||||61 mg/dL|
+|ISTAT Testing|||||
+|ISTAT INR|||||
+|Meter Location:|||||
+|Glucometer Testing|||||
+|Glucose (meter)|||129 mg/dL * (H)||
+|Meter Location.|||Middlesex *||
+|Clinical Point of Care|||||
+|Occult Blood Perform Location, POC|||||
+|Occult Blood Specimen Type, POC|||||
+|Occult Blood Result, POC|||||
+|Therapeutic Drugs|||||
+|Digoxin Level|||||
+|Cardiac Studies|||||
+|B-Type Nat. Peptide|||||
+|Troponin-l, High Sensitivity||||0.087 ng/mL * (H)|
+|Endocrinology|||||
+|TSH, High Sensitivity||||0.745 ulU/mL|
+|Random Urine Studies|||||
+|Microalbumin Rand Ur|||||
+
+-
+-
+Page 1
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+|Patient: MASSELLI, JOSEPH S MRN: 247112|Last 500|Results||Printed by: McRae Nicole Printed on: 10/15/2019 14:42|
+|Laboratory|9/19/2019 11:30|8/27/2019 10:30|5/29/2019 09:17|5/29/2019 05:30|
+|Complete Blood Cell Count Components|||||
+|WBC.||8.4 cells X 10^3/uL||8.0 cells X 10^3/uL|
+|RBC:||5.38 cells X 10^6/uL||4.40 cells X 10^6/uL (L)|
+|Hgb.||12.9 g/dL (L)||10.9 g/dL (L)|
+|Hct.||44.2 %||36.9 % (L)|
+|MCV.||82.2 fL||83.9 fL|
+|MCH.||24.0 pg (L)||24.8 pg (L)|
+|MCHC:||29.2 g/dL (L)||29.5 g/dL (L)|
+|RDW (CV).||20.6 % (H)||17.2 % (H)|
+|RDW (SD).||58.6 fL (H)||52.1 fL (H)|
+|Platelet.||196 cells X 10^3/uL||177 cells X 10^3/uL|
+|MPV.||10.6 fL||11.1 fL|
+|Gran %.||56.2 % *||64.8 % *|
+|Imm Gran %.||0.6 % *||0.4 % *|
+|Lymph %.||30.1 %||19.5 %|
+|Mono %.||10.2 %||12.4 %|
+|Eosinophil %.||2.3 %||2.4%|
+|Baso %.||0.6 %||0.5 %|
+|Gran #.||4.7 cells X 10^3/uL *||5.2 cells X 10^3/uL *|
+|Imm Gran #.||0.05 cells X 10^3/uL||0.03 cells X 10^3/uL|
+|Lymph #.||2.5 cells X 10^3/uL||1.6 cells X 10^3/uL|
+|Mono #.||0.9 cells X 10^3/uL||1.0 cells X 10^3/uL|
+|Eosinophil #.||0.2 cells X 10^3/uL||0.2 cells X 10^3/uL|
+|Baso #.||0.1 cells X 10^3/uL||0.0 cells X 10^3/uL|
+|RBC Morph.||Present- (ABN)|||
+|Hypochromasia.||2+. (ABN)|||
+|Anisocytosis.||1+. (ABN)|||
+|Macrocytosis.||1+. (ABN)|||
+|Poikilocytosis.||2+. (ABN)|||
+|Burr Cells.||2+. (ABN)|||
+|Coagulation Studies|||||
+|PT||33.3 second (H)||13.5 second * (H)|
+|INR||3.51 (H)||1.33 (H)|
+|Urinalysis|||||
+|UA Color|||||
+|UA Appear|||||
+|UA Spec Grav|||||
+|UA pH|||||
+|UA Protein|||||
+|UA Glucose|||||
+|UA Ketones|||||
+|UA Bili|||||
+|UA Blood|||||
+|UA Nitrite|||||
+|UA Urobilinogen|||||
+|UA Leuk Est|||||
+|UA WBC.|||||
+|UA RBC.|||||
+|UA Epi Cell.|||||
+|UA Cast.|||||
+|UA Bacteria.|||||
+
+* *
+*
+Page 2
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by: McRae Nicole
+Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|9/19/2019 11:30|8/27/2019 10:30|5/29/2019 09:17|5/29/2019 05:30|
+|UA Crystal.|||||
+|UA Yeast.|||||
+|UA Small Round Cells.|||||
+|UA Path Cast.|||||
+|Routine Cultures|||||
+|Culture Urine|||||
+
+Page 3
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/28/2019 21:52|5/28/2019 1 11:35|5/28/2019 09:21|5/22/2019 12:30|
+|Chemistry General|||||
+|Sodium|||142 mmol/L||
+|Potassium|||4.3 mmol/L||
+|Chloride|||104 mmol/L||
+|CO2|||27.2 mmol/L||
+|Anion Gap|||11||
+|Glucose Level|||211 mg/dL (H)||
+|BUN|||18 mg/dL||
+|Creatinine, Serum|||0.9 mg/dL||
+|B/Cr Ratio|||||
+|Glomerular Filtration Rate|||>60 ml/min/1.73 m2 *||
+|Rx Estimated CrCI|||56.1 mL/min *||
+|Calcium|||9.2 mg/dL||
+|Protein Total|||||
+|Albumin Level|||||
+|A/G Ratio|||||
+|TBil|||||
+|ALT|||||
+|AST|||||
+|Alk Phos|||||
+|Magnesium Level|||1.5 mg/dL (L)||
+|C-Reactive Protein|||2.84 mg/dL (H)||
+|Chemistry Special|||||
+|Hemoglobin A1c|||||
+|Estimated Average Glucose|||||
+|Iron|||||
+|Cholesterol Studies|||||
+|Cholesterol|||||
+|Triglyceride|||||
+|HDL|||||
+|% Total|||||
+|LDL|||||
+|ISTAT Testing|||||
+|ISTAT INR|||||
+|Meter Location:|||||
+|Glucometer Testing|||||
+|Glucose (meter)|175 mg/dL * (H)||||
+|Meter Location.|Middlesex *||||
+|Clinical Point of Care|||||
+|Occult Blood Perform Location, POC|||||
+|Occult Blood Specimen Type, POC|||||
+|Occult Blood Result, POC|||||
+|Therapeutic Drugs|||||
+|Digoxin Level|||||
+|Cardiac Studies|||||
+|B-Type Nat. Peptide|||508 pg/mL * (H)||
+|Troponin-l, High Sensitivity|||||
+|Endocrinology|||||
+|TSH, High Sensitivity|||||
+|Random Urine Studies|||||
+|Microalbumin Rand Ur||||127 ug/mL *|
+
+-
+-
+Page 4
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/28/2019 21:52|5/28/2019 11:35|5/28/2019 09:21|5/22/2019 12:30|
+|Complete Blood Cell Count Components|||||
+|WBC.|||9.4 cells X 10^3/uL||
+|RBC:|||4.75 cells X 10^6/uL||
+|Hgb.|||12.1 g/dL (L)||
+|Hct.|||39.0 % (L)||
+|MCV.|||82.1 fL||
+|MCH.|||25.5 pg (L)||
+|MCHC:|||31.0 g/dL (L)||
+|RDW (CV).|||17.1 % (H)||
+|RDW (SD).|||49.8 fL (H)||
+|Platelet.|||192 cells X 10^3/uL||
+|MPV.|||10.1 fL||
+|Gran %.|||75.2 % *||
+|Imm Gran %.|||0.5% *||
+|Lymph %.|||13.2 %||
+|Mono %.|||10.5 %||
+|Eosinophil %.|||0.3%||
+|Baso %.|||0.3%||
+|Gran #.|||7.0 cells X 10^3/uL *||
+|Imm Gran #.|||0.05 cells X 10^3/uL||
+|Lymph #.|||1.2 cells X 10^3/uL||
+|Mono #.|||1.0 cells X 10^3/uL||
+|Eosinophil #.|||0.0 cells X 10^3/uL||
+|Baso #.|||0.0 cells X 10^3/uL||
+|RBC Morph.|||||
+|Hypochromasia.|||||
+|Anisocytosis.|||||
+|Macrocytosis.|||||
+|Poikilocytosis.|||||
+|Burr Cells.|||||
+|Coagulation Studies|||||
+|PT|||12.8 second (H)||
+|INR|||1.25 (H)||
+|Urinalysis|||||
+|UA Color||Yellow|||
+|UA Appear||Clear|||
+|UA Spec Grav||1.020|||
+|UA pH||5.5 pH|||
+|UA Protein||100 mg/dL (ABN)|||
+|UA Glucose||100 mg/dL (ABN)|||
+|UA Ketones||15 mg/dL (ABN)|||
+|UA Bili||Negative|||
+|UA Blood||Small (ABN)|||
+|UA Nitrite||Negative|||
+|UA Urobilinogen||0.2 E.U./dL|||
+|UA Leuk Est||Small (ABN)|||
+|UA WBC.||3-8/hpf|||
+|UA RBC.||3-8/hpf|||
+|UA Epi Cell.||1-4/hpf|||
+|UA Cast.||1-4/lpf|||
+|UA Bacteria.||None Seen. /hpf|||
+
+* *
+Page 5
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+Last 500 Results
+|Laboratory|5/28/2019 21:52|5/28/2019 11:35|5/28/2019 09:21|5/22/2019 12:30|
+|UA Crystal.||None Seen. /hpf|||
+|UA Yeast.||None Seen. /hpf|||
+|UA Small Round Cells.||None Seen. /hpf|||
+|UA Path Cast.||None Seen. /lff|||
+|Routine Cultures|||||
+|Culture Urine||Review * C|||
+
+Page 6
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by: McRae Nicole
+Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/22/2019 09:07|1/11/2019 09:33|11/14/2018 11:23|7/25/2018 09:27|
+|Chemistry General|||||
+|Sodium|142 mmol/L|140 mmol/L|||
+|Potassium|4.8 mmol/L|4.7 mmol/L|||
+|Chloride|104 mmol/L|102 mmol/L|||
+|CO2|32.1 mmol/L|31.8 mmol/L|||
+|Anion Gap|6|6|||
+|Glucose Level|131 mg/dL (H)|130 mg/dL (H)|||
+|BUN|22 mg/dL|23 mg/dL|||
+|Creatinine, Serum|1.1 mg/dL|1.1 mg/dL|||
+|B/Cr Ratio|20.0|20.9|||
+|Glomerular Filtration Rate|>60 ml/min/1.73 m2 *|>60 ml/min/1.73 m2 *|||
+|Rx Estimated CrCI|||||
+|Calcium|8.9 mg/dL|8.9 mg/dL|||
+|Protein Total|7.0 g/dL|6.3 g/dL|||
+|Albumin Level|3.9 g/dL|4.0 g/dL|||
+|A/G Ratio|1.3|1.7|||
+|TBil|0.9 mg/dL|1.4 mg/dL (H)|||
+|ALT|9 IU/L|10 IU/L|||
+|AST|19 IU/L|15 IU/L|||
+|Alk Phos|126 IU/L|108 IU/L|||
+|Magnesium Level|||||
+|C-Reactive Protein|||||
+|Chemistry Special|||||
+|Hemoglobin A1c|7.2% (H)|6.6%( (H)|||
+|Estimated Average Glucose|160 mg/dL|143 mg/dL|||
+|Iron||56 ug/dL|||
+|Cholesterol Studies|||||
+|Cholesterol|99 mg/dL||||
+|Triglyceride|61 mg/dL||||
+|HDL|39 mg/dL||||
+|% Total|39||||
+|LDL|48 mg/dL||||
+|ISTAT Testing|||||
+|ISTAT INR|||1.90 (H)||
+|Meter Location:|||OPC COAG *||
+|Glucometer Testing|||||
+|Glucose (meter)|||||
+|Meter Location.|||||
+|Clinical Point of Care|||||
+|Occult Blood Perform Location, POC|||||
+|Occult Blood Specimen Type, POC|||||
+|Occult Blood Result, POC|||||
+|Therapeutic Drugs|||||
+|Digoxin Level|||||
+|Cardiac Studies|||||
+|B-Type Nat. Peptide|353 pg/mL * (H)||||
+|Troponin-l, High Sensitivity|||||
+|Endocrinology|||||
+|TSH, High Sensitivity|||||
+|Random Urine Studies|||||
+|Microalbumin Rand Ur|||||
+
+-
+-
+Page 7
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by: McRae Nicole
+Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/22/2019 09:07|1/11/2019 09:33|11/14/2018 11:23|7/25/2018 09:27|
+|Complete Blood Cell Count Components|||||
+|WBC.|8.1 cells X 10^3/uL|8.7 cells X 10^3/uL|||
+|RBC:|4.73 cells X 10^6/uL|4.50 cells X 10^6/uL (L)|||
+|Hgb.|12.1 g/dL (L)|13.2 g/dL (L)|||
+|Hct.|40.8 %|41.3 %|||
+|MCV.|86.3 fL|91.8 fL|||
+|MCH.|25.6 pg (L)|29.3 pg|||
+|MCHC:|29.7 g/dL (L)|32.0 g/dL|||
+|RDW (CV).|16.9 % (H)|13.8 %|||
+|RDW (SD).|52.9 fL (H)|46.3 fL|||
+|Platelet.|209 cells X 10^3/uL|167 cells X 10^3/uL|||
+|MPV.|11.7 fL|11.5 fL|||
+|Gran %.|52.9 % *|55.7 % *|||
+|Imm Gran %.|0.6% *|0.7% *|||
+|Lymph %.|32.0 %|31.6 %|||
+|Mono %.|10.8 %|9.4 %|||
+|Eosinophil %.|3.1%|2.0 %|||
+|Baso %.|0.6 %|0.6 %|||
+|Gran #.|4.3 cells X 10^3/uL *|4.8 cells X 10^3/uL *|||
+|Imm Gran #.|0.05 cells X 10^3/uL|0.06 cells X 10^3/uL (H)|||
+|Lymph #.|2.6 cells X 10^3/uL|2.7 cells X 10^3/uL|||
+|Mono #.|0.9 cells X 10^3/uL|0.8 cells X 10^3/uL|||
+|Eosinophil #.|0.3 cells X 10^3/uL|0.2 cells X 10^3/uL|||
+|Baso #.|0.1 cells X 10^3/uL|0.1 cells X 10^3/uL|||
+|RBC Morph.|||||
+|Hypochromasia.|||||
+|Anisocytosis.|||||
+|Macrocytosis.|||||
+|Poikilocytosis.|||||
+|Burr Cells.|||||
+|Coagulation Studies|||||
+|PT||||11.3 second * (H)|
+|INR||||1.09 *|
+|Urinalysis|||||
+|UA Color|||||
+|UA Appear|||||
+|UA Spec Grav|||||
+|UA pH|||||
+|UA Protein|||||
+|UA Glucose|||||
+|UA Ketones|||||
+|UA Bili|||||
+|UA Blood|||||
+|UA Nitrite|||||
+|UA Urobilinogen|||||
+|UA Leuk Est|||||
+|UA WBC.|||||
+|UA RBC.|||||
+|UA Epi Cell.|||||
+|UA Cast.|||||
+|UA Bacteria.|||||
+
+Page 8
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by: McRae Nicole
+Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/22/2019 09:07|1/11/2019 09:33|11/14/2018 11:23|7/25/2018 09:27|
+|UA Crystal.|||||
+|UA Yeast.|||||
+|UA Small Round Cells.|||||
+|UA Path Cast.|||||
+|Routine Cultures|||||
+|Culture Urine|||||
+
+Page 9
+
+-------------------------------------------
+-------------------------------------------
+Flowsheet Print Request
+Last 500 Results
+Printed by : McRae Nicole Printed on : 10/15/2019 14:42
+Patient: MASSELLI, JOSEPH S
+MRN: 247112
+|Laboratory|5/25/2018 11:25|5/25/2018 07:3|5/25/2018 06:33|5/24/2018 17:46|
+|Chemistry General|||||
+|Sodium|||141 mmol/L||
+|Potassium|||4.3 mmol/L||
+|Chloride|||100 mmol/L||
+|CO2|||32.4 mmol/L||
+|Anion Gap|||9||
+|Glucose Level|||133 mg/dL (H)||
+|BUN|||17 mg/dL||
+|Creatinine, Serum|||0.9 mg/dL||
+|B/Cr Ratio|||||
+|Glomerular Filtration Rate|||>60 ml/min/1.73 m2 *||
+|Rx Estimated CrCI|||57.1 mL/min *||
+|Calcium|||9.0 mg/dL||
+|Protein Total|||||
+|Albumin Level|||||
+|A/G Ratio|||||
+|TBil|||||
+|ALT|||||
+|AST|||||
+|Alk Phos|||||
+|Magnesium Level|||||
+|C-Reactive Protein|||||
+|Chemistry Special|||||
+|Hemoglobin A1c|||||
+|Estimated Average Glucose|||||
+|Iron|||||
+|Cholesterol Studies|||||
+|Cholesterol|||||
+|Triglyceride|||||
+|HDL|||||
+|% Total|||||
+|LDL|||||
+|ISTAT Testing|||||
+|ISTAT INR|||||
+|Meter Location:|||||
+|Glucometer Testing|||||
+|Glucose (meter)|200 mg/dL * (H)|131 mg/dL * (H)||119 mg/dL * (H)|
+|Meter Location.|Middlesex *|Middlesex *||Middlesex *|
+|Clinical Point of Care|||||
+|Occult Blood Perform Location, POC|||||
+|Occult Blood Specimen Type, POC|||||
+|Occult Blood Result, POC|||||
+|Therapeutic Drugs|||||
+|Digoxin Level|||||
+|Cardiac Studies|||||
+|B-Type Nat. Peptide|||||
+|Troponin-l, High Sensitivity|||||
+|Endocrinology|||||
+|TSH, High Sensitivity|||||
+|Random Urine Studies|||||
+|Microalbumin Rand Ur|||||
+
+-
+-
+Page 10
+
+-------------------------------------------
+-------------------------------------------
+Page 5 of 9
+M+ Middlesex
+Middlesex
+Health
+Primary Care
+MASSELLI, JOSEPH
+82 Y old Male, DOB: 07/23/1935
+Account Number: 12177
+64 FREESTONE AVE, PORTLAND, CT-06480
+Home: 860-342-4668
+Guarantor: MASSELLI, JOSEPH Insurance: MEDICARE
+-
+CONNECTICARE ADVANTAGE
+Appointment Facility: Portland MH Primary Care
+05/16/2018
+MATTHEW NICHOLS, MD
+Reason for Appointment
+1.3 mth
+History of Present Illness
+General HPI:
+1-A. fib/CAD-follows with Dr. Franklin, has been on regimen of lasix 40 mg , was 60, he has experienced recently some increase in leg swelling and went back to 60 mag daily on his own which is working well for him
+2-hypertension-well controlled tolerating compliant with medication
+3-diabetes-last hemoglobin Aic was 7.2, tolerating compliant with medication
+4-congestive heart failure-again follows with Dr. Franklin-denies any shortness of breath, wheezing, will change his lasix to 60 mg daily due to increase in leg swelling recently
+5-gout-currently denies any current flares or recent flares
+6-Chronic back pain with spinal stensosis and difficulty ambulating, He has seen Dr. Sohn in the past. He declines further surgical intervention. No current complaints today
+7-Elevated PSA due to BPH, followed by Dr. Frink, no current complaints today
+8-anemia-mild-as previously discussed-has been stable for many many years, reviewed records, patient did not seem to be aware of his mild anemia, likely little bit of iron deficiency given his MCV is a little low is had a colonoscopy back in 2006 with no issues, I discussed with him his age and that at this point he may or may not agree with doing a colonoscopy, made referral for colonoscopy, he has appt on may 30th.
+Current Medications
+Taking
+Metformin HCl 500 MG Tablet 2 tablets Orally 2 times a day
+ Accupril 20 mg Tablet i tablet Orally Once a day
+ Cialis 5 MG Tablet 1 tablet Orally Once a day
+ Flomax 0.4 MG Capsule Extended Release 24 Hour 1 capsule 30 minutes after the same meal each day Orally Once a day
+ Avodart 0.5 MG Capsule 1 capsule Orally Once a day
+ Lipitor 10 MG Tablet 1 tablet Orally bedtime
+ Precision Xtra Blood Glucose - Strip as directed In Vitro 4 times a day
+ Toprol XL 100 MG Tablet Extended 3 Tablet Orally Once a day
+ Fish Oil Capsule 1 tablet am, 2 tablet pm Orally twice a day
+ Saline 0.4 % Solution nasally Nasally as needed
+ Ginseng Capsule i cap Orally twice a day
+ Glucosamine 500 MG Tablet 1 tablet Orally twice a day
+ Prilosec OTC 20 MG Tablet Delayed Release 1 tablet Orally Once a day
+ Coumadin
+2.5 MG Tablet 1 tablet Orally AS DIRECTED
+ Digoxin 0.125 MG Tablet 1 tablet Orally Once a day
+ Lasix 40 MG tablet 1 tablet orally in the morning
+ Aldactone 25 MG Tablet 1 tablet Orally Once a day
+ Test Strips (Precision). Xtra as directed . 4 times a day, Notes: DX: E11.9
+ Multiple Vitamins Tablet 1 tablet Orally once a day
+ Diltiazem HCI ER 240 MG Capsule Extended Release 24 Hour 1 capsule Orally Once a day
+ Lasix 20 MG Tablet 1 tablet orally in the afternoon
+ Nitroglycerin 0.4 MG Tablet Sublingual 1 tablet under the tongue and allow to dissolve as needed Sublingual prn
+Patient: MASSELLI, JOSEPH DOB: 07/23/1935 Progress Note: MATTHEW NICHOLS, MD 05/16/2018
+Note generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 10/15/2019
+
+-------------------------------------------
+-------------------------------------------
+Page 6 of 9
+chest pain
+ Lotrimin AF 1 % Cream 1 application to affected area Externally Twice a day
+ Medication List reviewed and reconciled with the patient
+Active Problem List
+110
+Hypertension, benign
+E78.5
+Hyperlipidemia, unspecified
+138
+Heart valve insufficiency
+E66.9
+Obesity, unspecified
+M19.90
+Unspecified osteoarthritis, unspecified site
+N40.1
+Prostate hyperplasia with urinary obstruction
+R97.2 Elevated prostate specific antigen [PSA]
+M54.9 Back pain
+125.10
+CAD (coronary artery disease)
+148.91 Unspecified atrial fibrillation
+E11.65
+Type 2 diabetes mellitus with hyperglycemia
+N52.9 Male erectile dysfunction, unspecified
+Z95.5 Hx of heart artery stent
+150.9
+CHF (congestive heart failure)
+Q61.00
+Renal cyst
+M48.07
+Lumbosacral spinal stenosis
+G89.29
+Other chronic pain
+D50.9
+Iron deficiency anemia, unspecified iron deficiency anemia type
+Past Medical History
+Diverticulosis
+Colonic polyps
+Hypertension
+Weight problems
+Lyme disease
+Arthritis
+Sinuses
+Hyperlipidemia
+Prostatism
+increased PSA
+Goiter
+Dilated cardiomyopathy
+Congestive Heart Failure
+Aortic regurgitation
+Mitral regurgitation
+Lumbar disc disease
+Patient: MASSELLI, JOSEPH DOB: 07/23/1935 Progress Note: MATTHEW NICHOLS, MD 05/16/2018
+Note generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 10/15/2019
+
+-------------------------------------------
+-------------------------------------------
+Page of 9
+Diabetes mallitus
+Hematuria
+Reflux disease
+Chicken pox, measles, mumps, hemorrhoids in the past
+ECHO 2013 Afib, EF low normal, mod LVH, mod/sev biatrial enlargement, bioprosthetic aortic valve
+Polyp - Colon
+Sinusitis Acute Other
+Diabetes Mellitus Type II with Peripheral Circulatory Disorders
+Diabetes Mellitus Type II without Mention of Complication Controlled tronchanteric bursitis and DDD (Kalayjian)
+History of colovesicula fistula repaired in 2010
+???esophageal leukoplakia in distant past (sees Dr. Hussein)
+Atrial fibrillation
+Social History
+Marital Status: married.
+Occupation: unemployed, retired, plumbing/heating contractor.
+no Alcohol, occasional.
+no Smoking, ippd x 15 years. Quit >40 years ago.
+Tobacco Use Are you a:: former smoker , How long has it been since you last smoked?: > 10 years.
+no Recreational drug use.
+Diet
+Diet Mediterranean
+Exercise: active lifestyle-does exercises in the jacuzzi.
+Fall Risk
+Required Assessment: No falls in the past year
+Unsteady, Dizzy or afraid of falling? seldom
+Geriatric: lives in own home, lives with spouse, no mobility issues , no home safety issues .
+Household Number of Adults in household: wife + caretaker.
+Lives w/ wife (wife had a stroke) as well as aid at home. 5 kids. 8 grandkids.
+Allergies
+Vasotec: muscle spasms
+Verelan: headache
+Aldactone
+Imdur: headache
+Review of Systems
+Pertinent ROS:
+Constitutional no fever or chills, no recent unexplained weight loss, no fatigue. Respiratory no dyspnea, no cough. Cardiovascular no chest pain, no palpitations, no dizziness, has some leg swelling. GI no changes in bowel habits, no abdominal pain. Psych no new anxiety.
+Vital Signs
+Ht 63.5, Wt 202.2, BMI 35.25, BP 130/70, HR 66, RR 16, Oxygen sat % 98, Staff Initials lc date of birth verified.
+Examination
+GEN:
+GEN no acute distress, well nourished.
+CV regular rate and rhythm, no murmur, gallup or rub.
+PULM clear to auscultation, symmetric air movement.
+EXT edema +1.
+PSYCH normal hygiene and grooming, euthymic, eye contact appropriate.
+Assessments
+1. Hypertension, benign - 110 (Primary)
+2. Hyperlipidemia, unspecified - E78.5
+Patient: MASSELLI, JOSEPH DOB: 07/23/1935 Progress Note: MATTHEW NICHOLS, MD 05/16/2018
+Note generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 10/15/2019
+
+-------------------------------------------
+-------------------------------------------
+Page of 9
+3. Heart valve insufficiency - 138
+4. Prostate hyperplasia with urinary obstruction - N40.1
+5. Elevated prostate specific antigen (PSA) - R97.2, due to BPH and followed by Dr. Frink (urologist)
+6. Back pain - M54.9
+7. CAD (coronary artery disease) - 125.10
+8. Type 2 diabetes mellitus with hyperglycemia - E11.65
+9. Male erectile dysfunction, unspecified - N52.9
+10. CHF (congestive heart failure) - 150.9
+11. Iron deficiency anemia, unspecified iron deficiency anemia type - D50.9
+1-A. fib/CAD-follows with Dr. Franklin, stable, cont meds
+2-hypertension-stable, cont med
+3-diabetes-last hemoglobin Aic was 7.2,counselled on diet, no med changes today
+4-congestive heart failure-will change his lasix to 60 mg daily due to increase in leg swelling recently
+5-gout-stable
+6-Chronic back pain with spinal stensosis and difficulty ambulating, He has seen Dr. Sohn in the past. stable, cont med
+7-Elevated PSA due to BPH, followed by Dr. Frink, stable, 8-anemia-mild-stable, getting colonoscopy on 30 th.
+Treatment
+1. Hypertension, benign
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: Hemoglobin Aic
+LAB: CBC with Diff
+2. Hyperlipidemia, unspecified
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: Hemoglobin Aic
+LAB: CBC with Diff
+3. Heart valve insufficiency
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: Hemoglobin Aic
+LAB: CBC with Diff
+4. Prostate hyperplasia with urinary obstruction
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: Hemoglobin Aic
+LAB: CBC with Diff
+5. Elevated prostate specific antigen [PSA]
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: Hemoglobin Aic
+LAB: CBC with Diff
+6. Back pain
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: Hemoglobin Aic
+LAB: CBC with Diff
+7. CAD (coronary artery disease)
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: Hemoglobin A1c
+LAB: CBC with Diff
+8. Type 2 diabetes mellitus with hyperglycemia
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: Hemoglobin Aic
+LAB: CBC with Diff
+Patient: MASSELLI, JOSEPH DOB: 07/23/1935 Progress Note: MATTHEW NICHOLS, MD 05/16/2018
+Note generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 10/15/2019
+
+-------------------------------------------
+-------------------------------------------
+Page 9 of 9
+9. Male erectile dysfunction, unspecified
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: Hemoglobin Aic
+LAB: CBC with Diff
+10. CHF (congestive heart failure)
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: Hemoglobin Aic
+LAB: CBC with Diff
+11. Iron deficiency anemia, unspecified iron deficiency anemia type
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: Hemoglobin Aic
+LAB: CBC with Diff
+12. Others
+Start Furosemide Tablet, 20 MG, 1 tablet, Orally, Once a day, 30 day(s), 90, Refills 1
+Follow Up
+3 Months (Reason: chronic)
+Withine Tikels
+Electronically signed by MATTHEW NICHOLS , MD on 05/29/2018 at 10:02 AM EDT
+Sign off status: Completed
+Portland MH Primary Care
+270 MAIN STREET
+PORTLAND, CT 064801857
+Tel: 860-342-3392
+Fax: 860-358-8658
+Patient: MASSELLI, JOSEPH DOB: 07/23/1935 Progress Note: MATTHEW NICHOLS, MD 05/16/2018
+Note generated by e ClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 10/15/2019
+
+-------------------------------------------
+-------------------------------------------
+Masseli, Joseph 7/23/1935
+Title:
+Date:
+Status:
+Performed By:
+Encounter:
+Contributor System:
+CT Pulmonary Embolis wo Legs w/ Contrast
+May 24, 2018 13:53
+Auth (Verified)
+WALDEN MD, CRAIG A on May 24, 2018 13:53
+29611060, MIDDLESEX HOSPI, Inpatient, 5/21/2018 - 5/25/2018
+IDXRAD
+* Final Report *
+CTPEW
+Exam Date: 05/24/2018 1:53 PM
+Exam: CT ANGIO PULMONARY EMBOLUS, W/ CONTRAST, NO LEGS
+Ordered By: LOPEZ, MAX MD
+CLINICAL HISTORY: follow up on 5/23 study///15 PPY ex-smoker, quit 40 years ago, hx of valve replacement 3 years ago, chf, a fib. diabetic
+PROTOCOL:
+Axial helical images from lung apices to diaphragm after I.V.
+contrast with multiplanar and MIP images.
+CONTRAST:
+CONTRAST Omnipaque 350, Injection Solution 100 Milliliters 05/24/2018
+13:53:00 INTRAVENOUS
+COMPARISON: May 23, 2018 CT and May 22, 2018 lung scan. May 21, 2018 chest film
+FINDINGS:
+Respiratory motion limits evaluation of the lower lobe segmental pulmonary arteries. There is otherwise no central or segmental pulmonary embolism. There is no thoracic aortic aneurysm. Stable cardiomegaly. Aortic valve replacement.
+Stable moderate right and small left pleural effusions. Stable right lower lobe infiltrate/atelectasis and left lower lobe atelectasis without new infiltrates.. Normal size mediastinal lymph nodes. Stable enlarged left thyroid lobe extending retrosternally and displacing the trachea toward the right without severe narrowing.
+No acute bony abnormality. Status post median sternotomy.
+IMPRESSION:
+Limited evaluation of the lower lobe segmental pulmonary arteries without CT evidence of pulmonary malaise and.
+Stable bilateral pleural effusions and right lower lobe infiltrate/atelectasis.
+
+-------------------------------------------
+-------------------------------------------
+Enlarged left lobe of the thyroid.
+End of diagnostic report for accession: 4762589
+Interpreted By: WALDEN, CRAIG MD
+Approved and Electronically Signed By: WALDEN, CRAIG MD 5/24/2018 2:21:40 PM
+RADRPT
+This document has an image
+Title:
+Date:
+Status:
+Performed By:
+Encounter:
+Contributor System:
+US Abdomen
+December 29, 2013 09:39
+Modified
+LEE MD, JULIE S on December 29, 2013 09:39
+26056366, MIDDLESEX HOSPI, Inpatient, 12/27/2013 - 12/29/2013
+IDXRAD
+* Final Report *
+USABD
+Exam Date: 12/29/2013 09:39 AM
+Exam: US ABDOMEN
+Ordered By: THAPPETA, RADHIKA MD
+Clinical History
+Upper Abdominal Pain
+Comparison
+CT abdomen 3/5/10.
+Technique
+US Abdomen, grayscale imaging of the complete abdomen.
+Findings
+The liver is heterogeneous in echotexture, with no evidence of focal lesion or intrahepatic biliary dilatation. The pancreas is not well visualized due to overlying bowel gas. The gallbladder appears unremarkable, with no evidence of stones, wall thickening, pericholecystic fluid, or sonographic Murphy sign. The right kidney measures 13.2 x 5.4 x 5.1 cm and contains a large cyst measuring up
+to 9.0 cm. This was also seen on CT 3/5/10, with suggestion of increased size although this may be due to differences in technique.
+The left kidney measures 11.4 x 5.3 x 6.4 cm. The spleen measures up
+to a maximum of 12.5 cm, upper limits of normal. The distal abdominal aorta demonstrates no evidence of aneurysm, with the proximal abdominal aorta obscured by overlying bowel gas. The
+
+-------------------------------------------
+-------------------------------------------
+visualized portions of the IVC are grossly unremarkable. There is no ascites.
+Impression
+Large right renal cyst.
+End of diagnostic report for accession: 3432666
+Interpreted By: LEE, JULIE MD
+Approved and Electronically Signed By: LEE, JULIE MD 12/29/2013 10:46:23 AM
+RADRPT
+This document has an image
+
+-------------------------------------------
+-------------------------------------------

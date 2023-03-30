@@ -1,0 +1,585 @@
+NGUON
+FaxAppliance 2018-12-04 13:34:12 (GMT -05:00) Page 1/2
+FAUT
+FACULTY.
+CCREDITED
+IAC
+IAC
+LAC
+111 by JETA
+HTT 
+CDMIN
+ISTOFA
+LFITATEA
+Pure
+IXTHX TV
+NLMULILIT
+What
+TESTIN
+MIDDLESEX CARDIOLOGY ASSOCIATES, P.C.
+420 Saybrook Rd, Middletown, Ct 06457 Ph. 860-347-4258 Fax 860-638-3697
+14 Jones Hollow Rd, Marlborough, Ct 06447 Ph. 860-295-9920 Fax 860-295-9166
+51 Main St, Old Saybrook, Ct 06475 Ph.860-388-3564 Fax 860-388-4318
+12/04/2018
+Shane Ridge D.O.
+4 Grove Beach Rd North
+Westbrook, CT 06498
+RE; Jerry R Sansing
+06/27/19-12
+Dear Dr. Ridge, I had the pleasure of evaluating Jerry R Sansing in my office today. Please see the abbreviated note below.
+HPI:
+This is a delightful 76-year-old who is here for evaluation of an abnormal EKG. He recently went for routine examination and was found to have new right bundle branch block, left anterior fascicular block and frequent PVCs. Hence, cardiology consultation was requested. She denies any specific symptoms. He has borderline hypertension, but had significant dizziness with Lisinopril 5 mg and hence, has not been on any medications. He feels great. He used to be very active, but since he lost his job at
+Walgreen's, he has not been walking as much. He denies any chest pain or pressure. No shortness of breath at no dizziness. No palpitations. No syncope. He has varicose veins for which he is wearing compression stockings to help with the edema. No other symptoms.
+PAST HISTORY:
+Varicose veins
+Borderline hypertension
+Mitral regurgitation-2012 echo.
+CURRENT MEDS:
+? Wal-itin Allergy Reditabs 10MG Oral Tablet Disintegrating as directed seasonal, O days, 0 refills
+
+-------------------------------------------
+-------------------------------------------
+FaxAppliance 2018-12-04 13:34:46 (GMT-05:00) Page 2/2
+DIAGNOSIS:
+? Abnormal electrocardiogram
+? Right bundle branch block with left anterior fascicular block
+? Premature ventricular contractions
+? Nonrheumatic mitral regurgitation
+? Essential hypertension
+? Dependence on nicotine in cigarettes in remission
+ASSESSMENT AND PLAN:
+In summary, this 76-year-old is here for evaluation of abnormal EKG and frequent
+PVCs. He has no specific symptoms. He has a remote history of hypertension, well controlled with diet and exercise. He does have very frequent PVCs, and hence, I'm concerned about reduction in LV systolic function.
+I will arrange an echo, stress test and Holter monitor to her frequency of PVCs, rule out structural heart disease. We'll see him in followup after these tests. Previous echocardiogram demonstrated mild mitral regurgitation, more than 5 years ago. Hence, it is reasonable for us to repeat an echo.
+I will see him in followup after these tests.
+Thank you for allowing me to take part in this patient's care. Please contact me with any questions or comments.
+Sincerely, Subramanian Krishnan, MD, FACC
+12/04/2018
+CC:
+
+-------------------------------------------
+-------------------------------------------
+Page 1 of 1
+SANSING, JERRY R, M, 06/27/1942
+Westbrook MH Primary Care
+250 Flat Rock Place Physician Office One, WESTBROOK, CT 064981565
+860-358-3640
+c
+860-663-1848 MRN: 259839
+FINAL RESULT
+Accession ID: 941587723
+Lab Ref ID: 941587723
+Specimen Source: Blood&Blood
+Specimen Description: Blood&Blood
+Order Date: 12/27/2018
+Result Recd: 12/27/2018 13:00:05
+Coll. Date: 12/27/2018 09:36:00
+Report: 12/27/2018 12:59:41
+Requesting Physician: RIDGE, SHANE
+Ordering Physician: RIDGE, SHANE
+CBC with Diff
+|NAME|VALUE|REFERENCE RANGE|
+|F WBC.|4.9|4.5-11.5 (cells X 10)|
+|F RBC:|4.89|4.60-6.00 (cells X 10)|
+|F Hgb.|15.5|14.0-18.0 (g/dL)|
+|F Hct.|48.0|40.0-54.0 (%)|
+|F MCV.|98.2 HI|80.0-94.0 (fL)|
+|F MCH.|31.7|26.0-32.0 (pg)|
+|F MCHC:|32.3|32.0-37.0 (g/dL)|
+|F RDW (CV).|11.9|11.5-14.5 (%)|
+|F RDW (SD).|43.5|36.0-48.8 (fL)|
+|F Platelet.|147 LOW|150-450 (cells X 10)|
+|F MPV.|10.8|9.5-12.3 (fL)|
+
+SANSING, JERRYR, M, 06/27/1942
+Accession ID: 941587723
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/h17/getLabResult.jsp?report... 8/30/2019
+
+-------------------------------------------
+-------------------------------------------
+Page 1 of 1
+SANSING, JERRY R, M, 06/27/1942
+Westbrook MH Primary Care
+250 Flat Rock Place Physician Office 1, WESTBROOK, CT 064981565
+860-358-3640
+c
+860-663-1848 MRN: 259839
+FINAL RESULT
+Accession ID: 819987884
+Lab Ref ID: 819987884
+Specimen Source: Blood&Blood
+Specimen Description: Blood&Blood
+Order Date: 10/09/2017
+Result Recd: 10/09/2017 13:18:01
+Coll. Date: 10/09/2017 10:46:35
+Report: 10/09/2017 13:17:14
+Requesting Physician: RIDGE, SHANE
+Ordering Physician: RIDGE, SHANE
+CMP (Comprehensive Metabolic Panel)
+|NAME|VALUE|REFERENCE RANGE|
+|F Glucose Level|93|70-99 (mg/dL)|
+|F BUN|20|7-28 (mg/dL)|
+|F Creatinine, Serum|0.8|0.3-1.2 (mg/dL)|
+|F Glomerular Filtration Rate|>60|>=60 (ml/min/1.73 m2)|
+
+- The GFR is calculated and is age , sex and race adjusted as identified by the - system at the time of order . ( see chart header ) . If the patient race was - entered as unknown and the patient is African American , multiply the result by - 1.210 .
+F
+25.0 HI
+B/Cr Ratio
+Calcium
+F
+9.1
+F
+Protein Total
+6.7
+F
+4.3
+Albumin Level
+A/G Ratio
+F
+1.8
+F
+TBil
+0.8
+F
+AST
+20
+6.0-23.0
+8.4-10.6 (mg/dL)
+6.0-8.0 (g/dL)
+3.5-5.2 (g/dL)
+1.1-2.5
+0.1-1.2 (mg/dL)
+10-42 (IU/L)
+7-40 (IU/L)
+45-115 (IU/L)
+135-145 (mmol/L)
+3.3-5.2 (mmol/L)
+96-111 (mmol/L)
+22.0-34.0 (mmol/L)
+3-11
+F
+18
+ALT
+Alk Phos
+F
+50
+F
+Sodium
+140
+F
+Potassium
+4.4
+F
+Chloride
+107
+F
+CO2
+27.1
+F
+Anion Gap
+6
+SANSING, JERRYR, M, 06/27/1942
+Accession ID: 819987884
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/h17/getLabResult.jsp?report... 8/30/2019
+
+-------------------------------------------
+-------------------------------------------
+Page 1 of 1
+SANSING, JERRY R, M, 06/27/1942
+Westbrook MH Primary Care
+250 Flat Rock Place Physician Office One, WESTBROOK, CT 064981565
+860-358-3640
+c
+860-663-1848 MRN: 259839
+FINAL RESULT
+Accession ID: 921555064
+Lab Ref ID: 921555064
+Specimen Source: Blood&Blood
+Specimen Description: Blood&Blood
+Order Date: 10/10/2018
+Result Recd: 10/10/2018 16:45:06
+Coll. Date: 10/10/2018 10:18:33
+Report: 10/10/2018 16:44:36
+Requesting Physician: RIDGE, SHANE
+Ordering Physician: RIDGE, SHANE
+CMP (Comprehensive Metabolic Panel)
+|NAME|VALUE|REFERENCE RANGE|
+|F Glucose Level|96|70-99 (mg/dL)|
+|F BUN|16|7-28 (mg/dL)|
+||||
+||||
+
+||||
+||||
+|F Creatinine, Serum|0.9|0.3-1.2 (mg/dL)|
+|F Glomerular Filtration Rate|>60|>=60 (ml/min/1.73 m2)|
+|- The GFR is calculated and is age, sex and|race adjusted as identified|by the|
+|- system at the time of order. (see chart|header). If the patient race was||
+|- entered as unknown and the patient is|African American, multiply the|result by|
+|- 1.210.|||
+|F B/Cr Ratio|17.8|6.0-23.0|
+|F Calcium|8.7|8.4-10.6 (mg/dL)|
+|F Protein Total|6.2|6.0-8.0 (g/dL)|
+|F Albumin Level|4.1|3.5-5.2 (g/dL)|
+|F A/G Ratio|2.0|1.1-2.5|
+|F TBil|1.0|0.1-1.2 (mg/dL)|
+|F AST|15|10-42 (IU/L)|
+|F ALT|14|7-40 (IU/L)|
+|F Alk Phos|46|28-130 (IU/L)|
+|F Sodium|139|135-145 (mmol/L)|
+|F Potassium|4.1|3.3-5.2 (mmol/L)|
+|F Chloride|106|96-111 (mmol/L)|
+|F CO2|25.5|22.0-34.0 (mmol/L)|
+|F Anion Gap|8|3-11|
+
+SANSING, JERRYR, M, 06/27/1942
+Accession ID: 921555064
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/h17/getLabResult.jsp?report... 8/30/2019
+
+-------------------------------------------
+-------------------------------------------
+Page 1 of 8
+SANSING, JERRY R
+M+ Middlesex
+Health
+Primary Care
+76 Y old Male, DOB: 06/27/1942
+Account Number: 319788
+47 RESERVOIR RD, KILLINGWORTH, CT-06419-1418
+Home: 860-663-1848
+Guarantor: SANSING, JERRYR Insurance: MEDICARE
+-
+CtCare PASSAGE MA Payer ID: 78375
+Appointment Facility: West ook MH Primary re
+10/25/2018
+Shane Ridge, DO
+|Active K80.20|Problem List Gallstones|Reason for Appointment 1. Flu shot|
+|183.93|Varicose veins of both lower extremities|Assessments 1. Need for influenza vaccination - Z23 (Primary)|
+|I49.9|Bigeminy|Treatment|
+|E78.5|Hyperlipidemia, mild|1. Need for influenza vaccination|
+|||PROCEDURE: Medicare - Influenza Administration|
+|||Taylor, Brandi 10/25/2018 10:30:02 AM EDT > Patient tolerated procedure without complication. Immunization(s) given as per provider orders.|
+|||Immunization|
+|||Influenza High Dose 65+ (Fluzone) Medicare Only : 0.5 mL (Dose No:1) (Route: Intramuscular) given by Brandi Taylor, BT on Left Deltoid (Need for influenza vaccination)|
+|||Procedure Codes Gooo8 Medicare-Influenza Administration 90662 Influenza High-Dose, preservative-free, IM solf|
+|||Electronically signed by SHANE RIDGE, DO on 10/26/2018 at 03:49 PM EDT Sign off status: Completed|
+
+Patient: SANSING, JERRYR DOB: 06/27/1942 Progress Note: Shane Ridge, DO 10/25/2018
+Note generated by e ClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 8/30/2019
+
+-------------------------------------------
+-------------------------------------------
+Page 2 of 8
+Westbrook MH Primary Care
+250 Flat Rock Place
+Physician Office One
+WESTBROOK, CT 064981565
+Tel: 860-358-3640
+Fax: 860-358-8656
+Patient: SANSING, JERRYR DOB: 06/27/1942 Progress Note: Shane Ridge, DO 10/25/2018
+Note generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 8/30/2019
+
+-------------------------------------------
+-------------------------------------------
+Page 3 of 8
+SANSING, JERRY R
+M+ Middlesex
+Health
+Primary Care
+76 Y old Male, DOB: 06/27/1942
+Account Number: 319788
+47 RESERVOIR RD, KILLINGWORTH, CT-06419-1418
+Home: 860-663-1848
+Guarantor: SANSING, JERRYR Insurance: MEDICARE
+-
+CtCare PASSAGE MA Payer ID: 78375
+Appointment Facility: West ook MH Primary re
+10/10/2018
+Shane Ridge, DO
+Current Medications
+Taking
+ Compression Hose
+ EpiPen 2-Pak 0.3 MG/0.3ML Solution
+Auto-injector Injection
+Discontinued
+ Viagra o Tablet 1 tablet as needed Orally
+Once a day
+ Oseltamivir Phosphate 75 MG Capsule 1
+capsule Orally Twice a day
+ Medication List reviewed and reconciled
+with the patient
+Active Problem List
+K80.20 Gallstones
+183.93
+Varicose veins of both lower
+extremities
+149.9
+Bigeminy
+E78.5
+Hyperlipidemia, mild
+Past Medical History
+Hx of HTN, DC'd medication 2016.
+ED.
+Yellow Jackey allergy.
+Bunion L.
+Vericose veins.
+Onychomycosis.
+sludge or cholelithiasis (CT 2014).
+Reason for Appointment
+1. CPX
+2. UA, EKG, Flu Vaccine-patient declined flu vaccine
+3. Immunizations - Prevnar, TD
+History of Present Illness
+Depression Counseling:
+PHQ-9
+Little interest or pleasure in doing things Not at all
+Feeling down, depressed, or hopeless Not at all
+Trouble falling or staying asleep, or sleeping too much Not at all
+Feeling tired or having little energy Not at all
+Poor appetite or overeating Not at all
+Feeling bad about yourself-or that you are a failure or have let yourself or your family down Not at all
+Trouble concentrating on things, such as reading the newspaper or watching television Not at all
+Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual Not at all
+Thoughts that you would be better off dead, or of hurting yourself in some way Not at all
+Total Score o
+CPX >65 yo, Male:
+Concerns: healthy, feels well.
+Life changes: none.
+Health goals: maintain health, preventive medicine.
+Exercise: active lifestyle.
+Nutrition: no formal diet regimen.
+Cancer risk: 76 years, male.
+Cardiovascular risk: 76 years, male.
+Memory: normal memory.
+Mood: normal.
+Safety: no safety concerns or issues.
+Preventive screening: COLONOSCOPY: DUE 2019, DENTAL
+EXAMS:, cleanings Q6 months, EYE EXAMS: up to date.
+Vital Signs
+Ht 72, Wt 217, BMI 29.43, BP 120/80, HR 54, RR 16, Temp 98.2, Oxygen sat % 97, Staff Initials EP, CMA date of birth verified.
+Surgical History
+HERNIA X3
+LUMPECTOMY NECK
+BILATERAL CATARACT
+DIAPHRAMATIC HERNIA
+POLYPS REMOVED FROM NOSE
+TOE REMOVED LEFT FOOT
+2009-02-11 Dr. Intravia. Hyperplastic Polyp
+(Four).
+2014 - Feb. Colonoscopy. 5 year recall. Dr. Intravia.
+Family History
+Father: deceased, Dad died of melanoma, kidney cancer at 60, diagnosed with Cancer
+Mother: deceased
+Patient: SANSING, JERRYR DOB: 06/27/1942 Progress Note: Shane Ridge, DO 10/10/2018
+Note generated by e ClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.j... 8/30/2019
+
+-------------------------------------------
+-------------------------------------------
+Page of 8
+|Past Orders Lab: Lipid Panel||||
+|Collection|ate|10/09/201|10/0 /201|
+|Order ate||10/09/201|10/0 /201|
+|otal||3|32|
+|Cholesterol||193 199 mg/d|207 HI 199 mg/d|
+|rigl ceride||3 30 180 mg/d|30 180 mg/d|
+|||9 39 mg/d|39 mg/d|
+|||111|12|
+|Lab: CMP|(Comprehensive|129 mg/d Metabolic Panel)|129 mg/d|
+|Collection|ate|10/09/201|10/0 /201|
+|Order ate||10/09/201|10/0 /201|
+|lucose e|el|93 0 99 mg/d|93 0 99 mg/d|
+|||20 28 mg/d|18 28 mg/d|
+|Creatinine|erum|0.8 0.3 1.2 mg/d|0.8 0.3 1.2 mg/d|
+
+1 brother(s) - healthy. 2 son(s), 2 daughter(s)
+- healthy.
+Denies Fam Hx of CAD, CVA, DM2, CAs, psych.
+Social History
+Marital Status: married.
+Occupation: retired from Walgreen's. Lives w wife. Wife has chronic leg pain (? neuropathy)..
+no Alcohol.
+Smoking: 0-1 cig/day.
+Tobacco Use Are you a:: former smoker , How long has it been since you last smoked?:
+> 10 years.
+Allergies
+PENICILLIN: RASH
+Review of Systems
+The patient completed a written ROS form that has been reviewed, discussed, annotated, and scanned into the electronic medical record under today's date.
+(
+0
+0
+|lomerular iltration|0 ml/min/1. 3|0 ml/min/1. 3|
+|ate|m2|m2|
+|Calcium|9.1 8. 10. mg/d|9.3 9.0 10. mg/d|
+|Protein otal|0 8.0 g/d|.0 8.0 g/d|
+|lbumin e el|.3 3. .2 g/d|1 3. .2 g/d|
+|il|0.8 0.1 1.2 mg/d|1.0 0.1 1.2 mg/d|
+||20 10 2 /|19 10 2 /|
+||18 0 /|1 0 /|
+|1 Phos|0 11 /|2 1 0 /|
+|odium|1 0 13 1 mmol/|1 2 13 1 mmol/|
+|Potassium|3.3 .2 mmol/|.0 3.3 .2 mmol/|
+
+Patient: SANSING, JERRYR DOB: 06/27/1942 Progress Note: Shane Ridge, DO 10/10/2018
+Note generated by e ClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.j... 8/30/2019
+
+-------------------------------------------
+-------------------------------------------
+Page of 8
+||10|108|
+|Chloride|9 111 mmol/|9 111 mmol/|
+|CO2|2 1 22.0 3 .0 mmol/|2 .1 22.0 3 .0 mmol/|
+|nion ap|3 11|3 11|
+|/Cr atio|2 0 HI .0 23.0|22. .0 23.0|
+|/ atio|1.8 1.1 2.|1. 1.1 2.|
+
+Examination
+GEN:
+GEN no acute distress, well developed, well nourished.
+EYE PERRLA, EOMI, conjunctivae clear.
+ENT TM's clear. Nares patent. Post Phar clear.
+NECK no adenopathy, supple, no goiter, trachea midline.
+CV regular rate and rhythm.
+PULM clear to auscultation, symmetric air movement.
+ABD normoactive bowel sounds, soft, nontender, no hepatosplenomegaly.
+EXT no clubbing or cyanosis, no edema.
+DERM no rash or suspicious lesions.
+PSYCH normal hygiene and grooming, euthymic, eye contact appropriate.
+MSK no gross deformity, normal ROM, normal muscle strength.
+NEURO CN II-XII grossly intact, normal muscle tone, normal motor function, sensation grossly intact, gait normal, speech clear.
+MALE no lesions, normal penis, normal scrotum and testes, no inguinal hernia.
+RECTAL no hemorrhoids or lesions, brown stool in vault, heme negative stool. normal prostate.
+Assessments
+1. Annual physical exam - Zoo.00 (Primary)
+2. Screening for colon cancer - Z12.11
+3. Bigeminy - 149.9
+4. Hyperlipidemia, mild - E78.5
+Treatment
+1. Annual physical exam
+LAB : CMP ( Comprehensive Metabolic Panel ) LAB : TSH , High Sensitivity LAB : CBC with Diff LAB : Urinalysis automated w / o Microscopy ( in house )
+||Glucose|neg|
+||Bili|neg|
+||Ketones|neg|
+||Spec. Gravity|1.010|
+||Blood|neg|
+||pH|5.5|
+
+Patient: SANSING, JERRYR DOB: 06/27/1942 Progress Note: Shane Ridge, DO 10/10/2018
+Note generated by e ClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.j... 8/30/2019
+
+-------------------------------------------
+-------------------------------------------
+Page 6 of 8
+Protein
+neg
+Urobilinogen
+0.2
+Nitrite
+neg
+Leukocyte Esterase
+Parrish MA,Elizabeth 10/10/2018 09:11:50 AM EDT > In- house testing completed as ordered.
+neg
+IMAGING: EKG with Interpretation (in house)
+Parrish MA,Elizabeth 10/10/2018 09:11:01 AM EDT > In- house testing completed as ordered. RIDGE,SHANE
+10/10/2018 02:20:26 PM EDT > Sinus bigeminy (new) 64 beats per minute. No ischemic changes
+Notes:
+HEART DISEASE
+Heart disease is the number one cause of death in Americans over age
+65. ASCVD (atherosclerotic coronary vascular disease, heart disease/heart attack) risk can be estimated using tools from the American Heart Association & the American College of Cardiology and the NIH. The tools also show who is likely to benefit from 'statin' drugs.
+The tools are available online or smartphone app. Know your risks.
+http://www.cvriskcalculator.com/
+CANCER Risks & Screening:
+1. Lung: Lun cancer is by far the most common cause of cancer death.
+Most cases are linked to tobacco use. Screening for lung cancer is available to high risk patients. The best thing you can do is quit smoking if you have not already. Otherwise, continue not to smoke.
+2. Prostate: As of 2017, virtually no medical groups recommend routine screening for prostate cancer, particulalry as men age. For more information see:
+American Urology Association:
+https://www.auanet.org/guidelines/early-detection-of-prostate-cancer-
+(2013-reviewed-and-validity-confirmed-2015
+).
+US Preventative Services Task Force:
+https://screeningforprostatecancer.org/
+The National Cancer Institute:
+http://www.cancer.gov/cancertopics/pdq/screening/prostate/Patient/p
+age1
+The American Cancer Society:
+https://www.auanet.org/guidelines/early-detection-of-prostate-cancer-
+(2013-reviewed-and-validity-confirmed-2015
+)
+3. Colon. Begin colon cancer screening at age 50 unless circumstances dictate sooner. This has definitely helped save lives. Between colonoscopies, an annual stool-occult blood test (in conjunction with the DRE). Repeat colonoscopies depend on history and prior findings.
+Patient: SANSING, JERRYR DOB: 06/27/1942 Progress Note: Shane Ridge, DO 10/10/2018
+Note generated by e ClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.j... 8/30/2019
+
+-------------------------------------------
+-------------------------------------------
+Page of 8
+Continuing colonoscopy evaluation after 75 is recommended on a case by case evaluation. A tool from the National Cancer Instigute on Colon
+Cancer Risk Assessment Tool:
+http://www.cancer.gov/colorectalcancerrisk/
+.Sn: protect your skin from the sun.
+Skin Cancer Risks: ABCD s (Asymmetric lesion, Border irregularity, multiple Colors, Diameter 6mm)
+ACCIDENTS
+Automobile accidents are the 1 cause of accidental deaths.
+ear your seatbelt, don t drive distracted. Alcohol, substances and emotions contribute to accidents. 26 of all auto accidents involve a cell phone
+ACCINES
+Recommended vaccines: lu s ot annually. Tetanus every 10 years.
+s ngles 1 at age 60. Pneu on a: a 2-shot series starting at age 65. If you have a chronic disease or immune suppression, get a pneumonia vaccine every 5 years.
+HEALTH LI IN Diet: Low salt, low carb, high fiber diet. Vegetarian diet has been associated with less heart disease and other diets. Mediterranean Diet has been shown to decrease heart disease. E ercise: Daily aerobic e ercise, at least 30 mins per day. 30 minutes weight bearing e ercise at least three days a week for bone strength. E ercise has a multitude of benefits including heart and vascular disease, diabetes, arthritis, mental health and cognition.
+AD ANCED DIRECTI ES
+Please consider assigning one person to be a 'healthcare representative' who can speak for you and make medical decisions for you in the event that you are not able to speak for yourself. Connecticuts Attorney eneral has a basic form outlining advanced directives for healthcare:
+http://www.ct.gov/ag/cwp/browse.asp a 2130&bc 0&c 1 27
+C MM NICATI N ITH OUR DOCTOR & STAFF: The Patient Portal
+Please activate your patient portal if you have not done so already. The patient portal allows you to e change email though your medical chart. ou can review your list of medical conditions and most blood test results ou can request medication refills and schedule appointments.
+Help with the portal: 60-35 0-60 O
+2. Screening for colon cancer
+LAB: Stool Guaiac x 1 (screening - in house)
+3. Bigeminy
+LAB: CMP (Comprehensive Metabolic Panel)
+LAB: TSH, High Sensitivity
+LAB: CBC with Diff
+Patient: SANSING, JERRYR DOB: 06/27/1942 Progress Note: Shane Ridge, DO 10/10/2018
+Note generated by e ClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.j... 8/30/2019
+
+-------------------------------------------
+-------------------------------------------
+Page 8 of 8
+Referral To:Subramanian Krishnan Cardiology
+Reason:76 yo M with new finding of bigeminy. Hx of early
+RBBB, IVCD. Otherwise healthy.
+4. Hyperlipidemia, mild
+LAB: Lipid Panel
+5. Others
+Notes: => Prevnar13, Annual flu shots recommended. Patient declined.
+Preventive Medicine
+Adult:
+Habits: limit alcoholic drinks to 2/d (men), wear seatbelts, avoid alcohol before driving. have working smoke alarms.
+Procedure Codes
+82274 Blood Occult Fecal Hemoglobin Determination Immunoassay
+Qualitative Feces 1-3 Simultaneous Determinations, Modifiers: QW
+93000 EKG with Interpretation/Report
+81003 Urinalysis Automated without Microscopy, Modifiers: QW
+Follow Up
+1 Year CPX
+Sh
+uch
+Electronically signed by SHANE RIDGE , DO on 10/10/2018 at 02:20 PM EDT
+Sign off status: Completed
+Westbrook MH Primary Care
+250 Flat Rock Place
+Physician Office One
+WESTBROOK, CT 064981565
+Tel: 860-358-3640
+Fax: 860-358-8656
+Patient: SANSING, JERRYR DOB: 06/27/1942 Progress Note: Shane Ridge, DO 10/10/2018
+Note generated by e ClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+https://mhpcapp.intra.midhosp.org/mobiledoc/jsp/catalog/xml/printMultipleChartOptions.... 8/30/2019
+
+-------------------------------------------
+-------------------------------------------

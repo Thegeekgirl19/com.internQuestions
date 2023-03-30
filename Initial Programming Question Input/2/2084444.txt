@@ -1,0 +1,547 @@
+NextGen Patient Record
+Name: Walsh, Patricia A
+DOB: 12/11/1945
+|Collection Date & Time|12/14/2017 07:59|12/09/2016 09:21|
+|Complete Blood Count|||
+|White Blood Count|4.6|5.7|
+|Hemoglobin|15.0|14.6|
+|Hematocrit|44.4|43.7|
+|Platelet Count|275|234|
+|Band Neutrophil||DNR|
+|Band Neutrophil, Absol.||DNR|
+|Basophil|0.6|0.3|
+|Basophil, Absolute|0.03|17|
+|Blast||DNR|
+|Blast, Absolute||DNR|
+|Comment|No comment|DNR|
+|Eosinophil|2.2||
+|Eosinophil, Absolute|0.10|91|
+|Immature Granulocyte|0.4||
+|Immature Granulocyte,|0.02||
+|Lymphocyte|37.1|34.5|
+|Lymphocyte, Absolute|1.72|1967|
+|MCH|32.6|32.7|
+|MCHC|33.8|33.5|
+|MCV|97|97.6|
+|Metamyelocyte||DNR|
+|Metamyelocyte, Absolu...||DNR|
+|Monocyte|10.6|8.9|
+|Monocyte, Absolute|0.49|507|
+|MPV|10.9|9.6|
+|Myelocyte||DNR|
+|Myelocyte, Absolute||DNR|
+|Neutrophil|49.1|54.7|
+|Neutrophil, Absolute|2.28|3118|
+|nRBC|0.0|DNR|
+|nRBC, Absolute|0.00|DNR|
+|Promvelocyte Absolute||DNR|
+
+
+-------------------------------------------
+-------------------------------------------
+|Collection Date & Time|12/14/2017 07:59|12/09/2016 09:21|
+|Promyelocytes||DNR|
+|RDW|12.1|12.6|
+|Reactive Lymphocytes||DNR|
+|Red Blood Count|4.60|4.48|
+|Comprehensive Metab|||
+|African American Estim.|>60|86|
+|AGAP|12|16|
+|Alanine Aminotrans (AL.|30|25|
+|Albumin|4.9|4.8|
+|Albumin/Globulin Ratio|2.3|2.1|
+|Alkaline Phosphatase|82|80|
+|ALT|||
+|Aspartate Aminotrans (|35|34|
+|AST|||
+|Bilirubin, Total|0.7|0.6|
+|Blood Urea Nitrogen (B..|18|21|
+|BUN / Creatinine Ratio|23|26|
+|BUN/CREATININE RA...|||
+|Calcium|10.1|9.9|
+|Carbon Dioxide|28|25|
+|Chloride|100|103|
+|Creatinine|0.8|0.8|
+|eGFR|>60|71|
+|eGFR AFRICAN AMER.|||
+|eGFR NON-AFR. AME.|||
+|Globulin|2.1|2.3|
+|Glucose|105|106|
+|Potassium|4.9|5.0|
+|Protein, Total|7.0|7.1|
+|Sodium|140|144|
+|UREA NITROGEN (BU...|||
+
+
+-------------------------------------------
+-------------------------------------------
+ElectronisklesizashBy: Nawaz, Hafsa YP 120728744:39:38AY1 PM PAGE
+27003
+Fax Server
+Walsh, Patricia (MR # MR2495329) DOB: 12/11/1945
+Walsh, Patricia
+MRN: MR2495329
+Description: 71 year old female
+Progress Notes
+Encounter Date: 11/21/2017
+Fernando, Surani Rita, MD Endocrinology. Diabetes & Metabolism
+Subjective:
+Patricia Walsh is a 71 y.o. female who had concerns including Hypothyroidism.
+HPI
+Ms Walsh is here for follow up. She does report fatigue due to decreased sleep-JSF1 'las a result of back pain (55121. She exercises--walking, yoga, weights. 1-2 hours a day.ISF1. 1) She has back pain, had physical therapy 1851. She denies any compressive symptoms such as dysphagia, hoarseness or stridor. She also denies any other symptoms of hypo or hyperthyroidism.
+Previous Medications
+ATENOLOL (TENORMIN) 25 MG TABLET
+Take 25 mg by mouth daily
+LACTOBACILLUS ACIDOPHILUS (PROBIOTIC ORAL) Take by mouth
+LEVOTHYROXINE (SYNTHROID, LEVOTHROID) 88 MCG Take 1 tablet (88 mcg total) by mouth daily
+TABLET
+SUMATRIPTAN (MITREXI 100 MG TABLET
+Take 100 mg by mouth every 2 (twe) hours as needed
+ZOLPIDEM (AMBIEN CR) 12.5 MG CR TABLET
+Take 5 mg by mouth nightly as needed
+Levothyroxine 88mcg qd.
+Patient's medications, allergies, problem list, past medical, surgical, social and family histories were reviewed and updated as appropriate.
+Review of Systems
+All other systems reviewed and are negative
+Objective:
+BP 92/60 | Pulse 69 Mt 5 8.8' (1.748 m) Wt 63 kg | BMI 20.65 kg/m2!1,31
+Physical Exam
+Constitutional: Appears to be in no distress
+HENT:
+Mouth/Throat: Oropharynx is clear and moist.
+Eyes: Conjunctiva non injected
+Neck: No masses present. No thyromegaly present.
+Cardiovascular: Normal rate, regular rhythm. No murmur heard.
+Pulmonary/Chest: Clear to auscultation
+Musculoskeletal: No peripheral edema. No kyphoscoliosis
+Lymphadenopathy. No cervical adenopathy.
+Skin: Skin is warm and dry
+Neuro: Grossly non-focal
+Psychiatric: Normal mood and affect.19F1 21
+I
+V
+Recent labs reviewed in detail with patient. Pertinent labs include:
+Walsh, Patricia (MR # MR2495329) Printed by Fernando, Surani Rita, MD (FERNANSY) at
+11/21/17 5:55 PM
+Page 1 of 2
+
+-------------------------------------------
+-------------------------------------------
+2032851261
+11/21/2017 5:56:11 PM PAGE
+37003
+Fax Server
+Walsh , Patricia ( MR # MR2495329 ) DOB : 12/11/1945 Fernando , Surani Rita , MD ( continued ) Diabetes & Metabolism
+Endocrinology
+|Component Lates Ref Rng & Units|11/14/2017|12/9/2016|
+|TSH, 3rd Generation 0,40- 4.50 miur|0.89|0.70|
+|Vitamin D. 25 OH, Total 30-100 ng/ml.|38||
+
+Bone density: 1168F11211371 29/2011SF* 117|SF12 T score at the lumbar spine 0.85111518F5.21, Right femoral neck -
+1.8F11841851.21 Right Total hip - 1.159.110/5 21
+FRAX score is spi 18.81863.21% of any osteoporotic fracture andS1ll1.33F1.210% of Hip fracture
+Assessment/Plan:
+1. Hypothyroidism Clinically, Ms. Walsh appears euthyroid. Her TSH is no S 1.1rmal.(SF121 She will continue
+Levothyroxine 88 mcg a day. I have reviewed with her the proper administration of the medication. She will have repeat thyroid function tests in 1 year'sFt 1) or sooner with new symptoms.
+2. Postmenopausal. She did have early menopause after hysterectomy at age 42.11
+I reviewed with patient her SF1.4) current1951.21 bone density results, which indicate osteopenia SF11 and fortunately!SF* 2) low FRAX score. We discussed 'ST 1) dietary sources of SF: 21 Calcium and Vitamin D and the importance of weight- bearing exercise. Repeat DEXA in 11/2015-1 1199 2] SE: 3
+1951.21
+Revision History
+>
+|User Key|Date/Time|User|Provider Type|Action|
+|SF1.2|11/21/2017 5:55 PM|Fernando, Surani Rita, MD|Physician|Sign|
+|SF1.3|11/21/2017 1:39 PM|Fernando, Surani Rita, MD|Physician||
+|SF1.1|11/21/2017 1:37 PM|Fernando, Surani Rita, MD|Physician||
+
+Follow-Up on 11/21/2017
+Walsh, Patricia (MR # MR2495329) Printed by Fernando, Surani Rita, MD (FERNANSY) at
+11/21/17 5:55 PM
+Page 2 of 2
+
+-------------------------------------------
+-------------------------------------------
+Electronically signed By: Walaliyadda, Anuruddha MD 06/11/2018 10:04:44 PM
+4/11/2015 10:30:34 AM
+The Eye Care Grove, FC
+Page of |ROBERT LESSER, MD AROND. ROSE, MD JOEL A GEFFIN, MD CINTHIA G.COVEY, MD|STANLEYB. HERSH, MD PETERJ.BRANDEN,MO IGNATHANE un STEVENC.THORNQUIST,MD NHU-YDAO, MD|ANDREWI.LEVADA, MD STEPHANIE SUGIN, MD AMIELLES AUDICALMO THOMAS L. BERENBERG, MD ERIKA N. WANDEL, MD|CRAIG A SKLAR,MD VANINA KOSTINA, MD MD| |SUTTE 100 CTOUTGB m. fax|200 MIVER HOAD SUITE 100 (T l'AX:|22 OLD WATERSUNT MUAD SUTTE 202 CT m. 183-597-9100 nax|PARK DRIVE SUITE 102 m.|
+|||Vist DE enline at|www.theeyeceregraup.com|
+|Walsh 2018||||
+|LLC||||
+|||||
+|Walsh.||||
+|and a slowly|progressive ptosis of the|left upper lid that she|chooses to monitor.|
+
+. ..... ZARI X .......... JOAN P. DRAPER , 1201 WESTMINSTWEET NON
+012
+203-567-9103 2.05 15:40 11-0451
+051843
+The Eye Care Group
+t.co/emce mo Comanssion to Eye Care
+PATIENT:
+DATE OF BIRTH
+DATE OF EXAM:
+Patricia 12/11/1945 April 10 , Dr. Hafsa Nawaz The West Haven Medical Group , 687 Campbell Avenue West Haven , CT 06516 Dear Dr. Nawaz I saw our mutual patient , Patricia Pat has very early cataracts , . The following is a report of my findings for your records
+Patricia Walsh is an established patient who is seen for a comprehensive exam
+Chief Complaint and HP!
+Other age-related incipient cataract, bilateral : Pt notes vision has been stable since her last visit with no additional concems.
+Ptosis LUL: Pt notes her LUL has been drooping and is not sure if anything can be done
+Kerato-conjunct Sicca : Pt states eyes are always dry and she does use AT's when needed.
+Past Eye and Medical History
+The patient wears glasses
+The patient does not wear contact lenses.
+Past Eye History
+Ocular Disease
+Diplopia
+Eye
+When
+Active Eye Meds:
+ARTIFICIAL TEARS
+Dosing Schedule:
+Past Systemic Medical History
+No history of diabetes.
+High blood pressure
+No history of cancer.
+Patrica Walsh / 000000009368 / April 10, 2018 Page: 1
+
+-------------------------------------------
+-------------------------------------------
+1/11/2016 10.32:56 AM
+There are Group. PC Par
+Page 1 of 3
+os: flat, no hemorrhage, exudates or pigmentation changes
+Vessels:
+OD: normal
+OS: normal
+Periphery:
+OD: flat x 360 degrees, no holes/RD os flat x 360 degrees, no holes/RD
+Problems, Assessments and Plans
+Mechanical ptosis of left eyelid
+Pt reports lowering over time. Now bisects pupil
+Plan:
+JES consult prn
+ 
+Early
+Other age-related incipient cataract, bilateral
+Plan:
+update glasses Rx.
+ Open angle with borderline findings, low risk, bilateral
+Normal baseline VF and gonio. Neuro-retinal rims normal and healthy.
+Plan:
+OD
+Hypermetropia, right eye
+Plan:
+Follow-up Appt.
+comprehensive exam
+Time Frame
+1 Year
+Please feel free to contact me if I can provide any further information
+Sincerely, AD. Portan
+Aron D. Rose, M.D.
+Patricia Walsh / 000000009368/ April 10, 2018 Page: 5
+
+-------------------------------------------
+-------------------------------------------
+UV18 10:30 ES AM
+The Eye Care Group, PO Far
+Pesofa
+Electronically signed by Aron D. Rose M.D. on 04/10/2018 01:17 PM
+Patricia Walsh / 000000009368 / April 10, 2018 Page 6
+
+-------------------------------------------
+-------------------------------------------
+CONTENTS
+Encounter: 1/5/2018 11:30:00 AM
+Master_Im
+Walsh, Patricia A. 000000013493 12/11/1945 01/05/2018 11:30 AM 217
+PATIENT: Patricia Walsh
+DATE OF BIRTH: 12/11/1945
+DATE: 01/05/2018 11:30 AM
+VISIT TYPE: Preventive Medicine
+This 72 year old female presents for medicare preventive, Follow up on lab test(s), Follow Up of Dizziness and Back pain.
+History of Present Illness:
+1. medicare preventive
+The patient has not felt depressed and has had interest and pleasure doing things recently. The patient does not need help with activities of daily living. The patient is not at risk for falls. The patient has not fallen in the last year. The fall(s) did not result in injury. Patient's activity level is moderate. Patient exercises daily. The patient has smoke detectors, carbon monoxide detectors, oil heating in the home. The patient does not have firearms in the home. There is no radon in the patient's home. Patient reports using a seatbelt in vehicles.PT GETTING OVER COLD Patient reports a healthy diet. Patient reports recent weight loss of 2 lbs, 0.91 kgs over 6 Months. Patient reports taking a calcium supplement.
+Patient reports taking a vitamin D supplement. Patient reports taking a multivitamin daily. Patient does not take folic acid.
+Relevant history
+is positive for alcohol use.
+2. Follow up on lab test(s)
+12-14
+3. Follow Up of Dizziness
+Severity is severe. The problem is acute. It occurs intermittently. The patient describes it as (an) spinning. It occurs while
+VERTIGO.
+4. Back pain
+Onset: 3 months ago. Severity level is moderate-severe. It occurs intermittently. Location of pain is lower back.The patient describes the pain as an ache and sharp.
+PROBLEM LIST:
+Problem Description Onset Date Chronic
+Gastritis N
+Dyspareunia 12/09/2014 N
+Abnormal weight loss 12/09/2014 N
+Hypothyroidism 09/28/2010 N
+Insomnia 09/28/2010 N
+Lipoma (clinical) 12/09/2014 N
+Joint pain 12/09/2014 N
+Osteoarthritis 09/28/2010 N
+
+-------------------------------------------
+-------------------------------------------
+Migraine 09/28/2010 N
+Backache 12/09/2014 N
+Gastric diverticulum N
+PAST MEDICAL/SURGICAL HISTORY (Detailed)
+Disease/disorder Onset Date Management Date Comments
+Appendectomy
+Arthroscopies
+Walsh, Patricia A. 000000013493 12/11/1945 01/05/2018 11:30 AM 317
+Hysterectomy, total
+TKA 01/2014
+Arthritis
+Headache, migraine
+Thyroid disease
+DIAGNOSTICS HISTORY:
+Test Ordered Interpretation Result completed
+CHEST X-RAY
+Bilateral
+12/16/2013 see scanned
+report
+12/16/2013
+Colonoscopy 08/26/2015 see details IND: FH of colon ca. Diarrhea. Normal mucosa in the TI. Normal mucosa in the ascending colon and descending colon. Exam otherwise normal.
+Biopsies: unremarkable.
+09/24/2015
+EYE EXAM PT GOES YRLY 04/20/2016
+MAMMOGRAM, SCREENING negative See scanned report. 12/21/2016
+DXA BONE
+DENSITY, AXIAL
+osteopenia See scanned report. 11/18/2015
+DXA BONE
+DENSITY, AXIAL
+See scanned report. 12/07/2017
+MAMMOGRAM, SCREENING
+PT GOES YRLY 12/19/2017
+Test Ordered Ordering Comments Modifier
+CHEST X-RAY
+Bilateral
+12/16/2013
+Colonoscopy 08/26/2015 Scheduling: Latha Alaparthi, MD at ECC Hamden. Timeframe: next routine available. Prep: Moviprep. Patient instructed to Continue aspirin Stop NSAIDs (like ibuprofen or naproxen) 3 Days days prior to procedure, take all other usual medications with a small sip of water 3 hours prior to the procedure. ASA Classification: 2.
+EYE EXAM
+
+-------------------------------------------
+-------------------------------------------
+MAMMOGRAM, SCREENING
+DXA BONE
+DENSITY, AXIAL
+DXA BONE
+DENSITY, AXIAL
+MAMMOGRAM, SCREENING
+Family History (Detailed)
+Relationship Family Member Name Deceased Age at Death Condition Onset Age Cause of Death
+Father Cancer, lung N
+Mother Cancer, lung N
+Mother Cancer, colon 65 N
+SOCIAL HISTORY (Detailed)
+Preferred language is English.
+EDUCATION/EMPLOYMENT/OCCUPATION
+Employment History Status Retired Restrictions
+retired
+Walsh, Patricia A. 000000013493 12/11/1945 01/05/2018 11:30 AM 4/7
+MARITAL STATUS/FAMILY/SOCIAL SUPPORT
+Currently married.
+Has children:
+Smoking status: Former smoker.
+CAFFEINE
+The patient uses caffeine: tea - 2 cups a day.
+LIFESTYLE
+Moderate activity level. Exercises daily.
+DIET
+healthy.
+HOME ENVIRONMENT/SAFETY
+Carbon monoxide detector at home. Home heating is oil.
+The patient is not at risk for falls.
+The patient has not fallen in the last year.
+Uses seat belts.
+Advance Directives
+Reviewed
+Medications (active prior to today)
+Medication Name Sig Desc Start Date Stop Date Refilled Elsewhere
+Synthroid 88 mcg tablet take 1 tablet by oral route every day
+12/16/2013 N
+Multiple Vitamins tablet take 1 tablet by oral route every day
+06/04/2015 N
+Calcium+D 500 mg
+(1,250 mg)-200 unit
+tablet
+
+-------------------------------------------
+-------------------------------------------
+take 1 tablet by oral route
+every day
+06/04/2015 N
+Imitrex 50 mg tablet take 1 (50MG) by Oral route prn
+10/14/2015 01/05/2018 10/14/2015 N
+melatonin 3 mg tablet // Y
+Probiotic 10 billion cell
+capsule
+take 1 capsule by oral route
+every morning for 1
+morning
+// Y meclizine 25 mg tablet take 1 tablet by oral route 2 times every day as needed
+07/14/2017 01/05/2018 N
+Ambien 10 mg tablet take 1/2 tablet at bedtime prn
+11/28/2017 11/28/2017 N
+NIFEDIPINE ER 30 MG
+TABLET
+TAKE 1 TABLET BY ORAL
+ROUTE EVERY DAY
+11/29/2017 01/05/2018 01/05/2018 N
+Medication Reconciliation
+Medications reconciled today.
+Medication Reviewed
+Adherence Medication Name Sig Desc Elsewhere Status taking as directed Synthroid 88 mcg tablet take 1 tablet by oral route every day N Verified
+taking as directed melatonin 3 mg tablet Y Verified taking as directed Probiotic 10 billion cell capsule
+take 1 capsule by oral route every morning for 1 morning
+Y Verified taking as directed Ambien 10 mg tablet take 1/2 tablet at bedtime prn N Verified
+taking as directed Procardia XL 30 mg TAKE 1/2 TABLET BY ORAL ROUTE EVERY N Verified
+Walsh, Patricia A. 000000013493 12/11/1945 01/05/2018 11:30 AM 5/7 tablet,extended release DAY
+Allergies
+No known allergies.
+Ingredient Reaction Medication Name Comment
+NO KNOWN
+ALLERGIES
+Reviewed, no changes.
+REVIEW OF SYSTEMS
+System Neg/Pos Details
+Constitutional Negative Change in appetite, chills/rigors, fatigue, fever, fussiness, generalized
+
+-------------------------------------------
+-------------------------------------------
+weakness, increased appetite, irritability, weight gain and weight loss.
+Respiratory Negative Cyanosis, dyspnea, hemoptysis, orthopnea and pleuritic pain.
+Cardio Negative Chest pain and edema.
+GI Negative Abdominal mass, blood in stool, change in bowel habits, heartburn and rectal bleeding.
+GU Negative Nocturia.
+Neuro Negative Aphasia, focal weakness, paresthesia, speech changes and vertigo.
+Psych Negative Feeling down, depressed or hopeless, insomnia and little interest or pleasure in doing things.
+Integumentary Negative Hair loss and rash.
+MS Negative Back pain, difficulty with ADLs and myalgia.
+VITAL SIGNS
+Time BP
+mm/Hg
+Pulse
+/min
+Resp
+/min
+Temp
+F
+Ht ft Ht in Ht cm Wt Ib Wt kg BMI
+kg/m2
+BSA
+m2
+02 Sat%
+11:31 AM 142/75 60 97.6 5.0 8.00 172.72 139.00 63.049 21.13 1.74 98
+MEASURED BY
+Time Measured by
+11:31 AM Chris Pellicano
+Screening Summary:
+The following were reviewed: nutrition, tobacco use, alcohol use, caffeine use and drugs of abuse
+Physical Exam
+Exam Findings Details
+Constitutional Normal No acute distress. Well Nourished. Well developed.
+Nose/Mouth/Throat Normal External nose - Normal. Septum - Normal. Lips/teeth/gums - Normal.
+Neck Exam Normal Palpation - Normal. Range of motion - Normal.
+Respiratory Normal Inspection - Normal. Auscultation - Normal. Palpation - Normal.
+Percussion - Normal. Effort - Normal.
+Cardiovascular Normal Heart rate - Regular rate. Rhythm - Regular. Heart sounds - Normal S1, Normal S2. Extra sounds - None. Extremities - Normal.
+Vascular Normal Pulses - Carotids: Normal, Dorsalis pedis: Normal.
+Abdomen Normal Inspection - Normal. Auscultation - Normal. Percussion - Normal. CVA tenderness - None. No hepatic enlargement. No splenic enlargement.
+Musculoskeletal Normal Overview - Normal. Gait - Normal.
+Neurological Normal Level of consciousness - Normal. Cranial nerves - Cranial nerves II through XII grossly intact. Sensory - Normal. Motor - Normal.
+Psychiatric Normal Orientation - Oriented to time, place, person & situation.
+Immunizations:
+
+-------------------------------------------
+-------------------------------------------
+Walsh, Patricia A. 000000013493 12/11/1945 01/05/2018 11:30 AM 6/7
+Immunization Status Ordered Date Completed Date
+Influenza, injectable, MDCK, preservative free
+Flucelvax Quad 2017-2018
+Completed 01/05/2018 11:30 AM 10/3/2017 12:00:00 AM
+Tdap Completed 12/20/2016 02:00 PM 3/13/2014 12:00:00 AM
+Zoster Completed 12/20/2016 02:00 PM 3/13/2014 12:00:00 AM
+Pneumo (2 yrs or older)(PPV) Completed 12/20/2016 02:00 PM 11/28/2016 12:00:00
+AM
+Influenza, injectable, trivalent, split virus, 4 years and older, Fluvirin 2016-2017
+Completed 12/20/2016 02:00 PM 10/11/2016 12:00:00
+AM
+Pneumococcal conjugate PCV 13 Completed 12/14/2015 01:45 PM 12/14/2015 2:22:04 PM
+Influenza, split virus, injectable, 3 years and older Fluvirin 2015-2016
+Completed 12/14/2015 01:45 PM 10/21/ 12:00:00
+AM
+Influenza, seasonal, injectable (3 yrs or older) Completed 10/11/2014 01:25 PM 10/11/2014 11:35:37
+AM
+Hep A, adult (90632) Completed 11/25/2013 12:00 AM 11/25/2013 12:00:00
+AM
+Influenza (3 years and up) (90658) Completed 09/28/2010 12:00 AM 9/28/2010 12:00:00 AM
+Influenza (3 years and up) (90658) Completed 10/12/2013 12:00 AM 10/12/2013 12:00:00
+AM
+Influenza (3 years and up) (90658) Completed 10/01/2011 12:00 AM 10/1/2011 12:00:00 AM
+Influenza (3 years and up) (90658) Completed 10/23/2012 12:00 AM 10/23/2012 12:00:00
+AM
+Comments / Reaction:
+Order Given Comments Reaction
+Influenza (3 years and up) (90658) 10/01/2011
+Influenza (3 years and up) (90658) 10/12/2013
+Influenza (3 years and up) (90658) 10/23/2012
+Influenza (3 years and up) (90658) 09/28/2010
+Hep A, adult (90632) 11/25/2013 travel to Cuba admRN
+0
+Completed Orders (this encounter)
+Order Side Interpretation Result Details
+ELECTROCARDIOGRAM, COMPLETE
+TO BE READ BY
+DR.
+Immunization Status Administered By
+Influenza, injectable, MDCK, preservative free Flucelvax
+Quad 2017-2018
+Completed
+Assessment/Plan
+# Detail Type Description
+
+-------------------------------------------
+-------------------------------------------
+1. Assessment Encounter for screening for other disorder (Z13.89).
+Patient Plan Counseled regarding importance of relaxation techniques, regular exercises and how to maintain healthy diet and life style. Social network with family and friends also will play an important part of someone's normal mental wellbeing.
+Patient understands the sign and symptoms of depression and will contact if needs to do
+SO.
+time spent 9 min
+2. Assessment Essential (primary) hypertension (110).
+Patient Plan Maintain a regular cardiovascular exercise program. Low salt and low fat diet suggested along with portion control. advised Home BP check and maintain BP diary.
+Plan Orders The patient had the following test(s) completed today ELECTROCARDIOGRAM, COMPLETE.
+3. Assessment Encntr for general adult medical exam w/o abnormal findings (Z00.00).
+Walsh, Patricia A. 000000013493 12/11/1945 01/05/2018 11:30 AM 7/7
+Patient Plan Over all stable physical. All labs and procedures reviewed and discussed with patient. all questions and concerns were addressed.
+Fall Risk Plan
+The patient has not fallen in the last year.
+Medications (Added, Continued or Stopped this visit)
+Started Medication Directions Stopped
+11/28/2017 Ambien 10 mg tablet take 1/2 tablet at bedtime prn
+06/04/2015 Calcium+D 500 mg (1,250
+mg)-200 unit tablet
+take 1 tablet by oral route every day
+10/14/2015 Imitrex 50 mg tablet take 1 (50MG) by Oral route prn 01/05/2018
+07/14/2017 meclizine 25 mg tablet take 1 tablet by oral route 2 times every day as needed
+01/05/2018
+melatonin 3 mg tablet
+06/04/2015 Multiple Vitamins tablet take 1 tablet by oral route every day
+11/29/2017 NIFEDIPINE ER 30 MG TABLET TAKE 1 TABLET BY ORAL ROUTE EVERY DAY 01/05/2018
+Probiotic 10 billion cell capsule take 1 capsule by oral route every morning for 1 morning
+01/05/2018 Procardia XL 30 mg
+tablet,extended release
+TAKE 1/2 TABLET BY ORAL ROUTE EVERY DAY
+12/16/2013 Synthroid 88 mcg tablet take 1 tablet by oral route every day
+Counseling / Educational Factors:
+Counseling / educational factors reviewed.
+Electronically signed by: Hafsa M. Nawaz MD 01/05/2018 12:22 PM
+Document generated by: Hafsa Nawaz 01/05/2018 12:22 PM
+Electronically signed by Hafsa M. Nawaz MD on 01/05/2018 12:22 PM
+
+-------------------------------------------
+-------------------------------------------

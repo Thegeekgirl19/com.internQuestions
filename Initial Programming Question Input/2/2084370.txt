@@ -1,0 +1,610 @@
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+||5 9/18/2018 09:00|4 10/3/2018 08:59|3 8/27/2019 15:50|2 9/6/2019 13:33|1 9/9/2019|
+|CHEMISTRY GE NERAL||||||
+|Sodium|139|||||
+|Potassium|4.6*|||||
+|Chloride|104|||||
+|CO2|27*|||||
+|BUN|15*|||||
+|Creatinine|0.91 *|||||
+|Bun / Creat Ratio|NOT APPLICA BLE *|||||
+|Glucose|106 *|||||
+|Calcium|10.0 *|||||
+|Protein, Total|7.1 *|||||
+|Albumin|4.4'|||||
+|Globulin|2.7*|||||
+|A/G Ratio|1.6*|||||
+|eGFR African Am erican|99 *|||||
+|eGFR Non- African A|86 *|||||
+|Bilirubin Total|0.6*|||||
+|Aspartate Aminot ra|25 *|||||
+|Alanine Aminotra ns.|12 *|||||
+|Alkaline Phospha tase|46 *|||||
+|LIPID PROFILE||||||
+|Cholesterol|219 *|||||
+|Triglycerides|43 *|||||
+|HDL|58 *|||||
+|LDL Cholesterol|148 *|||||
+|Cholesterol/HDL Ratio|3.8|||||
+|Non HDL Chol. ( LDL|161 *|||||
+|TUMOR/MALIG NANCY M.||||||
+|PSA, Total|1.6|||||
+
+...
+...
+*
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+1/2
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+||5 9/18/2018 09:00|4 10/3/2018 08:59|3 8/27/2019 15:50|2 9/6/2019 13:33|1 9/9/2019|
+|POINT OF CAR E TESTING||||||
+|Source, UA||Voided||||
+|Color, UA||Yellow||||
+|Clarity, UA||Clear||||
+|Glucose, UA||Negativ e||||
+|Bilirubin, UA||Negativ e||||
+|Ketones, UA||Negativ e||||
+|Spec Grav, UA||1.010||||
+|Blood, UA||Negativ e||||
+|pH, UA||7.0||||
+|Protein, UA||Negativ e||||
+|Urobilinogen, UA||0.2||||
+|Nitrite, UA||Negativ e||||
+|Leukocyte Estera se||Negativ e||||
+|Urine Output, UA||20||||
+|Rapid Strep A Sc reen|||Negativ e|||
+|Quality Control||Pass|Pass|||
+|GENERAL DIAG NOSTIC||||||
+|XR CHEST 2 VIE WS||||||
+|XR HIP W PELVI S 2||||||
+|XR RIBS 3 VIEW S-LE||||||
+
+...
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp? WhichFrame=3&Action=Print
+2/2
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE (13813]
+Vile, Russell E (MR # 2000910242) DOB: 03/31/1949 Encounter Date: 10/03/2018
+Russell E Vile
+10/3/2018 8:30 AM Office Visit
+MRN: 2000910242
+Description: Male DOB: 3/31/1949 Provider: James Scarles, MD Department: HHCMG Mystic Medical Group
+ Diagnoses
+Reason for Visit
+Annual
+Wellness Visit
+Reason for Visit History
+Routine medical exam - Primary
+Codes: 200.00
+Benign essential HTN
+Codes: 110
+Dystonia
+Codes: G24.9
+Erectile dysfunction, unspecified erectile dysfunction
+type
+Codes: N52.9
+Progress Notes
+Progress Notes by Jessica Haynes, LPN at 10/3/2018 8:35 AM
+Author: Jessica Haynes, LPN Author Type: Licensed Nurse Filed: 10/3/2018 9:19 AM
+Note Status: Signed
+Cosign: Cosign Not Required Encounter 10/3/2018
+Date:
+Editor: James Scarles, MD (Physician)
+Prior 1. Jessica Haynes, LPN (Licensed Nurse) at 10/3/2018 8:37 AM - Sign at close encounter
+Versions:
+Assessment and Plan
+Assessment
+Russell was seen today for annual wellness visit.
+Diagnoses and all orders for this visit:
+Routine medical exam
+Benign essential HTN
+Dystonia
+Continue present antihypertensive therapy. We discussed the use of statin therapy for hyperlipidemia. The patient wishes to avoid statins because of previous side effects. I concur.
+Continue red yeast rice.
+Beta sorbitol, the patient finds this helpful for symptoms of benign prostate hypertrophy.
+Mild elevations of LDL and glucose. Consider laboratory studies in March.
+No results found for this or any previous visit (from the past 2 hour(s)).
+vile, Russell E (MRN 2000910242) Printed by Christine Rodriguez [13813] at 10/31/19 10:58 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/11
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+Vile, Russell E (MR # 2000910242) DOB: 03/31/1949 Encounter Date: 10/03/2018
+Screening
+During the course of the visit the patient was educated and counseled about appropriate screening and preventive services including:
+Nutrition counseling
+Screening Counseling & Education
+Cardiovascular screening is current.
+Communication barriers and lifestyle preferences were addressed with the patient. The care plan including medications and self-management goals were reviewed to the best of the patient's abilities. All questions and concerns were answered. Patient and/or family verbalized understanding of the plan of care.
+Patient has been provided with verbal and written information about the scope of services included in a preventative examination. Patient agrees that medical problems / concerns will be evaluated and managed during this visit and may result in a separate office visit and billing charge. Yes
+Subjective
+Subjective
+Russell E Vile, 69 y.O., presents to the clinic today for his annual medicare wellness visit.
+69-year-old gentleman complete Medicare physical examination. New
+Status post resection of a skin lesion from his left arm in 2018. Procedure complicated by radiating pain and numbness down the left arm to the left hand. The patient is unwilling to see a neurologist with regard to this complication.
+Facial dystonia right side, worse in the evening when he is tired
+Social determinants of health: Physically active. Retired. Winters in Mexico. He is careful about alcohol. He drinks 2-3 coffees per day.
+Hypertension managed on lisinopril 5 mg daily.
+Benign prostate hypertrophy patient takes beta sorbitol. He notes improvement in his symptoms.
+Hyperlipidemia, he takes red yeast rice.
+Medicare Screening Tests and Risk Assessments
+Hospitalizations
+Previous hospitalizations within the past year: yes July for a fall
+Screenings
+ECG:recent
+Osteoporosis Risk Assessment: race caucasian and age >50
+HIV Risk Assessment: none identified vile, Russell E (MRN 2000910242) Printed by Christine Rodriguez [13813] at 10/31/19 10:58 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/11
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+Vile, Russell E (MR # 2000910242) DOB: 03/31/1949 Encounter Date: 10/03/2018
+Mood Disorder
+PHQ-2:PHQ-2 Total Score: 0
+GAD-2:GAD-2 Total Score : 0
+Functional Ability/Level of Safety.
+Current Activities:
+ADL's: unlimited
+Fall Risk Screening:
+Have you fallen in the past year?: (!) Yes
+Do you have difficulty walking, or getting out of a bed or chair ?: No
+Timed 'Get Up and Go' test: < / equal to 20 sec
+Fall Risk Factors: none identified
+Home Safety Risk Factors: no grab bars in the bathroom
+Cognitive Impairment Screening:
+no impairments identified
+Advanced Directives
+Has advanced directives
+Pertinent History.
+The following portions of the patient's history were reviewed and updated as appropriate: allergies, current medications, problem list, past medical history, past surgical history, past family history, past social history and recent labs.
+Review of Systems
+Constitutional: Negative for fatigue and unexpected weight change.
+HENT: Positive for dental problem. Negative for hearing loss.
+Facial dystonia
+Eyes: Negative for visual disturbance.
+Up-to-date eye doctor
+Respiratory: Negative for apnea, cough, shortness of breath and wheezing.
+Cardiovascular: Negative for chest pain and palpitations.
+Heart murmur since childhood
+Gastrointestinal: Negative for abdominal pain, blood in stool, constipation and diarrhea.
+Colonoscopy scheduled March 2019
+Endocrine: Negative for polyuria.
+Genitourinary: Positive for frequency. Negative for decreased urine volume, difficulty urinating and urgency.
+Musculoskeletal: Negative for arthralgias, back pain and myalgias.
+Skin: Negative for rash.
+Allergic/Immunologic: Negative for environmental allergies.
+Neurological: Negative for dizziness, weakness and headaches.
+Facial dystoni
+Psychiatric/Behavioral: Negative for decreased concentration and dysphoric mood. The patient is not nervous/anxious.
+Objective
+Objective
+Vitals:
+10/03/18 0819
+Vile, Russell E (MRN 2000910242) Printed by Christine Rodriguez [13813] at 10/31/19 10:58 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/11
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+BP:
+Vile, Russell E (MR # 2000910242) DOB: 03/31/1949 Encounter Date: 10/03/2018
+(!) 156/90
+Pulse:
+(!) 59
+Resp:
+14
+Temp: 98.3 F (36.8 C)
+Sp02:
+98%
+Weight:
+78.9 kg (174 lb)
+Height: 1.727 m (5' 8')
+Physical Exam
+Constitutional: He is oriented to person, place, and time. He appears well-developed and well- nourished.
+Fit
+HENT:
+Right Ear: External ear normal.
+Left Ear: External ear normal.
+Mouth/Throat: Oropharynx is clear and moist.
+Eyes: Conjunctivae and EOM are normal. Right eye exhibits no discharge. No scleral icterus.
+Neck: Neck supple. No thyromegaly present.
+Cardiovascular: Normal rate, regular rhythm and intact distal pulses.
+Murmur (3/6 systolic ejection murmur best heard at the right second intercostal space. S1 and S2 are noted.) heard.
+Pulmonary/Chest: Effort normal and breath sounds normal. He has no wheezes. He has no rales.
+Abdominal: Soft. He exhibits no distension. There is no tenderness.
+Small, reducible umbilical hernia
+Genitourinary: Rectal exam shows guaiac negative stool.
+Genitourinary Comments: Mild prostate enlargement
+Musculoskeletal: He exhibits no edema.
+Lymphadenopathy:
+He has no cervical adenopathy.
+Neurological: He is alert and oriented to person, place, and time. No cranial nerve deficit.
+Coordination normal.
+Skin: No rash noted. No erythema.
+Scar left forearm
+Psychiatric: He has a normal mood and affect. His behavior is normal.
+Vitals reviewed.
+Laboratory data reviewed
+CT scan chest reviewed
+James Scarles MD
+Medications Ordered This Encounter
+Disp Refills Start
+End
+clonazePAM (KlonoPIN) 0.5 MG tablet
+60 tablet 5
+10/3/2018 4/23/2019
+(Discontinued)
+TAKE 1 TABLET BY MOUTH TWICE A DAY ( EVERY 12 HOURS ) AS NEEDED FOR DYSTONIA
+Notes to Pharmacy: This request is for a new prescription for a controlled substance as required by
+Federal/State law.
+Reason for Discontinue: Reorder sildenafil (VIAGRA) 100 MG tablet (Discontinued) 10 tablet 11
+10/3/2018 10/3/2018
+Viagra 100 mg oral tablet
+Reason for Discontinue: Reorder
+Vile, Russell E (MRN 2000910242) Printed by Christine Rodriguez [13813] at 10/31/19 10:58 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+4/11
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+Vile, Russell E (MR # 2000910242) DOB: 03/31/1949 Encounter Date: 10/03/2018
+Discontinued Medications
+Reason for Discontinue
+famciclovir (FAMVIR) 500 mg tablet
+ketoconazole (NIZORAL) 2 % cream
+fluorouracil (EFUDEX) 5 % cream
+Therapy completed
+Therapy completed
+Immunization Questions 10/3/2018
+Orders placed This
+Encounter
+|||Influenza|Question 10/03/2018 Have you|Answer Comment NO|
+|||Inactivated/Split|ever had a||
+|older||Preservative Free IM|serious reaction to eggs or chicken protein? Have you ever had a serious reaction to any vaccine the past? Are you sick today with moderate to severe acute illness (e.g. T> 101.3F)? Verbal or Written (Scanned Chart) Consent|NO in NO a Consent Given Into| ||||Obtained||
+||||from||
+||||Patient/Parent||
+||||or Guardian?||
+
+Normal Orders This Visit Flu Vaccine HHC Seasonal 0.5mL PF Syringe Adults / Children 3 years and [ IMM19 Custom ] POCT Urinalysis Dipstick , Automated [ POC154 Custom ]
+Medication List Reviewed
+User
+ELLIANA ROBBINS, MA [932]
+Date and Time
+9/23/2019 1:37 PM
+Results: POCT Urinalysis Dipstick, Automated
+Status: Final result (Collected: 10/3/2018 8:59 AM)
+Vile, Russell E (MRN 2000910242) Printed by Christine Rodriguez [13813] at 10/31/19 10:58 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+5/11
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+|Russell E (MR # 2000910242)|DOB: 03/31/1949 Encounter Date: 10/03/2018||
+|Component|Value|Standard Range & Units|
+|Source, UA|Voided||
+|Color, UA|Yellow|Yellow & Clear, Yellow|
+|Clarity, UA|Clear|Clear|
+|Glucose, UA|Negative|Negative|
+|Bilirubin, UA|Negative|Negative|
+|Ketones, UA|Negative|Negative|
+|Spec Grav, UA|1.010|1.005, 1.010, 1.015, 1.020, 1.025|
+|Blood, UA|Negative|Negative|
+|pH, UA|7.0|5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0|
+|Protein, UA|Negative|Negative|
+|Urobilinogen, UA|0.2|0.2, 1.0|
+|Nitrite, UA|Negative|Negative|
+|Leukocyte Esterase, UA|Negative|Negative|
+|Urine Output, UA|20|CC|
+|Lot Number|802038||
+|Quality Control|Pass|Pass|
+||View Complete Results||
+
+Vile , w Vitals
+BP
+140/80
+Pulse
+59 !
+Temp
+98.3 F (36.8 C)
+Resp
+14
+Ht
+1.727 m (5' 8')
+BMI
+Wt
+78.9 kg (174 lb)
+SpO2
+98%
+26.46 kg/m 
+Smoking Status
+Former Smoker
+Patient Instructions
+Body mass index is 26.46 kg/m2.
+Follow-up and Dispositions
+ Return in about 1 year (around 10/3/2019) for Annual ex 45 min.
+Follow-up and Disposition History
+All Flowsheet Templates (all
+recorded)
+Advance Directives
+Audit-C
+Bone Density
+Custom Formula Data
+Encounter Vitals
+GAD-7 Anxiety Screen
+Health Risk Assessment
+Mini-Cog
+Misc Screenings
+Vile, Russell E (MRN 2000910242) Printed by Christine Rodriguez [13813] at 10/31/19 10:58 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+6/11
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+Vile, Russell E (MR # 2000910242) DOB: 03/31/1949 Encounter Date: 10/03/2018
+PHQ-9 Depression Scale
+Vital Signs
+Wellness Fall Risk
+Referring Provider
+James Scarles, MD
+Level of Service
+Level of Service
+PR PPPS, SUBSEQ VISIT [G0439]
+Modifiers
+Significant, Separately Identifiable Evaluation And Management
+Service By The Same Physician On The Same Day Of The Procedure
+Or Other Service [25]
+LOS History
+All Charges for This Encounter
+|Code|Description|Service Date|Service Provider|Modifiers Qty|
+|G0439|PR PPPS, SUBSEQ VISIT|10/3/2018|James Scarles, MD|1|
+|81003|CHG URINALYSIS, AUTO, W/O SCOPE|10/3/2018|James Scarles, MD|1|
+|90686|PR IIV4 VACC PRESRV FREE 0.5 ML DOS FOR IM USE|10/3/2018|James Scarles, MD|1|
+|G0008|PR ADMIN INFLUENZA VIRUS VAC|10/3/2018|James Scarles, MD|1|
+
+Best Practice Advisories
+Click to view Best Practice Advisory history
+4. Allergies as of 10/3/2018
+Reviewed by Jessica Haynes, LPN on 10/3/2018
+No Known Allergies
+Z Medications at Start of Encounter
+Disp
+Refills
+Start
+End
+econazole nitrate (SPECTAZOLE) 1 % cream
+3
+8/27/2018
+(Taking)
+Sig: APPLY TWICE A DAY TO AREA AS NEEDED
+Class: Historical Med
+Red Yeast Rice Extract (RED YEAST RICE PO)
+(Taking)
+Sig - Route: Take by mouth. - Oral
+Class: Historical Med clonazePAM (KlonoPIN) 0.5 MG tablet 60 tablet 0
+9/10/2018 10/3/2018
+(Taking/Discontinued)
+Sig: TAKE 1 TABLET BY MOUTH TWICE A DAY (EVERY 12 HOURS ) AS NEEDED FOR DYSTONIA
+Vile, Russell E (MRN 2000910242) Printed by Christine Rodriguez [13813] at 10/31/19 10:58 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+7/11
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+Vile, Russell E (MR # 2000910242) DOB: 03/31/1949 Encounter Date: 10/03/2018
+Disp
+Refills
+Start
+End Class : E Prescribe
+|Notes to Pharmacy: This request is for a new prescription|for a controlled|substance as|required by|
+|Federal/State law.||||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been||||
+|changed since signing: 1||||
+|Order Audit Trail||||
+|fluorouracil (EFUDEX) 5 % cream|3|9/14/2018|10/3/2018|
+|(Taking/Discontinued)||||
+|Sig: APPLY THIN LAYER TWICE A DAY TO AFFECTED|AREA FOR 4 WEEKS|||
+|Class: Historical Med||||
+|Reason for Discontinue: Therapy completed||||
+|ketoconazole (NIZORAL) 2% cream|2|9/14/2018|10/3/2018|
+|(Taking/Discontinued)||||
+|Sig: APPLY THIN LAYER TO RASH ON FEET TWICE A DAY|FOR 1 MONTH|||
+|Class: Historical Med||||
+|Reason for Discontinue: Therapy completed||||
+|lisinopril (PRINIVIL,ZeSTRIL) 10 MG tablet|||10/19/2018|
+|Taking/Discontinued)||||
+|Sig - Route: Take 5 mg by mouth daily. - Oral||||
+|Class: Historical Med||||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been||||
+|changed since signing: 2||||
+|Order Audit Trail||||
+|sildenafil (VIAGRA) 100 MG tablet||9/20/2017|10/3/2018|
+|(Taking/Discontinued)||||
+|Sig: Viagra 100 mg oral tablet||||
+|Class: Historical Med||||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been||||
+|changed since signing: 1||||
+|Order Audit Trail||||
+|famciclovir (FAMVIR) 500 mg tablet 21 tablet|0|5/25/2018|10/3/2018|
+
+( Discontinued )
+Sig - Route: Take 1 tablet (500 mg total) by mouth 3 (three) times a day. - Oral
+Class: E Prescribe
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+Z Medications at End of Encounter
+End
+Refills
+Refills
+3
+Start
+8/27/2018
+Disp
+econazole nitrate (SPECTAZOLE) 1 % cream
+(Taking)
+Sig: APPLY TWICE A DAY TO AREA AS NEEDED
+Class: Historical Med
+Red Yeast Rice Extract (RED YEAST RICE PO)
+(Taking)
+Sig - Route: Take by mouth. - Oral
+Class: Historical Med
+Vile, Russell E (MRN 2000910242) Printed by Christine Rodriguez [13813] at 10/31/19 10:58 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+8/11
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+Vile, Russell E (MR # 2000910242) DOB: 03/31/1949 Encounter Date: 10/03/2018
+Disp
+Refills
+Start
+End clonazePAM (KlonoPIN) 0.5 MG tablet 60 tablet 5
+10/3/2018 4/23/2019
+(Taking/Discontinued)
+Sig: TAKE 1 TABLET BY MOUTH TWICE A DAY (EVERY 12 HOURS ) AS NEEDED FOR DYSTONIA
+Class: E Prescribe
+Notes to Pharmacy: This request is for a new prescription for a controlled substance as required by
+Federal/State law.
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+lisinopril (PRINIVIL, ZESTRIL) 10 MG tablet
+10/19/2018
+(Taking/Discontinued)
+Sig - Route: Take 5 mg by mouth daily. - Oral
+Class: Historical Med
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+sildenafil (VIAGRA) 100 MG tablet
+10 tablet 11
+10/3/2018 10/3/2018
+(Taking/Discontinued)
+Sig: Viagra 100 mg oral tablet
+Class: Print
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+Medications the Patient Reported Taking econazole nitrate (SPECTAZOLE) 1 % cream (Taking)
+Red Yeast Rice Extract (RED YEAST RICE PO) (Taking) clonazePAM (KlonoPIN) 0.5 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+clonazePAM (KlonoPIN) 0.5 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+fluorouracil (EFUDEX) 5 % cream (Taking/Discontinued)
+ketoconazole (NIZORAL) 2 % cream (Taking/Discontinued)
+lisinopril (PRINIVIL,ZESTRIL) 10 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+sildenafil (VIAGRA) 100 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+sildenafil (VIAGRA) 100 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+regie Immunizations as of 10/3/2018
+Never Reviewed
+Vile, Russell E (MRN 2000910242) Printed by Christine Rodriguez [13813] at 10/31/19 10:58 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+9/11
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+|Russell E (MR # 2000910242) DOB:|03/31/1949 Encounter|Date: 10/03/2018|||
+|Name|Date|Dose|VIS Date|Route|
+|Hepatitis A|6/8/2018|1,440 Units|7/20/2016|Intramuscular|
+|Site: Left deltoid Given By: Jessica Haynes, LPN|||||
+|Hepatitis A|9/19/2017|1 mL|--|--|
+|Influenza Inactivated/Split Preservative Free IM Site: Left deltoid Given By: Jessica Haynes, LPN|10/3/2018|0.5 mL|8/7/2015|Intramuscular|
+|Tdap Site: Left deltoid Given By: Elliana Robbins, MA|8/15/2018|0.5 mL|2/24/2015|Intramuscular|
+|Typhoid, Unspecified|9/19/2017|0.5 mL|--||
+
+Vile , |P Problem List as of 10/3/2018||Date Reviewed: 5/25/2018|
+|Benign essential HTN|ICD-10-CM Priority I10|Noted Class Resolved 2/28/2018 - Present|
+|Relevant Medications lisinopril (PRINIVIL,ZeSTRIL) 10 MG tablet lisinopril (PRINIVIL,ZeSTRIL) 5 MG tablet|||
+|Dystonia Relevant Medications clonazePAM (KlonoPIN) 0.5 MG tablet|G24.9|2/28/2018 - Present|
+|Glucose intolerance|E74.39|10/3/2018 - Present|
+
+-
+Surgical History
+Laterality Date
+Comment
+Source
+Provider
+Procedure
+CATARACT EXTRACTION, BILATERAL
+COLONOSCOPY
+12/07, 3 colon polyps, 2/11, 2/2016 f/u Provider
+2/2016
+x3
+Provider
+LIVER BIOPSY
+iji Family History
+None
+i Social Documentation
+No social documentation on file.
+Vile, Russell E (MRN 2000910242) Printed by Christine Rodriguez [13813] at 10/31/19 10:58 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+10/11
+
+-------------------------------------------
+-------------------------------------------
+10/31/2019
+Vile, Russell E (MR#2000910242) Printed by RODRIGUEZ, CHRISTINE [13813]
+Vile, Russell E (MR # 2000910242) DOB: 03/31/1949 Encounter Date: 10/03/2018
+Pediatric History
+Show all answered pediatric history
+No questionnaires available.
+All Flowsheet Templates (all recorded)
+Advance Directives
+Audit-C
+Bone Density
+Custom Formula Data
+Encounter Vitals
+GAD-7 Anxiety Screen
+Health Risk Assessment
+Mini-Cog
+Misc Screenings
+PHQ-9 Depression Scale
+Vital Signs
+Wellness Fall Risk
+Chart Review Routing History
+No encounter routing history is on file
+Vile, Russell E (MRN 2000910242) Printed by Christine Rodriguez [13813] at 10/31/19 10:58 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+11/11
+
+-------------------------------------------
+-------------------------------------------

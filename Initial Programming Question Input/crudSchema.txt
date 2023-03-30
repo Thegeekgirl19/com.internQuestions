@@ -1,0 +1,49 @@
+order table
+------------------------------------------------------------
+orderid 	userid	username	bookid	bookName	Quantity
+
+user table 
+------------------------------------------------------------
+userid		fname	password	lname	email	dob		city
+
+books table
+------------------------------------------------------------
+bookid		bookName	bookDept	bookPrice
+
+// bookname, book price, user fname
+
+Suresh
+
+ideas:
+1. user should get option to 
+	i.	 order item
+	ii.  View Previous orders
+	iii. cancel previous order
+	iv.  delete user acc
+	v.   Go back to main menu
+
+
+2. In the main menu options for 
+	i.   Add user 					*
+	ii.  User login 				*
+	iii. password reset 			*
+	iv.  user details update in db  *
+	v.	 System exit				*
+
+3. Create Two different DAO's		***
+
+4. For user login
+	i.		user need to enter firstName
+	ii. 	user password
+	iii.	user email-id
+
+System.out.println("--------------------------------------------");
+System.out.println("|    Press 1 for user Sign-up              |");
+System.out.println("|    Press 2 for user login                |");
+System.out.println("|    Press 3 for password reset            |");
+System.out.println("|    Press 4 for updating user details     |");
+System.out.println("|    Press 5 to exit system                |");
+System.out.println("--------------------------------------------");
+
+
+orderid, userid, firstname, bookid, bookName, quantity, price

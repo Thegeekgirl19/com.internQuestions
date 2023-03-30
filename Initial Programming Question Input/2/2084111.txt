@@ -1,0 +1,931 @@
+JOHNSON, LEE
+MRN#: 1212
+10/07/2019
+Lee is a pleasant, 80-year-old white male. He has recently developed some gastroenteritis, with hot and cold flashes, nausea and vomiting, a pounding headache, and a flareup of his underlying depression.
+He had a CAT scan of his abdomen and pelvis in the ER, and it showed some diverticulosis, without diverticulitis. It showed some renal cysts, but no evidence of any stones or fatty change of his liver, in the absence of a gallbladder. It also showed osteoarthritic changes in his thoracic and lumbosacral back.
+He has had an acute frontal headache for 3 days, with nausea and vomiting. He is on Zoloft, but it does not seem to be working. He denies any suicidal ideation. I DC'd the Zoloft, and increased his Effexor from 75 mg to 150 mg, and started him on Vraylar 1.5
+mg for 3 days, and then 3 mg a day.
+I gave him some Zofran ODT to use 4 mg q. 6 hours p.r.n. for nausea and vomiting. He cannot sleep, and is exhausted. I gave him Xanax to use 1 mg nightly #30.
+He is on Protonix. He is tender in his epigastric area. I gave him some Carafate 2 grams b.i.d. for 10 days, and outlined a bland diet.
+He appears to have a frontal sinusitis/otitis media on his left side, with red tympanic membranes. Right side is just minimally involved. Throat is non-erythematous.
+I gave him 10 days of Cefzil for that at 500 mg b.i.d. I checked an annual PSA. He declined a rectal exam, and denies any prostatic symptoms. I checked liver functions, BUN and creatinine.
+I also gave him a B12 shot. He might be developing a little bit of early dementia. I checked B12 levels on him.
+He has rheumatoid arthritis, on Arava, with DJD of his knees and vitamin D deficiency. He has chronic allergic rhinitis, not currently being treated.
+He is a noninsulin dependent diabetic, well-controlled, with an
+A1c of 6.1 in August.
+|
+
+-------------------------------------------
+-------------------------------------------
+JOHNSON, LEE
+10/07/2019
+Page 2
+He has peripheral neuropathy, on gabapentin, with unchanged funduscopic, foot, neurological, liver, HEENT, and thyroid exams.
+The only change is dehydration, with dry mucous membranes. I stressed to him the importance of adequate hydration. Skin turgor was good. He has no suprapubic or CVA tenderness.
+He does have polymyalgia rheumatica symptoms, with hypertension, well-controlled. He has BPH, and low grade chronic renal failure, with pernicious anemia, chronic gastritis, and diverticulosis.
+We will see him in 3 weeks, and see how he does. We will continue his Singulair, and see how he does with the new medications.
+Weight is 170.8, down 6 pounds, at 5 feet 8 inches. Blood pressure is 110/82. Pulse 66 and regular. He is afebrile. 02 sats are 98% on room air.
+to
+Ralph J. LaGuardia, M.D.
+RJL/ITS/217/9212304
+
+-------------------------------------------
+-------------------------------------------
+* Fax Server
+10/6/2019 1:55:07 PM
+PAGE
+27008
+Fax Server
+Hartford
+Health Care
+Connect to healthier.'
+Windham Hospital Emergency
+Department
+T 860-456-6715
+X 860-456-6771
+112 Mansfield Avenue
+Willimantic CT 06226
+Patient Name: Lee F Johnson
+MRN: 2000225190
+DOB: 7/23/1939 Sex: male
+Arrival: 10/6/2019
+Patient Demographics
+|Name|Patient ID|SSN|Gender Identity|Birth Date|
+|Johnson, Lee F|2000225190|XXX-XX-3369|Male|07/23/39 (80 yrs)|
+|Address|Phone|Email|Employer||
+|119 N BEAR HILL RD CHAPLIN CT 06235- 2405|860-455-9884 (II) 860-617-6445 (M)||||
+|Reg Status Verified|PCP Ralph J Laguardia, MD860-456-7101||||
+|Language|||||
+|English|||||
+|Emergency Contact 1||Emergency|Contact 2||
+|Ann Johnson (Spouse) 119 N BEAR HILL RD||Joyce CHAPLIN|Johnson (Daughter) CT 06235||
+|CHAPLIN CI 06235-2405||US|||
+|US||860-377-9123|(H)||
+|860-455-9884 (II)||860-37/-9123|(M)||
+|860-37/-5/68 (M)|||||
+|Hospital Account|||||
+|Name||Acct ID Class|Status|Primary Coverage|
+
+Johnson , Lee
+5192790002 Emergency 3
+Open
+CONNECI CARE MGD MEDICARE . CONNECI CARE MGD MEDICARE
+F
+Guarantor Account (for Hospital Account #51927900028)
+Relation to
+Name
+Pt
+Service Area
+Johnson, Lee F
+Self
+HHC
+Address
+Phone
+119 N BEAR HILL RD
+860-455-9884(H)
+CHAPLIN, CI 06235-2405
+Active?
+Yes
+Acct Type
+PersonalFamily
+Precert #
+Coverage Information (for Hospital Account #51927900028)
+FIO Payor/Plan
+CONNECTICARE MGU MEDICARE/CONNECTICARE MGD MEDICARE
+Subscriber
+Johnson, Lee
+Address
+Phone
+PO BOX 4000
+FARMINGION, CI 06034-4000
+Subscriber #
+M1/45/06601
+F
+ED Arrival Information
+Expected
+Arrival
+Acuity
+Means of Arrival
+Escorted By
+Service
+Admission type
+Johnson, Lee F CSN100083378559 Printed by (GSHANGO) at 10/6/19 1:54 PM
+Page 1 of 7
+10/7/19- Patient
+Coming today }
+
+-------------------------------------------
+-------------------------------------------
+Fax Server
+10/6/2019 1:55:07 PM
+PAGE
+37008
+Fax Server
+ED Arrival Information (continued)
+Expected Arrival
+10/6/2019 8:55
+AM
+Arrival Complaint
+headache
+Acuity
+3
+Means of Arrival
+Car
+Escorted By
+Service
+Spouse/Significa Emergency
+nt Other
+Medicine
+Admission Type
+Emergency
+-
+Comment
+Chief Complaint
+Complaint
+Abdominal Pain
+ED Diagnoses
+Diagnosis
+Final diagnoses
+Moderate episode of recurrent
+major depressive disorder (HCC)
+(F33.1]
+Description
+Comment
+Moderate episode of recurrent major depressive disorder
+(ICC)
+Abdominal pain [R10.9]
+Abdominal pain
+ED Disposition
+ED Disposition
+discharge
+Condition
+Comment
+Lee Johnson discharge to home/self care.
+F
+Condition at discharge: Stable
+Allergies (Reviewed on: 10/06/19)
+|Agent|Severity|Comments|
+|Celebrex [Celecoxib]|Medium||
+|Cisapride|Medium||
+|Cymbalta (Duloxetine Hell|Medium||
+|Metoprolol|Medium|Topral XL|
+|Nsaids|Medium|Vioxx|
+|Pentoxifylline|Medium|Trental, xanthines|
+|Serotonin Reuptake Inhibitors (Ssris)|Medium|Lexapro|
+|Sildenafil|Medium|Viagra|
+|Wellbutrin [Bupropion]|Medium||
+
+(
+Home Medications
+Med List Status Pharmacy Complete Set By: Pamela S Cheney, RN at 10/06/2019 9:09 AM
+||I aking?|Last Dose|Start Date|End Date|Provider|
+|Ascorbic Acid (VITAMIN C) 1000 MG tablet|||--|--|External Provider, MD|
+|aspirin enteric coated (ECOTRIN) 325 MG EC tablet Take 1 tablet (325 mg total) by mouth 2 (two) times|a day||06/18/19|-|Amy 13 Brower, PA|
+|Cholecalciferol (VITAMIN D3) 50000 units Tab|||--|--|External Provider, MD|
+|cyanocobalamin (VITAMIN B-12) 1000 MCG tablet|||--|--|External Provider, MD|
+|ferrous sulfate 325 (65 FE) MG tablet|||--|--|External Provider, MD|
+|finasteride (PROSCAR) 5 MG tablet Take 1 tablet (5 mg total) by mouth daily.|||08/20/19|08/14/20|Brian S McLeod, MD|
+|folic acid (FOLVITE) 1 MG tablet||Past Week|--|--|External Provider. MD|
+|gabapentin (NEURONTIN) 300 MG capsule (Expired)|||06/18/19|07/18/19|Amy 13 Brower, PA|
+|Take 1 capsule (300 mg total) by mouth 3 (three)|times a day.|||||
+
+( ( )
+Johnson, Lee F CSN100083378559 Printed by (GSHANGO] at 10/6/19 1:54 PM
+Page 2 of 7
+
+-------------------------------------------
+-------------------------------------------
+Fax Server
+10/6/2019 1:55:07 PM
+PAGE
+6/008
+Fax Server
+108
+Lab Results (continued)
+Procedure
+Component
+Value
+Ref Range
+Date/Time
+Potassium
+4.8
+3.4 - 5.3 mmol/L
+Basic Metabolic Panel [224955489] (Abnormal)
+Collected 10/06/19 0924
+Order Status: Completed
+Specimen: Blood
+Updated: 10/06/19 1002
+Glucose
+65 -99 mg/dL
+Comment: Fasting: <100 mg/dL, Non-Fasting: <200 mg/dL (ADA 2005)
+Blood Urea Nitrogen
+21
+8.21 mg/dL
+(BUN)
+Creatinine
+1.0
+0.5 - 1.3 mg/dL
+eGFR
+>60
+59
+Comment MDRD in ml/min/1.73 sq meters.
+GFR - African
+>60
+>59
+American
+Comment: MDRD in mL/min/1.73 sq meters.
+Sodium
+141
+136 - 145 mmol/L
+Potassium
+Hemolyzed specimen, test cannot be performed. Recollection of another specimen is recommended.
+3.4-5.3 mmol / L BY S
+|Comment: ER RN|MEGIIAN MALLE|I AI 1000|
+|Chloride|102|98 107|
+|CO2|27|22 33|
+|Anion Gap|12|7 17|
+|Calcium|9.6|8./ 10.5|
+|BUN/Creatinine Ratio|21|10.0|
+
+- mmol / L
+- mmol / L
+. mg / dL
+- 25.0 Ratio Lipase ( 224955491 ]
+Collected: 10/06/19 0924
+Order Status Completed
+Specimen: Blood
+Updated: 10/06/19 1002
+Lipase
+56
+13 - 60 U/L
+Hepatic Function Panel (224955490]
+Collected: 10/06/19 0924
+Order Status: Completed
+Specimen: Blood
+Updated: 10/06/19 1002
+Alkaline Phosphatase
+86
+45 - 120 U/L
+Aspartate Aminotrans 31
+10 -55 U/L
+(AST)
+Comment Specimen hemolyzed.
+Alanine Aminotrans 29
+10-55 U/L
+(ALT)
+Comment Specimen hemolyzed.
+Bilirubin, Total
+0.5
+0.2 - 1.0 mg/dL
+Protein, Total
+6.8
+6.3-8.3 g/dL
+Albumin
+4.3
+3.4 - 4.8 g/dL
+Bilirubin, Direct
+<0.2
+0 -0.2 mg/dL
+Comment Specimen hemolyzed.
+Globulin
+2.5
+1.5-3.9 g/dL
+Albumin/Globulin Ratio 1.1
+1.0 - 3.0 Ratio Complete Blood Count ] (
+Collected : 10/06/19 0924 Order Status :
+Updated : 10/06/19 0944
+-
+-
+-
+-
+-
+-
+-
+-
+-
+w/7
+||Specimen|Blood|
+|White Blood Cell Count|6.4|4.0 11.0|
+|Platelet Count|268|Thou/uL 150 450 I how/uL|
+|Hemoglobin|12.8 -|13.0 17.7 g/dL|
+|Hematocrit|40.3|39.0 54.0 %|
+|Red Blood Cell Count|4.12 *|4.50 6.20 Mil/uL|
+|MCV|98|80 100 fL|
+|MCH|31.1 A|27.0 31.0 pg|
+|MCHC|31.8|30.0 36.0 g/dL|
+|RDW|14.1|11.5 14.5 %|
+|MPV|9.8|9.4 12.5 fL|
+|Neutrophils Auto|58.5|%|
+|Immature Granulocytes|0.3|%|
+|Lymphocytes Auto|24.7|%|
+|Monocytes Auto|13.0|%|
+|Eosinophils Auto|2.7|%|
+|Basophils Auto|0.8|%|
+|Abs Neutrophils Auto|3.75|2.00 7.50|
+
+Johnson, Lee F CSN100083378559 Printed by [GSHANGO] at 10/6/19 1:54 PM
+Page 5 of 7
+
+-------------------------------------------
+-------------------------------------------
+Fax Server
+10/6/2019 1:55:07 PM PAGE
+71008
+Fax Server
+Lab Results (continued)
+|Procedure|Component|Value|Ref Range|Date/Time|
+||||Thou/uL||
+||Abs Immature|0.02|0.00 - 0.10||
+||Granulocytes||hou/uL||
+||Abs Lymphocytes Auto|1.58|1.50 - 4.50 I hou/uL||
+||Abs Monocytes Auto|0.83|0.20 1.50||
+||||I hou/uL||
+||Abs Eosinophils Auto|0.17|0.00-0.70||
+||||Thou/uL||
+||Abs Basophils Auto|0.05|0.00 - 0.20 Thou/uL||
+|Results|||||
+
+-
+Imaging
+Result time 10/06/19 12:10:48
+CT Abdomen+pelvis w/contrast (Final result)
+Final result by John K Horky, MD (10/06/19 12:10:48)
+Impression:
+1. There is mild to moderate diverticulosis, without acute diverticulitis. No bowel obstruction, free intraperitoneal air or abscess is seen. The vermiform appendix is normal.
+2. No urinary calculus or obstructive uropathy is seen.
+3. There are multiple low-attenuation bilateral renal cysts, some too small fully characterize with CT.
+4. There is mild hepatic steatosis, 5. The gallbladder is surgically absent.
+6. There are marked thoracolumbar degenerative changes.
+Narrative:
+EXAMINATION:
+CI ABDOMEN AND PELVIS WIITI CONTRASI
+CLINICAL INFORMATION:
+Epigastric and periumbilical pain.
+COMPARSON
+CT abdomen and pelvis dated 3/29/2017.
+TECHNIQUE
+Multidetector volumetric imaging was performed from the superior aspect of the liver through the pubic symphysis following administration of oral and 80 mL of Omnipaque 350 intravenous contrast. Sagittal and coronal reformatted images were obtained on the technologist's workstation.
+DLP
+940.95 mGy.cm
+FINDINGS
+LUNG BASES: The visualized lung bases are unremarkable.
+LIVER, GALLBLADDER, AND BILIARY TREE: The liver is normal in size, shape, and mildly diminished in attenuation.
+No focal hepatic lesion or biliary ductal dilatation is present. The gallbladder surgically absent.
+PANCIREAS: Unremarkable
+SPLEEN Unremarkable
+ADRENAL GLANDS Unremarkable
+KIDNEYS AND URETERS: The kidneys are normal in size, shape, and attenuation. No hydronephrosis, hydroureter, or calculi seen. There are multiple low-attenuation bilateral renal cysts, some too small to fully characterize with CT. No
+Johnson, Lee F CSN100083378559 Printed by [GSHANGO] at 10/6/19 1:54 PM
+Page 6 of 7
+
+-------------------------------------------
+-------------------------------------------
+Fax Server
+10/6/2019 1:55:07 PM
+PAGE
+8/008
+Fax Server
+Imaging Results (continued)
+perinephric stranding
+BLADDER: There is a 1.5 cm right posterior bladder diverticulum (2312).
+GASTROINTESTINAL TRACT: There is mild to moderate diverticulosis, without acute diverticulitis. No bowel obstruction, free intraperitoneal air or abscess is seen. The vermiform appendix appears normal.
+ABDOMINAL WALL: There appears to have been a prior left inguinal herniorrhaphy. There is a very small fat-containing right internal hernia.
+LYMPH NODES: Normal
+VASCULAR: There is mild aortoiliac atherosclerotic calcification. No abdominal aortic aneurysm is seen.
+PELVIC VISCERA The prostate and seminal vesicles are unremarkable.
+OSSEOUS STRUCTURES There is multilevel marked lower thoracic and lumbar degenerative disc disease, spondylosis and facet arthropathy. No acute or aggressive osseous abnormality is seen.
+Medication Administration from 10/06/2019 0855 to 10/06/2019 1354
+|Date/Time|Order|Dose|Route|Action|Action by Comments|
+|10/06/2019 0943|ondansetron (ZOFRAN) injection 4 mg|4 mg|Intrave nous|Given|Pamela S Cheney, RN|
+|10/06/2019 0943|famotidine (PEPCID) 20 mg/2 mL injection 20 mg|20 mg|Intrave nous|Given|Pamela S Cheney, RN|
+|10/06/2019 0943|sucralfate (CARAFATE) 1 GM/10ML SUSPENSION 1.g|1 g|Oral|Given|Pamela S Cheney, RN|
+|10/06/2019 0943|sodium chloride 0.9 % (NS) bolus|1,000 mL|Intrave nous|New Bag|Pamela S Cheney, RN|
+|10/06/2019 1133|sodium chloride 0.9 % (NS) bolus|0 mL|Intrave nous|Stopped|Emily Church, RN|
+|10/06/2019 1010|acetaminophen (TYLENOL) tablet 975 mg|975 mg|Oral|Given|Pamela S Cheney, RN|
+|10/06/2019 1152|iohexol (OMNIPAQUE) 350 mg/mL 80 mL|80 mL|Intrave nous|Given|Lea Toconis, RT|
+
+.
+Follow - up Information Follow up With Specialties
+Details
+Why
+Ralph J Laguardia, MD internal Medicine in 3 days
+Contact Info
+10 Higgins Hwy
+Ste 4
+Mansfield Center CT
+06250
+860-456-/101
+Ajit J Kokkat, MD
+Gastroenterology
+In 1 week
+150 Mansfield Ave
+Willmantic CI 06226
+860-423-3299
+Your therapist
+Future Appointments
+Provider
+loana C Stanescu, MD
+Department
+Rheumatology Associates, PC
+Glastonbury
+Center
+CC RHA
+11/1/2019 10:40 AM
+Johnson, Lee F CSN100083378559 Printed by (GSHANGO] at 10/6/19 1:54 PM
+Page 7 of 7
+
+-------------------------------------------
+-------------------------------------------
+JOHNSON, LEE
+MRN#: 2212
+08/27/2019
+Lee is here with anxiety and depression, which are stable. He is an elderly white male. He has rheumatoid arthritis and DJD of his knees and ankles. He has crepitation and tenderness, bilaterally.
+He has peripheral vascular disease, with slightly diminished pulses, but no evidence of any DVT. He has chronic allergic rhinitis, with boggy, nontender frontal sinuses. He is vitamin D deficient, with metabolic syndrome.
+He has BPH, which is asymptomatic. He declined a rectal exam. He had an infected right second digit last visit. It appears now that he had a foreign object in his finger. With Lee's permission I removed a splinter.
+He is a noninsulin dependent diabetic, with peripheral neuropathy. He has chronic renal failure. BUN was 26, and creatinine was 1.19. Last visit it was 1.11. His AlC was 6.4 in March and 6.1 in August, so that is improving. Funduscopic, foot, neurological, and HEENT exams are benign.
+He does have alopecia. He has chronic gastritis, with a soft, nontender abdomen. He has hypertension and dyslipidemia. He has some fatigue, and I gave him a B12 shot of 1000 mcg IM, at his request. He tolerated that nicely.
+He is up to date with his tetanus shots. BUN and creatinine, and thyroid functions were checked. We will see him in 2 months, fasting. Urinalysis was negative.
+Weight is up 4 pounds to 176.8 at 5 feet 8 inches. Blood pressure is 110/80. Pulse is 67 and regular. He is afebrile. 02 sats are
+97% on room air. We will see him in 2 months, fasting.
+Ralph J. aGuardia, M.D.
+RJL/ITS/217/9154975
+
+-------------------------------------------
+-------------------------------------------
+# 6/15/2019 13:16
+CHC/McKesson Cardiology Imagin
+MEDCON 
+1/3
+IAC
+Hartford
+HealthCare
+Windham Hospital Echocardiography Lab
+2
+112 Mansfield Avenue
+Willimantic, CT 06226
+Tel (860) 456-6160 Fax (860) 456-6873
+Report Status: Finalized
+Transthoracic Echocardiography Report (TTE)
+|||Demographics||
+|Patient Name:|JOHNSON LEE F|Date of Study:|06/05/2019|
+|MRN:|2000225190|Location:|WH CARD NON|
+|Date of Birth:|07/23/1939|Age:|79 year(s)|
+|Gender:|Male|Ordering MD:|Kegel, Jeffrey MD|
+|||Sonographer:|Gomez, Edward CCI|
+|Height:|68 inches|Weight:|172 pounds|
+|BSA:|1.92 m |Blood Pressure:|125/57 mmHg|
+|BMI:|26.15 kg/m |HR:|74 bpm|
+
+Procedure
+Type of Study
+TTE procedure: Echocardiogram Comprehensive
+Technioan Qgantx Adequate visualization
+Clinical Indications Reason for Exam:
+Abnormal ECG
+Patient Status: Routine
+Conclusions
+Summary
+Normal LV size and function.
+Normal LA and right cavities size.
+Normal function of all valves.
+No evidence of pericardial effusion.
+No evidence of thrombus in the heart cavities.
+Ull
+When compared with previous study dated 03/30/2017, no significant change.
+Findings
+Left Ventricle
+Left ventricular cavity size is normal.
+Overall left ventricular systolic function is namal.
+Measured biplane left ventricular ejection fraction is 60%.
+There is increase in flow locity at the base level of the LV.
+Wall thickness is normal.
+No significant wall motion abnormalities noted.
+Normal diastolic function.
+Right Ventricle
+Right ventricular size and systolic function are normal.
+TAPSE is 2.4cm (normal, >1.6 cm).
+Left
+Atrium
+The left atrium is normal in size.
+LA volume index is 17 mi/m2
+Right Atrium
+Patient Name: JOHNSON LEEF
+Date of study: 06/05/2019 10:44 AM
+Page: 1 of 3
+
+-------------------------------------------
+-------------------------------------------
+7
+6/15/2019 13:16
+CHC/McKesson Cardiology Imagin
+MEDCON
+2/3
+14C
+2
+Hartford
+HealthCare
+Windham Hospital Echocardiography Lab
+112 Mansfield Avenue
+e
+Willimantic, CT 06226
+Tel (860) 456-6160 Fax (860) 456-6873
+***
+Wyrmi
+.. ''''
+Report Status: Finalized
+The nght atrium is normal in size.
+The right atrial area is 7cm2.
+The IVC is not well visualized.
+Aortic Valve
+Aortic valve is trileaflet and opens well.
+There is focal thickening of the non-coronary cusp.
+There is no aortic regurgitation, There is no aortic stenosis.
+Mitral Valve
+The mitral valve leaflets are mildly thickened.
+There is no mitral regurgitation.
+There is no
+mitral stenosis.
+Tricuspid Valve
+Tricuspid valve is structurally normal.
+There is no tricuspid stenosis.
+There is no tricuspid regurgitation.
+The absence of sufficient tricuspid regurgitation precludes estimation of puimonary artery systolic pressure.
+Pulmonic Valve
+The pulmonic valve is normal in limited views.
+There is no pulmonic regurgitation.
+There is no pulmonic stenosis.
+Pericardium
+There is no pericardial effusion, Pleural Space
+No evidence of pleural effusion.
+Miscellaneous
+The aortic root and ascending aorta are normal in size.
+|||M-Mode/2D Measurements||
+|LV Diastolic Dimension:|4 cm|LV Septum Diastolic:|1 cm|
+|LV Systolic Dimension:|2.5 cm|LV PW Diastolic:|0.8 cm|
+|LV EDV:|36.8 ml|Sinuses of Valsalva:|3 cm|
+|LV EDV Index:|19 ml/m |Ascending Aorta Diameter:|3.2 cm|
+|LV ESV:|15.6 ml|LVOT Diameter:|1.8 cm|
+|LV ESV Index:|8 ml/m |RV Basal Diameter|3.2 cm|
+|LV Mass:|110.5 g|TAPSE:|2.4 cm|
+|LV Mass Index:|58 g/m |||
+|LA PA Diameter:|3 cm|||
+|LA Area:|13.3 cm |||
+|LA Volume:|33.3 ml|||
+|LA Volume Index:|17 ml/m |||
+
+|||Doppler Measurements||
+|Peak Velocity:|1.8 m/s|MV P /t:|108 msec|
+|Peak Gradient:|13.1 mmHg|MV Mean Gradient:|2 mmHg|
+|Mean Gradient:|7 mmHg|MV Area (PHT):|2 cm |
+|VTI:|32.2 cm|MV Peak E-Wave:|0.7 m/s|
+|Peak Velocity:|1.5 m/s|MV Peak A-Wave:|1.2 m/s|
+
+AV AV AV AV LVOT
+Patient Name: JOHNSON LEEF
+Date of study: 06/05/2019 10:44 AM
+Page: 2 of 3
+
+-------------------------------------------
+-------------------------------------------
+76/15/2019 13:16
+CHC/McKesson Cardiology Imagin
+3/3
+MEDCON
+IAC
+Titik
+2
+Hartford
+Healthcare
+Windham Hospital Echocardiography Lab
+112 Mansfield Avenue
+Willimantic, CT 06226
+Te! (860) 456-6160 Fax (860) 456-6873
+Report Status: Finalized
+0.6
+LVOT VTI:
+AV Area (Continuity):
+32.6 cm
+2.57 cm
+290 msec
+0.05 m/s
+MV EIA Ratio:
+MV Deceleration Time:
+E' Septal Velocity:
+E/E' Septal:
+E' Lateral Velocity:
+E/E' Lateral:
+11.2
+0.06 m/s
+14.8
+Electronically signed on 06/05/2019 at 04:11 PM
+Kegel, Jeffrey MD
+Patient Name: JOHNSON LEEF
+Date of study: 06/05/2019 10:44 AM
+Page: 3 of 3
+
+-------------------------------------------
+-------------------------------------------
+Care360 
+Quest
+Diagnostics
+Report Status: Final
+JOHNSON, LEE
+|Patient Information|Specimen Information|Client Information|
+|JOHNSON, LEE|Specimen: WC655821P|Client #: 22105041 60010000|
+|DOB: 07/23/1939 AGE: 80|Requisition: 0055230|LAGUARDIA, RALPH J RALPH LAGUARDIA, M.D.|
+|Gender: M Fasting: N|Collected: 10/09/2019 / 15:50 EDT|10 HIGGINS HWY STE 4|
+|Phone: 860.455.9884 Patient ID:|Received: 10/10/2019 / 00:36 EDT|MANSFIELD CENTER, CT 06250-1437|
+|155 Health ID: 8573003885601496|Reported: 10/10/2019 / 18:07 EDT (* A Copy Sent To)||
+
+Reference Range
+COMMENTS: FASTING:NO
+Test Name
+In Range
+Out Of Range
+BUN/CREATININE RATIO
+UREA NITROGEN (BUN)
+25
+CREATININE
+1.26 |
+For patients >49 years of age, the refererse limit for Creatinine is approximately 13% higher for people identified as African-American.
+Lab
+NL1
+7-25 mg/dL
+0.70-1.11 mg/dL
+> OR 60 mL/min/1,73m2
+> OR 60 mL/min/1.73m2
+6-22 (calc)
+NL1
+eGFR NON-AFR. AMERICAN
+54 L
+eGFR AFRICAN AMERICAN
+=
+62
+BUN/CREATININE RATIO
+=
+20
+HEPATIC FUNCTION PANEL
+PROTEIN, TOTAL
+6.1
+ALBUMIN
+3.9
+GLOBULIN
+2.2
+ALBUMIN/GLOBULIN RATIO
+1.8
+BILIRUBIN, TOTAL
+0.3
+BILIRUBIN, DIRECT
+0.1
+BILIRUBIN, INDIRECT
+0.2
+ALKALINE PHOSPHATASE
+81
+AST
+21
+ALT
+VITAMIN B12
+>2000 H
+PSA, TOTAL
+2.5
+The total PSA value from this adsay system is standardized against the WHO standard. The test result will be approximately 20% lower when compared to the equimolar-standardized total PSA (Beckman
+Coulter), Comparison of serial PSA results should be interpreted with this fact in mind.
+6.1-8.1 g/dL
+3.6-5.1 g/dL
+1.9-3.7 g/dL (calc)
+1.0-2.5 (calc)
+0.2-1,2 mg/dL
+< OR = 0.2 mg/dL
+0.2-1.2 mg/dL (calc)
+40-115 U/L
+10-35 U/L
+9-46 U/L
+200-1100 pg/mL
+< OR = 4.0 ng/mL
+NL1
+NL1
+This test was performed using the Siemens chemiluminescent method. Values obtained from different assay methods cannot be used interchangeably. PSA levels, regardless of value, should not be interpreted as absolute evidence of the presence or absence of disease.
+PERFORMING SITE:
+NL) QUEST DIAGNOSTICS LLC, 200 FOREST STREET 3RD FLOOR.SUITE B, MARLBOROUGH, MA 01752-3023 Laboratory Director: SALIM E KABAWAT,MD, CLIA: 22DX0076229
+Copy To: EPIC COPY TO HFTD HEALTHCARE
+*
+Lu
+ 2015 Quest Diagnostics Incorporated. All rights reserved. SC2K. 153296.
+CLIENT SERVICES: 1.866.697.8378
+Printed by SHBOMB Neil 65 Pal 08:00am.
+Quest, Quest Diagnostics, the associated logo and all associated Quest Diagnostics marks are the trademarks of Quest Diagnostics.
+PAGE 1 OF 2
+
+-------------------------------------------
+-------------------------------------------
+Care360
+Quest
+Diagnostics
+Report Status: Final
+JOHNSON, LEE
+|Patient Information|Specimen Information|Client Information|
+|JOHNSON, LEE|Specimen: WC665207M|Client #: 22105041 60010000|
+|DOB: 07/23/1939 AGE: 80 Gender: M Fasting: N Phone: 860.455.9884 Patient ID: 155 Health ID: 8573003885601496|Requisition: 0054192 Collected: 08/12/2019 / 11:15 EDT Received: 08/12/2019 / 21:55 EDT Reported: 08/15/2019 / 16:26 EDT (*A Copy Sent To)|LAGUARDIA, RALPH J RALPH LAGUARDIA, M.D. 10 HIGGINS HWY STE 4 MANSFIELD CENTER, CT 06250-1437|
+
+Reference Range
+Lab
+NL1
+COMMENTS: FASTING:NO
+Test Name
+In Range
+Out Of Range
+HEMOGLOBIN AIC WITH MPG
+HEMOGLOBIN Alc
+6.1 H
+For someone without known diabetes, a hemoglobin
+A1c value between 5,7% and 6.4% is consistent with prediabetes and should be confirmed with follow-up test.
+<5.7 % of total Hgb
+a
+For someone with known diabetes, a value <7% indicates that their diabetes is well controlled. Alc targets should be individualized based on duration of diabetes, age, comorbid conditions, and other considerations.
+gles
+This assay result is consistent with an increased risk of diabetes.
+Currently, no consensus exists regarding use of hemoglobin Alc for diagnosis of diabetes for children.
+MEAN PLASMA GLUCOSE
+140
+BUN/CREATININE RATIO
+UREA NITROGEN (BUN)
+26 H
+CREATININE
+1.19 H
+For patients >49 years of age, the referende limit for Creatinine is approximately 13% higher for people identified as African-American.
+mg/dl (calc)
+7-25 mg/dL
+0.70-1.11 mg/dL
+or
+NL1
+57 L
+eGFR NON-AFR. AMERICAN
+eGFR AFRICAN AMERICAN
+BUN/CREATININE RATIO
+MAGNESIUM, RBC
+66
+22
+5.6
+> OR 60 mL/min/1,73m2
+> OR = 60 mL/min/1,73m2
+6-22 (calc)
+4.0-6.4 mg/dL
+=
+AMD
+This test was developed and its analytical performance characteristics have been determined by Quest
+Diagnostics Nichols Institute Chantilly, VA. It has not been cleared or approved by the U.S. Food and Drug
+Administration. This assay has been validated pursuant to the CLIA regulations and is used for clinical purposes.
+HEPATIC FUNCTION PANEL
+|PROTEIN, TOTAL|6.6|6.1-8.1 g/dL||
+|ALBUMIN|4.2|3.6-5.1 g/dL||
+|GLOBULIN|2.4|1.9-3.7 g/dL (calc)||
+|ALBUMIN/GLOBULIN RATIO|1.8|1.0-2.5 (calc)||
+|BILIRUBIN, TOTAL|0.6|0.2-1.2 mg/dL||
+|BILIRUBIN, DIRECT|0.1|< OR = 0.2 mg/dL||
+|BILIRUBIN, INDIRECT|0.5|0.2-1.2 mg/dL (calc)||
+|ALKALINE PHOSPHATASE|81|40-115 U/L||
+|AST|20|10-35 U/L||
+|ALT|23|9-46 U/L||
+
+PAGE 1 OF 2
+CLIENT SERVICES: 1.866.697.8378
+Printed by SHBC Mchte W666020am:00am.
+Quest, Quest Diagnostics, the associated logo and all associated Quest Diagnostics marks are the trademarks of Quest Diagnostics.
+
+-------------------------------------------
+-------------------------------------------
+Care360
+Quest
+Diagnostics
+Report Status: Final
+JOHNSON, LEE
+|Patient Information|Specimen Information|Client Information|
+|JOHNSON, LEE DOB: 07/23/1939 AGE: 80 Gender: M Fasting: N Patient ID: 155 Health ID: 8573003885601496|Specimen: WC665207M Collected: 08/12/2019 / 11:15 EDT Received: 08/12/2019 / 21:55 EDT Reported: 08/15/2019 / 16:26 EDT (* A Copy Sent To)|Client #: 22105041 LAGUARDIA, RALPH J|
+||||
+
+|||||
+|||||
+|Test Name CBC (INCLUDES DIFF/PLT)|In Range|Out Of Range|Reference Range|
+|WHITE BLOOD CELL COUNT|7.6||3.8-10.8 Thousand/uL|
+|RED BLOOD CELL COUNT||4.09 L|4.20-5.80 Million/uL|
+|HEMOGLOBIN||12.7 L|13.2-17.1|
+|HEMATOCRIT|39.3||g/dL 38.5-50.0 :|
+|MCV|96.1||80.0-100.0 fL|
+|MCH|31.1||27.0-33.0 pg|
+|MCHC|32.3||32.0-36.0 g/dL|
+|RDW|13.5||11.0-15.0 of|
+|PLATELET COUNT|279||140-400 Thousand/uL|
+|MPV|10.0||7.5-12.5 fL|
+|ABSOLUTE NEUTROPHILS|4613||1500-7800 cells/uL|
+|ABSOLUTE LYMPHOCYTES|1619||850-3900 cells/uL|
+|ABSOLUTE MONOCYTES||1163 H|200-950 cells/uL|
+|ABSOLUTE EOSINOPHILS|152||15-500 cells/uL|
+|ABSOLUTE BASOPHILS|53||0-200 cells/uL|
+|NEUTROPHILS|60.7||%|
+|LYMPHOCYTES|21.3||of|
+|MONOCYTES|15.3||&|
+|EOSINOPHILS|2.0||of|
+|BASOPHILS|0.7||&|
+|IRON, TOTAL|70||50-180 mcg/dL|
+
+Lab
+NLI
+NLI
+PERFORMING SITE:
+AMD QUEST DIAGNOSTICS/NICHOLS CHANTILLY, 14225 NEWBROOK DRIVE, CHANTILLY, VA 20151-2228 Laboratory Director: PATRICK W. MASON, MD.PHD, CLIA: 4900221801
+NL:
+QUEST DIAGNOSTICS LLC. 200) FOREST STREET 3RD FLOOR.SUITE B, MARLBOROUGH, MA 01752-3023 Laboratory Director: SALIME KABAWAT, MD, CLIA: 22D0076229
+* Copy To: EPIC COPY TO HFTD HEALTHCARE
+PAGE 2 OF 2
+CLIENT SERVICES: 1.866.697.8378
+Printed by SPECIMENipid 204M:00am.
+Quest, Quest Diagnostics, the associated logo and all associated Quest Diagnostics marks are the trademarks of Quest Diagnostics.
+
+-------------------------------------------
+-------------------------------------------
+Care360 
+Quest
+Diagnostics
+Report Status: Final
+JOHNSON, LEE
+ 2015 Quest Diagnostics Incorporated. All rights reserved. SC2K - 153296.
+|Patient Information|Specimen Information|Client Information|
+|JOHNSON, LEE DOB: 07/23/1939 AGE: 79 Gender: M Fasting: Y Phone: 860.455.9884 Patient ID: 155 Health ID: 8573003885601496|Specimen: WC460900B Requisition: 0049205 Collected: 10/02/2018 Received: 10/03/2018 / 03:20 EDT Reported: 10/04/2018 / 15:54 EDT (*A Copy Sent To)|Client #: 22105041 60010000 LAGUARDIA, RALPH J RALPH LAGUARDIA, M.D. 10 HIGGINS HWY STE 4 MANSFIELD CENTER, CT 06250-1437|
+
+Reference Range
+Lab
+NL1
+COMMENTS: FASTING:YES
+Test Name
+In Range
+Out Of Range
+HEMOGLOBIN AIC WITH MPG
+HEMOGLOBIN Alc
+6.2 H
+For someone without known diabetes, a hemoglobin
+Alc value between 5.7% and 6.4% is consistent with prediabetes and should be confirmed with follow-up test.
+<5.7 % of total Hgb
+ills
+For someone with known diabetes, a value <7% indicates that their diabetes is well controlled. Alc targets should be individualized based on duration of diabetes, age, comorbid conditions, and other considerations.
+This assay result is consistent with an increased risk of diabetes.
+Currently, no consensus exists regarding use of hemoglobin Alc for diagnosis of diabetes for children.
+mg/dL (calc)
+NL1
+MEAN PLASMA GLUCOSE
+143
+ELECTROLYTE PANEL
+SODIUM
+142
+POTASSIUM
+4.5
+CHLORIDE
+104
+CARBON DIOXIDE
+31
+UREA NITROGEN (BUN)
+21
+CREATININE
+1.06
+For patients >49 years of age, the reference limit for Creatinine is approximately 13% higher for people identified as African-American.
+135-146 mmol/L
+3.5-5.3 mmol/L
+98-110 mmol/L
+20-32 mmol/L
+7-25 mg/dL
+0.70-1.18 mg/dL
+NL1
+NL1
+eGFR NON-AFR. AMERICAN
+eGFR AFRICAN AMERICAN
+MAGNESIUM, RBC
+_66
+77
+5.1
+> OR 60 mL/min/1,73m2
+> OR = 60 mL/min/1.73m2
+4.0-6.4 mg/dL
+=
+r
+AMD
+This test was developed and its analytical performance characteristics have been determined by Quest
+Diagnostics Nichols Institute Chantilly, VA. It has not been cleared or approved by the U.S. Food and Drug
+Administration. This assay has been validated pursuant to the CLIA regulations and is used for clinical purposes.
+NL1
+HEPATIC FUNCTION PANEL
+|PROTEIN, TOTAL|6.4|6.1-8.1 g/dL||
+|ALBUMIN|4.2|3.6-5.1 g/dL||
+|GLOBULIN|2.2|1.9-3.7 g/dL (calc)||
+|ALBUMIN/GLOBULIN RATIO|1.9|1.0-2.5 (calc)||
+|BILIRUBIN, TOTAL|0.6|0.2-1.2 mg/dL||
+|BILIRUBIN, DIRECT|0.1|< OR = 0.2 mg/dL||
+|BILIRUBIN, INDIRECT|0.5|0.2-1.2 mg/dL (calc)||
+|ALKALINE PHOSPHATASE|66|40-115 U/L||
+
+PAGE 1 OF 2
+CLIENT SERVICES: 1.866.697.8378
+Printed by SPEDIMENTO 460900B:00am.
+Quest, Quest Diagnostics, the associated logo and all associated Quest Diagnostics marks are the trademarks of Quest Diagnostics.
+0
+
+-------------------------------------------
+-------------------------------------------

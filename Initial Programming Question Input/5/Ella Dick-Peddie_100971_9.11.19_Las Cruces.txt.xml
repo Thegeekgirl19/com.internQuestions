@@ -1,0 +1,108 @@
+<ezNLP>
+<Icd10CmCode>
+<code value="Z79.51" rank="999" knowledgeId="9" isDisable="0" text="fluticasone propionate;" isBillable="false" evidence="fluticasone propionate" evidenceBegin="1827" evidenceEnd="1849" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="fluticasone propionate" begin="1827" end="1849" status="0" certainty="0" code="NO-CODE" cui="C0033474;C0392214;C0360577;C0117996;C0082607" tui="T109;T119;T109,T121;T109,T121;T200;T200;T109,T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="03/21/19" begin="1890" end="1898">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z88.8" rank="999" knowledgeId="9" isDisable="0" text="Mumps;" isBillable="false" evidence="Mumps" evidenceBegin="6330" evidenceEnd="6335" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="Mumps" begin="6330" end="6335" status="0" certainty="0" code="NO-CODE" cui="C0026780;C0026782" tui="T121,T129;T047" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="G47.00" rank="342" knowledgeId="116" isDisable="0" text="Insomnia;" isBillable="false" evidence="Insomnia" evidenceBegin="627" evidenceEnd="635" cuiList="917801;" acceptRejectFlag="DEFAULT"/>
+<problem value="Insomnia" begin="627" end="635" status="0" certainty="0" cui="C0917801;C1963237" tui="T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.899" rank="999" knowledgeId="9" isDisable="0" text="omeprazole;" isBillable="false" evidence="omeprazole" evidenceBegin="3097" evidenceEnd="3107" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="omeprazole" begin="3097" end="3107" status="0" certainty="0" code="NO-CODE" cui="C0028978;C0988268" tui="T109,T121;T200;T200" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="05/14/19" begin="3138" end="3146">
+<medData strength="20" strengthBegin="3108" strengthEnd="3110" strengthUnit="mg" strengthUnitBegin="3111" strengthUnitEnd="3113" dosage="" dosageBegin="" dosageEnd="" form="capsule" formBegin="3114" formEnd="3121" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="N95.2" rank="213" knowledgeId="116" isDisable="0" text="Postmenopausal atrophic vaginitis;" isBillable="false" evidence="Postmenopausal atrophic vaginitis" evidenceBegin="14145" evidenceEnd="14178" cuiList="156409;" acceptRejectFlag="DEFAULT"/>
+<problem value="Postmenopausal atrophic vaginitis" begin="14145" end="14178" status="0" certainty="0" cui="C0221392;C0156409;C0042267;C0333641" tui="T047;T033;T047;T046" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="N95.2" rank="390" knowledgeId="116" isDisable="0" text="atrophic vaginitis;" isBillable="false" evidence="atrophic vaginitis" evidenceBegin="14119" evidenceEnd="14137" cuiList="156409;" acceptRejectFlag="DEFAULT"/>
+<problem value="atrophic vaginitis" begin="14119" end="14137" status="0" certainty="0" cui="C0221392;C0156409;C0042267;C0333641;C0333642" tui="T046;T047;T033;T046" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="S91.311A" rank="999" knowledgeId="9" isDisable="0" text="S91.311A;" isBillable="false" evidence="S91.311A" evidenceBegin="15366" evidenceEnd="15374" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="F32.9" rank="999" knowledgeId="9" isDisable="0" text="F32.9;" isBillable="false" evidence="F32.9" evidenceBegin="15035" evidenceEnd="15040" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="N95.2" rank="999" knowledgeId="9" isDisable="0" text="N95.2;" isBillable="false" evidence="N95.2" evidenceBegin="14138" evidenceEnd="14143" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M19.049" rank="17" knowledgeId="16" isDisable="0" text="OA;" isBillable="false" evidence="OA_SEP_hands" evidenceBegin="13842,13852" evidenceEnd="13844,13857" cuiList="263746;" acceptRejectFlag="DEFAULT"/>
+<problem value="OA" begin="13842" end="13844" status="0" certainty="0" cui="C0029408;C0263746" tui="T047;T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z68.1" rank="999" knowledgeId="9" isDisable="0" text="BMI;" isBillable="false" evidence="BMI" evidenceBegin="1119" evidenceEnd="1122" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<meas value="BMI" begin="1119" end="1122" status="0" certainty="0" code="EZBD001947">
+<measData value="15494" begin="1089" end="1094" rank="1" unit="cm" unitBegin="1095" unitEnd="1097"/>
+<measData value="4999" begin="1110" end="1114" rank="3" unit="kg" unitBegin="1115" unitEnd="1117"/>
+<measData value="109" begin="1101" end="1104" rank="2" unit="lbs" unitBegin="1105" unitEnd="1108"/>
+<measData value="2040941142019" begin="1124" end="1137" rank="4" unit="" unitBegin="" unitEnd=""/>
+</meas>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.3" rank="129" knowledgeId="128" isDisable="0" text="Family History;cerebral ischemia;" isBillable="false" evidence="Transient cerebral ischemia" evidenceBegin="5071" evidenceEnd="5098" cuiList="7787;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="cerebral ischemia" begin="5081" end="5098" status="2" certainty="0" cui="C0917805;C0022116;C0022118;C0006104;C0917798;C0242202;C1707523;C0007785;C0007787;C0228174;C1280654;C0475224" tui="T047;T024;T023;T047;T169;T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I10" rank="999" knowledgeId="9" isDisable="0" text="Essential (primary) hypertension;" isBillable="false" evidence="Essential (primary) hypertension" evidenceBegin="14557" evidenceEnd="14589" cuiList="85580" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M25.569" rank="215" knowledgeId="52" isDisable="0" text="pain;" isBillable="false" evidence="knee pain" evidenceBegin="9496" evidenceEnd="9505" cuiList="231749;" acceptRejectFlag="DEFAULT"/>
+<problem value="pain" begin="9501" end="9505" status="0" certainty="0" cui="C0030193;C1557397;C0231749;C0242936;C1882272" tui="T073,T093;T033;T184;T047;T046;T184;T033;T184;T047;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="G47.00" rank="999" knowledgeId="9" isDisable="0" text="G47.00;" isBillable="false" evidence="G47.00" evidenceBegin="16299" evidenceEnd="16305" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="F32.9" rank="395" knowledgeId="116" isDisable="0" text="Depression;" isBillable="false" evidence="Depression" evidenceBegin="572" evidenceEnd="582" cuiList="11581;" acceptRejectFlag="DEFAULT"/>
+<problem value="Depression" begin="572" end="582" status="0" certainty="0" cui="C0011570;C1579931;C1999266;C0011581;C0344315;C0460137" tui="T048;T169;T033;T184;T048" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.891" rank="999" knowledgeId="9" isDisable="0" text="HYDROcodone;" isBillable="false" evidence="HYDROcodone" evidenceBegin="2080" evidenceEnd="2091" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="HYDROcodone" begin="2080" end="2091" status="0" certainty="0" code="NO-CODE" cui="C0524150;C0020264;C0986532" tui="T109,T121;T059;T200" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="09/11/19" begin="2127" end="2135">
+<medData strength="7.5;325" strengthBegin="2092;2113" strengthEnd="2095;2116" strengthUnit="mg" strengthUnitBegin="2117" strengthUnitEnd="2119" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="2120" formEnd="2126" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="P39.3" rank="81" knowledgeId="48" isDisable="0" text="UTI&apos;s;" isBillable="false" evidence="UTI&apos;s" evidenceBegin="14090" evidenceEnd="14095" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<code value="N39.0" rank="213" knowledgeId="116" isDisable="0" text="UTI&apos;s;" isBillable="false" evidence="UTI&apos;s" evidenceBegin="14090" evidenceEnd="14095" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<code value="O23.40" rank="129" knowledgeId="128" isDisable="0" text="UTI&apos;s;" isBillable="false" evidence="UTI&apos;s" evidenceBegin="14090" evidenceEnd="14095" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<code value="O86.20" rank="129" knowledgeId="128" isDisable="0" text="UTI&apos;s;" isBillable="false" evidence="UTI&apos;s" evidenceBegin="14090" evidenceEnd="14095" cuiList="42029;" acceptRejectFlag="DEFAULT"/>
+<problem value="UTI&apos;s" begin="14090" end="14095" status="0" certainty="0" cui="C0077906;C0042029" tui="T116,T118,T121;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M54.9" rank="275" knowledgeId="128" isDisable="0" text="pain;pain;" isBillable="false" evidence="back pain_SEP_chronic" evidenceBegin="9510,9522" evidenceEnd="9519,9529" cuiList="4604;740418;" acceptRejectFlag="DEFAULT"/>
+<problem value="pain" begin="9515" end="9519" status="0" certainty="0" cui="C0030193;C1963071;C1557397;C2020637;C0150055;S20009759;C0740418;C0242936;C0004604;C1882272" tui="T184;T047;T033;T033;T184;T046;T184;T047;T073,T093;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="K59.00" rank="999" knowledgeId="9" isDisable="0" text="Constipation;unspecified;" isBillable="false" evidence="Constipation_SEP_unspecified" evidenceBegin="14759,14773" evidenceEnd="14771,14784" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<modifier value="" begin="0" end="0" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="K59.00" rank="999" knowledgeId="9" isDisable="0" text="K59.00;" isBillable="false" evidence="K59.00" evidenceBegin="14751" evidenceEnd="14757" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="F41.9" rank="553" knowledgeId="113" isDisable="0" text="Anxiety;" isBillable="false" evidence="Anxiety" evidenceBegin="584" evidenceEnd="591" cuiList="3467;" acceptRejectFlag="DEFAULT"/>
+<problem value="Anxiety" begin="584" end="591" status="0" certainty="0" cui="C1963064;C0860603;C0003467;C0003469" tui="T048;T033;T041;T048" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="P92.1" rank="81" knowledgeId="48" isDisable="0" text="Vomiting;" isBillable="false" evidence="Vomiting" evidenceBegin="1434" evidenceEnd="1442" cuiList="42963;" acceptRejectFlag="DEFAULT"/>
+<code value="O21.9" rank="129" knowledgeId="128" isDisable="0" text="Vomiting;" isBillable="false" evidence="Vomiting" evidenceBegin="1434" evidenceEnd="1442" cuiList="42963;" acceptRejectFlag="DEFAULT"/>
+<code value="R11.10" rank="411" knowledgeId="116" isDisable="0" text="Vomiting;" isBillable="false" evidence="Vomiting" evidenceBegin="1434" evidenceEnd="1442" cuiList="42963;" acceptRejectFlag="DEFAULT"/>
+<problem value="Vomiting" begin="1434" end="1442" status="0" certainty="0" cui="C0042963;C0042965;C1963281" tui="T033;T031;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+</ezNLP>

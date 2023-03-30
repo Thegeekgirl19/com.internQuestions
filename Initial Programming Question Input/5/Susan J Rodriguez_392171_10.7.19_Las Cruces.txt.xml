@@ -1,0 +1,135 @@
+<ezNLP>
+<Icd10CmCode>
+<code value="Z00.00" rank="999" knowledgeId="9" isDisable="0" text="Encounter for general adult medical examination without abnormal findings;" isBillable="false" evidence="Encounter for general adult medical examination without abnormal findings" evidenceBegin="13049" evidenceEnd="13122" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<modifier value="" begin="0" end="0" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="P83.88" rank="129" knowledgeId="128" isDisable="0" text="rash;" isBillable="false" evidence="rash" evidenceBegin="4918" evidenceEnd="4922" cuiList="15230;" acceptRejectFlag="DEFAULT"/>
+<code value="R21" rank="246" knowledgeId="117" isDisable="0" text="rash;" isBillable="false" evidence="rash" evidenceBegin="4918" evidenceEnd="4922" cuiList="15230;" acceptRejectFlag="DEFAULT"/>
+<problem value="rash" begin="4918" end="4922" status="0" certainty="0" cui="C0497365;S00016699;C0015230" tui="T047;T033;T033;T046" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E55.9" rank="999" knowledgeId="9" isDisable="0" text="E55.9;" isBillable="false" evidence="E55.9" evidenceBegin="12897" evidenceEnd="12902" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z90.721" rank="774" knowledgeId="128" isDisable="0" text="History;TLH w BSO &amp; cystosmpy;" isBillable="false" evidence="BSO" evidenceBegin="3800" evidenceEnd="3803" cuiList="195495;262512;" acceptRejectFlag="DEFAULT"/>
+<code value="Z90.79" rank="774" knowledgeId="128" isDisable="0" text="History;TLH w BSO &amp; cystosmpy;" isBillable="false" evidence="BSO" evidenceBegin="3800" evidenceEnd="3803" cuiList="195495;262512;" acceptRejectFlag="DEFAULT"/>
+<procedure value="TLH w BSO &amp; cystosmpy" begin="3794" end="3815" status="1" certainty="0" cui="C0195495;C0404090;C1548842" tui="T061;T061;T058" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="L30.9" rank="213" knowledgeId="116" isDisable="0" text="DERMATITIS;" isBillable="false" evidence="DERMATITIS" evidenceBegin="10929" evidenceEnd="10939" cuiList="11603;" acceptRejectFlag="DEFAULT"/>
+<problem value="DERMATITIS" begin="10929" end="10939" status="0" certainty="0" cui="C0011603" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z87.891" rank="999" knowledgeId="9" isDisable="0" text=";" isBillable="false" evidence="Former smoker" evidenceBegin="3273" evidenceEnd="3286" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="P83.88" rank="129" knowledgeId="128" isDisable="0" text="rash;" isBillable="false" evidence="rash" evidenceBegin="5126" evidenceEnd="5130" cuiList="15230;" acceptRejectFlag="DEFAULT"/>
+<code value="R21" rank="246" knowledgeId="117" isDisable="0" text="rash;" isBillable="false" evidence="rash" evidenceBegin="5126" evidenceEnd="5130" cuiList="15230;" acceptRejectFlag="DEFAULT"/>
+<problem value="rash" begin="5126" end="5130" status="0" certainty="0" cui="C0015230" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z68.39" rank="999" knowledgeId="9" isDisable="0" text="BMI;" isBillable="false" evidence="BMI" evidenceBegin="12704" evidenceEnd="12707" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<meas value="BMI" begin="12704" end="12707" status="0" certainty="0" code="EZBD001947">
+<measData value="268.39" begin="12679" end="12685" rank="1" unit="" unitBegin="" unitEnd=""/>
+<measData value="39.0-39.9" begin="12709" end="12718" rank="2" unit="" unitBegin="" unitEnd=""/>
+</meas>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="K21.9" rank="282" knowledgeId="116" isDisable="0" text="GERD;" isBillable="false" evidence="GERD" evidenceBegin="4759" evidenceEnd="4763" cuiList="17168;" acceptRejectFlag="DEFAULT"/>
+<problem value="GERD" begin="4759" end="4763" status="1" certainty="0" cui="C0017168" tui="T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R21" rank="246" knowledgeId="117" isDisable="0" text="rash spots;" isBillable="false" evidence="rash_SEP_spots" evidenceBegin="5187,5192" evidenceEnd="5191,5197" cuiList="15230;" acceptRejectFlag="DEFAULT"/>
+<code value="P83.88" rank="129" knowledgeId="128" isDisable="0" text="rash spots;" isBillable="false" evidence="rash_SEP_spots" evidenceBegin="5187,5192" evidenceEnd="5191,5197" cuiList="15230;" acceptRejectFlag="DEFAULT"/>
+<finding value="rash spots" begin="5187" end="5197" status="0" certainty="0" cui="C0848332;C1705203;C0015230" tui="T047;T047;T077;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.891" rank="999" knowledgeId="9" isDisable="0" text="HYDROcodone;" isBillable="false" evidence="HYDROcodone" evidenceBegin="1923" evidenceEnd="1934" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="HYDROcodone" begin="1923" end="1934" status="0" certainty="0" code="NO-CODE" cui="C0524150;C0993371;C0020264" tui="T200;T109,T121;T059" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="09/16/19" begin="1968" end="1976">
+<medData strength="325;5" strengthBegin="1954;1935" strengthEnd="1957;1936" strengthUnit="mg" strengthUnitBegin="1958" strengthUnitEnd="1960" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="1961" formEnd="1967" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M54.9" rank="375" knowledgeId="117" isDisable="0" text="pain;" isBillable="false" evidence="Back pain" evidenceBegin="1104" evidenceEnd="1113" cuiList="4604;" acceptRejectFlag="DEFAULT"/>
+<problem value="pain" begin="1109" end="1113" status="0" certainty="0" cui="C0030193;C1963071;C1557397;C0242936;C0004604;C1882272" tui="T033;T184;T073,T093;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z90.710" rank="774" knowledgeId="128" isDisable="0" text="History;TLH w BSO &amp; cystosmpy;" isBillable="false" evidence="TLH" evidenceBegin="3794" evidenceEnd="3797" cuiList="262926;404090;" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M79.606" rank="129" knowledgeId="128" isDisable="0" text="pain;" isBillable="false" evidence="pain in_SEP_legs" evidenceBegin="5485,5497" evidenceEnd="5492,5501" cuiList="100004077;" acceptRejectFlag="DEFAULT"/>
+<problem value="pain" begin="5485" end="5489" status="0" certainty="0" cui="S00013031;C0030193;C1557397;C0839480;C0023222;S00004077;S00022255;S00019007;C0242936;C1882272" tui="T046;T184;T046;T046;T073,T093;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z98.890" rank="258" knowledgeId="128" isDisable="0" text="History;Hysterosmpy w/ D&amp;C;" isBillable="false" evidence="D&amp;C" evidenceBegin="3862" evidenceEnd="3865" cuiList="12358;262926;" acceptRejectFlag="DEFAULT"/>
+<procedure value="Hysterosmpy w/ D&amp;C" begin="3847" end="3865" status="1" certainty="0" cui="C1444662;C0439237;C0439106;C0439107;C0678223;C0012358;C1556156;C0007404;C1720692;S20003720;C0562424;C0009170;C1328653;C0332287;C2985367;C2825521;C0439228;C1553033;C0439128;C2981683;C1328650;C0439129;C1553032" tui="T061;T046;T033;T170;T109,T131;T080;T109,T121;T081;T028;T170;T081;T079" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I10" rank="999" knowledgeId="9" isDisable="0" text="Essential (primary) hypertension;" isBillable="false" evidence="Essential (primary) hypertension" evidenceBegin="11848" evidenceEnd="11880" cuiList="85580" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.899" rank="999" knowledgeId="9" isDisable="0" text="hydroCHLOROthiazide;" isBillable="false" evidence="hydroCHLOROthiazide" evidenceBegin="1811" evidenceEnd="1830" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="hydroCHLOROthiazide" begin="1811" end="1830" status="0" certainty="0" code="NO-CODE" cui="C0700698;C0008273;C0700696;C0986524;C0020261;C0700694;C0693606" tui="T109,T121;T200;T200" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="10/07/19" begin="1847" end="1855">
+<medData strength="12.5" strengthBegin="1831" strengthEnd="1835" strengthUnit="mg" strengthUnitBegin="1836" strengthUnitEnd="1838" dosage="" dosageBegin="" dosageEnd="" form="capsule" formBegin="1839" formEnd="1846" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M79.89" rank="731" knowledgeId="97" isDisable="0" text="legs;swelling;" isBillable="false" evidence="legs_SEP_swelling" evidenceBegin="5528,5549" evidenceEnd="5532,5557" cuiList="38999;1140621;" acceptRejectFlag="DEFAULT"/>
+<anatomicalStructure value="legs" begin="5528" end="5532" status="0" certainty="0" cui="C0023216;C1285009;C1269079;C1140621" tui="T029;T023" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<problem value="swelling" begin="5549" end="5557" status="0" certainty="0" cui="S00013524;C0013604;C0038999;C0581394" tui="T184;T046;T046;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z98.890" rank="258" knowledgeId="128" isDisable="0" text="History;D&amp;C;" isBillable="false" evidence="D&amp;C" evidenceBegin="3828" evidenceEnd="3831" cuiList="12358;262926;" acceptRejectFlag="DEFAULT"/>
+<procedure value="D&amp;C" begin="3828" end="3831" status="1" certainty="0" cui="C1444662;C0439237;C0439106;C0439107;C0678223;C0012358;C1556156;C0007404;C1720692;S20003720;C0562424;C0009170;C1328653;C2825521;C0439228;C0332287;C2985367;C1328650;C1553033;C0439128;C2981683;C0439129;C1553032" tui="T170;T081;T079;T170;T109,T131;T080;T109,T121;T081;T028;T061;T046;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="K21.9" rank="999" knowledgeId="9" isDisable="0" text="K21.9;" isBillable="false" evidence="K21.9" evidenceBegin="12394" evidenceEnd="12399" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R05" rank="600" knowledgeId="116" isDisable="0" text="Cough;" isBillable="false" evidence="Cough" evidenceBegin="1644" evidenceEnd="1649" cuiList="10200;" acceptRejectFlag="DEFAULT"/>
+<problem value="Cough" begin="1644" end="1649" status="0" certainty="0" cui="S00003732;C1961131;C0010200;C0687152" tui="T046;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R60.0" rank="999" knowledgeId="9" isDisable="0" text="R60.0;" isBillable="false" evidence="R60.0" evidenceBegin="11571" evidenceEnd="11576" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.899" rank="999" knowledgeId="9" isDisable="0" text="omeprazole;" isBillable="false" evidence="omeprazole" evidenceBegin="12455" evidenceEnd="12465" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="omeprazole" begin="12455" end="12465" status="0" certainty="0" code="NO-CODE" cui="C0028978;C0988268" tui="T109,T121;T200;T200" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="20" strengthBegin="12466" strengthEnd="12468" strengthUnit="mg" strengthUnitBegin="12469" strengthUnitEnd="12471" dosage="1" dosageBegin="12502" dosageEnd="12503" form="CAPSULE" formBegin="12504" formEnd="12511" frequency="EVERY DAY" frequencyBegin="12521" frequencyEnd="12530" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="BY MOUTH" routeBegin="12512" routeEnd="12520"/></med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.899" rank="999" knowledgeId="9" isDisable="0" text="omeprazole;" isBillable="false" evidence="omeprazole" evidenceBegin="2223" evidenceEnd="2233" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="omeprazole" begin="2223" end="2233" status="0" certainty="0" code="NO-CODE" cui="C0028978;C0988268" tui="T109,T121;T200;T200" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="10/07/19" begin="2264" end="2272">
+<medData strength="20" strengthBegin="2234" strengthEnd="2236" strengthUnit="mg" strengthUnitBegin="2237" strengthUnitEnd="2239" dosage="" dosageBegin="" dosageEnd="" form="capsule" formBegin="2240" formEnd="2247" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z90.710" rank="1420" knowledgeId="128" isDisable="0" text="History;Hysterectomy;" isBillable="false" evidence="Hysterectomy" evidenceBegin="3762" evidenceEnd="3774" cuiList="20699;262512;" acceptRejectFlag="DEFAULT"/>
+<procedure value="Hysterectomy" begin="3762" end="3774" status="1" certainty="0" cui="C1548863;C0020699" tui="T061;T058" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.5" rank="129" knowledgeId="128" isDisable="0" text="Family History;Chronic obstructive lung disease;" isBillable="false" evidence="Chronic obstructive lung disease" evidenceBegin="2995" evidenceEnd="3027" cuiList="24117;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Chronic obstructive lung disease" begin="2995" end="3027" status="2" certainty="0" cui="C0024117" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.899" rank="999" knowledgeId="9" isDisable="0" text="omeprazole;" isBillable="false" evidence="omeprazole" evidenceBegin="5733" evidenceEnd="5743" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="omeprazole" begin="5733" end="5743" status="0" certainty="0" code="NO-CODE" cui="C0028978" tui="T109,T121;T109,T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.899" rank="999" knowledgeId="9" isDisable="0" text="HCTZ;" isBillable="false" evidence="HCTZ" evidenceBegin="11685" evidenceEnd="11689" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="HCTZ" begin="11685" end="11689" status="0" certainty="0" code="NO-CODE" cui="C0020261" tui="T109,T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.899" rank="999" knowledgeId="9" isDisable="0" text="hydrochlorothiazide;" isBillable="false" evidence="hydrochlorothiazide" evidenceBegin="11883" evidenceEnd="11902" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="hydrochlorothiazide" begin="11883" end="11902" status="0" certainty="0" code="NO-CODE" cui="C0700698;C0008273;C0700696;C1244657;C0986524;C0020261;C0700694;C0693606" tui="T109,T121;T200;T200;T200;T200" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="every day" begin="11938" end="11947">
+<medData strength="12.5" strengthBegin="11903" strengthEnd="11907" strengthUnit="mg" strengthUnitBegin="11908" strengthUnitEnd="11910" dosage="1" dosageBegin="11925" dosageEnd="11926" form="capsule" formBegin="11927" formEnd="11934" frequency="every day" frequencyBegin="11938" frequencyEnd="11947" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="oral" routeBegin="11951" routeEnd="11955"/></date>
+</med>
+</Icd10CmCode>
+</ezNLP>

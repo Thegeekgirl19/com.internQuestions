@@ -1,0 +1,46 @@
+/*public static void main(String[] args) throws FileNotFoundException {
+		
+		File codeList = new File("/home/trishalaswain/Downloads/Problem_Input/10/LatestIcd10Codes");
+		Scanner sc = new Scanner(codeList);
+		
+		String eqn1 = "Z68.* + I10 = I11.2 + Z68.*";
+		String[] array = eqn1.split(" ");
+		//System.out.println(array[0]);//
+		Stack<String> stack = new Stack<String>();
+		for(int i = 0; i < array.length; i++) {
+            stack.push(array[i]);
+            //System.out.println("pushed " + array[i]);
+        }
+		
+		while(!stack.empty()) {
+			String str = stack.pop();
+			if(str.contains("*")) {
+				System.out.println("Contains wild card: "+ str);
+				 if (str != null && str.length() > 0 && str.charAt(str.length() - 1) == '*') {
+				        str = str.substring(0, str.length() - 1);
+				        System.out.println(str);
+				    }
+				searcher(sc, str);
+				//System.out.println(str);
+			}
+		}
+		
+		
+
+	}
+	
+	public static ArrayList<String> searcher(Scanner sc, String str) {
+		ArrayList<String> searchResults = new ArrayList<String>();
+		while(sc.hasNextLine()) {
+			String line = sc.nextLine();
+			if(line.contains(str)) {
+				searchResults.add(line);
+			}
+					
+		}
+		System.out.println(searchResults.toString());
+		return searchResults;
+		
+
+	}
+*/

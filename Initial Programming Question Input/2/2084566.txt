@@ -1,0 +1,309 @@
+8/27/2019
+Rosati, Maria (MR#1003057998) Printed by CRAIG, KRISTIN [3497]
+||4 10/1/2018 11:02|3 1/7/2019 13:31|2 4/8/2019 10:00|1 8/19/2019 11:31|
+|COMPLETE BLOO D COUNT|||||
+|White Blood Cell C..|6.6 *||||
+|Red Blood Cell Cou nt|5.22 *||||
+|Hemoglobin|15.0 *||||
+|Hematocrit|46.2 *||||
+|MCV|88.5 *||||
+|MCH|28.7 *||||
+|MCHC|32.5 *||||
+|RDW|13.3 *||||
+|Platelet Count|262 *||||
+|MPV|12.1 *||||
+|DIFFERENTIAL|||||
+|Neutrophils Auto|57.3 *||||
+|Abs Neutrophils Aut o|3,782 *||||
+|Lymphocytes Auto|30.7 *||||
+|Abs Lymphocytes A uto|2,026 *||||
+|Monocytes Auto|7.3 *||||
+|Abs Monocytes Auto|482 *||||
+|Eosinophils Auto|3.6 *||||
+|Abs Eosinophils Aut o|238 *||||
+|Basophils Auto|1.1 *||||
+|Abs Basophils Auto|73 *||||
+|SPECIAL HEMATO LOGY|||||
+|Sedimentation Rate|9*||||
+|CHEMISTRY GENE RAL|||||
+|Sodium|141 *||141 *||
+|Potassium|4.8 *||4.3 *||
+|Chloride|102 =||103 *||
+|CO2|31 = *||32 *||
+|BUN|18 *||25 *||
+|Creatinine|0.75 *||0.84 *||
+
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp? WhichFrame=3&Action=Print 1/3
+
+-------------------------------------------
+-------------------------------------------
+8/27/2019
+Rosati, Maria (MR#1003057998) Printed by CRAIG, KRISTIN [3497]
+||4 10/1/2018 11:02|3 1/7/2019 13:31|2 4/8/2019 10:00|1 8/19/2019 11:31|
+|Bun / Creat Ratio|NOT APPLICAB LE *||NOT APPLICAB LE *||
+|Glucose|80 *||94 *||
+|Calcium|9.5 *||9.4 *||
+|Protein, Total|6.6 *||6.8*||
+|Albumin|4.0 *||4.1 =||
+|Globulin|2.6*||2.7||
+|A/G Ratio|1.5*||1.5||
+|eGFR African Ameri can|84 *||73 *||
+|eGFR Non- African A|73*||63 *||
+|Bilirubin Total|0.5*||0.4*||
+|Aspartate Aminotra.|14 *||16*||
+|Alanine Aminotrans.|9*||12*||
+|Alkaline Phosphatas e|69 *||75*||
+|Vitamin B12|421 =||||
+|LIPID PROFILE|||||
+|Cholesterol|242 *||164 = *||
+|Triglycerides|183 *||149||
+|HDL|58 *||56*||
+|LDL Cholesterol|152 *||83 *||
+|Cholesterol/HDL Rat io|4.2||2.9 ||
+|Non HDL Chol. (LDL|184 *||108 *||
+|ENDOCRINE/FERT ILITY|||||
+|Hemoglobin A1C|5.6 *||||
+|TSH, Highly Sensitiv e|2.52 *||3.09||
+|T3, Free|2.1 *||2.7*||
+|T4, Free|1.2 *||1.4*||
+|Thyroglobulin|<0.1 *||<0.1||
+|SPECIAL CHEMIST RY|||||
+|Vitamin D,25- Oh, To|41*||||
+
+*
+...
+*
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print 2/3
+
+-------------------------------------------
+-------------------------------------------
+8/27/2019
+Rosati, Maria (MR#1003057998) Printed by CRAIG, KRISTIN [3497]
+||4 10/1/2018 11:02|3 1/7/2019 13:31|2 4/8/2019 10:00|1 8/19/2019 11:31|
+|AUTOIMMUNE SE ROLOGY|||||
+|Thyroglobulin AB|2*||1*||
+|POINT OF CARE T ESTING|||||
+|Source, UA||Clean Catch|||
+|Color, UA||Yellow|||
+|Clarity, UA||Clear|||
+|Glucose, UA||Negative|||
+|Bilirubin, UA||Negative|||
+|Ketones, UA||Negative|||
+|Spec Grav, UA||1.010|||
+|Blood, UA||Negative|||
+|pH, UA||5.0|||
+|Protein, UA||Negative|||
+|Urobilinogen, UA||0.2|||
+|Nitrite, UA||Negative|||
+|Leukocyte Esterase.||Negative|||
+|Quality Control||Pass|||
+|ECG|||||
+|ECG 12-LEAD|||||
+|OTHERS|||||
+|Mean Plasma Gluco se|122 *||||
+
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp? WhichFrame=3&Action=Print 3/3
+
+-------------------------------------------
+-------------------------------------------
+8/27/2019
+Rosati, Maria (MR#1003057998) Printed by CRAIG, KRISTIN [3497]
+Rosati, Maria (MR # 1003057998) DOB: 09/27/1933 Encounter Date: 01/07/2019
+MRN: 1003057998
+Rosati, Maria
+Office Visit 1/7/2019
+Hartford Health Care Medical
+Group Farmington
+Provider: Jaime P Moskowitz, MD (Internal Medicine)
+Primary diagnosis: Annual physical exam
+Reason for Visit: Annual Exam 6; Referred by Jaime P Moskowitz, MD
+Progress Notes
+Assessment and Plan
+Assessment
+Maria was seen today for annual exam.
+Diagnoses and all orders for this visit:
+Annual physical exam
+POCT Urinalysis Dipstick, Automated
+-
+Flu vaccine need
+Flu vaccine greater than or equal to 3yo preservative free IM
+-
+labs ordered by endo
+Recent Results (from the past 2 hour(s))
+POCT Urinalysis Dipstick, Automated
+Collection Time : 01/07/19 1:31 PM
+|Result Source, UA|Value Clean Catch|Ref Range|
+|Color, UA|Yellow|Yellow & Clear, Yellow|
+|Clarity, UA|Clear|Clear|
+|Glucose, UA|Negative|Negative|
+|Bilirubin, UA|Negative|Negative|
+|Ketones, UA|Negative|Negative|
+|Spec Grav, UA|1.010|1.005, 1.010, 1.015, 1.020, 1.025|
+|Blood, UA pH, UA|Negative 5.0|Negative 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0|
+|Protein, UA|Negative|Negative|
+|Urobilinogen, UA|0.2|0.2, 1.0|
+|Nitrite, UA|Negative|Negative|
+|Leukocyte Esterase, UA|Negative|Negative|
+|Lot Number|804106||
+|Quality Control|Pass|Pass|
+
+, Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/4
+
+-------------------------------------------
+-------------------------------------------
+8/27/2019
+Rosati, Maria (MR#1003057998) Printed by CRAIG, KRISTIN [3497]
+Rosati, Maria (MR # 1003057998) DOB: 09/27/1933 Encounter Date: 01/07/2019
+Screening
+During the course of the visit the patient was educated and counseled about appropriate screening and preventive services including:
+Pneumococcal vaccine
+Influenza vaccine
+Td vaccine
+Screening mammography
+Bone densitometry screening
+Colorectal cancer screening
+Diabetes screening
+Glaucoma screening
+Nutrition counseling
+Weight control
+Advanced directives
+Screening Counseling & Education
+Cardiovascular screening is current.
+Diabetes screening is current.
+Breast Cancer screening was declined.
+Colorectal Cancer. screening was declined.
+Osteoporosis screen was declined.
+Glaucoma screening is needed per orders.
+Immunizations immunizations given today per orders.
+Communication barriers and lifestyle preferences were addressed with the patient. The care plan including medications and self-management goals were reviewed to the best of the patient's abilities.
+All questions and concerns were answered. Patient and/or family verbalized understanding of the plan of care.
+Patient has been provided with verbal and written information about the scope of services included in a preventative examination. Patient agrees that medical problems / concerns will be evaluated and managed during this visit and may result in a separate office visit and billing charge. Not Applicable
+Subjective
+Subjective
+Maria Rosati, 85 y.O., presents to the clinic today for her annual medicare wellness visit.
+HPL
+Lipids and thyroid managed by her endocrinologist
+Medicare Screening Tests and Risk Assessments
+Hospitalizations
+Previous hospitalizations within the past year: none
+Screenings
+ECG:pt declined
+Osteoporosis Risk Assessment: race caucasian, age >50 and female
+HIV Risk Assessment: none identified
+Mood Disorder
+PHQ-2:PHQ-2 Total Score: 0
+GAD-2:GAD-2 Total Score : 0
+Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/4
+
+-------------------------------------------
+-------------------------------------------
+8/27/2019
+Rosati, Maria (MR#1003057998) Printed by CRAIG, KRISTIN [3497]
+Rosati, Maria (MR # 1003057998) DOB: 09/27/1933 Encounter Date: 01/07/2019
+Functional Ability/Level of Safety.
+Current Activities:
+ADL's: unlimited
+Fall Risk Factors: none identified
+Home Safety Risk Factors: none identified
+Timed 'Get Up and Go' test: < / equal to 20 sec
+Cognitive Impairment Screening:
+no impairments identified
+Advanced Directives
+Do you have an Advanced Directives: Yes: will provide copy
+Pertinent History.
+The following portions of the patient's history were reviewed and updated as appropriate: allergies, current medications, problem list, past medical history, past surgical history, past family history, past social history and recent labs.
+Review of Systems
+Constitutional: Negative.
+HENT: Negative.
+Eyes: Negative.
+Respiratory: Negative.
+Cardiovascular: Negative.
+Gastrointestinal: Negative.
+Endocrine: Negative.
+Genitourinary: Negative.
+Musculoskeletal: Negative.
+Skin: Negative.
+Neurological: Negative.
+Hematological: Negative.
+Psychiatric/Behavioral: Negative.
+Objective
+Objective
+Vitals:
+01/07/19 1234
+137/88
+96
+BP:
+Pulse:
+Resp:
+Temp:
+SpO2:
+Weight:
+Height:
+17
+97.7 F (36.5 C)
+96%
+75.9 kg (167 lb 6.4 oz)
+1.511 m (4' 11.5')
+Physical Exam
+Constitutional: She is oriented to person, place, and time. She appears well-developed.
+HENT:
+Head: Normocephalic and atraumatic.
+Right Ear: External ear normal.
+Left Ear: External ear normal.
+Mouth/Throat: Oropharynx is clear and moist.
+Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/4
+
+-------------------------------------------
+-------------------------------------------
+8/27/2019
+Rosati, Maria (MR#1003057998) Printed by CRAIG, KRISTIN [3497]
+Rosati, Maria (MR # 1003057998) DOB: 09/27/1933 Encounter Date: 01/07/2019
+Eyes: Conjunctivae are normal. Pupils are equal, round, and reactive to light. Right eye exhibits no discharge. Left eye exhibits no discharge.
+Neck: No thyromegaly present.
+Cardiovascular: Normal rate, regular rhythm and normal heart sounds.
+Pulmonary/Chest: Effort normal and breath sounds normal. No respiratory distress.
+Abdominal: Soft. Bowel sounds are normal. There is no tenderness.
+Genitourinary:
+Genitourinary Comments: Breast/pelvic deferred per pt
+Musculoskeletal: She exhibits no edema or tenderness.
+Lymphadenopathy:
+She has no cervical adenopathy.
+Neurological: She is alert and oriented to person, place, and time. She has normal reflexes.
+Skin: Skin is warm and dry. No rash noted.
+Psychiatric: She has a normal mood and affect.
+Instructions
+Return in about 1 year (around 1/7/2020) for AWE.
+AVS - With Med List (Printed 1/7/2019)
+Additional Documentation
+Vitals:
+BP 137/88 (BP Location: Right arm, Patient Position: Sitting, Cuff Size: Large) Pulse 96
+Temp 97.7 F (36.5 C) (Oral) Resp 17 Ht 1.511 m (4' 11.5') Wt 75.9 kg (167 lb 6.4 oz) SpO2 96%
+BMI 33.24 kg/m BSA 1.79 m2 More Vitals
+Flowsheets: ACO Wellness, Vital Signs, Vital Signs
+Encounter Info: Billing Info, History, Allergies, Detailed Report
+Media
+Scan on 1/9/2019 10:49 AM by Kristany Perez: ANNUAL HISTORY 01/2019
+Electronic signature on 1/7/2019 12:22 PM - Signed
+Orders placed
+POCT Urinalysis Dipstick, Automated
+Medication Changes
+X Gabapentin 300 mg Oral Nightly
+Visit Diagnoses
+Annual physical exam
+Flu vaccine need
+Immunizations Given
+Influenza Inactivated/Split Perservative Free IM
+Printed by Kristin C at 8/27/2019 2:49 PM
+Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+4/4
+
+-------------------------------------------
+-------------------------------------------

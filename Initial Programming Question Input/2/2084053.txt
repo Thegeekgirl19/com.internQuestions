@@ -1,0 +1,961 @@
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MRN2001377096)
+Ordered On 11/1/2015 7:14 PM
+|Ordering Provider|Authorizing Provider|Ordering User Ordering Department|
+|Conversion Provider, MD|Conversion Provider, MD|Interface, Radiology Results MMC EMERGENCY|
+|||Conversion|
+
+Printed
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/2
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 11/08/2018
+11/8/2018 1:00 PM Office Visit
+MRN: 2001377096
+Regina B Arabasz
+Description: Female DOB: 8/9/1933 Provider: Charles M Masserman, MD
+Department: Hartford Health Care Medical Group Meriden
+Diagnoses
+8
+Reason for Visit
+id
+Follow-up Hypertension
+Reason for Visit History
+Essential hypertension - Primary
+Codes: 110
+Other hyperlipidemia
+Codes: E78.49
+Stage 3 chronic kidney disease (HCC)
+Codes: N18.3
+Progress Notes
+11/8/2018 1:41 PM
+Progress Notes by Charles M Masserman, MD at 11/8/2018 12:54 PM
+Author: Charles M Masserman, Author Type: Physician
+Filed:
+MD
+Note Status: Signed
+Cosign: Cosign Not Required Encounter
+Date:
+Editor: Charles M Masserman, MD (Physician)
+Assessment & Plan
+11/8/2018
+Assessment
+Regina was seen today for follow-up.
+Diagnoses and all orders for this visit:
+Essential hypertension
+Other hyperlipidemia
+Stage 3 chronic kidney disease (HCC)
+Her blood pressure and cholesterol are under excellent control on her current medicines and she has some very mild chronic and stable kidney disease. She will continue her current medicines and follow-up in 6 months or as needed. She was offered a mammogram today but declines at the present time and will call back if interested.
+No results found for this or any previous visit (from the past 2 hour(s)).
+No Follow-up on file.
+Communication barriers and lifestyle preferences were addressed with the patient. The care plan including medications and self-management goals were reviewed to the best of the patient's abilities. All questions and concerns were answered. Patient and/or family verbalized understanding of the plan of care.
+Arabas
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz
+Subjective
+Subjective
+Patient ID: Regina B Arabasz is a 85 y.o, female.
+HPI
+The patient continues to do very well and gets around reasonably. She mostly uses a cane when she is out but for longer walks does have a rolling seated walker. She otherwise feels well with no complaints of chest pain or any breathing difficulties. She remains compliant with all of her medications and we reviewed her fairly recent lab work with excellent lipids and mild stable chronic kidney disease.
+Review of Systems
+Social History
+Never Smoker
+Never Used
+Tobacco Use
+ Smoking status:
+Smokeless tobacco:
+Substance Use Topics
+Alcohol use:
+Alcohol/week:
+Comment: Rarely
+.
+Yes
+0.0 oz
+ALLERGIES
+Allergies
+Allergen
+Penicillins
+Reactions
+Other (See Comments)
+Percocet [Oxycodone-Acetaminophen]
+Delerium/Confusion/Psychosis
+.
+.
+Current Outpatient Medications:
+ aspirin enteric coated (ECOTRIN LOW STRENGTH) 81 MG EC tablet, Take 81 mg by mouth daily., Disp: , Rfi: cholecalciferol (VITAMIN D3) 1000 UNITS tablet, Take 1,000 Units by mouth daily., Disp: , Rfl:
+diltiazem (TIAZAC) 300 MG 24 hr capsule, Take 1 capsule (300 mg total) by mouth daily., Disp: 90
+capsule, Rfl: 0
+lisinopril (PRINIVIL,ZESTRIL) 10 MG tablet, Take 1 tablet (10 mg total) by mouth daily., Disp: 90
+tablet, Rfl: 1
+metoPROLOL SUCCINATE (TOPROL-XL) 25 MG 24 hr tablet, Take 1 tablet (25 mg tot by
+mouth daily., Disp: 90 tablet, Rfl: 1
+pravastatin (PRAVACHOL) 40 MG tablet, Take 1 tablet (40 mg total) by mouth daily., Disp: 90
+tablet, Rf : 1
+.
+Patient Active Problem List
+Diagnosis
+ Hypertension
+Hyperlipidemia
+Stage 3 chronic kidney disease (HCC)
+0
+.
+Arabas
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz
+Objective
+Objective
+There were no vitals filed for this visit.
+Recent Results (from the past 4368 hour(s))
+Comprehensive Metabolic Panel
+Collection Time : 09/05/18 9:33 AM
+|Result Glucose|Value 100 (H)|Ref Range 65 99 mg/dL|
+|Blood Urea Nitrogen (BUN)|24|7 - 25 mg/dL|
+|Creatinine|0.99 (H)|0.60 - 0.88 mg/dL|
+|eGFR Non-African American|52 (L)|> OR = 60 mL/min/1.73 m2|
+|eGFR African American|60|> OR = 60 mL/min/1.73 m2|
+|BUN/Creatinine Ratio|24 (H)|6 - 22 (calc)|
+|Sodium|141|135 - 146 mmol/L|
+|Potassium|4.6|3.5 5.3 mmol/L|
+|Chloride|106|98 110 mmol/L|
+|CO2|23|20 32 mmol/L|
+|Calcium|8.9|8.6 10.4|
+|Protein, Total|6.4|mg/dL 6.1 - 8.1 g/dL|
+|Albumin|3.6|3.6 - 5.1 g/dL|
+|Globulin|2.8|1.9 - 3.7 g/dL|
+|||(calc)|
+|Albumin/Globulin|1.3|1.0 2.5|
+|Ratio||(calc)|
+|Bilirubin, Total|0.5|0.2 1.2 mg/dL|
+|Alkaline|54|33 - 130 U/L|
+|Phosphatase|||
+|Aspartate|13|10 35 U/L|
+|Aminotrans (AST)|||
+|Alanine Aminotrans|8|6 - 29 U/L|
+
+-
+-
+-
+-
+-
+( ALT ) Lipid Panel Reflex Direct LDL ( Quest Only )
+Collection Time : 09/05/18 9:33 AM
+|Result|Value|Ref Range|
+|Cholesterol, Total|204 (H)|<200 mg/dL|
+|Cholesterol, HDL|55|>50 mg/dL|
+|Triglycerides|77|<150 mg/dL|
+|LDL Cholesterol|132 (H)|mg/dL (calc)|
+|Cholesterol/HDL|3.7|<5.0 (calc)|
+
+Arabasz , Regina B ( MRN 2001377096 ) Printed by Danielle Ferrato ( 3131 ) at 10/28/19 4:31 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 11/08/2018
+Ratio
+Non HDL Chol.
+149 (H)
+<130 mg/dL
+(LDL+VLDL)
+(calc)
+Physical Exam
+Constitutional: She is oriented to person, place, and time. She appears well-developed and well- nourished. No distress.
+Neck: No JVD present.
+Carotids 2+ bilat wlo bruit
+Cardiovascular: Normal rate, regular rhythm and normal heart sounds.
+Pulmonary/Chest: Effort normal and breath sounds normal. No respiratory distress. She has no wheezes. She has no rales.
+Musculoskeletal: She exhibits no edema.
+No c/c/v
+Lymphadenopathy:
+She has no cervical adenopathy.
+Neurological: She is alert and oriented to person, place, and time.
+Psychiatric: She has a normal mood and affect. Her behavior is normal.
+Vitals reviewed.
+Medications Ordered This Encounter
+End
+Disp Refills diltiazem (TIAZAC) 300 MG 24 hr capsule
+90 capsule 3
+Take 1 capsule (300 mg total) by mouth daily. - Oral
+Start
+11/8/2018
+Medication List Reviewed
+User
+BRENDA HOLMBERG, MA [1280]
+Date and Time
+7/30/2019 2:47 PM
+* Vitals
+Wt
+BP
+138/82
+Pulse
+56 !
+Temp
+Resp
+97.6 F (36.4 C) (Oral) 16
+79.4 kg (175 lb)
+SpO2
+98%
+BMI
+33.07 kg/m 
+Smoking Status
+Never Smoker
+E Follow-up and Dispositions
+ Return in about 6 months (around 5/8/2019) for f/u HBP, f/u Hyperlipidemia.
+Follow-up and Disposition History
+Arabasz, Regina B (MRN 2001377096) Printed by Danielle Ferrato (3131) at 10/28/19 4:31 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 11/08/2018
+6 All Flowsheet Templates (all
+recorded)
+Custom Formula Data
+Encounter Vitals
+Vital Signs
+Wellness Fall Risk
+Referring Provider
+Prakash Puranik, MD
+Level of Service
+Level of Service
+PR ESTABLISHED OFFICE LOW 15 MIN [99213]
+All Charges for This Encounter
+Code
+99213
+Description
+PR ESTABLISHED OFFICE LOW 15 MIN
+Service Date
+11/8/2018
+Service Provider
+Charles M Masserman, MD
+Modifiers Qty
+1
+BestPractice Advisories
+Click to view Best Practice Advisory history
+4. Allergies as of 11/8/2018
+Reviewed by Brenda Holmberg, MA on 11/8/2018
+||Noted|Reaction Type|Reactions|Deletion Reason|
+|Penicillins|08/31/2016||Other (See Comments)||
+
+-
+08/31/2016
+Percocet [oxycodone-
+acetaminophen]
+Delerium/Confusion/Psychosis
+Z Medications at Start of Encounter
+Refills
+Start
+End
+Disp
+aspirin enteric coated (ECOTRIN LOW
+STRENGTH) 81 MG EC tablet (Taking)
+Sig - Route: Take 81 mg by mouth every morning. - Oral
+Class: Historical Med
+Number of times this order has been changed since signing: 3
+Order Audit Trail
+cholecalciferol (VITAMIN D3) 1000 UNITS
+tablet (Taking)
+Arabasz, Regina B (MRN 2001377096) Printed by Danielle Ferrato (3131) at 10/28/19 4:31 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+|Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date:|11/08/2018|||
+|Disp|Refills|Start|End|
+|Sig - Route: Take 1,000 Units by mouth every morning. -|Oral|||
+|Class: Historical Med||||
+|Number of times this order has been||||
+|changed since signing: 3||||
+|Order Audit Trail||||
+|diltiazem (TIAZAC) 300 MG 24 hr capsule 90 capsule|0|8/14/2018|11/8/2018|
+|(Taking/Discontinued)||||
+|Sig - Route: Take 1 capsule (300 mg total) by mouth daily.|- Oral|||
+|Class: E Prescribe||||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been||||
+|changed since signing: 1 Order Audit Trail||||
+|lisinopril (PRINIVIL,ZeSTRIL) 10 MG tablet 90 tablet|1|10/9/2018|12/19/2018|
+|(Taking/Discontinued)||||
+|Sig - Route: Take 1 tablet (10 mg total) by mouth daily. -|Oral|||
+|Class: E Prescribe||||
+|Reason for Discontinue: Stop Taking at Discharge||||
+|Number of times this order has been||||
+|changed since signing: 2||||
+|Order Audit Trail||||
+|metoPROLOL SUCCINATE (TOPROL-XL) 25 90 tablet|1|10/9/2018|12/19/2018|
+|MG 24 hr tablet (Taking/Discontinued)||||
+|Sig - Route: Take 1 tablet (25 mg total) by mouth daily. -|Oral|||
+|Class: E Prescribe||||
+|Reason for Discontinue: Stop Taking at Discharge||||
+|Number of times this order has been||||
+|changed since signing: 2 Order Audit Trail||||
+|pravastatin (PRAVACHOL) 40 MG tablet 90 tablet Taking/Discontinued) Sig - Route: Take 1 tablet (40 mg total) by mouth daily. - Reason for Discontinue: Error|1 Oral|6/21/2017|12/18/2018| |||||
+
+:
+|Medications at End of Encounter||||
+|Disp|Refills|Start|End|
+|aspirin enteric coated (ECOTRIN LOW||||
+|STRENGTH) 81 MG EC tablet (Taking)||||
+|Sig - Route: Take 81 mg by mouth every morning. - Oral||||
+|Class: Historical Med||||
+|Number of times this order has been||||
+|changed since signing: 3||||
+|Order Audit Trail||||
+|cholecalciferol (VITAMIN D3) 1000 UNITS||||
+|tablet (Taking)||||
+|Sig - Route: Take 1,000 Units by mouth every morning. - Oral||||
+|Class: Historical Med||||
+|Number of times this order has been||||
+|changed since signing: 3||||
+|Order Audit Trail||||
+|||||
+
+Printed
+Danielle
+by
+2001377096)
+[3131]
+4:31
+10/28/19
+(MRN
+Regina
+PM
+Ferrato
+Arabasz, B at
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+6/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+|Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933|Encounter Date:|11/08/2018|||
+||Disp|Refills|Start|End|
+|diltiazem (TIAZAC) 300 MG 24 hr capsule|90 capsule|3|11/8/2018||
+|(Taking)|||||
+|Sig - Route: Take 1 capsule (300 mg total)|by mouth daily.|- Oral|||
+|Class: E Prescribe|||||
+|Number of times this order has been|||||
+|changed since signing: 2 Order Audit Trail|||||
+|lisinopril (PRINIVIL,ZeSTRIL) 10 MG tablet|90 tablet|1|10/9/2018|12/19/2018|
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 1 tablet (10 mg total) by|mouth daily. -|Oral|||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Stop Taking at|Discharge||||
+|Number of times this order has been|||||
+|changed since signing: 2|||||
+|Order Audit Trail|||||
+|metoPROLOL SUCCINATE (TOPROL-XL) 25|90 tablet|1|10/9/2018|12/19/2018|
+|MG 24 hr tablet (Taking/Discontinued)|||||
+|Sig - Route: Take 1 tablet (25 mg total) by|mouth daily. -|Oral|||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Stop Taking at|Discharge||||
+|Number of times this order has been|||||
+|changed since signing: 2 Order Audit Trail|||||
+|pravastatin (PRAVACHOL) 40 MG tablet|90 tablet|1|6/21/2017|12/18/2018|
+|(Taking/Discontinued) Sig - Route: Take 1 tablet (40 mg total) by Reason for Discontinue: Error|mouth daily. -|Oral|||
+
+:
+.
+(
+Medications the Patient Reported Taking aspirin enteric coated (ECOTRIN LOW STRENGTH) 81 MG EC tablet (Taking)
+Number of times this order has been changed since signing: 3
+Order Audit Trail cholecalciferol (VITAMIN D3) 1000 UNITS tablet (Taking)
+Number of times this order has been changed since signing: 3
+Order Audit Trail diltiazem (TIAZAC) 300 MG 24 hr capsule (Taking)
+Number of times this order has been changed since signing: 2
+Order Audit Trail diltiazem (TIAZAC) 300 MG 24 hr capsule (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+lisinopril (PRINIVIL,ZESTRIL) 10 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 2
+Order Audit Trail metoPROLOL SUCCINATE (TOPROL-XL) 25 MG 24 hr tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+pravastatin (PRAVACHOL) 40 MG tablet (Taking/Discontinued)
+Arabasz, Regina B (MRN 2001377096) Printed by Danielle Ferrato (3131) at 10/28/19 4:31 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+7/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 11/08/2018 hello Immunizations as of 11/8/2018
+Never Reviewed
+|Name|Date|Dose|VIS Date|Route|
+|Influenza Inactivated/Split with Preservative IM|11/15/2017|--|--|--|
+|Influenza, Unspecified|10/3/2013|--|--|--|
+|Influenza, Unspecified|9/1/2011|--|--|--|
+|Influenza, Unspecified|10/1/1999|--|--|--|
+|Td|1/1/2012|--|--|--|
+|Tdap|11/30/2016|0.5 mL|2/24/2015|Intramuscular|
+|Site: Left deltoid Given By: Dawn Smith, LPN|||||
+|Tdap|10/1/2013|--|--|--|
+|Tetanus Toxoid, Unspecified|6/1/1992|--|--|--|
+
+Date Reviewed: 8/14/2018
+2. Problem List
+as of 11/8/2018
+Class
+ICD-10-CM Priority
+110
+Noted -
+Resolved
+11/8/2018 -
+Present
+Hypertension
+Relevant Medications
+|lisinopril (PRINIVIL,ZeSTRIL) 10 MG tablet metoPROLOL SUCCINATE (TOPROL-XL) 25 MG 24 diltiazem (TIAZAC) 300 MG 24 hr capsule|hr tablet||
+|Hyperlipidemia|E78.5|11/8/2018 -|
+|Relevant Medications pravastatin (PRAVACHOL) 40 MG tablet||Present|
+|Stage 3 chronic kidney disease (HCC)|N18.3|11/8/2018 - Present|
+|s Surgical History Procedure Laterality Date KNEE SURGERY|Comment|Source Provider|
+|ii Family History Problem Relation Lung cancer Father|Age of Onset|Comments|
+|D OB History None|||
+
+Arabasz, Regina B (MRN 2001377096) Printed by Danielle Ferrato (3131) at 10/28/19 4:31 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+8/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 11/08/2018 i Social Documentation
+No social documentation on file.
+Pediatric History
+Show all answered pediatric history
+No questionnaires available.
+QAVS Reports
+Date/Time Report
+11/8/2018 1:31 After Visit Summary
+PM
+Action
+Printed
+User
+Caroline Aguiar-Kuhn
+All Flowsheet Templates (all recorded)
+Custom Formula Data
+Encounter Vitals
+Vital Signs
+Wellness Fall Risk
+Chart Review Routing History
+No encounter routing history is on file
+Arabasz, Regina B (MRN 2001377096) Printed by Danielle Ferrato (3131) at 10/28/19 4:31 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+9/9
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 12/18/2018
+MRN: 2001377096
+Arabasz, Regina B
+Last attending: Shailaja Chikoti, MD Treatment team
+ED to Hosp-Admission
+12/18/2018 - 12/19/2018 (26 hours)
+Status: Discharged
+HHC MMC Midstate Medical Center
+ED Chart Summary
+ED Chart Summary Report
+Discharge Summary Notes
+Discharge Summary by Shailaja Chikoti, MD at 12/19/2018 1:22 PM
+Author: Shailaja Chikoti, MD Service: Internal Medicine
+Author Type: Physician
+Filed: 12/21/2018 3:47 PM
+Date of Service: 12/19/2018 1:22 PM Status: Signed
+Editor: Shailaja Chikoti, MD (Physician)
+Inpatient Discharge Summary
+HHC MMC Midstate Medical Center
+Brief Overview
+Patient Demographics
+REGINA B ARABASZ
+MRN: 2001377096
+8/9/1933
+85 y.o.
+Allergies
+Allergen
+Penicillins
+Reactions
+Other (See Comments)
+.
+Percocet [Oxycodone-Acetaminophen]
+Delerium/Confusion/Psychosis
+Admission Date: 12/18/2018
+Admitting Provider: Adnan S Sadiq, MD
+Discharge Provider: Shailaja Chikoti, MD
+Primary Care Provider at Discharge: Charles M Masserman, MD
+Discharge Date: 12/19/18
+Primary Discharge
+Diagnosis
+Active Problems:
+Orthostatic hypotension POA: Yes
+Acute kidney injury superimposed on CKD (HCC) POA: Yes
+Discharge
+Disposition
+home
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/7
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 12/18/2018
+Code Status
+Procedures
+Full Code
+Admission Medications
+aspirin enteric coated (ECOTRIN LOW Take 81 mg by mouth every morning.
+STRENGTH) 81 MG EC tablet
+cholecalciferol (VITAMIN D3) 1000 UNITS Take 1,000 Units by mouth every morning.
+tablet
+diltiazem (TIAZAC) 300 MG 24 hr capsule Take 1 capsule (300 mg total) by mouth daily.
+lisinopril (PRINIVIL,ZESTRIL) 10 MG tablet Take 1 tablet (10 mg total) by mouth daily.
+metoPROLOL SUCCINATE (TOPROL-XL) 25 Take 1 tablet (25 mg total) by mouth daily.
+MG 24 hr tablet
+pravastatin (PRAVACHOL) 40 MG tablet Take 40 mg by mouth nightly.
+.
+Discharge Medications
+Medications To Continue
+Sig
+Take 81 mg by mouth every morning.
+aspirin enteric coated 81 MG EC tablet
+Commonly known as: ECOTRIN LOW
+STRENGTH
+Take 1,000 Units by mouth every morning.
+cholecalciferol 1000 units tablet
+Commonly known as: VITAMIN D3
+diltiazem 300 MG 24 hr capsule
+Commonly known as: TIAZAC
+Take 1 capsule (300 mg total) by mouth daily.
+Quantity: 90 capsule
+Take 40 mg by mouth nightly.
+pravastatin 40 MG tablet
+Commonly known as: PRAVACHOL
+Stopped Medications
+lisinopril 10 MG tablet
+Commonly known as: PRINIVIL,ZESTRIL metoPROLOL SUCCINATE 25 MG 24 hr tablet
+Commonly known as: TOPROL-XL
+Discharge
+Orders
+No discharge procedures on file.
+Future Appointments
+Date
+Time
+5/14/2019
+2:45 PM
+Provider
+Charles M
+Masserman, MD
+Department
+MG PC ME
+Center
+HHCMG Cent
+Follow-up Providers
+Charles M Masserman, MD
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/7
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 12/18/2018
+61 Pomeroy Ave
+Meriden CT 06450
+203-694-5340
+In 2 days
+Active Issues Requiring Follow-up follow with PCP-monitor BP, restart BP Metoprolol XL and Lisinoprill as BP and HR allow
+Incidental hospital findings:none
+Details of Hospital Stay
+Hospital Course
+Orthostatic hypotension
+85-year-old female with history of orthostatic hypotension, hypertension, CKD was brought to the emergency room for evaluation of weakness and complaining of presyncopal episode.
+In emergency room she was found to have orthostatic drop in blood pressure
+She received IV fluid resuscitation
+Blood pressures stabilized
+Patient felt back to her baseline
+After IV fluid resuscitation, repeat orthostatic blood pressures with stable
+Resumed patient's home dose of Cardizem
+Held lisinopril and metoprolol at the time of discharge
+Recommended to follow-up with primary care physician
+EKG, troponin at presentations were negative, telemetry does not show any acute arrhythmias
+Acute worsening of chronic kidney disease
+Prerenal azotemia
+At presentation cr was 1.4
+Creatinine after IV fluid resuscitation was 1.1 at the time of discharge
+Physical Exam at Discharge
+Discharge Condition: stable
+Last Vitals:
+Pulse:76, Resp:20,BP:(!) 148/83, SpO2:96 %,Weight: 79.1 kg (174 lb 6.4 oz)
+Temp Last 24 hrs: Temp Min: 97.9 F (36.6 C) Max: 98.9 F (37.2 C)
+General: AAOX3, NAD, NRD, stated age
+HEENT: WNL
+Lungs: CTA
+CVS RRR, no MRG
+Abd: soft/NT/ND, bowel sounds +
+Ext: No edema
+Neuro: WNL
+Shailaja Chikoti, MD
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/7
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 12/18/2018
+12/19/2018
+1:22 PM
+Electronically signed by Shailaja Chikoti, MD at 12/21/2018 3:47 PM
+Encounter Notes
+All notes
+Discharge Summary from Shailaja Chikoti, MD (Internal Medicine)
+H&P from Adnan S Sadiq, MD (Internal Medicine)
+Additional Orders and Documentation
+Results
+Meds
+Orders
+Procedures
+Flowsheets
+SmartForms: HHC ED DISCHARGE INSTRUCTIONS
+Encounter Info: History, Allergies, Education, Care Plan, Detailed Report
+Media
+Scan on 12/27/2018 11:44 AM by Marisol Carrero
+Electronic signature on 12/18/2018 12:05 PM - Signed
+Electronic signature on 12/18/2018 12:05 PM - Signed
+Scan on 12/18/2018 1:33 PM by Maria Igartua: hunters ambulance report
+Scan on 12/18/2018
+Scan on 12/18/2018
+Scan on 12/18/2018
+Scan on 12/18/2018
+Discharge Summary
+Inpatient Discharge Summary
+HHC MMC Midstate Medical Center
+Brief Overview
+Patient Demographics
+REGINA B ARABASZ
+MRN: 2001377096
+8/9/1933
+85 y.o.
+Allergies
+Allergen
+Penicillins
+Reactions
+Other (See Comments)
+.
+.
+Percocet [Oxycodone-Acetaminophen]
+Delerium/Confusion/Psychosis
+Admission Date: 12/18/2018
+Admitting Provider: Adnan S Sadiq, MD
+Discharge Provider: Shailaja Chikoti, MD
+Primary Care Provider at Discharge: Charles M Masserman, MD
+Discharge Date: 12/19/18
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/7
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 12/18/2018
+Primary Discharge
+Diagnosis
+Active Problems:
+Orthostatic hypotension POA: Yes
+Acute kidney injury superimposed on CKD (HCC) POA: Yes
+Discharge
+Disposition
+home
+Code Status
+Procedures
+Full Code
+Admission Medications
+aspirin enteric coated (ECOTRIN LOW Take 81 mg by mouth every morning.
+STRENGTH) 81 MG EC tablet
+ cholecalciferol (VITAMIN D3) 1000 UNITS Take 1,000 Units by mouth every morning.
+tablet
+ diltiazem (TIAZAC) 300 MG 24 hr capsule Take 1 capsule (300 mg total) by mouth daily.
+lisinopril (PRINIVIL,ZESTRIL) 10 MG tablet Take 1 tablet (10 mg total) by mouth daily.
+ metoPROLOL SUCCINATE (TOPROL-XL) 25 Take 1 tablet (25 mg total) by mouth daily.
+MG 24 hr tablet
+pravastatin (PRAVACHOL) 40 MG tablet Take 40 mg by mouth nightly.
+.
+.
+Discharge Medications
+Medications To Continue
+Sig
+Take 81 mg by mouth every morning.
+aspirin enteric coated 81 MG EC tablet
+Commonly known as: ECOTRIN LOW
+STRENGTH
+Take 1,000 Units by mouth every morning.
+cholecalciferol 1000 units tablet
+Commonly known as: VITAMIN D3
+diltiazem 300 MG 24 hr capsule
+Commonly known as: TIAZAC
+Take 1 capsule (300 mg total) by mouth daily.
+Quantity: 90 capsule
+Take 40 mg by mouth nightly.
+pravastatin 40 MG tablet
+Commonly known as: PRAVACHOL
+Stopped Medications
+lisinopril 10 MG tablet
+Commonly known as: PRINIVIL,ZESTRIL metoPROLOL SUCCINATE 25 MG 24 hr tablet
+Commonly known as: TOPROL-XL
+Discharge
+Orders
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/7
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 12/18/2018
+No discharge procedures on file.
+Future Appointments
+Date
+Time
+5/14/2019
+2:45 PM
+Provider
+Department
+Charles M Masserman, MG PC ME
+MD
+Center
+HHCMG Cent
+Follow-up Providers
+Charles M Masserman, MD
+61 Pomeroy Ave
+Meriden CT 06450
+203-694-5340
+In 2 days
+Active Issues Requiring Follow-up follow with PCP-monitor BP, restart BP Metoprolol XL and Lisinoprill as BP and HR allow
+Incidental hospital findings:none
+Details of Hospital Stay
+Hospital Course
+Orthostatic hypotension
+85-year-old female with history of orthostatic hypotension, hypertension, CKD was brought to the emergency room for evaluation of weakness and complaining of presyncopal episode.
+In emergency room she was found to have orthostatic drop in blood pressure
+She received IV fluid resuscitation
+Blood pressures stabilized
+Patient felt back to her baseline
+After IV fluid resuscitation, repeat orthostatic blood pressures with stable
+Resumed patient's home dose of Cardizem
+Held lisinopril and metoprolol at the time of discharge
+Recommended to follow-up with primary care physician
+EKG, troponin at presentations were negative, telemetry does not show any acute arrhythmias
+Acute worsening of chronic kidney disease
+Prerenal azotemia
+At presentation er was 1.4
+Creatinine after IV fluid resuscitation was 1.1 at the time of discharge
+Physical Exam at Discharge
+Discharge Condition: stable
+Last Vitals:
+Pulse:76, Resp:20,BP:(!) 148/83, SpO2:96 %,Weight: 79.1 kg (174 lb 6.4 oz)
+Temp Last 24 hrs: Temp Min: 97.9 F (36.6 C) Max: 98.9 F (37.2 C)
+General: AAOX3, NAD, NRD, stated age
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+6/7
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MR # 2001377096) DOB: 08/09/1933 Encounter Date: 12/18/2018
+HEENT: WNL
+Lungs: CTA
+CVS RRR, no MRG
+Abd: soft/NT/ND, bowel sounds +
+Ext: No edema
+Neuro: WNL
+Shailaja Chikoti, MD
+12/19/2018
+1:22 PM
+Other Notes
+All notes
+H&P from Adnan S Sadiq, MD (Internal Medicine)
+Hospital Problem List
+Orthostatic hypotension
+Acute kidney injury superimposed on CKD (HCC)
+Care Timeline
+12/18 Admitted from ED (Observation) 1701
+12/19 Discharged 1356
+Discharge
+Home or Self Care
+Il, AVS
+ After Visit Summary-AVS (Printed 12/19/2018)
+ W10 (Printed 12/19/2018)
+Follow-Ups: Follow up with Charles M Masserman, MD (Family Medicine) in 2 days (12/20/2018)
+Medication List at Discharge
+Aspirin 81 mg Oral Every morning
+Cholecalciferol 1,000 Units Oral Every morning
+dilTIAZem HCI ER Beads 300 mg Oral Daily
+Pravastatin Sodium 40 mg Oral Nightly
+Printed by Danielle F at 10/28/2019 4:32 PM
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+7/7
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+||2 12/18/2018 12:08|1 12/19/2018 06:42|
+|COMPLETE BLOOD COUNT|||
+|White Blood Cell C...|7.7|6.3|
+|Red Blood Cell Count|4.14|3.80|
+|Hemoglobin|12.9|11.5|
+|Hematocrit|38.9|36.6|
+|MCV|94|96|
+|MCH|31.2|30.3|
+|MCHC|33.2|31.4|
+|RDW|12.8|12.8|
+|Platelet Count|206|182|
+|MPV|11.4|11.6|
+|DIFFERENTIAL|||
+|Neutrophils Auto|74.2|61.4|
+|Abs Neutrophils Auto|5.72|3.85|
+|Immature Granulocytes|0.4|0.5|
+|Abs Immature Granu.|0.03|0.03|
+|Lymphocytes Auto|12.8|22.8|
+|Abs Lymphocytes Auto|0.99|1.43|
+|Monocytes Auto|10.4|12.1|
+|Abs Monocytes Auto|0.80|0.76|
+|Eosinophils Auto|1.6|2.4|
+|Abs Eosinophils Auto|0.12|0.15|
+|Basophils Auto|0.6|0.8|
+|Abs Basophils Auto|0.05|0.05|
+
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+1/1
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+||5 9/5/2018 09:33|4 12/18/2018 12:08|3 12/18/2018 12:09|2 12/19/2018 06:42|1 6/27/2019 08:03|
+|CHEMISTRY GE NERAL||||||
+|Sodium|141 *|142||145|141 *|
+|Potassium|4.6 *|4.5||4.6|4.2 *|
+|Chloride|106 *|107||113|106 *|
+|CO2|23 *|25||25|22 *|
+|Anion Gap||10||7||
+|BUN|*|29||29|19 *|
+|Creatinine|0.99 *|1.4||1.1|0.94 *|
+|Bun / Creat Ratio|24 *|21||26|20 *|
+|Glucose|100 *|110 *||110 *|133 *|
+|Calcium|8.9 *|9.1||8.6|8.5 *|
+|Magnesium||||2.0||
+|Protein, Total|6.4 *|6.9||6.1||
+|Albumin|3.6 *|3.6||3.2||
+|Globulin|2.8 *|3.3||2.9||
+|A/G Ratio|1.3 *|1.1||1.1||
+|eGFR||36 *||47*||
+|eGFR African Am erican|60 *||||64 *|
+|eGFR Non- African A|52 *||||55*|
+|GFR - African A mer.||44 *||57 *||
+|Bilirubin Total|0.5 *|0.4||0.4||
+|Aspartate Aminot ra|13 *|11||11||
+|Alanine Aminotra ns.|8*|9||8||
+|Alkaline Phospha tase|54 *|59||53||
+|CARDIAC/SKEL ETAL M||||||
+|Troponin I|||<0.30|||
+|LIPID PROFILE||||||
+|Cholesterol|204|||||
+|Triglycerides|77*|||||
+|HDL|55*|||||
+|LDL Cholesterol|132 *|||||
+
+24
+A
+...
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+1/2
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+||5 9/5/2018 09:33|4 12/18/2018 12:08|3 12/18/2018 12:09|2 12/19/2018 06:42|1 6/27/2019 08:03|
+|Cholesterol/HDL Ratio|3.7 *|||||
+|Non HDL Chol. ( LDL|149 *|||||
+
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?Which Frame=3&Action=Print
+2/2
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Arabasz, Regina B (MR#2001377096) Printed by FERRATO, DANIELLE [3131]
+Arabasz, Regina B (MRN2001377096)
+Auth Prov: Conversion Provider
+No address on file
+Hartford Healthcare
+Imaging Result
+|Name:|DOB:|Sex:|Patient Class:|
+|Arabasz, Regina B|8/9/1933|Female||
+|Procedures Performed: US VENOGRAM W/ DOPPLER UNILATERAL -M|Exam Date and Time:|Reason for Exam: None Specified|Diagnosis: None Specified|
+|Performing Department:|Accession Number: 4941961|Patient MRN: 2001377096|PCP: Masserman, Charles M|
+
+1014788 Arabasz, Regina B
+CLINICAL DATA:
+Left leg pain and / or swelling
+Evaluate for: DVT
+US - VENOGRAM W/DOPPLER UNILATERAL (93971)
+Final Report
+Duplex and color Doppler compression ultrasound of the left lower extremity deep veins from the groin to the knee demonstrates venous flow and compressibility as well as expected augmentation. There are no filling defects.
+There are no fluid collections in the popliteal fossa.
+Conclusion:
+1. No evidence for DVT from the left groin to the knee.
+D: 11/02/2015- 04:58
+T: 11/02/2015-09:05
+Transcribed by Ann Jisonna on 11/02/2015 at 09:05
+Electronically signed by Harry K Hajedemos M.D. on 11/02/2015 at 09:05
+Reported by Harry K Hajedemos M.D. on 11/02/2015 at 04:58
+Signed By: Conversion Provider, MD on 11/1/2015 7:16 PM
+Printed
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/2
+
+-------------------------------------------
+-------------------------------------------

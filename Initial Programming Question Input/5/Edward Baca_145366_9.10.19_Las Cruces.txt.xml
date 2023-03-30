@@ -1,0 +1,151 @@
+<ezNLP>
+<Icd10CmCode>
+<code value="K21.9" rank="282" knowledgeId="116" isDisable="0" text="GERD;" isBillable="false" evidence="GERD" evidenceBegin="4489" evidenceEnd="4493" cuiList="17168;" acceptRejectFlag="DEFAULT"/>
+<problem value="GERD" begin="4489" end="4493" status="1" certainty="0" cui="C0017168" tui="T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J44.9" rank="213" knowledgeId="116" isDisable="0" text="COPD;" isBillable="false" evidence="COPD" evidenceBegin="11136" evidenceEnd="11140" cuiList="24117;" acceptRejectFlag="DEFAULT"/>
+<problem value="COPD" begin="11136" end="11140" status="0" certainty="0" cui="C0024117" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I25.10" rank="987" knowledgeId="117" isDisable="0" text="Coronary Artery Disease;" isBillable="false" evidence="Coronary Artery Disease" evidenceBegin="4975" evidenceEnd="4998" cuiList="10054;" acceptRejectFlag="DEFAULT"/>
+<problem value="Coronary Artery Disease" begin="4975" end="4998" status="0" certainty="0" cui="C0010068;C0010054;C1956346" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="65" knowledgeId="64" isDisable="0" text="Diabetic;" isBillable="false" evidence="Diabetic" evidenceBegin="3404" evidenceEnd="3412" cuiList="241863;" acceptRejectFlag="DEFAULT"/>
+<problem value="Diabetic" begin="3404" end="3412" status="0" certainty="0" cui="C0241863" tui="T061;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="P78.83" rank="81" knowledgeId="48" isDisable="0" text="GERD;" isBillable="false" evidence="GERD" evidenceBegin="5135" evidenceEnd="5139" cuiList="17168;" acceptRejectFlag="DEFAULT"/>
+<code value="K21.9" rank="282" knowledgeId="116" isDisable="0" text="GERD;" isBillable="false" evidence="GERD" evidenceBegin="5135" evidenceEnd="5139" cuiList="17168;" acceptRejectFlag="DEFAULT"/>
+<problem value="GERD" begin="5135" end="5139" status="0" certainty="0" cui="C0017168" tui="T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J44.9" rank="65" knowledgeId="64" isDisable="0" text="Chron obstructive lung disease;" isBillable="false" evidence="obstructive lung disease" evidenceBegin="11012" evidenceEnd="11036" cuiList="600260;" acceptRejectFlag="DEFAULT"/>
+<problem value="Chron obstructive lung disease" begin="11006" end="11036" status="0" certainty="0" cui="C0455540;C0024115;C0600260" tui="T047;T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I25.10" rank="246" knowledgeId="117" isDisable="0" text="Atherosclerotic heart disease;" isBillable="false" evidence="Atherosclerotic heart disease" evidenceBegin="10925" evidenceEnd="10954" cuiList="10054;" acceptRejectFlag="DEFAULT"/>
+<problem value="Atherosclerotic heart disease" begin="10925" end="10954" status="0" certainty="0" cui="C0010054;C0018799" tui="T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J84.10" rank="129" knowledgeId="96" isDisable="0" text="pulmonary fibrosis;" isBillable="false" evidence="pulmonary fibrosis" evidenceBegin="4372" evidenceEnd="4390" cuiList="34069;" acceptRejectFlag="DEFAULT"/>
+<problem value="pulmonary fibrosis" begin="4372" end="4390" status="1" certainty="0" cui="C0819757;C0334129;C0034069;C2709248;C0016059;C0024109;C1278908" tui="T080;T024;T023;T047;T047;T169;T046" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z87.891" rank="999" knowledgeId="9" isDisable="0" text=";" isBillable="false" evidence="Former smoker" evidenceBegin="3218" evidenceEnd="3231" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<modifier value="" begin="0" end="0" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J45.909" rank="213" knowledgeId="116" isDisable="0" text="Asthma;" isBillable="false" evidence="Asthma" evidenceBegin="4328" evidenceEnd="4334" cuiList="4096;" acceptRejectFlag="DEFAULT"/>
+<problem value="Asthma" begin="4328" end="4334" status="1" certainty="0" cui="C0004096;C2984299" tui="T169;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I10" rank="246" knowledgeId="117" isDisable="0" text="Hypertensive disorder;" isBillable="false" evidence="Hypertensive disorder" evidenceBegin="10659" evidenceEnd="10680" cuiList="20538;" acceptRejectFlag="DEFAULT"/>
+<code value="P29.2" rank="129" knowledgeId="128" isDisable="0" text="Hypertensive disorder;" isBillable="false" evidence="Hypertensive disorder" evidenceBegin="10659" evidenceEnd="10680" cuiList="20538;" acceptRejectFlag="DEFAULT"/>
+<problem value="Hypertensive disorder" begin="10659" end="10680" status="0" certainty="0" cui="C0020538" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E28.2" rank="213" knowledgeId="116" isDisable="0" text="PCOS;" isBillable="false" evidence="PCOS" evidenceBegin="4453" evidenceEnd="4457" cuiList="32460;" acceptRejectFlag="DEFAULT"/>
+<problem value="PCOS" begin="4453" end="4457" status="1" certainty="0" cui="C0032460" tui="T047;T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.02" rank="999" knowledgeId="9" isDisable="0" text="clopidogrel;" isBillable="false" evidence="clopidogrel" evidenceBegin="1385" evidenceEnd="1396" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="clopidogrel" begin="1385" end="1396" status="0" certainty="0" code="NO-CODE" cui="C1124675;C0070166" tui="T109,T121;T200" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="08/22/19" begin="1410" end="1418">
+<medData strength="75" strengthBegin="1397" strengthEnd="1399" strengthUnit="mg" strengthUnitBegin="1400" strengthUnitEnd="1402" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="1403" formEnd="1409" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z23" rank="999" knowledgeId="9" isDisable="0" text=";" isBillable="false" evidence="pneumococcal vaccine" evidenceBegin="4945" evidenceEnd="4965" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I25.2" rank="194" knowledgeId="128" isDisable="0" text="History;Heart Attack;" isBillable="false" evidence="Heart Attack" evidenceBegin="4516" evidenceEnd="4528" cuiList="262926;27051;" acceptRejectFlag="DEFAULT"/>
+<problem value="Heart Attack" begin="4516" end="4528" status="1" certainty="0" cui="C1281570;C0018787;C2882120;C0277793;C0235462;C0699795;C1261512;C1304680;C0027051;C2882118;C2882101;C0004063" tui="T023;T037;T079;T033;T054;T074;T047;T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R09.02" rank="149" knowledgeId="84" isDisable="0" text="hypoxemia;" isBillable="false" evidence="hypoxemia" evidenceBegin="4870" evidenceEnd="4879" cuiList="700292;" acceptRejectFlag="DEFAULT"/>
+<code value="P84" rank="17" knowledgeId="16" isDisable="0" text="hypoxemia;" isBillable="false" evidence="hypoxemia" evidenceBegin="4870" evidenceEnd="4879" cuiList="700292;" acceptRejectFlag="DEFAULT"/>
+<problem value="hypoxemia" begin="4870" end="4879" status="0" certainty="0" cui="C0700292" tui="T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J84.10" rank="999" knowledgeId="9" isDisable="0" text="J84.10;" isBillable="false" evidence="J84.10" evidenceBegin="10785" evidenceEnd="10791" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="177" knowledgeId="112" isDisable="0" text="Type 2 diabetes mellitus;" isBillable="false" evidence="Type 2 diabetes mellitus" evidenceBegin="485" evidenceEnd="509" cuiList="11860;" acceptRejectFlag="DEFAULT"/>
+<problem value="Type 2 diabetes mellitus" begin="485" end="509" status="0" certainty="0" cui="C0011860;S20004383" tui="T046;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I25.10" rank="246" knowledgeId="117" isDisable="0" text="Coronary arteriosclerosis;" isBillable="false" evidence="Coronary arteriosclerosis_SEP_artery" evidenceBegin="10827,10863" evidenceEnd="10852,10869" cuiList="10054;" acceptRejectFlag="DEFAULT"/>
+<problem value="Coronary arteriosclerosis" begin="10827" end="10852" status="0" certainty="0" cui="C0333477;C0205042;C1269008;S00015090;C0010054;C3472163;C0545743;C1522318;C0004153;C0003850" tui="T082;T047;T047;T046;T169;T047;T047;T023" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="T30.0" rank="213" knowledgeId="116" isDisable="0" text="Oualit burning;" isBillable="false" evidence="burning" evidenceBegin="5191" evidenceEnd="5198" cuiList="6434;" acceptRejectFlag="DEFAULT"/>
+<code value="R20.8" rank="129" knowledgeId="96" isDisable="0" text="Oualit burning;" isBillable="false" evidence="burning" evidenceBegin="5191" evidenceEnd="5198" cuiList="85624;" acceptRejectFlag="DEFAULT"/>
+<problem value="Oualit burning" begin="5184" end="5198" status="0" certainty="0" cui="C0006434;C0085624;C0175627;C1879905;C1962979" tui="T080;T037;T033;T067;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="P29.2" rank="129" knowledgeId="128" isDisable="0" text="Hypertension;" isBillable="false" evidence="Hypertension" evidenceBegin="5312" evidenceEnd="5324" cuiList="20538;" acceptRejectFlag="DEFAULT"/>
+<code value="I10" rank="246" knowledgeId="117" isDisable="0" text="Hypertension;" isBillable="false" evidence="Hypertension" evidenceBegin="5312" evidenceEnd="5324" cuiList="20538;" acceptRejectFlag="DEFAULT"/>
+<problem value="Hypertension" begin="5312" end="5324" status="0" certainty="0" cui="C0020538" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="243" knowledgeId="80" isDisable="0" text="Diabetes;" isBillable="false" evidence="Diabetes" evidenceBegin="4443" evidenceEnd="4451" cuiList="11849;" acceptRejectFlag="DEFAULT"/>
+<problem value="Diabetes" begin="4443" end="4451" status="1" certainty="0" cui="C0241863;C0011847;C0011849" tui="T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J44.9" rank="999" knowledgeId="9" isDisable="0" text="J44.9;" isBillable="false" evidence="J44.9" evidenceBegin="11037" evidenceEnd="11042" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I25.10" rank="999" knowledgeId="9" isDisable="0" text="I25.10;" isBillable="false" evidence="I25.10" evidenceBegin="10917" evidenceEnd="10923" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J84.10" rank="550" knowledgeId="96" isDisable="0" text="Fibrosis;lung;" isBillable="false" evidence="Fibrosis_SEP_lung" evidenceBegin="10768,10780" evidenceEnd="10776,10784" cuiList="16059;24109;" acceptRejectFlag="DEFAULT"/>
+<problem value="Fibrosis" begin="10768" end="10776" status="0" certainty="0" cui="C0334129;C0034069;C0016059" tui="T047;T169;T046" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<anatomicalStructure value="lung" begin="10780" end="10784" status="0" certainty="0" cui="C0819757;C2709248;C0024109;C1278908" tui="T080;T024;T023" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I10" rank="999" knowledgeId="9" isDisable="0" text="Essential (primary) hypertension;" isBillable="false" evidence="Essential (primary) hypertension" evidenceBegin="10686" evidenceEnd="10718" cuiList="85580" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="339" knowledgeId="112" isDisable="0" text="TYPE 2 DIABETES;" isBillable="false" evidence="TYPE 2 DIABETES" evidenceBegin="10481" evidenceEnd="10496" cuiList="11860;" acceptRejectFlag="DEFAULT"/>
+<problem value="TYPE 2 DIABETES" begin="10481" end="10496" status="0" certainty="0" cui="C0011860;C0241863;C1320657;C0011847;S00005229;C0011849" tui="T033;T046;T061;T047;T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J44.9" rank="213" knowledgeId="116" isDisable="0" text="COPD;" isBillable="false" evidence="COPD" evidenceBegin="11178" evidenceEnd="11182" cuiList="24117;" acceptRejectFlag="DEFAULT"/>
+<problem value="COPD" begin="11178" end="11182" status="0" certainty="0" cui="C0024117" tui="T047;T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="243" knowledgeId="80" isDisable="0" text="Diabetes;" isBillable="false" evidence="Diabetes" evidenceBegin="4391" evidenceEnd="4399" cuiList="11849;" acceptRejectFlag="DEFAULT"/>
+<problem value="Diabetes" begin="4391" end="4399" status="1" certainty="0" cui="C0241863;C0011847;C0011849" tui="T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J44.9" rank="999" knowledgeId="9" isDisable="0" text="Chronic obstructive pulmonary disease;unspecified;" isBillable="false" evidence="Chronic obstructive pulmonary disease_SEP_unspecified" evidenceBegin="11044,11083" evidenceEnd="11081,11094" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="999" knowledgeId="9" isDisable="0" text="Type 2 diabetes mellitus without complication;" isBillable="false" evidence="Type 2 diabetes mellitus without complication" evidenceBegin="10379" evidenceEnd="10424" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.3" rank="129" knowledgeId="96" isDisable="0" text="Family History;Cerebrovascular accident;" isBillable="false" evidence="Cerebrovascular accident" evidenceBegin="3018" evidenceEnd="3042" cuiList="38454;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Cerebrovascular accident" begin="3018" end="3042" status="2" certainty="0" cui="C0038454" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="177" knowledgeId="112" isDisable="0" text="Type 2 diabetes mellitus;" isBillable="false" evidence="Type 2 diabetes mellitus" evidenceBegin="10433" evidenceEnd="10457" cuiList="11860;" acceptRejectFlag="DEFAULT"/>
+<problem value="Type 2 diabetes mellitus" begin="10433" end="10457" status="0" certainty="0" cui="C0011860;S20004383" tui="T046;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.84" rank="999" knowledgeId="9" isDisable="0" text="glyBURIDE;" isBillable="false" evidence="glyBURIDE" evidenceBegin="1590" evidenceEnd="1599" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="glyBURIDE" begin="1590" end="1599" status="0" certainty="0" code="NO-CODE" cui="C0986278;C0017628" tui="T200;T109,T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="09/01/19" begin="1612" end="1620">
+<medData strength="5" strengthBegin="1600" strengthEnd="1601" strengthUnit="mg" strengthUnitBegin="1602" strengthUnitEnd="1604" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="1605" formEnd="1611" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J44.9" rank="213" knowledgeId="116" isDisable="0" text="COPD;" isBillable="false" evidence="COPD" evidenceBegin="4762" evidenceEnd="4766" cuiList="24117;" acceptRejectFlag="DEFAULT"/>
+<problem value="COPD" begin="4762" end="4766" status="0" certainty="0" cui="C0024117" tui="T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I25.2" rank="194" knowledgeId="128" isDisable="0" text="History;MI;" isBillable="false" evidence="MI" evidenceBegin="4530" evidenceEnd="4532" cuiList="262926;27051;" acceptRejectFlag="DEFAULT"/>
+<problem value="MI" begin="4530" end="4532" status="1" certainty="0" cui="C0025953;C2346914;C2882120;C1553043;C0332288;C2986901;C0027051;C2882118;C2882101;C0428953" tui="T170;T080;T081;T028;T047;T078;T047;T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+</ezNLP>

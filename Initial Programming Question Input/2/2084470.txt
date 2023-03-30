@@ -1,0 +1,1085 @@
+Hartford Health Care
+Medical Group
+HHCMG Vascular Lab (Hartford)
+85 Seymour St Suite 409
+Hartford, CT 06106
+Patient: MAUREEN REHMER
+DOB: 06/24/40, Age:78
+Gender: Female
+Phone: 860-522-4158
+Fax: 860-524-4350
+Location: MG VASCUL HT
+MRN: 1003474956
+Referring: PATRICIA K BOZEMAN
+Duplex Aorta/lliac-Limited
+Date:8/16/2018
+Indications
+Abdominal Aortic Aneurysm without Rupture [171.4].
+Clinical Examination
+f/u AAA
+|||Midline||
+|Segment|PSV|Diam AP|Diam Trv|
+|Suprarenal Aorta|53|2.40|2.40|
+|Prox Inf Renal Aorta|52|4.00|3.50|
+|Distal Aorta (Distal Infrarenal)|69|2.30|2.50|
+
+|||Right||
+|Segment|PSV|Diam AP|Diam Trv|
+|Common Iliac Artery Proximal|95|1.30|1.20|
+|Popliteal Artery|67|0.09|0.90|
+
+|Segment||Left||
+||PSV|Diam AP|Diam Trv|
+|Common Iliac Artery Proximal Popliteal Artery|120 44|1.00 0.80|1.00 0.90|
+
+Impression
+Duplex scan demonstrates an infrarenal abdominal aortic aneurysm with maximum diameters of 4.0cm AP x 3.5cm TRV.
+There does not appear to be significant mural thrombus within. There is no evidence of aneurysm in the visualized segments of the bilateral common iliac arteries or popliteal arteries. The inferior vena cava is patent.
+The aneurysm measures slightly larger in the AP dimension when compared to prior 2017 study. No other significant changes.
+Thong
+Technologist: Nicole Oades, RVT
+Thomas Divinagracia, MD, MPH, RPVI
+Signed by Thomas Divinagracia, MD, MPH, RPVI on 2018-08-16 09:16:24 AM
+Page 1 of 1
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+||10 4/11/2014 12:30|9 10/16/2015 09:55|8 3/11/2016 11:37|7 8/6/2016 11:57|6 1/25/2017 07:31|
+|COMPLETE BL OOD COUNT||||||
+|White Blood Cell C.||4.8 *|6.2 *|5.7 *|5.4*|
+|Red Blood Cell C ount||4.30 *|4.20 *|4.38 *|4.41 *|
+|Hemoglobin||13.6 *|13.7 *|14.0 *|14.3 *|
+|Hematocrit||41.2 *|41.6 *|41.9 *|41.2 *|
+|MCV||96 *|99 *|95.7 *|93.5 *|
+|MCH||31.6 *|32.6 *|32.1 *|32.5 *|
+|MCHC||33.0 *|32.9 *|33.5 *|34.8 *|
+|RDW||13.3 *|13.0 *|13.3 *|13.4 *|
+|Platelet Count||124 *|131 *|181 *|143 *|
+|MPV||9.7 *|9.8 *|7.5 *|8.0 *|
+|DIFFERENTIAL||||||
+|Neutrophils Auto||65.9 *|64.1 *|65.5 *|50.3 *|
+|Abs Neutrophils Auto||3.18 *|3.94 *|3,734*|2,716 *|
+|Immature Granul ocytes||0.2 *|0.3 *|||
+|Abs Immature Gr anu||0.01 *|0.02 *|||
+|Lymphocytes Aut o||23.8 *|25.5 *|25.0 *|41.2 *|
+|Abs Lymphocyte S Auto||1.15 *|1.57 *|1,425 *|2,225 *|
+|Monocytes Auto||8.7 *|8.1 *|7.7 *|6.0|
+|Abs Monocytes A uto||0.42 *|0.50 *|439 *|324 *|
+|Eosinophils Auto||1.0 *|1.5 *|1.5 *|2.0|
+|Abs Eosinophils Auto||0.05 *|0.09 *|86 *|108 *|
+|Basophils Auto||0.4 *|0.5 *|0.3 *|0.5 *|
+|Abs Basophils A uto||0.02 *|0.03 *|17 *|27 *|
+|CHEMISTRY GE NERAL||||||
+|Sodium||144 *|145 *|140 *|146 *|
+|Potassium||4.0*|3.9|3.8*|4.0*|
+|Chloride||103 *|104|105 =|110*|
+|CO2||30 *|29 *|31 *|30 *|
+|Anion Gap||11 *|12 *|||
+
+...
+*
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp? WhichFrame=3&Action=Print
+1/5
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+||10 4/11/2014 12:30|9 10/16/2015 09:55|8 3/11/2016 11:37|7 8/6/2016 11:57|6 1/25/2017 07:31|
+|BUN||14*|17 *|19 *|14 *|
+|Creatinine||0.8 *|0.8 *|0.70 *|0.76 *|
+|Bun / Creat Ratio||18 *|21 *|NOT APPLICA BLE *|NOT APPLICA BLE *|
+|Glucose||90 *|88 *|105 *|91|
+|Calcium||9.5*|9.7|9.0 *|8.9*|
+|Protein, Total||||||
+|Albumin||||||
+|Globulin||||||
+|A/G Ratio||||||
+|eGFR||70 *|70|||
+|eGFR African Am erican||||98 *|88 *|
+|eGFR Non- African A||||84 *|76 *|
+|Bilirubin Total||||||
+|Bilirubin Direct||||||
+|Bilirubin, Indirect||||||
+|Aspartate Aminot ra||||||
+|Alanine Aminotra ns||||||
+|Alkaline Phospha tase||||||
+|CARDIAC/SKEL ETAL M.||||||
+|Creatine Kinase ( CK)||||||
+|LIPID PROFILE||||||
+|Cholesterol|||||119 *|
+|Triglycerides|||||92 *|
+|HDL|||||54 *|
+|LDL Cholesterol|||||47*|
+|Cholesterol/HDL Ratio|||||2.2*|
+|Non HDL Chol. ( LDL|||||65 *|
+|SPECIAL CHEM ISTRY||||||
+|Vitamin D,25- Oh,To|||||33 *|
+
+*
+*
+...
+...
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+2/5
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+||10 4/11/2014 12:30|9 10/16/2015 09:55|8 3/11/2016 11:37|7 8/6/2016 11:57|6 1/25/2017 07:31|
+|PATH REFERRA L||||||
+|Pathology|Specime n Source|||||
+|SURGICAL PAT HOLOGY||||||
+|(REPORT) PATH OLOGY.||||||
+
+||5 9/29/2017 12:07|4 10/5/2018 08:32|3 10/5/2018 08:35|2 2/19/2019 10:29|1 6/3/2019 11:24|
+|COMPLETE BL OOD COUNT||||||
+|White Blood Cell C..||4.0 *||4.2|5.6|
+|Red Blood Cell C ount||4.08 *||4.11|4.37|
+|Hemoglobin||12.9 *||13.3|14.0|
+|Hematocrit||37.5 *||39.0|41.5|
+|MCV||91.9 *||94.9|95.0|
+|MCH||31.6 *||32.4|32.0|
+|MCHC||34.4 *||34.1|33.7|
+|RDW||12.2 *||11.8|12.3|
+|Platelet Count||135 *||156|131|
+|MPV||9.1 *||9.4|9.5|
+|DIFFERENTIAL||||||
+|Neutrophils Auto||52.1||||
+|Abs Neutrophils Auto||2,084||||
+|Immature Granul ocytes||||||
+|Abs Immature Gr anu||||||
+|Lymphocytes Aut o||37.2 *||||
+|Abs Lymphocyte S Auto||1,488 *||||
+|Monocytes Auto||7.2 *||||
+|Abs Monocytes A uto||288 *||||
+|Eosinophils Auto||3.0*||||
+
+*
+*
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+3/5
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+||5 9/29/2017 12:07|4 10/5/2018 08:32|3 10/5/2018 08:35|2 2/19/2019 10:29|1 6/3/2019 11:24|
+|Abs Eosinophils Auto||120 *||||
+|Basophils Auto||0.5 *||||
+|Abs Basophils A uto||20 *||||
+|CHEMISTRY GE NERAL||||||
+|Sodium||143 *||||
+|Potassium||4.0*||||
+|Chloride||108 *||||
+|CO2||27*||||
+|Anion Gap||||||
+|BUN||12*||||
+|Creatinine||0.72 *||||
+|Bun / Creat Ratio||NOT APPLICA BLE *||||
+|Glucose||105 *||||
+|Calcium||9.1 *||||
+|Protein, Total||6.4 *|6.3 *|6.7|6.8|
+|Albumin||3.8 *|3.9|4.2|4.3|
+|Globulin||2.6 *|2.4|2.5|2.5|
+|A/G Ratio||1.5 *|1.6|1.7|1.7|
+|eGFR||||||
+|eGFR African Am erican||93 *||||
+|eGFR Non- African A||80 *||||
+|Bilirubin Total||0.8 *|0.8|0.7|0.7|
+|Bilirubin Direct|||0.2|0.2|0.2|
+|Bilirubin, Indirect|||0.6|0.5|0.5|
+|Aspartate Aminot ra||24 *|25|28|24|
+|Alanine Aminotra ns||18 *|17|22|23|
+|Alkaline Phospha tase||134 *|133|136|147|
+|CARDIAC/SKEL ETAL M.||||||
+|Creatine Kinase ( CK)||33 *||||
+
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp? WhichFrame=3&Action=Print
+4/5
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+||5 9/29/2017 12:07|4 10/5/2018 08:32|3 10/5/2018 08:35|2 2/19/2019 10:29|1 6/3/2019 11:24|
+|LIPID PROFILE||||||
+|Cholesterol|133 *|127 *||||
+|Triglycerides|76*|108 *||||
+|HDL|47|42 *||||
+|LDL Cholesterol|70 *|66 *||||
+|Cholesterol/HDL Ratio|2.8 *|3.0*||||
+|Non HDL Chol. ( LDL|86 *|85 *||||
+|SPECIAL CHEM ISTRY||||||
+|Vitamin D,25- Oh, To||||||
+|PATH REFERRA L||||||
+|Pathology||||||
+|SURGICAL PAT HOLOGY||||||
+|(REPORT) PATH OLOGY.||||||
+
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp? WhichFrame=3&Action=Print
+5/5
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+8/27/2018 12:30 PM Office Visit
+MRN: 1003474956
+Maureen A Rehmer
+Description: Female DOB: 6/24/1940 Provider: Laurinda L Santos, MD
+Department: Hartford HealthCare Medical Group Glastonbury
+Diagnoses
+Reason for Visit
+id
+Annual Exam
+Reason for Visit History
+Other hyperlipidemia - Primary
+Codes: E78.4
+Routine medical exam
+Codes: 200.00
+Pain of left hip joint
+Codes: M25.552
+Essential hypertension
+Codes: 110
+Abdominal aortic aneurysm (AAA) without rupture
+(HCC)
+Codes: 171.4
+Multiple sclerosis (HCC)
+Codes: G35
+Abnormality of gait
+Codes: R26.9
+Abnormal LFTS
+Codes: R79.89
+Spinal stenosis of lumbosacral region
+Codes: M48.07
+Scoliosis of thoracolumbar spine, unspecified scoliosis
+type
+Codes: M41.9
+Progress Notes
+Progress Notes by Laurinda L Santos, MD at 8/27/2018 12:10 PM
+Author: Laurinda L Santos, MD Author Type: Physician
+Filed:
+8/27/2018 9:32 PM
+Note Status: Signed
+Cosign: Cosign Not Required Encounter 8/27/2018
+Date:
+Editor: Laurinda L Santos, MD (Physician)
+Prior 1. Laurinda L Santos, MD (Physician) at 8/27/2018 5:31 PM - Sign at close encounter
+Versions:
+2. Kathleen Defranzo at 8/27/2018 12:15 PM - Sign at close encounter
+Assessment and Plan
+1. Routine medical exam
+2. Pain of left hip joint with impaired rom: check xray, plan PT if appropriate, consider referal pain management as well, does not want to consider surgical intervention at present. Known djd spine and scoliosis could be culprit but impaired rom suggests additional hip problem.
+Cont advil prn, we discussed pros/cons nsaids, low dose reasonable to continue, provides some relief.
+- XR Hip w pelvis 2 or 3 views-Left; Future
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+- XR Hip w pelvis 2 or 3 views-Left
+3. Essential hypertension: add losartan, continue monitoring at home, plan dose increase if
+needed. Cont betablocker, low dose, beneficial for migraine headaches, bradycardia limits
+dose increase, cont amlodapine 5 mg, LE edema hx limits dose increase. F/up 6 wks with renal function and cholesterol check
+- losartan (COZAAR) 25 MG tablet; Take 1 tablet (25 mg total) by mouth daily. Dispense: 30 tablet;
+Refill: 3
+4. Abdominal aortic aneurysm (AAA) without rupture (HCC): stable, cont betablocker, and annual vascular surgery f/up
+5. Multiple sclerosis (HCC): stable, cont neurology f/up anually
+6. Abnormality of gait: stable, cont activity as tolerated and caution for fall prevention
+Overall patient is managing chronic conditions well.
+Impaired hearing likely secondary to cerumen impaction, tx debrox and flup irrigation if not improved
+Routine screening up to date or ordered at this visit.
+Reviewed healthy diet, lifestyle and exercise habits
+Discussed importance of monthly SBE
+Counseled arding importance of sunscreen use, seatbelt use, helmet use, smoke and CO detectors, firearms safety
+Will plan to see her again in 1-2 years for preventive exam and 6 wks to re-check skin lesion, adjust htn tx , review advance directives not on file and address pain.
+F/UP 6 WKS: HTN, NEVUS, HEARING, HYPERLIPIDEMIA, ADVANCE DIRECTIVES, HIP PAIN
+MANAGEMENT
+Screening Counseling & Education
+During the course of the visit the patient was educated and counseled about appropriate screening and preventive services including:
+Pneumococcal vaccine
+Influenza vaccine
+Hepatitis B vaccine
+Td vaccine
+Screening mammography
+Screening Pap smear and pelvic exam
+Bone densitometry screening
+Colorectal cancer screening
+Diabetes screening
+Glaucoma screening
+Communication barriers and lifestyle preferences were addressed with the patient. The care plan including medications and self-management goals were reviewed to the best of the patient's ability.
+All questions and concerns were answered. Patient and/or family verbalized understanding of the plan of care.
+Patient has been provided with verbal and written information about the scope of services included in a preventative examination. Patient informed that medical problems / concerns have been evaluated and managed during this visit that will result in a separate office visit and billing charge.
+yes
+Subjective
+Patient presents to the clinic today for annual medicare wellness visit.
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+HPI c/o is feeling '100' with pain L hip interfering with function. She lives with daughter Karen 58, widowed, comes in for preventive care physical but would also like to address progressive left hip pain interfering with usual joyful activities including gardening. She feels it is different from her lumbar disease for which she saw physical therapy a couple years ago and continues to do the exercises at home. The pain has been getting progressively worse over the past 4 months and is really bothering her however she is not sure she wants to pursue consultation with pain management, is willing to reconsider physical therapy.
+Also complains of difficulty hearing lately particularly with regard to TV.
+She also brings in blood pressure reading from home, they range from 119 systolic to 154, diastolic ranged from 64-78. Is taking amlodapine and 1/2 metoprolol regularly.
+With regard to MS, she continues to see Dr. Conway annually and she has been reasonably well from that regard.
+Saw vascular surgeon re aneurysm and sees cardiologist annually due to CAD defined by CT calcium score but asymptomatic. She takes aspirin and statin.
+Preventive Care
+Date of last Mammogram : 6/2018
+Date of last Bone density : 1/20/17: re-check next year, high frax score
+Date of last Colonoscopy: 2010: RE-CHECK DUE, HX POLYP
+Diet and Physical Activity.
+Diet: well balanced diet
+Weight concerns:none
+Exercise type: none - due to fall, does walk and play with grandchild
+General Health
+Hearing:
+slightly decreased bilateral
+Vision:2/2018
+regular eye exams
+Dental:3/2018
+regular dental visits
+Reproductive Health
+female no issues
+Date of last Pap: years, nl
+Medicare Screening Tests and Risk Assessments
+Hospitalizations
+Previous hospitalizations within the past year: none
+Screenings
+Osteoporosis Risk Assessment: age >50 and female
+HIV Risk Assessment: none identified
+Mood Disorder
+aco screen nl
+Functional Ability/Level of Safety.
+Current Activities:
+ADL's: limited, requires assistance with housework
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+Fall Risk Factors: previous fall, sedative use and antihypertensive use
+Home Safety Risk Factors: none identified
+Cognitive Impairment Screening:
+no impairments identified
+Advanced Directives
+Not addressed today, she has advance directives, we don't have them on file . Will request on f/up
+Pertinent History.
+The following portions of the patient's history were reviewed and updated as appropriate: allergies, current medications, problem list, past medical history, past surgical history, past family history and past social history.
+Review of Systems
+Constitutional: Negative for appetite change, chills, fatigue and fever.
+HENT: Negative for dental problem, ear discharge, ear pain, facial swelling, mouth sores, nosebleeds, postnasal drip, rhinorrhea, sinus pressure, sneezing, sore throat, tinnitus, trouble swallowing and voice cha
+Eyes: Negative for pain and visual disturbance.
+Respiratory: Positive for cough (mild, phlegm throat). Negative for shortness of breath and wheezing.
+Cardiovascular: Negative for chest pain, palpitations and leg swelling.
+Gastrointestinal: Negative for abdominal distention, abdominal pain, anal bleeding, blood in stool, constipation, diarrhea, nausea and vomiting.
+Endocrine: Negative for polydipsia, polyphagia and polyuria.
+Genitourinary: Negative for difficulty urinating, dysuria, frequency and genital sores.
+Skin: Negative for rash.
+Neurological: Negative for dizziness, seizures, syncope and headaches.
+Hematological: Negative for adenopathy.
+Psychiatric/Behavioral: Negative for agitation, behavioral problems, confusion, decreased concentration, dysphoric mood and sleep disturbance.
+Objective
+Vitals:
+08/27/18 1202
+(!) 160/60
+(!) 49
+BP:
+Pulse:
+Resp:
+Temp:
+SpO2:
+Weight:
+Height:
+12
+98.3 F (36.8 C)
+97%
+61.2 kg (135 lb)
+1.651 m (5' 5')
+Physical Exam
+Constitutional: She is oriented to person, place, and time. She appears well-developed and well- nourished.
+HENT:
+Head: Normocephalic and atraumatic.
+Right Ear: External ear normal.
+Left Ear: External ear normal.
+Mouth/Throat: Oropharynx is clear and moist.
+Bilateral cerumen impaction
+Rehmer , Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+Eyes: Conjunctivae and EOM are normal. Pupils are equal, round, and reactive to light.
+Neck: Normal range of motion. Neck supple. No JVD present. No thyromegaly present.
+Cardiovascular: Normal rate, regular rhythm, normal heart sounds and intact distal pulses.
+Pulmonary/Chest: Effort normal and breath sounds normal. She has no wheezes. She has no rhonchi. She has no rales. Right breast exhibits no inverted nipple, no mass, no nipple discharge, no skin change and no tenderness. Left breast exhibits no inverted nipple, no mass, no nipple discharge, no skin change and no tenderness. Breasts are asymmetrical.
+R breast a little larger than R and nipple slightly pulled up, no mass associated, unchanged per pt
+Abdominal: Soft. Bowel sounds are normal. She exhibits no abdominal bruit. There is no hepatosplenomegaly. There is no CVA tenderness.
+Genitourinary:
+Genitourinary Comments: Deferred, no gyn symptoms
+Musculoskeletal: She exhibits no edema or tenderness.
+Scoliosis
+R hip rom nl
+Unable to laterally rotate L hip
+Slight weakness against straight leg resistance L, nl R
+Old indentation Scar R thigh
+Lymphadenopathy:
+She has no cervical adenopathy.
+Neurological: She is alert and oriented to person, place, and time. She has normal reflexes. No cranial nerve deficit.
+Skin: Skin is warm and dry. No rash noted. No cyanosis. Nails show no clubbing.
+Hyperpigmented nevus R top shoulder, 4.5 x 4 mm, some irregularity in pigmentation, darker inside.
+Psychiatric: She has a normal mood and affect. Her behavior is normal. Thought content normal.
+Nursing note and vitals reviewed.
+Laurinda L. Santos, MD
+Medications Ordered This Encounter
+||Disp|Refills|Start|End|
+|losartan (COZAAR) 25 MG tablet (Discontinued) Take 1 tablet (25 mg total) by mouth daily. - Oral Reason for Discontinue: Reorder|30 tablet|3|8/27/2018|12/20/2018|
+
+Discontinued Medications
+Reason for Discontinue
+Alternate therapy
+traMADol (ULTRAM) 50 MG tablet
+El Orders placed This Encounter
+Normal Orders This Visit
+Amb referral to Pain Management [REF64 Custom]
+Amb referral to Physical Therapy [REF87 Custom]
+CK [LAB62 Custom]
+Complete Blood Count, with Differential [LAB1748
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+Custom]
+Comprehensive Metabolic Panel [LAB17 Custom]
+Lipid Panel Reflex Direct LDL (Quest Only) [LAB5621
+Custom]
+Future
+Labs/Procedures Expected by Expires
+XR Hip w pelvis 2 8/27/2018 8/27/2019 or 3 views-Left
+[73502 Custom]
+Medication List Reviewed
+User
+GLORIA VARGAS, RT [9226]
+Date and Time
+9/28/2019 11:49 AM
+Results: CK
+Status: Final result (Collected: 10/5/2018 8:32 AM)
+Component
+Creatine Kinase (CK)
+Value
+33
+Standard Range & Units
+29 - 143 U/L
+View Complete Results
+. Narrative
+FASTING: UNKNOWN
+FASTING: UNKNOWN
+Results: Lipid Panel Reflex Direct LDL (Quest Only)
+Abnormal
+Status: Final result (Collected: 10/5/2018 8:32 AM)
+|Component|Value|Standard Range & Units|
+|Cholesterol, Total|127|<200 mg/dL|
+|Cholesterol, HDL|42|>50 mg/dL|
+|Triglycerides|108|<150 mg/dL|
+|LDL Cholesterol|66|mg/dL (calc)|
+
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+6/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rexhmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+Component
+Value
+Reference range: <100
+Standard Range & Units
+Desirable range <100 mg/dL for primary prevention;
+ < 70 mg/dL for patients with CHD or diabetic patients with > or = 2 CHD risk factors.
+LDL-C is now calculated using the Martin-Hopkins calculation, which is a validated novel method providing better accuracy than the Friedewald equation in the estimation of LDL-C.
+Martin ss et al. JAMA. 2013;310 (19): 2061-2068
+( http : // education . QuestDiagnostics.com/faq/FAQ164 )
+|Cholesterol/HDL Ratio|3.0|<5.0 (calc)|
+|Non HDL Chol. (LDL+VLDL)|85|<130 mg/dL (calc)|
+|For patients with diabetes plus factor, treating to a non-HDL-C (LDL-C of <70 mg/dL) is considered option.|1 major ASCVD risk goal of <100 mg/dL a therapeutic||
+
+C
+View Complete Results
+& Narrative
+FASTING: UNKNOWN
+FASTING: UNKNOWN
+Results: Complete Blood Count, with Differential Abnormal
+Status: Final result (Collected: 10/5/2018 8:32 AM)
+|Component|Value|Standard Range & Units|
+|White Blood Cell Count|4.0|3.8 - 10.8 Thousand/uL|
+|Red Blood Cell Count|4.08|3.80 - 5.10 Million/uL|
+|Hemoglobin|12.9|11.7 15.5 g/dL|
+|Hematocrit|37.5|35.0 45.0 %|
+|MCV|91.9|80.0 100.0 fL|
+|MCH|31.6|27.0 33.0 pg|
+|MCHC|34.4|32.0 36.0 g/dL|
+|RDW|12.2|11.0 15.0 %|
+|Platelet Count|135|140 - 400 Thousand/uL|
+|MPV|9.1|7.5 12.5 fL|
+|Abs Neutrophils Auto|2,084|1,500 - 7,800 cells/uL|
+|Abs Lymphocytes Auto|1,488|850 - 3,900 cells/uL|
+|Abs Monocytes Auto|288|200 - 950 cells/uL|
+|Abs Eosinophils Auto|120|15 500 cells/uL|
+|Abs Basophils Auto|20|0 - 200 cells/uL|
+|Neutrophils Auto|52.1|%|
+|Lymphocytes Auto|37.2|%|
+|Monocytes Auto|7.2|%|
+|Eosinophils Auto|3.0|%|
+|Basophils Auto|0.5|%|
+
+- - - - - - - -
+View Complete Results
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+7/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+I Narrative
+FASTING: UNKNOWN
+FASTING: UNKNOWN
+Results: Comprehensive Metabolic Panel
+Abnormal
+Status: Final result (Collected: 10/5/2018 8:32 AM)
+Component
+Glucose
+Value
+105
+Standard Range & Units
+65 - 99 mg/dL
+Fasting reference interval
+For someone without known diabetes, a glucose value between 100 and 125 mg/dL is consistent with prediabetes and should be confirmed with a follow-up test.
+|Blood Urea Nitrogen (BUN)|12|7 25 mg/dL|
+|Creatinine|0.72|0.60 - 0.93 mg/dL|
+|For patients >49 years of age, for Creatinine is approximately identified as African-American.|the reference limit 13% higher for people||
+|eGFR Non-African American|80|> OR = 60 mL/min/1.73m2|
+|eGFR African American|93|> OR = 60 mL/min/1.73m2|
+|BUN/Creatinine Ratio|NOT APPLICABLE|6 22 (calc)|
+|Sodium|143|135 - 146 mmol/L|
+|Potassium|4.0|3.5 5.3 mmol/L|
+|Chloride|108|98 110 mmol/L|
+|CO2|27|20 32 mmol/L|
+|Calcium|9.1|8.6 10.4 mg/dL|
+|Protein, Total|6.4|6.1 8.1 g/dL|
+|Albumin|3.8|3.6 5.1 g/dL|
+|Globulin|2.6|1.9 3.7 g/dL (calc)|
+|Albumin/Globulin Ratio|1.5|1.0 2.5 (calc)|
+|Bilirubin, Total|0.8|0.2 1.2 mg/dL|
+|Alkaline Phosphatase|134|33 130 U/L|
+|Aspartate Aminotrans (AST)|24|10 35 U/L|
+|Alanine Aminotrans (ALT)|18|6 29 U/L|
+
+-
+.
+- - - - - - - - - - - - -
+View Complete Results
+& Narrative
+FASTING: UNKNOWN
+FASTING: UNKNOWN
+* Vitals
+Rehmer , Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+8/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+BP
+160/60 !
+Pulse
+49 !
+Temp
+98.3 F (36.8 C)
+Resp
+12
+Ht
+1.651 m (5' 5')
+Wt
+61.2 kg (135 lb)
+Spo2
+97%
+BMI
+22.47 kg/m 
+OB Status
+Postmenopausal
+Smoking Status
+Former Smoker
+Patient Instructions
+Get debrox or equivalent for ear wax removal, they are drops you use each ear at night to melt it away.
+Call sachdev for colonoscopy
+Patient Instructions History
+Follow-up and Dispositions
+ Return in about 6 weeks (around 10/8/2018) for 30 min for htn, hip pain, hearing, shoulder nevus, 30 min.
+Follow-up and Disposition History
+All Flowsheet Templates (all
+recorded)
+ACO Wellness
+Custom Formula Data
+Encounter Vitals
+Vital Signs
+Vital Signs
+Referring Provider
+Laurinda L Santos, MD
+Level of Service
+Level of Service
+Modifiers
+PR PPPS, SUBSEQ VISIT [G0439]
+Significant, Separately Identifiable Evaluation And Management
+Service By The Same Physician On The Same Day Of The Procedure
+Or Other Service [25]
+Additional E/M Codes
+PR ESTABLISHED OFFICE LOW 15 MIN [99213]
+LOS History
+Additional EM Code History
+All Charges for This Encounter
+|Code|Description|Service Date|Service Provider|Modifiers Qty|
+|G0439|PR PPPS, SUBSEQ VISIT|8/27/2018|Laurinda L Santos, MD|1|
+|99213|PR ESTABLISHED OFFICE LOW 15 MIN|8/27/2018|Laurinda L Santos, MD|25 1|
+
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+9/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+BestPractice Advisories
+Click to view Best Practice Advisory history
+A. Allergies as of 8/27/2018
+Reviewed by Laurinda L Santos, MD on 8/27/2018
+No Known Allergies
+Medications at Start of Encounter
+Disp
+Refills
+Start
+End
+Ascorbic Acid (VITAMIN C) 1000 MG tablet
+(Taking)
+Sig - Route: Take 1,000 mg by mouth daily. - Oral
+Class: Historical Med
+clonazePAM (KlonoPIN) 0.5 MG tablet
+(Taking)
+Sig - Route: Take 0.5 mg by mouth nightly as needed Indications: Restless Leg Syndrome. ClonazePAM 0.5 MG
+Oral Tablet TAKE 1 TABLET AT BEDTIME AS NEEDED.; Start Date:; End Date: - Oral
+Class: Historical Med
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+ibuprofen (MOTRIN) 200 MG tablet
+(Taking)
+Sig - Route: Take 200 mg by mouth 4 times daily (every 6 hours) as needed. - Oral
+Class: Historical Med
+magnesium 30 MG tablet (Taking)
+Sig - Route: Take 30 mg by mouth 2 (two) times a day. - Oral
+Class: Historical Med
+oxybutynin (DITROPAN-XL) 5 MG 24 hr
+tablet (Taking)
+Sig - Route: Take 5 mg by mouth daily. - Oral
+Class: Historical Med
+tamsulosin (FLOMAX) 0.4 MG capsule
+(Taking)
+Sig - Route: Take 0.4 mg by mouth daily. Tamsulosin HCI 0.4 MG CP24 TAKE 1 CAPSULE AT BEDTIME.; Start
+Date:; End Date: - Oral
+Class: Historical Med
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+amLODIPine (NORVASC) 5 MG tablet
+2/16/2016 2/6/2019
+(Taking/Discontinued)
+Sig - Route: Take 5 mg by mouth daily. - Oral
+Class: Historical Med
+Reason for Discontinue: Alternate therapy
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+10/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Encounter Date : 08/27/2018
+DOB:
+#
+Maureen
+A
+||Disp|Refills|Start|End|
+|aspirin enteric coated (ECOTRIN LOW||||8/8/2019|
+|STRENGTH) 81 MG EC tablet|||||
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 81 mg by mouth daily. - Class: Historical Med|Oral||||
+|Reason for Discontinue: Discontinued by|another clinician||||
+|atorvastatin (LIPITOR) 20 MG tablet|45 tablet|0|8/7/2018|11/10/2018|
+|(Taking/Discontinued)|||||
+|Sig: TAKE 1 TABLET BY MOUTH EVERY OTHER|DAY||||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1|||||
+|Order Audit Trail|||||
+|cholecalciferol (VITAMIN D3) 1000 units||||8/8/2019|
+|tablet (Taking/Discontinued)|||||
+|Sig - Route: Take 1,000 Units by mouth daily. Class: Historical Med|- Oral||||
+|Reason for Discontinue: Therapy completed|||||
+|metoPROLOL SUCCINATE (TOPROL-XL) 25|45 tablet|0|7/30/2018|10/27/2018|
+|MG 24 hr tablet (Taking/Discontinued) Sig: TAKE 1/2 TABLET BY MOUTH DAILY Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1 Order Audit Trail|||||
+|mometasone (ELOCON) 0.1 % cream (Taking/Discontinued) Sig - Route: Apply topically daily. - Topical Reason for Discontinue: Reorder|45 g|1|7/12/2017|1/15/2019|
+|traMADol (ULTRAM) 50 MG tablet|30 tablet|2|1/11/2018|8/27/2018|
+|(Taking/Discontinued)|||||
+|Sig - Route: Take by mouth 3 times daily|(every 8 hours)|as needed for|moderate pain. -|Oral|
+|Class: E Prescribe Reason for Discontinue: Alternate therapy Number of times this order has been|||||
+
+.
+( ) changed since signing : 1 Order Audit Trail atorvastatin ( LIPITOR ) 20 MG tablet 45 tablet 1
+1/11/2018
+(Discontinued)
+Sig - Route: Take 1 tablet (20 mg total) by mouth every other day. - Oral
+Class: E Prescribe
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+8/7/2018
+Z Medications at End of Encounter
+Disp
+Refills
+Start
+End
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+11/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+Disp
+Refills
+Start
+End
+Ascorbic Acid (VITAMIN C) 1000 MG tablet
+(Taking)
+Sig - Route: Take 1,000 mg by mouth daily. - Oral
+Class: Historical Med
+clonazePAM (KlonoPIN) 0.5 MG tablet
+(Taking)
+Sig - Route: Take 0.5 mg by mouth nightly as needed Indications: Restless Leg Syndrome. ClonazePAM 0.5 MG
+Oral Tablet TAKE 1 TABLET AT BEDTIME AS NEEDED.; Start Date:; End Date: - Oral
+Class: Historical Med
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+ibuprofen (MOTRIN) 200 MG tablet
+(Taking)
+Sig - Route: Take 200 mg by mouth 4 times daily (every 6 hours) as needed. - Oral
+Class: Historical Med
+magnesium 30 MG tablet (Taking)
+Sig - Route: Take 30 mg by mouth 2 (two) times a day. - Oral
+Class: Historical Med
+oxybutynin (DITROPAN-XL) 5 MG 24 hr
+tablet (Taking)
+Sig - Route: Take 5 mg by mouth daily. - Oral
+Class: Historical Med
+tamsulosin (FLOMAX) 0.4 MG capsule
+(Taking)
+Sig - Route: Take 0.4 mg by mouth daily. Tamsulosin HCI 0.4 MG CP24 TAKE 1 CAPSULE AT BEDTIME. ; Start
+Date:; End Date: Oral
+-
+Class : Historical Med Number of times this order has been changed since signing : 2
+|Order Audit Trail|||
+|amLODIPine (NORVASC) 5 MG tablet|2/16/2016|2/6/2019|
+|(Taking/Discontinued)|||
+|Sig - Route: Take 5 mg by mouth daily. - Oral|||
+|Class: Historical Med|||
+|Reason for Discontinue: Alternate therapy|||
+|Number of times this order has been|||
+|changed since signing: 2|||
+|Order Audit Trail|||
+|aspirin enteric coated (ECOTRIN LOW||8/8/2019|
+|STRENGTH) 81 MG EC tablet|||
+|Taking/Discontinued)|||
+|Sig - Route: Take 81 mg by mouth daily. - Oral|||
+|Class: Historical Med|||
+|Reason for Discontinue: Discontinued by another clinician|||
+|atorvastatin (LIPITOR) 20 MG tablet 45 tablet 0|8/7/2018|11/10/2018|
+|(Taking/Discontinued)|||
+|Sig: TAKE 1 TABLET BY MOUTH EVERY OTHER DAY|||
+|Class: E Prescribe|||
+|Reason for Discontinue: Reorder|||
+|Number of times this order has been|||
+|changed since signing: 1 Order Audit Trail|||
+
+Rehmer , Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+12/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+|Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940|Encounter|Date: 08/27/2018|||
+||Disp|Refills|Start|End|
+|cholecalciferol (VITAMIN D3) 1000 units||||8/8/2019|
+|tablet (Taking/Discontinued)|||||
+|Sig - Route: Take 1,000 Units by mouth daily. Class: Historical Med|- Oral||||
+|Reason for Discontinue: Therapy completed|||||
+|metoPROLOL SUCCINATE (TOPROL-XL) 25|45 tablet|0|7/30/2018|10/27/2018|
+|MG 24 hr tablet (Taking/Discontinued) Sig: TAKE 1/2 TABLET BY MOUTH DAILY Class: E Prescribe Reason for Discontinue: Reorder Number of times this order has been changed since signing: 1 Order Audit Trail|||||
+|mometasone (ELOCON) 0.1% cream (Taking/Discontinued) Sig - Route: Apply topically daily. - Topical Reason for Discontinue: Reorder|45 g|1|7/12/2017|1/15/2019|
+|atorvastatin (LIPITOR) 20 MG tablet|45 tablet|1|1/11/2018|8/7/2018|
+|(Discontinued)|||||
+|Sig - Route: Take 1 tablet (20 mg total) by|mouth every|other day. - Oral|||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been changed since signing: 1 Order Audit Trail|||||
+|losartan (COZAAR) 25 MG tablet|30 tablet|3|8/27/2018|12/20/2018|
+|(Discontinued)|||||
+|Sig - Route: Take 1 tablet (25 mg total) by|mouth daily.|- Oral|||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1 Order Audit Trail|||||
+
+.
+Medications the Patient Reported Taking
+Ascorbic Acid (VITAMIN C) 1000 MG tablet (Taking)
+clonazePAM (KlonoPIN) 0.5 MG tablet (Taking)
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+ibuprofen (MOTRIN) 200 MG tablet (Taking)
+magnesium 30 MG tablet (Taking)
+oxybutynin (DITROPAN-XL) 5 MG 24 hr tablet (Taking)
+tamsulosin (FLOMAX) 0.4 MG capsule (Taking)
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+amLODIPine (NORVASC) 5 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 2
+Order Audit Trail aspirin enteric coated (ECOTRIN LOW STRENGTH) 81 MG EC tablet (Taking/Discontinued)
+atorvastatin (LIPITOR) 20 MG tablet (Taking/Discontinued)
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+13/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+Number of times this order has been changed since signing: 1
+Order Audit Trail cholecalciferol (VITAMIN D3) 1000 units tablet (Taking/Discontinued)
+metoPROLOL SUCCINATE (TOPROL-XL) 25 MG 24 hr tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+mometasone (ELOCON) 0.1 % cream (Taking/Discontinued)
+traMADol (ULTRAM) 50 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+Pelle Immunizations as of 8/27/2018
+Never Reviewed
+|Name|Date|Dose|VIS Date|Route|
+|Influenza Inactivated/Split Preservative Free IM|11/1/2017|--|--|--|
+|Influenza Inactivated/Split Preservative Free IM Site: Left deltoid Given By: Deija Wilkerson, LPN|11/30/2016|0.5 mL|8/7/2015|Intramuscular|
+|Influenza Inactivated/Split Preservative Free IM Site: Right deltoid Given By: Courtney Diakostavrianos,|10/9/2015 LPN|0.5 mL|8/7/2015|Intramuscular|
+|Influenza Live Attenuated Intranasal|9/10/2014|--|--||
+|Pneumococcal Conjugate 13-|10/9/2015|0.5 mL|2/27/2013|Intramuscular|
+|Valent Site: Left deltoid Given By: Courtney Diakostavrianos, Comment: Question answers|LPN automatically|restored on 3/16/2016.|||
+|Pneumococcal Polysaccharide 23-Valent|4/4/2008|--|--|--|
+|Td|4/4/2008|--|--|--|
+
+, , |Q Problem List of||Date|Reviewed: 8/27/2018|
+|as 8/27/2018 Pain in joint, pelvic region and thigh|ICD-10-CM Priority M25.559|Class|Noted Resolved 11/20/2014 - Present|
+|Abnormality of gait|R26.9||11/20/2014 -|
+|Relevant Orders|||Present|
+|CK (Completed)||||
+|Amb referral to Physical Therapy||||
+|Amb referral to Pain Management||||
+|Multiple sclerosis (HCC)|G35||11/20/2014 -|
+|Overview Signed 10/9/2015 1:28 PM by Laurinda|L Santos, MD||Present|
+|Rehmer, Maureen A (MRN 1003474956) Printed by Christine|Rodriguez [13813] at 10/29/19 9:35|AM||
+
+-
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+14/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+Noted -
+Resolved
+ICD-10-CM Priority
+Class
+Description : CONWAY
+Relevant Orders
+Complete Blood Count, with Differential (Completed)
+Comprehensive Metabolic Panel (Completed)
+Amb referral to Physical Therapy
+Essential hypertension
+110
+10/9/2015 -
+Present
+Relevant Medications
+amLODIPine (NORVASC) 5 MG tablet
+metoPROLOL SUCCINATE (TOPROL-XL) 25 MG 24 hr tablet
+losartan (COZAAR) 25 MG tablet
+Other Relevant Orders
+Comprehensive Metabolic Panel (Completed)
+|Autoimmune hepatitis (HCC) K75.4 Relevant Medications ibuprofen (MOTRIN) 200 MG tablet||10/9/2015 - Present|
+|Edema R60.9||4/20/2016 - Present|
+|Migraine without aura or status migrainosus G43.009||1/20/2017 -|
+|Relevant Medications clonazePAM (KlonoPIN) 0.5 MG tablet amLODIPine (NORVASC) 5 MG tablet metoPROLOL SUCCINATE (TOPROL-XL) 25 MG 24 hr tablet aspirin enteric coated (ECOTRIN LOW STRENGTH) 81 MG EC tablet ibuprofen (MOTRIN) 200 MG tablet||Present| |Hyperlipidemia E78.5||1/20/2017 -|
+|Relevant Medications atorvastatin (LIPITOR) 20 MG tablet||Present|
+|Other Relevant Orders Lipid Panel Reflex Direct LDL (Quest Only) (Completed)|||
+|Aortic aneurysm (HCC) 171.9||3/2/2018 -|
+|Overview Signed 3/2/2018 8:53 AM by Laurinda L Santos, MD bozeman||Present|
+
+Surgical History
+|Procedure|Laterality Date|Comment|Source|
+|CHOLECYSTECTOMY|||Provider|
+|DENTAL SURGERY|Bilateral||Provider|
+|EYE SURGERY|Right||Provider|
+|PR REMOVAL GALLBLADDER||Cholecystectomy: 2014-11-20 18:09:10|Provider|
+
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+15/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+Procedure
+Laterality Date
+Comment
+PR UNLISTED PROCEDURE
+2000
+Colon Surgery: 2014-11-20 18:09:10
+COLON
+Source
+Provider
+i Family History
+|Problem|Relation|Age of Onset|Comments|
+|Alcohol abuse|Father|||
+|Alcohol abuse|Mother|||
+|Depression|Brother|||
+|Depression|Mother|||
+|Diabetes|Daughter|||
+|Heart block|Other||cardiac disorder grandparent|
+|Heart disease|Daughter|||
+|Hypertension|Other||grandparent|
+|Migraines|Daughter||migraine headaches|
+|Multiple sclerosis|Brother|||
+|Multiple sclerosis|Mother|||
+|Neoplasm|Father||malignant neoplasm|
+|Stroke|Father||cerebrovascular accident|
+|Suicidality|Brother||suicide|
+|D OB History||||
+
+Gravida
+4.
+SAB
+Para
+4
+TAB
+Ectopic
+Molar
+Multiple
+Live Births
+#
+Date
+GA
+Labor
+Sex
+Weight
+Anes
+1
+2
+3
+Outcome
+Para
+Para
+Para
+Para
+4
+i Social Documentation
+No social documentation on file.
+Pediatric History
+Show all answered pediatric history
+No questionnaires available.
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+16/17
+
+-------------------------------------------
+-------------------------------------------
+10/29/2019
+Rehmer, Maureen A (MR#1003474956) Printed by RODRIGUEZ, CHRISTINE [13813]
+Rehmer, Maureen A (MR # 1003474956) DOB: 06/24/1940 Encounter Date: 08/27/2018
+ AVS Reports
+Date/Time Report
+8/27/2018 1:05 AVS - With Med List
+Action
+Printed
+User
+Stacy Holloway
+PM
+All Flowsheet Templates (all recorded)
+ACO Wellness
+Custom Formula Data
+Encounter Vitals
+Vital Signs
+Vital Signs
+Chart Review Routing History
+No encounter routing history is on file
+Rehmer, Maureen A (MRN 1003474956) Printed by Christine Rodriguez [13813] at 10/29/19 9:35 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+17/17
+
+-------------------------------------------
+-------------------------------------------

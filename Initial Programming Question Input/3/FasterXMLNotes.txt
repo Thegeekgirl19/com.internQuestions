@@ -1,0 +1,1 @@
+Java POJO can be converted into JSON String using objectMapper.write().

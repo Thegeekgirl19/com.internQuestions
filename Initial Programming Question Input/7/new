@@ -1,0 +1,249 @@
+extracorporeal shock wave
+	musculoskeletal system ~ 0019T
+implantation
+	cardiectomy
+		heart, artificial ~ 0051T
+	replacement
+		cardiectomy
+			heart, artificial ~ 0051T
+	drainage device
+		eye glaucoma ~ 0191T
+	acellular dermis ~ 15777
+	pacemaker
+		heart ~ 33207
+		intracardiac ~ 33207
+		transvenous electrode ~ 33207
+		ventricular ~ 33207
+		electrode ~ 33216
+			transvenous ~ 33216
+	dual-chamber pacemaker ~ 33208
+	dual chamber pacemaker ~ 33211
+	electrode
+		cardioverter-defibrillator ~ 33216
+		transvenous
+			cardioverter-defibrillator ~ 33216
+		spinal cord stimulator
+			laminectomy ~ 63655
+	patient activated
+		monitoring device
+			cardiac ~ 33282
+	pt activated
+		monitoring device
+			cardiac ~ 33282
+		cardiac
+			event recorder ~ 33282
+	event recorder
+		patient activated
+			cardiac ~ 33282
+	heart
+		patient activated
+			monitoring device ~ 33282
+		pt activated
+			monitoring device ~ 33282
+		event recorder
+			patient activated ~ 33282
+			pt activated ~ 33282
+		recipient cardiectomy
+			replacement ~ 33927
+	endovascular graft ~ 33880, 33881
+	distal endovascular extension ~ 33886
+	recipient cardiectomy
+		artificial heart ~ 33927
+	vein
+		catheter
+			non-tunneled ~ 36555, 36556
+				jugular ~ 36555, 36556
+				subclavian ~ 36555, 36556
+				central ~ 36555, 36556
+			peripheral ~ 36568, 36569
+		central line
+			non-tunneled ~ 36555, 36556
+				central ~ 36555, 36556
+				jugular ~ 36555, 36556
+				subclavian ~ 36555, 36556
+			peripheral ~ 36568, 36569
+	venous
+		catheter
+			non-tunneled ~ 36555, 36556
+				jugular ~ 36555, 36556
+				subclavian ~ 36555, 36556
+				central ~ 36555, 36556
+			peripheral ~ 36568, 36569
+		central line
+			non-tunneled ~ 36555, 36556
+				central ~ 36555, 36556
+				jugular ~ 36555, 36556
+				subclavian ~ 36555, 36556
+			peripheral ~ 36568, 36569
+	tunneled
+		vein
+			catheter ~ 36557, 36558
+				jugular ~ 36557, 36558
+				subclavian ~ 36557, 36558
+				central ~ 36557, 36558
+				port
+					jugular ~ 36561
+					subclavian ~ 36561
+					central ~ 36561
+			central line ~ 36557, 36558
+				central ~ 36557, 36558
+				jugular ~ 36557, 36558
+				subclavian ~ 36557, 36558
+				port
+					central ~ 36561
+					jugular ~ 36561
+					subclavian ~ 36561
+		venous
+			catheter ~ 36557, 36558
+				jugular ~ 36557, 36558
+				subclavian ~ 36557, 36558
+				central ~ 36557, 36558
+				port
+					jugular ~ 36561
+					subclavian ~ 36561
+					central ~ 36561
+			central line ~ 36557, 36558
+				central ~ 36557, 36558
+				jugular ~ 36557, 36558
+				subclavian ~ 36557, 36558
+				port
+					central ~ 36561
+					jugular ~ 36561
+					subclavian ~ 36561
+		port
+			central venous access device ~ 36561
+	endoscopic
+		gastrostomy tube ~ 43246
+			percutaneous ~ 43246
+	spinal cord stimulator ~ 63685
+		battery ~ 63685
+		pulse generator ~ 63685
+	neurostimulator
+		epidural ~ 63685
+	epidural stimulator ~ 63685
+		battery ~ 63685
+	pulse generator
+		epidural stimulator ~ 63685
+		spinal cord ~ 63685
+	spinal cord
+		neurostimulator ~ 63685
+	sacral foramen
+		neurostimulator electrode ~ 64561
+	chamber
+		posterior
+			phacoemulsification
+				lens
+					intraocular
+						cataract ~ 66984
+							complex ~ 66982
+						complicated
+							cataract ~ 66982
+implantation procedure
+	intracorporeal
+		total replacement
+			entire heart ~ 0051T
+			heart ~ 0051T
+	medical valves
+		aorta
+			percutaneous femoral artery approach ~ 33361
+			open femoral artery approach ~ 33362
+			open axillary artery approach ~ 33363
+			open iliac artery approach ~ 33364
+			transaortic approach ~ 33365
+		entire aorta
+			percutaneous femoral artery approach ~ 33361
+			open femoral artery approach ~ 33362
+			open axillary artery approach ~ 33363
+			open iliac artery approach ~ 33364
+			transaortic approach ~ 33365
+	subdural space
+		puncture wound ~ 61107
+	electrode
+		cranial nerves ~ 64553
+		entire cranial nerve ~ 64553
+		entire sacral nerve ~ 64561
+		sacral nerve ~ 64561
+		incisional technique
+			entire sacral nerve ~ 64581
+			sacral nerve ~ 64581
+	cranial nerves ~ 64568, 64569
+	entire cranial nerve ~ 64568, 64569
+repair
+	heart, artificial ~ 0053T
+		intracorporeal ~ 0052T, 0053T
+		thoracic ~ 0052T
+	nail bed ~ 11760
+	laceration
+		nail bed ~ 11760
+		axillae ~ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037
+		external genitalia ~ 12001, 12002, 12004, 12005, 12006, 12007
+		feet ~ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037
+		finger ~ 12001, 12002, 12004, 12005, 12006, 12007
+		hand ~ 12001, 12002, 12004, 12005, 12006, 12007
+		leg ~ 12001, 12002, 12004, 12005, 12006, 12007
+		neck ~ 12001, 12002, 12004, 12005, 12006, 12007
+		scalp ~ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037
+		trunk ~ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037
+		ears ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		eyebrow ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018
+		eyelids ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		face ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		lips ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		mucous membrane ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		muscles ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		nose ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		hands ~ 12031, 12032, 12034, 12035, 12036, 12037
+		forehead ~ 12051, 12052, 12053, 12054, 12055, 12056, 12057
+	wound
+		scalp ~ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037
+		trunk ~ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037
+		axillae ~ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037
+		external genitalia ~ 12001, 12002, 12004, 12005, 12006, 12007
+		feet ~ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037
+		finger ~ 12001, 12002, 12004, 12005, 12006, 12007
+		hand ~ 12001, 12002, 12004, 12005, 12006, 12007
+		leg ~ 12001, 12002, 12004, 12005, 12006, 12007
+		neck ~ 12001, 12002, 12004, 12005, 12006, 12007
+		simple
+			scalp ~ 12001, 12002, 12004
+			neck ~ 12001, 12002, 12004
+			axillae ~ 12001, 12002, 12004
+			external genitalia ~ 12001, 12002, 12004
+			trunk ~ 12001, 12002, 12004
+			extremity ~ 12001, 12002, 12004
+			face ~ 12011, 12013, 12014
+			ear ~ 12011, 12013, 12014
+			eyelid ~ 12011, 12013, 12014
+			nose ~ 12011, 12013, 12014
+			lips ~ 12011, 12013, 12014
+			mucous membrane ~ 12011, 12013, 12014
+		ears ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		eyebrow ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018
+		eyelids ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		face ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		lips ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		mucous membrane ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		muscles ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		nose ~ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057
+		hands ~ 12031, 12032, 12034, 12035, 12036, 12037
+		intermediate
+			scalp ~ 12031, 12032, 12034
+			axillae ~ 12031, 12032, 12034
+			trunk ~ 12031, 12032, 12034
+			extremity ~ 12031, 12032, 12034
+			thigh ~ 12032
+			neck ~ 12041, 12042, 12044
+			hand ~ 12041, 12042, 12044
+			feet ~ 12041, 12042, 12044
+			external genitalia ~ 12041, 12042, 12044
+			face ~ 12051, 12052, 12053
+			ear ~ 12051, 12052, 12053
+			eyelid ~ 12051, 12052, 12053
+			nose ~ 12051, 12052, 12053
+			lips ~ 12051, 12052, 12053
+			mucous membrane ~ 12051, 12052, 12053
+	dehiscence
+		superficial wound ~ 12020
+	intermediate
+		skin wound
+			scalp ~ 12031, 12032, 12

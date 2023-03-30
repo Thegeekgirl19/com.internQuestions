@@ -1,0 +1,1673 @@
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018
+Results: Hemoglobin Alc
+Abnormal
+Status: Final result (Collected: 9/27/2018 7:59 AM)
+Standard Range & Units
+<5.7 % of total Hgb
+Component
+Value
+Hemoglobin A1C
+8.7
+For someone without known diabetes, a hemoglobin Alc value of 6.5% or greater indicates that they may have diabetes and this should be confirmed with a follow-up test.
+For someone with known diabetes, a value <7% indicates that their diabetes is well controlled and a value greater than or equal to 7% indicates suboptimal control. Alc targets should be individualized based on duration of diabetes, age, comorbid conditions, and other considerations.
+Currently, no consensus exists regarding use of hemoglobin Alc for diagnosis of diabetes for children.
+View Complete Results
+I Narrative
+FASTING:YES
+FASTING: YES
+Results: Comprehensive Metabolic Panel
+Abnormal
+Status: Final result (Collected: 9/27/2018 7:59 AM)
+Component
+Glucose
+Value
+103
+Standard Range & Units
+65 - 99 mg/dL
+Fasting reference interval
+For someone without known diabetes, a glucose value between 100 and 125 mg/dL is consistent with prediabetes and should be confirmed with a follow-up test.
+|Blood Urea Nitrogen (BUN)|33|7 25 mg/dL|
+|Creatinine|2.24|0.70 - 1.18 mg/dL|
+
+-
+|For patients >49 years of age, for Creatinine is approximately identified as African-American.|the reference limit 13% higher for people||
+|eGFR Non-African American|27|OR = 60 mL/min/1.73m2|
+|eGFR African American|32|> OR = 60 mL/min/1.73m2|
+|BUN/Creatinine Ratio|15|6 22 (calc)|
+|Sodium|141|135 - 146 mmol/L|
+|Potassium|4.6|3.5 - 5.3 mmol/L|
+
+>
+-
+Anderson , George W ( MRN 1000366883 ) Printed by Danielle Ferrato ( 3131 ) at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+6/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+|Anderson, George W (MR # 1000366883) DOB: 11/26/1941|Encounter Date: 06/27/2018||
+|Component|Value|Standard Range & Units|
+|Chloride|105|98 - 110 mmol/L|
+|CO2|26|20 - 32 mmol/L|
+|Calcium|8.2|8.6 - 10.3 mg/dL|
+|Protein, Total|5.3|6.1 8.1 g/dL|
+|Albumin|2.9|3.6 5.1 g/dL|
+|Globulin|2.4|1.9 3.7 g/dL (calc)|
+|Albumin/Globulin Ratio|1.2|1.0 2.5 (calc)|
+|Bilirubin, Total|0.6|0.2 1.2 mg/dL|
+|Alkaline Phosphatase|126|40 115 U/L|
+|Aspartate Aminotrans (AST)|13|10 35 U/L|
+|Alanine Aminotrans (ALT)|11|9 46 U/L|
+
+- - - - - - - -
+View Complete Results
+Narrative
+FASTING: YES
+FASTING: YES
+Results: Uric Acid
+Status: Final result (Collected: 9/27/2018 7:59 AM)
+Value
+Component
+Uric Acid
+5.4
+Therapeutic target for gout patients: <6.0 mg/dL
+Standard Range & Units
+4.0 - 8.0 mg/dL
+View Complete Results
+& Narrative
+FASTING: YES
+FASTING: YES
+Results: POCT Glycosylated Hemoglobin (Hb A1C) Abnormal
+Status: Final result (Collected: 6/27/2018 11:03 AM)
+Standard Range & Units
+4.0 - 6.0 %
+Component
+Hemoglobin A1C
+Lot Number
+Quality Control
+Value
+8.8
+860
+Pass
+Pass
+View Complete Results
+m Vitals
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato (3131] at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+7/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018
+BP
+156/78 !
+Pulse
+66
+Wt
+88.5 kg (195 lb)
+BMI
+30.54 kg/m 
+Smoking Status
+Never Smoker
+Follow-up and Dispositions
+ Return in about 3 months (around 9/27/2018) for f/u HBP, follow up Diabetes.
+Follow-up and Disposition History
+All Flowsheet Templates (all
+recorded)
+Custom Formula Data
+Encounter Vitals
+Referring Provider
+Prakash Puranik, MD
+Level of Service
+Level of Service
+PR ESTABLISHED OFFICE MODERATE 25 MIN [99214]
+All Charges for This Encounter
+|Code 99214|Description PR ESTABLISHED OFFICE MODERATE 25 MIN|Service Date 6/27/2018|Service Provider Charles M Masserman, MD|Modifiers Qty 1|
+|83036|CHG GLYCOSYLATED HEMOGLOBIN TEST|6/27/2018|Charles M Masserman, MD|1|
+
+BestPractice Advisories
+Click to view Best Practice Advisory history
+4. Allergies as of 6/27/2018
+Reviewed by Brenda Holmberg, MA on 6/27/2018
+||Noted|Reaction Type|Reactions|Deletion Reason|
+|DELETED: Influenza Vaccine Recombinant|09/30/2015||Fever|Entry determined to be clinically insignificant, Patient started did get a flu vaccine no reaction. HS 9/27/17|
+
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato (3131) at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+8/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018
+||Noted|Reaction Type|Reactions|Deletion Reason|
+|DELETED: Clopidogrel Bisulfate|09/30/2015||Hives, Itching|Erroneous Entry|
+|Plavix [clopidogrel]|09/23/2015||Hives||
+|Tramadol|09/27/2017||Hives||
+
+Medications at Start of Encounter
+End
+12/4/2018
+7/18/2019
+12/4/2018
+Disp
+Refills
+Start
+meclizine (ANTIVERT) 12.5 MG tablet
+(Taking)
+Sig - Route: Take 12.5 mg by mouth. - Oral
+Class: Historical Med
+acetaminophen (TYLENOL) 500 MG tablet
+(Taking/Discontinued)
+Sig - Route: Take 500 mg by mouth 4 times daily (every 6 hours) as needed (pain). - Oral
+Class: Historical Med
+Reason for Discontinue: Alternate therapy
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+allopurinol (ZYLOPRIM) 300 MG tablet
+(Taking/Discontinued)
+Sig - Route: Take 300 mg by mouth daily. - Oral
+Class: Historical Med
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 3
+Order Audit Trail
+aspirin (BAYER ASPIRIN) 325 MG tablet
+(Taking/Discontinued)
+Sig - Route: Take 325 mg by mouth daily. - Oral
+Class: Historical Med
+Reason for Discontinue: Alternate therapy atorvastatin (LIPITOR) 40 MG tablet 90 tablet 3
+10/12/2017
+(Taking/Discontinued)
+Sig: TAKE 1 TABLET EVERY DAY (BEST IN EVENING) TO LOWER CHOLESTEROL
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 1
+Order Audit Trail hydrochlorothiazide (MICROZIDE) 12.5 MG 90 capsule 1
+2/14/2018
+capsule (Taking/Discontinued)
+Sig: TAKE 1 CAPSULE BY MOUTH EVERY DAY IN THE MORNING. (DIURETIC)
+Class: E Prescribe
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 1
+Order Audit Trail insulin detemir (LevEMIR) 100 UNITS/ML 10 mL
+1
+5/16/2018
+injection (Taking/Discontinued)
+Sig - Route: Inject 0.26 mL (26 Units total) under the skin nightly. - Subcutaneous
+Class: E Prescribe
+10/12/2018
+8/13/2018
+7/18/2019
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato [3131] at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+9/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+|Anderson, George W (MR # 1000366883) DOB:|11/26/1941 Encounter|Date: 06/27/2018|||
+|Number of times this order has been changed since signing: 1 Order Audit Trail|Disp|Refills|Start|End|
+|losartan (COZAAR) 50 MG tablet|30 tablet|3|4/16/2018|6/27/2018|
+|(Taking/Discontinued) Sig: TAKE 1 TABLET BY MOUTH DAILY. Class: E Prescribe Reason for Discontinue: Reorder Number of times this order has been changed since signing: 1 Order Audit Trail|||||
+|metoPROLOL TARTRATE (LOPRESSOR) 100|180 tablet|3|10/12/2017|10/12/2018|
+
+MG tablet ( Taking / Discontinued )
+Sig: TAKE ONE TABLET BY MOUTH TWICE A DAY FOR BLOOD PRESSURE ( MUST HAVE LABS BEFORE NEXT
+REFILL )
+Reason for Discontinue : Reorder Number of times this order has been changed since signing : 1 Order Audit Trail
+|calcitRIOL (ROCALTROL) 0.25 MCG capsule|||4/4/2018|10/5/2018|
+|(Discontinued)|||||
+|Class: Historical Med|||||
+|Reason for Discontinue: Therapy completed|||||
+|FREESTYLE LITE strip (Discontinued)|100 each|2|2/14/2018|2/12/2019|
+|Sig: TEST ONCE A DAY (FASTING BLOOD|GLUCOSE LEVEL)||||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been changed since signing: 1 Order Audit Trail|||||
+|insulin detemir (LevEMIR FlexTouch) 100 UNIT/ML pen injection (Discontinued) Sig: 26 units subq nightly Class: E Prescribe Reason for Discontinue: Duplicate order Number of times this order has been changed since signing: 1 Order Audit Trail|15 mL|5|5/16/2018|6/27/2018|
+|Insulin Pen Needle 32G X 4 MM Misc|100 pen needle|3|10/12/2017|11/7/2018|
+|(Discontinued)|||||
+|Sig: Test twice a day|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1 Order Audit Trail|||||
+
+Medications at End of Encounter
+End
+Disp
+Refills
+Start
+meclizine (ANTIVERT) 12.5 MG tablet
+(Taking)
+Sig - Route: Take 12.5 mg by mouth. - Oral
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato (3131] at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+10/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018
+|Disp|Refills|Start|End|
+|Class: Historical Med||||
+|acetaminophen (TYLENOL) 500 MG tablet|||12/4/2018|
+|(Taking/Discontinued)||||
+|Sig - Route: Take 500 mg by mouth 4 times daily (every 6|hours) as needed|(pain). - Oral||
+|Class: Historical Med||||
+|Reason for Discontinue: Alternate therapy||||
+|Number of times this order has been changed since signing: 1 Order Audit Trail||||
+|allopurinol (ZYLOPRIM) 300 MG tablet|||7/18/2019|
+|(Taking/Discontinued)||||
+|Sig - Route: Take 300 mg by mouth daily. - Oral||||
+|Class: Historical Med||||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been||||
+|changed since signing: 3||||
+|Order Audit Trail||||
+|aspirin (BAYER ASPIRIN) 325 MG tablet|||12/4/2018|
+|(Taking/Discontinued)||||
+|Sig - Route: Take 325 mg by mouth daily. - Oral||||
+|Class: Historical Med||||
+|Reason for Discontinue: Alternate therapy||||
+|atorvastatin (LIPITOR) 40 MG tablet 90 tablet|3|10/12/2017|10/12/2018|
+|(Taking/Discontinued)||||
+|Sig: TAKE 1 TABLET EVERY DAY (BEST IN EVENING) TO LOWER|CHOLESTEROL|||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been||||
+|changed since signing: 1 Order Audit Trail||||
+|hydrochlorothiazide (MICROZIDE) 12.5 MG 90 capsule|1|2/14/2018|8/13/2018|
+|capsule (Taking/Discontinued)||||
+|Sig: TAKE 1 CAPSULE BY MOUTH EVERY DAY IN THE MORNING.|(DIURETIC)|||
+|Class: E Prescribe||||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been changed since signing: 1 Order Audit Trail||||
+|insulin detemir (LevEMIR) 100 UNITS/ML 10 mL|1|5/16/2018|7/18/2019|
+|injection (Taking/Discontinued)||||
+|Sig - Route: Inject 0.26 mL (26 Units total) under the skin|nightly. -|Subcutaneous||
+|Class: E Prescribe||||
+|Number of times this order has been||||
+|changed since signing: 1 Order Audit Trail||||
+|losartan (COZAAR) 50 MG tablet 90 tablet|3|6/27/2018|6/21/2019|
+|(Taking/Discontinued)||||
+|Sig - Route: Take 1 tablet (50 mg total) by mouth daily. - Oral||||
+|Class: E Prescribe||||
+|Reason for Discontinue: Reorder||||
+
+Number of times this order has been changed since signing : 1 Order Audit Trail
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato [3131] at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+11/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Encounter Date : 06/27/2018
+1000366883)
+(MR
+W
+11/26/1941
+DOB:
+#
+Anderson, ||Disp|Refills|Start|End|
+|metoPROLOL TARTRATE (LOPRESSOR) 100|180 tablet|3|10/12/2017|10/12/2018|
+|MG tablet (Taking/Discontinued)|||||
+|Sig: TAKE ONE TABLET BY MOUTH TWICE|A DAY FOR BLOOD|PRESSURE|( MUST HAVE LABS|BEFORE NEXT|
+|REFILL )|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been changed since signing: 1 Order Audit Trail|||||
+|calcitRIOL (ROCALTROL) 0.25 MCG capsule|||4/4/2018|10/5/2018|
+|(Discontinued)|||||
+|Class: Historical Med Reason for Discontinue: Therapy completed|||||
+|FREESTYLE LITE strip (Discontinued)|100 each|2|2/14/2018|2/12/2019|
+|Sig: TEST ONCE A DAY (FASTING BLOOD Class: E Prescribe Reason for Discontinue: Reorder Number of times this order has been changed since signing: 1 Order Audit Trail|GLUCOSE LEVEL)||||
+|Insulin Pen Needle 32G X 4 MM Misc|100 pen needle|3|10/12/2017|11/7/2018|
+|(Discontinued)|||||
+|Sig: Test twice a day|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1|||||
+|Order Audit Trail|||||
+
+Medications the Patient Reported Taking
+meclizine (ANTIVERT) 12.5 MG tablet (Taking)
+acetaminophen (TYLENOL) 500 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+allopurinol (ZYLOPRIM) 300 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 3
+Order Audit Trail aspirin (BAYER ASPIRIN) 325 MG tablet (Taking/Discontinued)
+atorvastatin (LIPITOR) 40 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+hydrochlorothiazide (MICROZIDE) 12.5 MG capsule (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail insulin detemir (LevEMIR) 100 UNITS/ML injection (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+losartan (COZAAR) 50 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+losartan (COZAAR) 50 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato (3131] at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+12/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018
+Order Audit Trail metoPROLOL TARTRATE (LOPRESSOR) 100 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+het Immunizations as of 6/27/2018
+Never Reviewed
+Date
+Dose
+VIS Date
+Name
+|Influenza Inactivated/Split Preservative Free IM Site: Left deltoid Given By: Dawn Smith, LPN|12/18/2017|0.5 mL|8/7/2015||Intramuscular|
+|Influenza Inactivated/Split Preservative Free IM Site: Left deltoid Given By: Dawn Smith, LPN|1/16/2017|0.5 mL|8/7/2015||Intramuscular|
+|Tdap Comment: Tdap|2/25/2013|--|||Intramuscular|
+|PE Problem List as of 6/27/2018 Actinic keratosis||ICD-10-CM L57.0|Priority|Date Class|Reviewed: 3/27/2018 Noted - Resolved 2/28/2014 - Present|
+|Coronary atherosclerosis||125.10|||10/1/2014 -|
+|Relevant Medications metoPROLOL TARTRATE|(LOPRESSOR) 100|MG tablet|||Present|
+|Chronic kidney disease, stage III Relevant Medications hydrochlorothiazide|(moderate) (HCC) (MICROZIDE) 12.5 MG|N18.3 capsule|||7/16/2015 - Present|
+|Type Il diabetes mellitus with uncontrolled (HCC) Relevant Medications hydrochlorothiazide insulin detemir (LevEMIR)|renal manifestations, (MICROZIDE) 12.5 MG 100 UNITS/ML|E11.29, E11.65 capsule injection|||7/30/2015 - Present|
+|Type Il diabetes mellitus with manifestations (HCC) Relevant Medications Insulin Pen Needle 32G X FREESTYLE LITE strip insulin detemir (LevEMIR)|neurological 4 MM Misc 100 UNITS/ML|E11.49 injection|||7/16/2015 - Present|
+|Fall||W19.XXXA|||6/10/2015 - Present|
+|Abnormality of gait||R26.9|||7/16/2015 - Present|
+
+(
+)
+( , (
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato [3131] at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+13/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018
+||ICD-10-CM|Priority|Class|Noted - Resolved|
+|Gouty arthropathy Relevant Orders Uric Acid (Completed)|M10.9|||2/28/2014 - Present|
+|Hyperlipidemia Relevant Medications atorvastatin (LIPITOR) 40 MG tablet|E78.5|||6/2/2014 - Present|
+|Essential hypertension|I10|||7/16/2015 -|
+|Relevant Medications metoPROLOL TARTRATE (LOPRESSOR) 100 MG hydrochlorothiazide (MICROZIDE) 12.5 MG capsule losartan (COZAAR) 50 MG tablet|tablet|||Present|
+|Paralysis agitans (HCC)|G20|||7/16/2015 - Present|
+|Disorder of male genital organs|N50.9|||1/5/2015 - Present|
+|Pain in joint, shoulder region|M25.519|||7/16/2015 - Present|
+|Abnormal involuntary movements|R25.9|||2/28/2014 - Present|
+|Vitamin D deficiency|E55.9|||2/28/2014 - Present|
+|Vertigo|R42|||6/11/2017 - Present|
+|Atherosclerotic coronary vascular disease|125.10|||6/11/2017 -|
+|Relevant Medications metoPROLOL TARTRATE (LOPRESSOR) 100 MG|tablet|||Present|
+|Uncontrolled diabetes mellitus (HCC) Relevant Medications insulin detemir (LevEMIR) 100 UNITS/ML injection|E11.65|||6/11/2017 - Present|
+
+Surgical History
+|Procedure Laterality Date CATARACT EXTRACTION, BILATERAL|Comment|Source Provider|
+|CORONARY STENT PLACEMENT||Provider|
+|HEAD & NECK SKIN LESION Right EXCISIONAL BIOPSY|Nasal area|Provider|
+|PR REMOVAL OF SPERM DUCT(S)|Surgery Of Male Genitalia 2011-01-28 10:54:43|Vasectomy:|
+
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato [3131] at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+14/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018 iji Family History
+|Problem|Relation|Age of Onset|Comments|
+|Alcohol abuse|Other|||
+|Gastric Cancer|Mother|||
+|Hypertension|Mother|||
+
+Y Social Documentation
+No social documentation on file.
+Pediatric History
+Show all answered pediatric history
+No questionnaires available.
+ AVS Reports
+Date/Time Report
+6/27/2018 11:08 AVS - With Med List
+AM
+Action
+Printed
+User
+Caroline Aguiar-Kuhn
+All Flowsheet Templates (all recorded)
+Custom Formula Data
+Encounter Vitals
+Chart Review Routing History
+No encounter routing history is on file
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato [3131] at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+15/15
+
+-------------------------------------------
+-------------------------------------------
+Feb 28 18 06:18p
+p. 1
+ACUITY EYE PHYSICIANS & SURGEONS, P.C.
+COMPREHENSIVE OPHTHALMOLOGY
+ROBERT L. BLOCK, MD
+12 CURTIS STREET
+MERIDEN, CONNECTICUT
+TEL (203)2357946
+FAX (203)238 1684
+DIPLOMAT AMERICAN BOARD OF OPHTHALMOLOGY
+47 JOLLEY DRIVE, STE 2
+BLOOMFIELD, CONNECTICUT
+TEL (860-296-5448
+FAX (860) 286-5449
+Diabetic Dilated Eye Exam Fax Back Report
+Patient Name:
+George Anderson
+Primary Care Physician: Br. Paranik
+Date of Birth:_4226-1941
+Fax: 203-6945385
+|Findings/Impressions:||Right|Left|
+|NPDR: Non Proliferative|Lenticular Changes|||
+|Diabetic Retinopathy|Diabetes without Retinopathy|||
+||Mild NPDR|||
+|PDR: Proliferative|Moderate NPDR|||
+|Diabetic|PDR|||
+|Retinopathy|CSME|||
+|CSME: Clinically|Vitreous Hemorrhage|||
+|Significant|Traction Retinal Detachment|||
+|Macular Edema|Rubeosis Iridis|||
+||Other:|||
+
+Tight Glucose, HTN, and Cholesterol Control
+Follow up Dilated Eye Exam: Weeks
+Months
+Fluorescein Angiography R L Eye
+Laser for Macular Edema R L Eye
+Panretinal Laser
+RL Eye
+Vitrectomy/Retinal Surgery R L Eye
+Referred for vitreo-retinal consult
+I Years
+Patient to call ASAP for severe pain or new symptoms of flashes, floaters, or noticing a curtain over the vision
+Zobal 2/28/18
+Eye Care Specialist:
+Date:
+**Please feel free to call our office for any additional information**
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/1
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Study Result
+HHC MMC Midstate
+Medical Center
+435 Lewis AVE
+Meriden CT 06451-2101
+Result Report
+Anderson, George W
+MRN: 1000366883, DOB: 11/26/1941, Sex: M
+Adm: 8/27/2014, D/C: 8/27/2014
+1141726 Anderson, George
+CLINICAL DATA:
+periumbilical area pain/tenderness, eval for hernia
+CT - ABDOMEN AND PELVIS W/O CONTRAST(74176)
+Final Report
+COMPARISON: None.
+TECHNIQUE: No oral or IV contrast.
+FINDINGS:
+The lung bases are clear. There is fatty atrophy of the pancreas. There is no peripancreatic fluid or stranding. The spleen,, gallbladder and adrenal glands are unremarkable in their noncontrast appearance. There is no urinary tract calculus or obstruction. There is no evidence of bowel obstruction. There is no acute inflammatory stranding or free fluid.
+There is a focal herniation of the ventral abdominal wall in the midline at the level of the mid iliac crest. The hernia sac
+measures 7.8 x 6.7 cm in maximum diameter and has a neck measuring 2 cm. The hernia transmits fat. There is subtle dirtying of the fat within the hernia sac. There is no fluid or drainable abscess.
+There is atherosclerotic changes of the jejunum changes of the dorsal spine.
+IMPRESSION:
+1. Large, midline pelvic ventral abdominal wall hernia transmitting fat with subtle dirtying of the fat. Early incarceration would be difficult to exclude. Recommend clinical correlation.
+D: 08/27/2014- 12:55
+T: -
+Transcribed by on at
+Electronically signed by Gregory lafrate M.D. on 08/27/2014 at 12:58
+Reported by Gregory lafrate M.D. on 08/27/2014 at 12:55
+Imaging
+ABDOMEN/PELVIS W/O CONTRAST (CT) -M (Order: 15651739) - 8/27/2014
+ABDOMEN/PELVIS W/O CONTRAST (CT) -M
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/2
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Status: Final result
+Signed by
+Phone
+Pager
+Signed
+PROVIDER, CONVERSION
+Date/Time
+8/27/2014 12:58
+Exam Information
+Status
+Exam
+Begun
+Exam
+Ended
+Final [99]
+Link to Epic Procedure Log
+Procedure Log
+External Result Report Encounter
+External Result Report
+View Encounter
+Reprint Order Requisition
+ABDOMEN/PELVIS W/O CONTRAST (CT) -M (Order #15651739) on 8/27/14
+Ordered On 8/27/2014 11:50 AM
+Ordering Provider Authorizing Provider Ordering User Ordering Department
+Conversion Provider, MD Conversion Provider, MD Interface, Radiology MMC EMERGENCY
+Results Conversion
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato (3131) at 10/28/19 4:24 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/2
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+||5 11/10/2016 08:39|4 6/11/2017 14:54|3 6/12/2017 02:27|2 9/27/2018 08:04|1 9/26/2019 08:15|
+|COMPLETE BL OOD COUNT||||||
+|White Blood Cell C.|8.9 *|8.1|9.5|||
+|Red Blood Cell C ount|4.07 *|3.77|3.91|||
+|Hemoglobin|12.4 *|11.6|12.1|11.6|11.4 *|
+|Hematocrit|38.0 *|35.3|35.3|34.8|34.5 *|
+|MCV|93.3 *|94|90|||
+|MCH|30.4 *|30.8|30.9|||
+|MCHC|32.6 *|32.9|34.3|||
+|RDW|16.4 *|14.7|14.8|||
+|Platelet Count||240|240|||
+|MPV||10.4|10.0|||
+|DIFFERENTIAL||||||
+|Neutrophils Auto||75.5|64.7|||
+|Abs Neutrophils Auto||6.13|6.14|||
+|Immature Granul ocytes||0.2|0.3|||
+|Abs Immature Gr anu||0.02|0.03|||
+|Lymphocytes Aut o||15.7|25.3|||
+|Abs Lymphocyte S Auto||1.28|2.41|||
+|Monocytes Auto||6.5|7.0|||
+|Abs Monocytes A uto||0.53|0.67|||
+|Eosinophils Auto||1.7|2.3|||
+|Abs Eosinophils Auto||0.14|0.22|||
+|Basophils Auto||0.4|0.4|||
+|Abs Basophils A uto||0.03|0.04|||
+|SPECIAL HEMA TOLOGY||||||
+|Sedimentation R ate||20 *||||
+
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+1/1
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+||10 6/12/2017 06:03|9 6/12/2017 06:04|8 9/22/2017 08:00|7 9/27/2018 07:59|6 9/27/2018 08:04|
+|CHEMISTRY GE NERAL||||||
+|Sodium|||139 *|141 *|139|
+|Potassium|||4.5 *|4.6*|4.2|
+|Chloride|||105 *|105 *|104|
+|CO2|||31 *|26*|25|
+|BUN|||23*|33*|33|
+|Creatinine|||1.90 *|2.24 *|2.27 *|
+|Bun / Creat Ratio|||12*|15 *|15|
+|Glucose|||121 *|103 *|102 *|
+|Calcium|||8.0*|8.2 *|8.2|
+|Protein, Total|||4.9*|5.3 *||
+|Albumin|||2.6*|2.9 *||
+|Globulin|||2.3 *|2.4 *||
+|A/G Ratio|||1.1*|1.2 *||
+|eGFR African Am erican|||39 *|32 *|31|
+|eGFR Non- African A|||34 *|27 *|27|
+|Bilirubin Total|||0.5*|0.6*||
+|Aspartate Aminot ra|||18*|13 *||
+|Alanine Aminotra ns.|||22 *|11*||
+|Alkaline Phospha tase|||96 *|126*||
+|Iron|||||63|
+|Total Iron Binding|||||210|
+|Iron Saturation|||||30|
+|Ferritin|||||143|
+|Phosphorus|||||3.0|
+|Uric Acid|||5.3 *|5.4*||
+|CARDIAC/SKEL ETAL M.||||||
+|Creatine Kinase ( CK)|77|||||
+|Troponin I|<0.30|||||
+|LIPID PROFILE||||||
+
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+1/4
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+||10 6/12/2017 06:03|9 6/12/2017 06:04|8 9/22/2017 08:00|7 9/27/2018 07:59|6 9/27/2018 08:04|
+|Cholesterol||130||138 *||
+|Triglycerides||151||148*||
+|HDL||41||34||
+|Estimated LDL||59*||||
+|LDL Cholesterol||||79 *||
+|Cholesterol/HDL Ratio||3.2||4.1*||
+|Non HDL Chol. ( LDL||||104 *||
+|ENDOCRINE/FE RTILITY||||||
+|Hemoglobin A1C||9.4|7.9|8.7||
+|PTH, Intact|||||136 *|
+|TSH reflex Free T4||||||
+|SPECIAL CHEM ISTRY||||||
+|Vitamin D,25- Oh, To||||||
+
+*
+...
+*
+*
+||5 9/27/2018 08:04|4 3/28/2019 08:19|3 9/26/2019 08:13|2 9/26/2019 08:15|1 9/26/2019 08:15|
+|CHEMISTRY GE NERAL||||||
+|Sodium||140 *|140 *|139*||
+|Potassium||4.7 *|3.9 *|4.0*||
+|Chloride||107 *|104|104 *||
+|CO2||26 *|27 *|26 *||
+|BUN||35 *|35 *|35 *||
+|Creatinine||2.51|2.48 *|2.48 *||
+|Bun / Creat Ratio||14 *|14 *|14 *||
+|Glucose||96 *|70 *|72||
+|Calcium|8.2|8.1|7.9*|7.9*|7.9|
+|Protein, Total|||5.2|||
+|Albumin|||2.8*|||
+|Globulin|||2.4*|||
+|A/G Ratio|||1.2*|||
+
+*
+4
+*
+*
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+214
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+||5 9/27/2018 08:04|4 3/28/2019 08:19|3 9/26/2019 08:13|2 9/26/2019 08:15|1 9/26/2019 08:15|
+|eGFR African Am erican||28 *|28 *|28 *||
+|eGFR Non- African A..||24 *|24 *|24 *||
+|Bilirubin Total|||0.7|||
+|Aspartate Aminot ra|||13 *|||
+|Alanine Aminotra ns.|||12*|||
+|Alkaline Phospha tase|||95 *|||
+|Iron||||||
+|Total Iron Binding||||||
+|Iron Saturation||||||
+|Ferritin||||||
+|Phosphorus||||||
+|Uric Acid||||||
+|CARDIAC/SKEL ETAL M..||||||
+|Creatine Kinase ( CK)||||||
+|Troponin I||||||
+|LIPID PROFILE||||||
+|Cholesterol|||135 *|||
+|Triglycerides|||121|||
+|HDL|||31 *|||
+|Estimated LDL||||||
+|LDL Cholesterol|||82 *|||
+|Cholesterol/HDL Ratio|||4.4*|||
+|Non HDL Chol. ( LDL|||104 *|||
+|ENDOCRINE/FE RTILITY||||||
+|Hemoglobin A1C|||8.0*|||
+|PTH, Intact||||166 *||
+|TSH reflex Free T4|||1.52|||
+|SPECIAL CHEM ISTRY||||||
+|Vitamin D,25- Oh,To||13 *||||
+
+...
+*
+...
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+3/4
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+4/4
+
+-------------------------------------------
+-------------------------------------------
+Fm: Abeles Micha
+To:Charles Masserman MD (12036945385)
+15:31 12/06/18 ET Pg 1-5
+816 Broad St. Suite 14
+Meriden, CT 06450-4350
+Phone: (203) 235-6402
+Fax: (203) 686-1355
+Arthritis & Rheumatic Disease
+Fax
+To:
+Charles Masserman MD
+From:
+Abeles Micha
+Fax:
+12036945385
+Pages: 5
+Re:
+Date:
+Dec 06, 2018
+|Urgent|For Review|Please Comment|Please Reply|x For Information|
+|Comments:|||||
+||||||
+
+ Confidential Protected Health Information Enclosed-Protected Health Care Information is personal and sensitive information related to a person's healthcare. You, the recipient, are obligated to maintain it in a safe, secure and confidential manner. Re-disclosure without additional patient consent or as permitted by law is prohibited. Unauthorized re-disclosure or failure to maintain confidentiality could subject you to penalties described in federal and state law.
+Important Warning-This message is intended for the use by the person or entity to which it is addressed and may contain information that is privileged and confidential, the disclosure of which is governed by applicable law. If the reader of this message is not the intended recipient, or the employee or agent responsible to deliver it to the intended recipient, you are hereby notified that any dissemination, distribution or copying of this information is STRICTLY PROHIBITED. If you have received this message in error, please notify the sender immediately and arrange for the retum or destruction of these documents.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/5
+
+-------------------------------------------
+-------------------------------------------
+Fm:Abeles Micha
+To: Charles Masserman MD (12036945385)
+15:32 12/06/18 ET Pg 2-5
+MICHA ABELES, M.D., F.A.C.P., FA.C.R.
+ARYEH ABELES, M.D., F.A.C.R.
+816 BROAD ST. BLDG. 2. SUITE 14
+MERIDEN, CONNECTICUT 00410
+LLL
+TELEPHONE 203-235-6402
+FAX 203.680.1353
+PATIENT:
+DATE OF BIRTH:
+DATE OF VISIT:
+VISIT TYPE:
+DOCUMENT TYPE:
+George Anderson
+11/26/1941
+12/6/2018
+Office Visit
+Chart Note
+This 77 year old male is seen for a history of gout.
+HPI DETAILS: Followed for gout since 2006. No gouty attacks for past 4 years. His last UA was 5.4 (9/27/2018) on allopurinol 300 mg per day. He has no history of renal stones. When he was first seen in 2006 he had left olecranon swelling. An aspiration of this revealed white material which under the microscope indicated this to be composed purely of negatively birefringent crystals compatible with a tophus. He was begun on allopurinol and has done well
+Most recent lab work shows his creatinine to be 2,24 with an eGFR of 27.
+WWW
+Past Medical / Surgical History ( Detailed )
+|Disease/disorder|Onset Date|Management|Date|Comments|
+|||6 coronary a stents|||
+|||retinal detachment|||
+|||surgery|||
+|CKD 3|||||
+|gout|||||
+|MI 1995|||||
+|Hypertension|||||
+|Coronary artery disease|||||
+|Depression|||||
+|Diabetes|||||
+|Elevated lipids|||||
+
+Anxiety
+Hernia repair
+Surgery/Treatment
+Date
+Comment
+6 coronary a stents
+Hernia repair
+retinal detachment surgery
+Anderson, George 000000001995 11/26/1941 12/06/2018 09:00 AM 1/4
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/5
+
+-------------------------------------------
+-------------------------------------------
+Fm:Abeles Micha
+To: Charles Masserman MD (12036945385)
+15:32 12/06/18 ET Pg 3-5
+Active Medications ( Prior to visit today )
+|Medication Instructions|Start Date|Stop Date|Refilled|Elsewhere|
+|allopurinol 300 mg tablet|10/11/2018|12/06/2018|12/06/2018|Y|
+|atorvastatin 40 mg tablet|10/12/2018|||Y|
+|BD Ultra-Fine Nano Pen Needle|11/07/2018|||Y|
+|32 gauge X 5/32'|||||
+|calcitriol 0.25 mcg capsule|04/04/2018|12/06/2018||Y|
+|fluoxetine 10 mg capsule|12/04/2018|||Y|
+|FreeStyle Lite Strips|02/14/2018|||Y|
+|hydrochlorothiazide 12.5 mg|11/08/2018|||Y|
+|capsule|||||
+|Levemir FlexTouch U-100|12/04/2018|||Y|
+|Insulin 100 unit/mL (3 mL)|||||
+|subcutaneous pen|||||
+|losartan 50 mg tablet|09/24/2018|||Y|
+|metoprolol tartrate 100 mg|10/12/2018|||Y|
+
+tablet
+Allergies Reviewed, updated.
+Ingredient
+Reaction (Severity)
+Comment
+Medication
+Name
+PLAVIX
+CLOPIDOGREL
+BISULFATE
+TRAMADOL
+Unknown (unknown)
+Family History ( Detailed )
+|Relationship Family Member Name|Deceased|Age at Death|Condition|Onset Age Cause of Death|
+|Father|Y||Alcoholism|N|
+|Mother|||Hypertension|N|
+|Mother|Y|69|Cancer, gastric|Y|
+
+Social History (Detailed)
+Tobacco use reviewed.
+Preferred language is English.
+Tobacco use status: Current non-smoker.
+Smoking status: Never smoker.
+SMOKING STATUS
+Type
+Smoking Status
+Never smoker
+ALCOHOL
+The patient denies alcohol use.
+Usage Per Day
+Years Used
+Total Pack Years
+Review of Systems
+System
+Neg/Pos
+Constitutional
+Positive
+Details
+Fatigue.
+Anderson, George 000000001995 11/26/1941 12/06/2018 09:00 AM 2/4
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/5
+
+-------------------------------------------
+-------------------------------------------
+Fm: Abeles Micha
+To:Charles Masserman MD (12036945385)
+15:34 12/06/18 ET Pg 4-5
+|Constitutional|Negative|Chills, Fever and Night sweats|
+|ENMT|Positive|Retinal detachment.|
+|ENMT|Negative|Dry mouth, Dysphagia, Epistaxis, Mouth ulcers, Nasal sores, Sinusitis, Sore throat and Tinnitus.|
+|Eyes|Negative|Double vision, Dry eyes, Vision changes and Vision loss.|
+|Respiratory|Negative|Apnea, Cough, Frequent Upper Respiratory Infection, Hemoptysis and Pleuritic pain.|
+|GI|Positive|Diarrhea.|
+|GI|Negative|Abdominal cramping, Abdominal pain, Blood in stool, Decreased appetite, Dysphagia, Epigastric pain, Heartburn, Nausea and Vomiting|
+|GU|Negative|Dysuria, Hematuria, Kidney stones, Pelvic pain, recurrent UTI, Urinary frequency and Urinary incontinence.|
+|Endocrine|Negative|Cold intolerance and Heat intolerance.|
+|Neuro|Positive|Numbness in extremity.|
+|Neuro|Negative|Confusion/disorientation, Dizziness, Extremity weakness, Memory impairment, Seizures, Syncope and Tremors.|
+|Psych|Positive|Anxiety, Depression.|
+|Psych|Negative|Hallucinations.|
+|Integumentary|Negative|Discoid rash, Hives, Photosensitivity, Psoriasis and Rash.|
+|MS|Negative|Back pain, Height Loss, Joint tenderness, Muscle cramping, Muscle weakness, Muscular atrophy, Myalgia and Neck pain.|
+|Hema/Lymph|Negative|Bruising, Easy bleeding and Easy bruising.|
+|Allergic/Immuno|Negative|Food allergies and Frequent infections|
+
+YU
+Vital Signs
+TimeBP Pulse Resp Temp. Ht ft Ht in Ht cm Wt lb Wt kg Weight BMI, BMI BSA 02
+mm/Hg/min /min F
+% kg/m2 %
+Sat%
+9:17 AM 130/80
+5.0 7.00 170.18 190.00 86.183
+29.76 0
+Hin
+m2
+Physical Exam
+|Exam|Findings|Details|
+|Constitutional|Normal|Level of distress - Normal. Nourishment - Normal. Overall appearance - Normal.|
+|Head/Face|Normal|Skull - Normal. Hair and scalp - Normal.|
+|Eyes|Normal|Conjunctiva - Right: Normal, Left: Normal. Pupil - Right: Normal, Left: Normal.|
+|Ears|Normal|Hearing - Right: Normal, Left: Normal.|
+|Nose/Mouth/Throat|Normal|External nose - Normal. Lips/teeth/gums - Normal. Buccal mucosa - Normal.|
+|Neck Exam|Normal|Inspection - Normal. Palpation - Normal. Thyroid gland - Normal.|
+|Respiratory|Normal|Auscultation - Normal. Effort - Normal.|
+|Cardiovascular|Normal|Heart rate - Regular rate. Rhythm - Regular. Murmurs - None.|
+|Abdomen|Normal|No abdominal tenderness. No hepatic enlargement. No spleen enlargement. No palpable mass.|
+|Skin|Normal|Inspection - Normal.|
+|Musculoskeletal|Normal|Gait - Normal. Shoulders - No tenderness, swelling, effusion, or limitation to range of motion. Elbows - No tenderness, swelling, effusion, or limitation to range of motion. Hands - No tenderness, swelling,|
+
+Anderson, George 000000001995 11/26/1941 12/06/2018 09:00 AM 3/4
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/5
+
+-------------------------------------------
+-------------------------------------------
+Fm: Abeles Micha
+To: Charles Masserman MD (12036945385)
+15:36 12/06/18 ET Pg 5-5
+Neurological
+Psychiatric
+Normal
+Normal effusion, or limitation to range of motion. Knees - No tenderness, swelling, effusion, or limitation to range of motion. Feet/Ankles - No tenderness, swelling, effusion, or limitation to range of motion.
+Memory - Normal.
+Orientation - Oriented to time, place, person & situation. Appropriate mood and affect. Good insight. Good judgment.
+Assessment / Plan |
+|#|Detail Type|Description|
+|1.|Assessment|Gout (M10.9).|
+||Patient Plan|Mr Anderson had tophaceous gout as a diagnosis in the past and has done well on allopurinol 300 mg. He has not had a gouty attack in years. His most recent uric acid level was in the target range of less than 6. Although his eGFR is low, there is no reason to change his allopurinol dose.| ||||
+
+WW
+Directions
+Medications
+PRESCRIBED TODAY:
+Medication
+allopurinol 300 mg tablet
+RENEWED TODAY:
+Medication
+allopurinol 300 mg tablet
+1 qd
+Instructions
+1 qd
+Renewed
+12/06/2018
+Provider:
+Abeles MD, Micha 12/06/2018 3:29 PM
+Electronically signed by Micha Abeles MD on 12/06/2018 03:29 PM
+Anderson, George 000000001995 11/26/1941 12/06/2018 09:00 AM 4/4
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/5
+
+-------------------------------------------
+-------------------------------------------
+From Connecticut Nephrology Associate 1.203.599.0599 Wed Oct 3 13:32:10 2018 EDT Page 1 of 6
+Connecticut Nephrology Associates, LLC
+455 Lewis Ave Suite 214
+Meriden, CT 06451
+Fax (203) 237-6100
+Phone (203) 237-6700
+Fax
+To:
+Cc:
+2032858466 ( Charles, Masserman)
+2032650356 ( Dinkler , John)
+From : Marilyn Salagaj
+Fax :
+(203) 237-6100
+Date :
+10/03/2018 01:24:21 PM
+Subject : ANDERSON , GEORGE W: Nephrology Consultation Report
+Comments:
+The documents accompanying this transmission may contain confidential health information that is legally privileged. This
+Information intented only for the use of the individual or entity named above. The authorized recipient of this information is prohibited from disclosing information to any other party unless required to do so by law or regulation and is required to destroy the information after its stated been fulfilled.
+If you are not the intented recipient, you are hereby notified that any disclosure, copying, distribution, or action taken in reliance on contents of these documents is strictly prohibited. If you have recieved this information in error, please notify the sender immediately.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/6
+
+-------------------------------------------
+-------------------------------------------
+From Connecticut Nephrology Associate 1.203.599.0599 Wed Oct
+3 13:32:10 2018 EDT Page 2 of 6
+CONNECTICUT
+NEPHROLOGY
+Qiseases of vic kidneys and Dypertensieri
+455 Lewis Ave Suite 214
+Meriden, CT 06451
+720 N Main St Extn Suite B
+Wallingford, CT 06492
+Ph# (203)-237-6700 Fax# (203)-237-6100
+Patient Name: George W.
+Anderson
+Account No.: 16886010
+DOB: 11/26/1941
+DOS: 10/03/2018
+IRFAN CHUGHTAI M.D.
+MOHAMMAD SHARIF M.D.
+Charles Masserman
+1064 East Main Street 3rd Floor
+Meriden, CT 06450
+ROOPKIRANJOT KAHLON M.D.
+RE: George W. Anderson
+Dear Dr. Masserman
+I had the pleasure of seeing your patient, Mr. George W. Anderson in consultation at our office. He has come for a follow up of type 2 DM causing CKD stage 3, Proteinuria, HTN and HLP.
+Interval History:
+He reports no changes since last visit.
+He reports episodes of low blood glucose.
+Review of Systems:
+ Constitutional symptoms : Fatigue; no fever or chills.
+ Head : Normal.
+ Eyes : Blurred vision.
+ Ear, nose : Normal.
+ Respiratory : Chronic SOB on exertion and no chest pain.
+ Cardiovascular : Chronic SOB on exertion and no chest pain.
+ Gastrolntestinal : Abdominal pain; diarrhea.
+ Genitourinary : Foamy urinel; no hematuria.
+ Musculoskeletal : Joint pain.
+ Neurological : Headache; tremor.
+ Skin : Dryness.
+ Endocrine : Diabetes.
+ Hematological: Normal.
+ Psychiatric : Normal.
+ Allergic / immunologic: Drug allergies; no NSAIDs use.
+ Other notes : 10 point ROS was taken was negative except above.
+Current Medication:
+ Allopurinol 300 mg tablet q.d. Oral
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/6
+
+-------------------------------------------
+-------------------------------------------
+From Connecticut Nephrology Associate 1.203.599.0599 Wed Oct
+3 13:32:10 2018 EDT Page 3 of 6
+ Aspirin 325 mg tablet q.d. Oral
+ Atorvastatin Calcium 40 mg tablet q.d. Oral
+ HydroCHLOROthiazide 12.5 mg tablet qd oral
+ Lantis pen 25 units qhs
+ Losartan Potassium 50 mg tablet ad oral
+ Meclizine 12.5 mg 1 AM,1PM
+ Metoprolol Tartrate 100 mg tablet b.i.d. Oral
+ Tylenol prn
+Viagra 50 mg tablet prn oral
+History:
+Past Medical History
+ Significant for diabetes mellitus type-il, chronic renal failure, hyperlipidemia and hypertension. Gout Tremor CAD.
+Surgical History
+ Significant for hernia repair.
+Social History
+ He is married. Never uses drugs. He is a current non-smoker. He never uses tobacco
+Famlly History
+ Mother had HTN.
+Physical Examination
+ Vital Signs:Sitting RA BP: 142/70 mmHg, Pulse Ox: 98 %, Pulse rate: 73 per min, Helght: 5'8', Welght: 196 lbs and BMI: 29.80.
+Cons: Normally built individual sitting comfortably in no acute distress.
+HEENT/Mouth:Conjuctiva/Lids: Pink conjunctiva, anicteric sclera with normal eyelid.
+External ears/Nose: Right nares-ulcerated plaque seen. Lips/Dentition: Poor dentition. Hearing: No hearing abnormality detected. Nasal mucosa/Septum: Nasal mucosa pink and moist; polyps not detected. Oropharynx: Oral mucosa pink and moist; oral lesions not detected; no tonsilar enlargement. Neck & chest: Neck: There are no masses; no thyromegaly appreciated; there is no JVD; there is no carotid bruit.
+Respiratory: Respiratory effort: Bilateral equal expansion of chest.
+Auscultation: Bilateral equal breath sounds noted; no rales or rhonchi noted.
+CVS:Inspection: Apex beat is not visible. Auscultation: Regular S1 and S2 noted. No added sounds. Peripheral vascular system: Pulses are felt well; no bruit detected; there is no ankle edema. Abdomen:Inspection: Scars. Palpation: Soft, non tender; liver and spleen are not palpable; no rebound, guarding or rigidity noted.
+Auscultation: No abdominal bruit appreciated; bowel sounds heard normally.
+Musculoskeletal:Gait and station: Gait appears normal. Stability: Stable.
+Digits/Nails: No cyanosis or clubbing noted. Skin: Skin and extremities: Skin warm and moist; no lesions or scars noted. No edema. Lymphatic: Cervical: Not palpable.
+Supraclavicular: Not palpable. Psych:Mood and affect: Mood and affect is normal.
+Judgment: Judgment is normal. Memory Memory is intact.
+Results
+Investigations:
+-
+9/28/18
+.S.Cr 2.27, BUN 33, GFR 27
+Na 139, K 4.2, CL 104, CO2 25, Ca 8.2, PTH 136, Iron sats 30%, Ferritin 143, Iron 63, H/H: 11.6/34.8
+4/01/18
+S.Cr 2.81, BUN 39, GFR 21
+Na 136, K 4.7, CL, 99, CO2 30, Ca 8.7, Phos 3.3, VID 16, PTH 190, UMACR
+2491 mcg/mg, H/H:12.3/37
+9/22/17
+S.Cr 1.81, BUN 24, GFR 36
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/6
+
+-------------------------------------------
+-------------------------------------------
+From Connecticut Nephrology Associate 1.203.599.0599 Wed Oct
+3 13:32:10 2018 EDT Page 4 of 6
+||Na 141, K 4.5, CL 105, CO2 25, Ca 8.1||
+||3/31/17 S.Cr 1.88, BUN 23, GFR 34 Na 138, K 4.8, CL 103, CO2 25, Ca 8, Vit D 17, H/H: 11.9/36.8 urine microalbumin/cr 3121mcg/mg||
+||9/20/16||
+||S.Cr 1.38, BUN 18, GFR 50||
+||Na 138, K (4.4, CL 103, CO2 31||
+||6/23/16||
+||S.Cr 1.4, BUN 18, GFR 49||
+||Na 139, K4.2, CL 104, CO2 25, H/H:13.2/41.1||
+||ANA+, speckled pattern 1:320 titre, ds DNA 1||
+||Up/Uc: 5.28gm||
+||HBV/HCV neg||
+||C3/4 normal||
+||SPEP:early nephrotic pattern, UPEP:no monocional proteins||
+||PTH 95, Ca 8.2, phos 2.9||
+||Renal USG:||
+||RK 11.5cm small cysts measures 0.9cmx0.7cmxicm||
+||LK 13.5x5.9cm, no hydronephrosis seen||
+||4/29/16||
+||S.Cr 1.3, BUN 17, GFR 54||
+||Na 141, K4.5, CL 100, CO2 30, albumin 3.1||
+||microalbumin urine >4400mg/L||
+||Vit D 17, PTH 61, phos 3||
+||Hb/hct 13.5/42, uric acid 5.3, HbA1c 12.2||
+||4/16/16||
+||S.Cr 1.4, BUN 22, microalbumin urine 197||
+||Assessment||
+||E11.22 - Type 2 diabetes mellitus with diabetic chronic kidney|disease - Not|
+||controlled.||
+||N18. 3 - Chronic kidney disease, stage 3 (moderate) - Not controlled.||
+||R80. 8 - Other proteinuria - Not controlled.||
+||Z79. 4 Long term (current) use of insulin - Stable.||
+||E16. 1 Other hypoglycemia - Not controlled.||
+||110 Essential (primary) hypertension - Not controlled.||
+||E66. 3 Overweight.||
+||Z68. 29 - Body mass index (BMI) 29. 0-29. 9, adult.||
+||D63. 1 - Anemia in chronic kidney disease - Stable.||
+||E55. 9 - Vitamin D deficiency, unspecified.||
+||Plan||
+||Ihave personally reviewed recent labs, discussed them with the summarized in my note.|patient and|
+||1. Type 2 DM causing CKD stage 2:not controlled||
+
+ - - - - 
+ 
+..
+Patient has underlying CKD stage 3 with baseline S.Cr around type 2 DM .
+I personally gave patient education about nephrotoxic medications to avoid, printed hand out provided.
+Treviewed results of recent labs and renal USG with the patient.
+His S.Cr has worsened to 2.4 to 2.81 mg/dl.
+This is likely due to progression of CKD due to poor control of DM
+Advised his underlying h/o CKD is due to diabetic nephropathy with diabetic
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/6
+
+-------------------------------------------
+-------------------------------------------
+From Connecticut Nephrology Associate 1.203.599.0599 Wed Oct
+3 13:32:10 2018 EDT Page 5 of 6 retinopathy.
+Plan:
+We will continue to follow renal functions.
+Discussed with the patient about progression of CKD, patient does not want to do any dialysis in future, he is very non compliant with his diet and DM control.
+Discussed with the patient risk of progression of CKD to ESRD requiring RRT, he understands the risk and still does not want to make any efforts for strict control of DM.
+He gets upset when discussing about dialysis.
+Advised strict control of DM, ADVISED WITH ADVANCED RENAL FAILURE HE
+CAN HAVE EPISODES OF LOW BLOOD GLUCOSE, AND MAY NEED LESS
+INSULIN, ADVISED TO DISCUSS WITH PCP IF HYPOGLYCEMIC EPISODES
+CONTINUE TO HAPPEN.
+Advised needs strict closer follow ups in renal clinic
+Advised to avoid any nephrotoxins like NSAIDS/IV contrastfleet enemas.Advised adequate hydration by P.O intake.
+Advised strict control of DMinorder to prevent the progression of CKD, he eats candies and junk food, advised strict control.
+Toffered him referral to Nutritionist for assistance, patient refused.
+2...Hypertension:not controlled
+BP slightly high today.
+No edema b/l legs.
+Plan:
+Patient reports better controlled BP at home
+Advised <2gm sodium diet, given a list of high sodium food to avoid.
+Given a BP log to monitor BP at home and bring to next visit.
+Reviewed medications, he reports dry cough to the Benazepril, I advised we can switch to ARBS, pt refused
+3.Proteinuria:Not controlled
+Noted to have worsening of proteinuria on labs checked by PCP.
+On our assessment it is sub-nephrotic range close to 3.3gm.
+His ANA titre is pretty high, patient does not report any symptoms of lupus.
+Nomonoclonal paraproteins on SPEP/UPEP.
+Control of DM is very poor, has poor dietary habits due to diarrheall offered GI referral, patient refused).
+Plan:
+Patient sees Rheumatologist-Dr.Abeles for gout, advised he should seen him sooner to assess if he has clinical lupus, patient refused explained him risks associated, he wants to wait and watch until his next visit with him in December
+2017.
+We will send records to Dr.Abeles office.
+Advised worsening renal functions may be due to renal limited lupus, he refuses to get work up at this time.
+Continue ACE-I for proteinuria protection..
+4.Hyperlipidemia:stable
+On statins.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/6
+
+-------------------------------------------
+-------------------------------------------
+From Connecticut Nephrology Associate 1.203.599.0599 Wed Oct
+3 13:32:10 2018 EDT Page 6 of 6
+Advised patient HLP is an independent risk factor for CKD progression.
+Plan:
+Advised healthy eating habits, continue statins.
+5. Vitamin D deficiency:
+Low Vit D levels with borderline low calcium levels, advised he needs repletion with Vitamin D-Ergocalciferol 50000 IU, he refuses as it gives him diarrhea.
+Advised Vitamin D enriched food intake.
+Patient refused Calcitriol as he reports causes diarrhea.
+6.Rash on right nares:
+Was found to have skin cancer, s/p resection
+7.Anemia in CKD, HH at goal.
+RTC in 5-6 months per patient request,patient very adamant about frequent doctor visits and does not want to come sooner, advised CKD, risk of progression to ESRD requiring RRT and he needs to be seen sooner, he refuses.
+50% of the visit time was spent on counseling patient about avoidance of NSAIDs, any nephrotoxic agents, RRT education, diet education, and coordinating care
+CC DR.Dinkler
+ Dietary handouts provided to the patient.
+ Target weight discussed.
+ Weight loss advised.
+Ordered Labs
+ Basic Metabolic Panel with eGFR ordered on 10/03/2018.
+ Vitamin D, 25 Hydroxy and LC/MS/MS ordered on 10/03/2018.
+ RANDOM MICROALBUMIN TO CREATININE ordered on 10/03/2018.
+I thank you again for allowing me to participate in his care.
+With personal regards, Sincerely, Rooptuan
+ROOPKIRANJOT K KAHLON, MD
+This repart is electronically signed.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+6/6
+
+-------------------------------------------
+-------------------------------------------
+athena
+9/6/2018 8:11:19 AM
+PAGE
+1/004
+CONFIDENTIAL Fax
+FROM:
+JOHN M. DINKLER, MD
+1062 BARNES ROAD, WALLINGFORD, CT 06492-2576
+Phone: (203) 265-9831
+Fax: (203) 265-2977
+TO:
+MASSERMAN, CHARLES
+Fax: (203) 694-5385
+This fax may contain sensitive and confidential personal health information that is being sent for the sole use of the intended recipient. Unintended recipients are directed to securely destroy any materials received. You are hereby notified that the unauthorized disclosure or other unlawful use of this fax or any personal health information is prohibited.
+To the extent patient information contained in this fax is subject to 42 CFR Part 2, this regulation prohibits unauthorized disclosure of these records.
+If you received this fax in error, please visit www.athenahealth.com/NotMyFax to notify the sender and confirm that the information will be destroyed. If you do not have internet access, please call 1-888-482-8436 to notify the sender and confirm that the information will be destroyed. Thank you for your attention and cooperation. [ID:1467956-H-6291]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/4
+
+-------------------------------------------
+-------------------------------------------
+athena
+9/6/2018 8:11:19 AM
+PAGE
+27004
+CACC 1062 BARNES ROAD, WALLINGFORD CT 06492-2576
+ANDERSON, GEORGE W (id #47921, dob: 11/26/1941)
+CARDIOLOGY
+ASSOCIATES OF CENTRAL
+CONNECTICUT, LLC
+WILLIAM I. FARRIB, MD, FAX
+ROBERT) GOLLO, MD, F.00C
+GEORGE SPIVACK, MO, KACC
+MAROLDS WILKES, MD, FALS
+HM. ONKLER, MO
+MICHAEL K MCMAHUX, PC
+RICHARDA. BUGLIARI, MD, FACC (RETKED)
+1062 BARNES ROAD SUITE 300
+WALLING FORD, CT 06492-2576
+Phone: (203) 265-9831, Fax: (203) 265-2977
+Date: 09/06/2018
+RE: George Anderson, DOB: 11/26/1941
+Dear Dr. Charles Masserman, I had the pleasure of seeing your patient in the office for the following problems:
+Reviewed Problems
+ Paroxysmal atrial fibrillation - Onset: 01/29/2018 - ?? seen on tele strip in hospital 6/2017?_pt declined anticoag
+ Chronic kidney disease stage 3 - Onset: 12/06/2016
+ Benign essential hypertension - HTN
+ Type 2 diabetes mellitus without complication - IDDM
+ Chronic ischemic heart disease - CAD/ STENTS
+ Hyperlipidemia - CHOL
+DECLINING FURTHER TESTING
+History of Present Illness:
+George is a 76-year-old gentleman seen in Cardiology followup today. I last saw him in January. He has a history of chronic ischemic coronary disease with stents to his LAD and circumflex in the mid 1990s and repeat stenting to his
+LAD in 1999, diabetes, obesity, hypertension, hyperlipidemia, and chronic kidney disease. He has a questionable history of paroxysmal atrial fibrillation that was seen on a telemetry strip during a brief hospitalization in June 2017, but he has declined anticoagulation. He follows up with Dr. Kahlon for chronic kidney disease which has been worsening. He does not in general follow a heart healthy diabetic diet, does not exercise on a regular basis and feels unsteady, but he is trying to walk on a treadmill at least five minutes several times a week. He is mostly sedentary. No exertional symptoms of chest pain, chest pressure or dyspnea. No PND, orthopnea, or lower extremity edema. No palpitations or fluttering in the chest.
+Medications:
+As of their visit today, they were on the following medications:
+Reviewed Medications
+|allopurinol 300 mg tablet Take 1 tablet(s) every day by oral route.|11/07/13|entered|
+|aspirin 325 mg tablet Take 1 tablet(s) every day by oral route.|05/14/14|entered|
+|atorvastatin 40 mg tablet Take 1 tablet(s) every day by oral route.|11/07/13|entered|
+
+CACC
+Anderson, George W (ID: 47921), DOB: 1
+41
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+214
+
+-------------------------------------------
+-------------------------------------------
+athena
+9/6/2018 8:11:19 AM
+PAGE
+3/004
+|hydro CHLOROt hiazide 12.5 mg tablet Take 1 tablet(s) every day by oral route.|11/13/14|entered|
+|Levemir U-100 Insulin|09/05/18|entered|
+|losartan 50 mg tablet Take 1 tablet(s) every day by oral route.|01/29/18|entered|
+|meclizine Internal Note: PRN|07/26/17|entered|
+|metoprolol tartrate 100 mg tablet Take 1 tablet(s) twice a day by oral route.|11/07/13|entered|
+|nitroglycerin 0.4 mg sublingual tablet PLACE 1 TABLET (0.4 MG) BY SUBLINGUAL ROUTE AT THE 1ST SIGN OF REPEAT EVERY 5 MIN UNTIL RELIEF; IF PAIN PERSISTS AFTER 3 TABLETS IN PROMPT MEDICAL ATTENTION IS RECOMMENDED Internal Note: 5/14/14 HAS NOT NEEDED|11/07/13 ATTACK; MAY 15 MIN,|entered| |Tylenol|07/26/17|entered|
+
+Note : prn
+Internal
+9/5/18 list. mb
+Vitals:
+Wt: 194 lbs 09/05/2018
+02:02 pm
+BMI: 29.5 09/05/2018
+02:02 pm
+Ht: 5 ft 8 in 09/05/2018
+02:02 pm
+BP: 118/72 sitting R
+arm 09/05/2018
+02:04 pm
+Assessment and Plan:
+EKG shows sinus rhythm with right bundle branch block which is new compared to prior. Blood work from March shows BUN 39, creatinine 2.8, GFR in the low 20s, sodium 136, potassium 4.7, bicarbonate 30, calcium 8.7. Prior lipid panel in summer June 2017 showed LDL of 59, HDL 41, triglycerides 151 on atorvastatin 40. Last cardiac test was back in 2001. He had an exercise echo which was abnormal with the development of lateral wall ischemia by echo imaging with ST depression in the inferior and apical leads. Patient declined a catheterization and wanted medical management at that time.
+George is a 76-year-old gentleman with the following cardiovascular issues.
+1. Chronic ischemic coronary artery disease. He is without angina at a low level activity, had a prior stress test that was positive, but declined catheterization. At the present time, I think medical management is reasonable with aspirin, atorvastatin, metoprolol, and losartan. Blood pressure is under good control and LDL was under control when last checked. He needs to augment his exercise program as much as possible increasing his walking from 5 to
+10 minutes and obviously he needs to do much better in terms of his diet.
+2. Hypertension. Well-controlled.
+3. Hyperlipidemia. Again, lipids under good control when last checked and he is going to have lipids done annually.
+4. Obesity. We spent lengthy time discussing dietary and lifestyle modifications and a heart healthy diet as well as a diet that is limited in processed sugars and carbohydrates which will not be helpful for his diabetes. In general, foods that are low in saturated fat, low in salt, low in added sugar are critical, but George seems unmotivated to change his lifestyle. We plan to see him in six-month followup.
+1. Paroxysmal atrial fibrillation
+148.0: Paroxysmal atrial fibrillation
+2. Chronic kidney disease stage 3
+N18.3: Chronic kidney disease, stage 3 (moderate)
+CACC
+Anderson, George W (ID: 47921), DOB: 1
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/4
+
+-------------------------------------------
+-------------------------------------------
+athena
+9/6/2018 8:11:19 AM
+PAGE
+4/004
+3. Benign essential hypertension
+110: Essential (primary) hypertension
+4. Type 2 diabetes mellitus without complication
+E11.9: Type 2 diabetes mellitus without complications
+5. Chronic ischemic heart disease
+125.9: Chronic ischemic heart disease, unspecified
+ ELECTROCARDIOGRAM
+6. Hyperlipidemia
+E78.5: Hyperlipidemia, unspecified
+Retum to Office
+ to see John M. Dinkler, MD for Follow Up 20 at Main Office on or around 03/05/2019
+Sincerely, Electronically signed by: JOHN M. DINKLER, MD
+Jen. Danken
+Dunken MD
+JOHN M. DINKLER, MD
+CACC
+Anderson, George W (ID: 47921), DOB: 1
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+474
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018
+6/27/2018 10:00 AM Office Visit
+MRN: 1000366883
+George W Anderson
+Description: Male DOB: 11/26/1941 Provider: Charles M Masserman, MD
+Department: Hartford Health Care Medical Group Meriden
+Diagnoses
+8
+Reason for Visit
+id
+Follow-up
+Reason for Visit History
+Uncontrolled type 2 diabetes mellitus with stage 3 chronic kidney disease, with long-term current use of insulin (HCC) - Primary
+Codes: E11.22, E11.65, N18.3, Z79.4
+Gouty arthropathy
+Codes: M10.9
+Essential hypertension
+Codes: 110
+Progress Notes
+6/27/2018 12:14 PM
+Progress Notes by Charles M Masserman, MD at 6/27/2018 10:18 AM
+Author: Charles M Masserman, Author Type: Physician
+Filed:
+MD
+Note Status: Signed
+Cosign: Cosign Not Required Encounter
+Date:
+Editor: Charles M Masserman, MD (Physician)
+Assessment & Plan
+6/27/2018
+Assessment
+George was seen today for follow-up.
+Diagnoses and all orders for this visit:
+Uncontrolled type 2 diabetes mellitus with stage 3 chronic kidney disease, with long-term current use of insulin (HCC)
+Lipid Panel Reflex Direct LDL (Quest Only)
+Hemoglobin A1c
+Comprehensive Metabolic Panel
+POCT Glycosylated Hemoglobin (Hb A1C)
+-
+-
+-
+-
+Gouty arthropathy
+Uric Acid
+-
+Essential hypertension losartan (COZAAR) 50 MG tablet; Take 1 tablet (50 mg total) by mouth daily.
+-
+Today's hemoglobin A1c of 8.8 is significantly improved over his previous so I would imagine his dietary changes have helped somewhat. However I think there is room for much improvement in his diet and we did discuss several changes he could make. He does eat quite a bit of starch with his meals and essentially no vegetables except for potatoes, corn and peas. We also discussed the Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato (3131) at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018 potential for adding mealtime insulin and he has no interest in any additional injections during the day. I have told him that I would consider his goal for hemoglobin A1c to be in the mid sevens and that further aggressive changes in his diet and reduction of his starches would be helpful, especially since he is not interested in adding any more medication. His morning readings are often under 100.
+I have encouraged him to take occasional 2 hour postprandial blood sugars and look for results in the 140-150 range. His blood pressure is under somewhat reasonable control and I will make no changes there. He has had no gouty attacks and it is time to recheck his uric acid as well as the rest of his blood work with his next blood draw for his nephrologist in approximately 3 months.
+Recent Results (from the past 2 hour(s))
+POCT Glycosylated Hemoglobin (Hb A1C)
+Collection Time: 06/27/18 11:03 AM
+Result
+Value
+Ref Range
+Hemoglobin A1C
+8.8 (A) 4.0 - 6.0 %
+Lot Number
+860
+Quality Control Pass
+Pass
+Return in about 3 months (around 9/27/2018) for f/u HBP, follow up Diabetes.
+Communication barriers and lifestyle preferences were addressed with the patient. The care plan including medications and self-management goals were reviewed to the best of the patient's abilities. All questions and concerns were answered. Patient and/or family verbalized understanding of the plan of care.
+Subjective
+Subjective
+Patient ID: George W Anderson is a 76 y.o. male.
+HPI
+This is my first visit with this patient who returns for follow-up primarily of his diabetes and blood pressure. He remains compliant with his medications and has been trying to improve his diet by decreasing some of his sweets. He offers no new complaints of chest pain, palpitations, shortness of breath or leg pain with walking. His previous hemoglobin A1c from March was 13.0. He continues to follow-up with his nephrologist every 6 months.
+Review of Systems
+Social History
+Tobacco Use
+ Smoking status:
+Never Smoker
+Smokeless tobacco:
+Never Used
+Substance Use Topics
+ Alcohol use:
+No
+Alcohol/week:
+0.0 oz
+Comment: Past alcohol use
+ALLERGIES
+Allergies
+Allergen
+Plavix [Clopidogrel]
+ Tramadol
+Reactions
+Hives
+Hives
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato [3131] at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+.
+.
+.
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018
+Current Outpatient Medications:
+acetaminophen (TYLENOL) 500 MG tablet, Take 500 mg by mouth 4 times daily (every 6 hours) as needed (pain)., Disp: , Rft: allopurinol (ZYLOPRIM) 300 MG tablet, Take 300 mg by mouth daily. , Disp: , Rfl:
+aspirin (BAYER ASPIRIN) 325 MG tablet, Take 325 mg by mouth daily., Disp: , Rfl:
+atorvastatin (LIPITOR) 40 MG tablet, TAKE 1 TABLET EVERY DAY (BEST IN EVENING) TO
+LOWER CHOLESTEROL, Disp: 90 tablet, Rfl: 3
+hydrochlorothiazide (MICROZIDE) 12.5 MG capsule, TAKE 1 CAPSULE BY MOUTH EVERY DAY
+IN THE MORNING. (DIURETIC), Disp: 90 capsule, Rfi: 1
+ insulin detemir (LevEMIR) 100 UNITS/ML injection, Inject 0.26 mL (26 Units total) under the skin
+nightly., Disp: 10 mL, Rfl: 1
+losartan (COZAAR) 50 MG tablet, Take 1 tablet (50 mg total) by mouth daily., Disp: 90 tablet, Rfl: 3
+ meclizine (ANTIVERT) 12.5 MG tablet, Take 12.5 mg by mouth., Disp: , RA:
+ metoPROLOL TARTRATE (LOPRESSOR) 100 MG tablet, TAKE ONE TABLET BY MOUTH
+TWICE A DAY FOR BLOOD PRESSURE ( MUST HAVE LABS BEFORE NEXT REFILL ), Disp: 180 tablet, RA: 3
+ acetaminophen (TYLENOL) 325 MG tablet, Take 650 mg by mouth every 6 (six) hours., Disp: , Rfl:
+ calcitRIOL (ROCALTROL) 0.25 MCG capsule, , Disp: , Rfl:
+FREESTYLE LITE strip, TEST ONCE A DAY (FASTING BLOOD GLUCOSE LEVEL), Disp: 100 each, Rfl: 2
+Insulin Pen Needle 326 X 4 MM Misc, Test twice a day, Disp: 100 pen needle, Rfl: 3
+.
+O
+.
+O
+0
+Patient Active Problem List
+Diagnosis
+ Actinic keratosis
+Coronary atherosclerosis
+Chronic kidney disease, stage III (moderate)
+Type Il diabetes mellitus with renal manifestations, uncontrolled (HCC)
+Type Il diabetes mellitus with neurological manifestations (HCC)
+Fall
+Abnormality of gait
+Gouty arthropathy
+Hyperlipidemia
+Essential hypertension
+Paralysis agitans (HCC)
+Disorder of male genital organs
+Pain in joint, shoulder region
+Abnormal involuntary movements
+Vitamin D deficiency
+Vertigo
+Atherosclerotic coronary vascular disease
+Uncontrolled diabetes mellitus (HCC)
+O
+.
+.
+.
+Objective
+Objective
+Vitals:
+06/27/18 1007
+BP:
+(!) 156/78
+Pulse:
+66
+Weight: 88.5 kg (195 lb)
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato (3131] at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018
+Recent Results (from the past 4368 hour(s))
+POCT Glucose, Fingerstick
+Collection Time: 03/27/18 10:08 AM
+Result
+Value
+Ref Range
+POC Glucose 256
+Lot Number
+MU2477
+Quality Control
+Pass
+Pass
+POCT Glycosylated Hemoglobin (Hb A1C)
+Collection Time: 03/27/18 10:09 AM
+Result
+Value Ref Range
+Hemoglobin A1C
+13.0 (A) 4.0 - 6.0 %
+Lot Number
+845
+Quality Control Pass
+Pass
+POCT Glycosylated Hemoglobin (Hb A1C)
+Collection Time: 06/27/18 11:03 AM
+Result
+Value Ref Range
+Hemoglobin A1C
+8.8 (A)
+4.0 - 6.0 %
+Lot Number
+860
+Quality Control Pass
+Pass
+Physical Exam
+Constitutional: He is oriented to person, place, and time. He appears well-developed and well- nourished. No distress.
+Neck: No JVD present.
+Carotids 2+ bilat wlo bruit
+Cardiovascular: Normal rate, regular rhythm and normal heart sounds.
+Pulmonary/Chest: Effort normal and breath sounds normal. No respiratory distress. He has no wheezes. He has no rales.
+Musculoskeletal: He exhibits no edema.
+No c/c/v
+Lymphadenopathy:
+He has no cervical adenopathy.
+Neurological: He is alert and oriented to person, place, and time.
+Psychiatric: He has a normal mood and affect. His behavior is normal.
+Vitals reviewed.
+Medications Ordered This Encounter
+||Disp|Refills|Start|End|
+|losartan (COZAAR) 50 MG tablet (Discontinued) Take 1 tablet (50 mg total) by mouth daily. - Oral Reason for Discontinue: Reorder|90 tablet|3|6/27/2018|6/21/2019|
+
+Discontinued Medications
+insulin detemir (LevEMIR FlexTouch) 100
+UNIT/ML pen injection
+Reason for Discontinue
+Duplicate order
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato (3131) at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/15
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Anderson, George W (MR#1000366883) Printed by FERRATO, DANIELLE [3131]
+Anderson, George W (MR # 1000366883) DOB: 11/26/1941 Encounter Date: 06/27/2018
+Orders placed This Encounter
+Normal Orders This Visit
+Comprehensive Metabolic Panel [LAB17 Custom]
+Hemoglobin A1c [LAB90 Custom]
+Lipid Panel Reflex Direct LDL (Quest Only) [LAB5621
+Custom]
+POCT Glycosylated Hemoglobin (Hb A1C) [POC4
+Custom]
+Uric Acid [LAB141 Custom]
+Medication List Reviewed
+User
+JONATHAN A WHITE, MD (JOWHITE]
+Date and Time
+10/7/2019 9:43 AM
+Results: Lipid Panel Reflex Direct LDL (Quest Only)
+Abnormal
+Status: Final result (Collected: 9/27/2018 7:59 AM)
+|Component|Value||Standard Range & Units|
+|Cholesterol, Total|138||<200 mg/dL|
+|Cholesterol, HDL|34||>40 mg/dL|
+|Triglycerides|148||<150 mg/dL|
+|LDL Cholesterol|79||mg/dL (calc)|
+
+Reference range: <100
+Desirable range <100 mg/dL for primary prevention;
+ < 70 mg/dL for patients with CHD or diabetic patients with > or = 2 CHD risk factors.
+LDL-C is now calculated using the Martin-Hopkins calculation, which is a validated novel method providing better accuracy than the Friedewald equation in the estimation of LDL-C.
+Martin SS et al. JAMA. 2013;310 (19): 2061-2068
+(http://education.QuestDiagnostics.com/faq/FAQ164)
+Cholesterol/HDL Ratio
+4.1
+<5.0 (calc)
+Non HDL Chol. (LDL+VLDL)
+104
+<130 mg/dL (calc)
+For patients with diabetes plus 1 major ASCVD risk factor, treating to a non-HDL-C goal of <100 mg/dL
+(LDL-C of <70 mg/dL) is considered a therapeutic option.
+View Complete Results
+I Narrative
+FASTING: YES
+FASTING: YES
+Anderson, George W (MRN 1000366883) Printed by Danielle Ferrato (3131] at 10/28/19 4:21 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/15
+
+-------------------------------------------
+-------------------------------------------

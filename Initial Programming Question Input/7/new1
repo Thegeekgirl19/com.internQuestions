@@ -1,0 +1,24 @@
+implantation
+	cardiectomy
+		heart, artificial ~ 0051T
+	replacement
+		cardiectomy
+			heart, artificial ~ 0051T
+	drainage device
+		eye glaucoma ~ 0191T
+	acellular dermis ~ 15777
+	pacemaker
+		heart ~ 33207
+		intracardiac ~ 33207
+		transvenous electrode ~ 33207
+		ventricular ~ 33207
+		electrode ~ 33216
+			transvenous ~ 33216
+	dual-chamber pacemaker ~ 33208
+	dual chamber pacemaker ~ 33211
+	electrode
+		cardioverter-defibrillator ~ 33216
+		transvenous
+			cardioverter-defibrillator ~ 33216
+		spinal cord stimulator
+			laminectomy ~ 63655

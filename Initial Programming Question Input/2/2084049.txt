@@ -1,0 +1,558 @@
+NextGen Patient Record
+Name: Covaleski, Janet
+DOB: 04/20/1932
+|Collection Date & Time|B|01/12/2018 10:58|09/0 1|
+|Basic Metabolic Panel||||
+|African American Estim..||>60||
+|AGAP||13||
+|Blood Urea Nitrogen (B.||27||
+|BUN / Creatinine Ratio||45||
+|BUN/CREATININE RA..||||
+|Calcium||9.9||
+|Carbon Dioxide||28||
+|Chloride||106||
+|COMMENT||||
+|Creatinine||0.6||
+|eGFR||>60||
+|eGFR AFRICAN AMER...||||
+|eGFR NON-AFR. AME..||||
+|Glucose||114||
+|Potassium||4.5||
+|Sodium||147||
+|UREA NITROGEN (BU...||||
+
+
+-------------------------------------------
+-------------------------------------------
+|Collection Date & Time|B|01/12/2018 10:58|09/06/2017 10:51|04/17/2017 10:55|
+|Complete Blood Count.|||||
+|White Blood Count|||9.1|10.4|
+|Hemoglobin|||13.6|13.4|
+|Hematocrit|||41.8|42.8|
+|Platelet Count|||224|279|
+|Band Neutrophil|||||
+|Band Neutrophil, Absol..|||||
+|Basophil|||0.1|0.4|
+|Basophil, Absolute|||0.01|0.04|
+|Blast|||||
+|Blast, Absolute|||||
+|Comment|||No comment|No comment|
+|Eosinophil|||1.8|2.0|
+|Eosinophil, Absolute|||0.16|0.21|
+|Immature Granulocyte|||0.3|0.3|
+|Immature Granulocyte,|||0.03|0.03|
+|Lymphocyte|||18.7|18.2|
+|Lymphocyte, Absolute|||1.69|1.90|
+|MCH|||28.8|28.5|
+|MCHC|||32.5|31.3|
+|MCV|||89|91|
+|Metamyelocyte|||||
+|Metamyelocyte, Absolu...|||||
+|Monocyte|||8.1|8.7|
+|Monocyte, Absolute|||0.73|0.91|
+|MPV|||9.8|10.4|
+|Myelocyte|||||
+|Myelocyte, Absolute|||||
+|Neutrophil|||71.0|70.4|
+|Neutrophil, Absolute|||6.43|7.34|
+|nRBC|||0.0|0.0|
+|nRBC Absolute|||0.00|0,00|
+
+4
+C
+C
+| |
+9
+1
+2
+(
+|
+:
+(
+(
+1
+1
+2
+: e
+7
+(
+1
+E
+ 
+(
+(
+
+-------------------------------------------
+-------------------------------------------
+|Collection Date & Time|B|01/12/2018 10:58|09/06/2017 10:51|04/17/2017 10:55|
+|Red Blood Count|||4.72|4.71|
+|Comprehensive Metab.|||||
+|African American Estim.|||>60|97|
+|AGAP|||12|14|
+|Alanine Aminotrans (AL.|||17|17|
+|Albumin|||3.8|3.9|
+|Albumin/Globulin|||||
+|Albumin/Globulin Ratio|||1.5|1.5|
+|Alkaline Phosphatase|||76|88|
+|ALT (SGPT)|||||
+|Anion Gap|||||
+|Aspartate Aminotrans (|||17|20|
+|AST (SGOT)|||||
+|Bilirubin, Total|||0.5|0.3|
+|Blood Urea Nitrogen (B..|||24|27|
+|BUN|||||
+|BUN / Creatinine Ratio|||40|39|
+|BUN/Creat Ratio|||||
+|Calcium|||10.0|10.0|
+|Carbon Dioxide|||28|25|
+|Chloride|||103|105|
+|CO2|||||
+|Creatinine|||0.6|0.7|
+|eGFR|||>60|80|
+|eGFR African American|||||
+|eGFR Non-African Ame.|||||
+|Globulin|||2.6|2.6|
+|Glucose|||122|126|
+|Potassium|||4.2|4.9|
+|Protein, Total|||6.4|6.5|
+|Sodium|||143|144|
+|Total Protein|||||
+
+4
+I
+(
+2
+!
+:
+4
+2
+(
+CONTENTS
+Encounter: 6/29/2018 1:15:00 PM
+Master_lm
+Covaleski, Janet 000000097650 04/20/1932 06/29/2018 01:15 PM 2/9
+PATIENT: Janet Covaleski
+DATE OF BIRTH: 04/20/1932
+DATE: 06/29/2018 01:15 PM
+VISIT TYPE: Office Visit
+This 86 year old female presents for Follow Up of diabetes, Follow Up of hypertension, Follow Up of Hyperlipidemia *, Follow up on lab test(s), COPD, macular deg rt eye and stable.
+History of Present Illness:
+1. Follow Up of diabetes
+
+-------------------------------------------
+-------------------------------------------
+*
+The problem is getting worse. Risk factors include: over age 45 years old. Patient is compliant with using medication, and follow-up. Last eye exam: 07/06/2016. Last foot exam: 03/14/2016. Last microalbumin: 0.8 on 07/17/2015.
+She has been managed with oral medications. Comorbidity: Macroscopic albuminuria (>300 mg/g Creatinine) and Hypertension.
+Additional information: HAIC 5.9.
+2. Follow Up of hypertension
+The HTN started in 1996. The severity has been described as being mild-moderate. Comorbid conditions include diabetes mellitus. It is currently stable. Pertinent negatives include chest pain.
+3. Follow Up of Hyperlipidemia
+The severity of the problem is moderate. The problem is controlled with medication. Patient compliance with medication is good and with follow up is good. Reasons for screening do not include alcohol use and tobacco use.
+Pertinent
+negatives include abdominal pain, bloating and chest pain.
+4. Follow up on lab test(s)
+6-22
+5. COPD
+stable. Under the care of Sidana
+6. macular deg rt eye, stable
+PROBLEM LIST:
+Problem Description Onset Date Chronic
+Type 2 diabetes mellitus 12/20/2014 Y
+Chronic obstructive lung disease 12/20/2014 Y
+Gastroesophageal reflux disease 12/20/2014 Y
+Benign essential hypertension 12/20/2014 Y
+Gastroesophageal reflux disease 12/20/2014 Y
+Kidney stone 12/20/2014 Y
+Influenza vaccine needed 10/08/2014 N
+Hyperlipidemia 12/20/2014 Y
+PAST MEDICAL/SURGICAL HISTORY (Detailed)
+Disease/disorder Onset Date Management Date Comments
+07/10/2008 DSAEK RIGHT EYE
+DESCEMET'S STRIPPING
+Covaleski, Janet 000000097650 04/20/1932 06/29/2018 01:15 PM 3/9
+ENDOTHELIAL
+KERATOPPLASTY
+Cataract extraction
+cornea transplant 05/12/2004
+macular degeneration 2016
+DIAGNOSTICS HISTORY:
+Test Ordered Interpretation Result completed
+MAMMOGRAM, SCREENING normal 02/01/2013
+COLONOSCOPY completed 01/01/2007
+
+-------------------------------------------
+-------------------------------------------
+DXA BONE
+DENSITY, AXIAL
+normal 01/01/2009
+Test Ordered Ordering Comments Modifier
+MAMMOGRAM, SCREENING u/s also done normal
+COLONOSCOPY
+DXA BONE
+DENSITY, AXIAL
+GYNECOLOGIC HISTORY:
+Date of last mammogram: 02/01/2013.
+Family History (Detailed)
+Relationship Family Member Name Deceased Age at Death Condition Onset Age Cause of Death
+Brother Cancer, colon N
+Mother Cancer, colon N
+Sister Cancer, colon N
+SOCIAL HISTORY (Detailed)
+Tobacco use reviewed.
+Preferred language is English.
+EDUCATION/EMPLOYMENT/OCCUPATION
+Employment History Status Retired Restrictions
+retired
+MARITAL STATUS/FAMILY/SOCIAL SUPPORT
+Currently widowed.
+Smoking status: Never smoker.
+SMOKING STATUS
+Use Status Type Smoking Status Usage Per Day Years Used Total Pack Years no/never Never smoker
+No passive smoke exposure.
+CAFFEINE
+The patient uses caffeine: coffee.
+LIFESTYLE
+none activity level.
+DIET
+well balanced.
+The patient reports there are no animals in the home.
+SLEEP PATTERNS
+Covaleski, Janet 000000097650 04/20/1932 06/29/2018 01:15 PM 4/9
+Patient averages 8 hours of sleep per night. Patient has no changes to sleep patterns.
+RELIGIOUS/SPIRITUAL
+The patient has a Catholic religious affiliation. Practices religion. Has spiritual beliefs. Religion/spirituality is an important part of the patient's life.
+HOME ENVIRONMENT/SAFETY
+Carbon monoxide detector at home. There is not a pool/spa at home.
+The patient is at risk for falls.
+The patient has not fallen in the last year.
+
+-------------------------------------------
+-------------------------------------------
+Uses seat belts.
+Patient agrees to transfusion.
+Medications (active prior to today)
+Medication Name Sig Desc Start Date Stop Date Refilled Elsewhere
+Centrum Silver tablet // Y
+meclizine 12.5 mg tablet take 1 Tablet by oral route 2 times every day PRN as needed
+01/14/2014 N
+triamcinolone acetonide
+0.1 % topical cream
+apply by topical route 2
+times every day a thin layer
+to the affected area(s)
+01/14/2014 N
+biotin 5 mg capsule // Y
+Vitamin D3 400 unit
+tablet
+// Y
+Arthritis Pain Reliever
+650 mg tablet, extended release take 2 tablet by oral route every 8 hours as needed swallowing whole with water. Do not break, crush, dissolve and/or chew.
+// Y
+Calcium Plus 600 mg
+calcium-400 unit tablet
+1 as needed 01/14/2014 N
+FreeStyle Lite Strips insert by Intramuscular
+route 2 times every day
+01/14/2014 N
+PreserVision AREDS 2
+250 mg-2.5 mg-0.5 mg
+capsule
+// Y
+Anoro Ellipta 62.5
+mcg-25 mcg/actuation
+powder for inhalation
+inhale 1 puff by inhalation
+route every day at the same time each day
+03/14/2016 N
+omeprazole 20 mg
+tablet, delayed release
+take 1 by Oral route every
+
+-------------------------------------------
+-------------------------------------------
+day
+07/11/2016 N.
+Lotemax 0.5 % eye gel
+drops
+instill 1 - 2 drop by
+ophthalmic route 4 times
+every day into the lower
+conjunctival sac of the affected eye(s) start 24 hrs post op x 2 wks
+10/20/2016 N
+olopatadine 0.1 % eye drops
+instill 1 drop by ophthalmic
+route 2 times every day
+12/12/2016 N
+Eylea 2 mg/0.05 ml
+intravitreal solution for injection inject 0.05 milliliter by intravitreal route every 8 weeks
+09/15/2017 N metformin 500 mg tablet 1 TABLET, ORAL, TWICE
+DAILY
+10/05/2017 06/29/2018 06/29/2018 N.
+meloxicam 7.5 mg tablet take 1 tablet by oral route 10/13/2017 N
+Covaleski, Janet 000000097650 04/20/1932 06/29/2018 01:15 PM 5/9 every day valsartan 80 mg tablet take 1 tablet by oral route every day
+12/21/2017 12/21/2017 N
+ProAir HFA 90
+mcg/actuation aerosol
+inhaler
+inhale 2 puff by inhalation route every 4 - 6 hours as needed
+01/19/2018 N
+erythromycin 250 mg
+capsule,delayed release
+take 1 capsule by oral route
+every 6 hours
+01/19/2018 N
+Cosopt (PF) 2 %-0.5 %
+eye drops in a
+dropperette
+instill 1 drop by ophthalmic
+
+-------------------------------------------
+-------------------------------------------
+route 2 times every day into
+affected eye(s)
+01/19/2018 N
+Lumigan 0.01 % eye drops
+// 06/29/2018 Y
+dorzolamide 2 % eye drops
+instill 1 drop by ophthalmic
+route 3 times every day into
+affected eye(s)
+01/19/2018 N.
+Lipitor 10 mg tablet take 1 tablet by oral route every day
+05/01/2018 05/01/2018 N
+Patient Status
+Completed with information received for patient in a summary of care record.
+Medication Reconciliation
+Medications reconciled today.
+Medication Reviewed
+Adherence Medication Name Sig Desc Elsewhere Status taking as directed Centrum Silver tablet Y Verified
+taking as directed meclizine 12.5 mg tablet take 1 Tablet by oral route 2 times every day PRN as needed
+N Verified taking as directed triamcinolone acetonide 0.1 % topical cream apply by topical route 2 times every day a thin layer to the affected area(s)
+N Verified taking as directed biotin 5 mg capsule Y Verified
+taking as directed Vitamin D3 400 unit tablet Y Verified
+taking as directed Arthritis Pain Reliever 650 mg
+tablet,extended release
+take 2 tablet by oral route every 8 hours as needed swallowing whole with water.
+Do not break, crush, dissolve and/or
+chew.
+Y Verified taking as directed Calcium Plus 600 mg
+calcium-400 unit tablet
+1 as needed N Verified taking as directed PreserVision AREDS 2 250 mg-2.5 mg-0.5 mg capsule
+Y Verified taking as directed FreeStyle Lite Strips insert by Intramuscular route 2 times every day
+N Verified
+
+-------------------------------------------
+-------------------------------------------
+taking as directed Anoro Ellipta 62.5 mcg-25
+mcg/actuation powder for inhalation
+inhale 1 puff by inhalation route every day at the same time each day
+N Verified
+taking as directed omeprazole 20 mg
+tablet,delayed release take 1 by Oral route every day N Verified taking as directed Lotemax 0.5 % eye gel drops instill 1 - 2 drop by ophthalmic route 4 times every day into the lower conjunctival sac of the affected eye(s) start 24 hrs post op x 2 wks
+N Verified taking as directed olopatadine 0.1 % eye drops instill 1 drop by ophthalmic route 2 times every day
+N Verified taking as directed Eylea 2 mg/0.05 mL inject 0.05 milliliter by intravitreal route N Verified
+Covaleski, Janet 000000097650 04/20/1932 06/29/2018 01:15 PM 6/9 intravitreal solution for injection every 8 weeks taking as directed meloxicam 7.5 mg tablet take 1 tablet by oral route every day N Verified
+taking as directed valsartan 80 mg tablet take 1 tablet by oral route every day N Verified
+taking as directed ProAir HFA 90 mcg/actuation
+aerosol inhaler
+inhale 2 puff by inhalation route every 4
+- 6 hours as needed
+N Verified
+taking as directed erythromycin 250 mg
+capsule, delayed release
+take 1 capsule by oral route every 6 hours
+N Verified taking as directed Cosopt (PF) 2 %-0.5 % eye drops in a dropperette
+instill 1 drop by ophthalmic route 2 times every day into affected eye(s)
+N Verified taking as directed dorzolamide 2 % eye drops instill 1 drop by ophthalmic route 3 times every day into affected eye(s)
+N Verified taking as directed Lipitor 10 mg tablet take 1 tablet by oral route every day N Verified
+taking as directed metformin 500 mg tablet 1 TABLET, ORAL, TWICE DAILY N Verified
+taking as directed Vyzulta 0.024 % eye drops instill 1 drop by ophthalmic route every day into affected eye(s) in the evening
+N Verified
+Allergies
+
+-------------------------------------------
+-------------------------------------------
+Ingredient Reaction Medication Name Comment
+ASPIRIN
+CELECOXIB CELEBREX
+HYDROCHLOROTH
+IAZIDE
+LISINOPRIL cough
+SHELLFISH
+DERIVED
+SULFA
+(SULFONAMIDE
+ANTIBIOTICS)
+SULFA
+(SULFONAMIDE
+ANTIBIOTICS)
+Reviewed, no changes.
+REVIEW OF SYSTEMS
+System Neg/Pos Details
+Constitutional Negative Chills/rigors, decreased activity and fever.
+ENMT Negative Hearing loss, nasal congestion, otalgia and pharyngitis.
+Eyes Positive Eye redness.
+Eyes Comments L. eye + erythema . + Glaucoma
+Rt. eye + macular deg.
+Respiratory Positive Dyspnea (The severity is described as moderate. This is exacerbated by walking).
+Respiratory Negative Cough, hemoptysis, pleuritic pain and wheezing.
+Respiratory Comments Uses O2 at night and prn daytime. Under the care of pulm.
+Cardio Negative Chest pain.
+GI Positive Reflux.
+GI Negative Abdominal pain, bloating, decreased appetite and nausea.
+GU Negative Dysuria and hematuria.
+Endocrine Comments DM well controlled A1C= 5.9.
+Neuro Negative Dizziness and incoordination.
+Psych Negative Feeling down, depressed or hopeless and little interest or pleasure in doing things.
+MS Positive Bone/joint symptoms.
+Covaleski, Janet 000000097650 04/20/1932 06/29/2018 01:15 PM 7/9
+Hema/Lymph Negative Bleeding diathesis, cytopenias, easy bleeding, easy bruising, hypercoagulability, lymphadenopathy, petechiae and thromboembolic events.
+VITAL SIGNS
+Time BP
+mm/Hg
+Pulse
+/min
+Resp
+/min
+Temp
+F
+
+-------------------------------------------
+-------------------------------------------
+Ht ft Ht in Ht cm Wt lb Wt kg BMI
+kg/m2
+BSA
+m2
+02 Sat%
+1:03 PM 132/68 86 97.8 5.0 152.40 207.00 93.894 40.43 1.99 97
+MEASURED BY
+Time Measured by
+1:03 PM Chris Pellicano
+Screening Summary:
+The following were reviewed: tobacco use and date of last mammogram
+Physical Exam
+Exam Findings Details
+Constitutional * Overall appearance - age appropriate, obese.
+Eyes * Conjunctiva - Left: redness/erythema.
+Eyes Normal Conjunctiva - Right: Normal. Pupil - Right: Normal, Left: Normal.
+Ears Normal Inspection - Right: Normal, Left: Normal. Canal - Right: Normal, Left:
+Normal. TM - Right: Normal, Left: Normal. Hearing - Right: Normal, Left:
+Normal.
+Nasopharynx Normal External nose - Normal. Lips/teeth/gums - Normal. Tonsils - Normal.
+Oropharynx - Normal.
+Respiratory Normal Inspection - Normal. Auscultation - Normal. Effort - Normal.
+Cardiovascular Normal Regular rate and rhythm. No murmurs, gallops, or rubs.
+Abdomen Normal No abdominal tenderness.
+Musculoskeletal * Gait - cane.
+Neurological Normal Memory - Normal.
+Psychiatric Normal Orientation - Oriented to time, place, person & situation. Appropriate mood and affect.
+Completed Orders (this encounter)
+Order Side Interpretation Result Details
+Patient Health
+Questionnaire (PHQ-2)
+Further testing
+is not required
+0
+Assessment/Plan
+# Detail Type Description
+1. Assessment Type 2 diabetes mellitus without complications (E11.9).
+Impression controlled
+A1C= 5.9.
+Patient Plan cont metformin 500mg BID
+Plan Orders Hemoglobin Alc to be performed.
+2. Assessment Essential (primary) hypertension (110).
+Impression controlled.
+Patient Plan cont diovan 80
+Provider Plan Maintain a low-sodium diet (less than 2 grams per day).
+Plan Orders CMP to be performed.
+3. Assessment Hyperlipidemia, unspecified (E78.5).
+
+-------------------------------------------
+-------------------------------------------
+Covaleski, Janet 000000097650 04/20/1932 06/29/2018 01:15 PM 8/9
+Impression controlled.
+Patient Plan cont lipitor 10
+Provider Plan Advised to maintain a low-fat, low-cholesterol diet.
+Plan Orders LIPID PANEL W/RFLX TO DIRECT LDL to be performed.
+4. Assessment Glaucoma of left eye, unspecified glaucoma type (H40.9).
+Impression stable.
+Patient Plan sees ophthal
+5. Assessment Arthropathy, unspecified (M12.9).
+Impression unchanged
+Bilat knees bother her.
+Patient Plan amb with a walker
+6. Assessment Unspecified macular degeneration (H35.30).
+Impression involves rt eye.
+Patient Plan gets injections
+7. Assessment Chronic obstructive pulmonary disease, unspecified (J44.9).
+Impression stable.
+Patient Plan cont anoro and pro air prn
+02 at night and prn daytime
+on anti reflux
+sse Sidana
+Plan Orders CBC w/diff to be performed.
+8. Assessment Gastro-esophageal reflux disease without esophagitis (K21.9).
+Impression stable.
+Patient Plan cont omeprazole 20
+9. Assessment Calculus of kidney (N20.0).
+Impression stable.
+Patient Plan monitor
+Fall Risk Plan
+The patient has not fallen in the last year.
+Medications (Added, Continued or Stopped this visit)
+Started Medication Directions Stopped
+03/14/2016 Anoro Ellipta 62.5 mcg-25
+mcg/actuation powder for inhalation
+inhale 1 puff by inhalation route every day at the same time each day
+Arthritis Pain Reliever 650 mg
+tablet,extended release
+take 2 tablet by oral route every 8 hours as needed swallowing whole with water. Do not break, crush, dissolve and/or chew.
+biotin 5 mg capsule
+01/14/2014 Calcium Plus 600 mg
+calcium-400 unit tablet
+1 as needed
+Centrum Silver tablet
+01/19/2018 Cosopt (PF) 2 %-0.5 % eye
+
+-------------------------------------------
+-------------------------------------------
+drops in a dropperette
+instill 1 drop by ophthalmic route 2 times every day into affected eye(s)
+01/19/2018 dorzolamide 2 % eye drops instill 1 drop by ophthalmic route 3 times every day into affected eye(s)
+01/19/2018 erythromycin 250 mg take 1 capsule by oral route every 6 hours
+Covaleski, Janet 000000097650 04/20/1932 06/29/2018 01:15 PM 9/9 capsule, delayed release
+09/15/2017 Eylea 2 mg/0.05 mL intravitreal
+solution for injection
+inject 0.05 milliliter by intravitreal route every 8 weeks
+01/14/2014 FreeStyle Lite Strips insert by Intramuscular route 2 times every day
+05/01/2018 Lipitor 10 mg tablet take 1 tablet by oral route every day
+10/20/2016 Lotemax 0.5 % eye gel drops instill 1 - 2 drop by ophthalmic route 4 times every day into the lower conjunctival sac of the affected eye(s) start 24 hrs post op x 2 wks
+Lumigan 0.01 % eye drops 06/29/2018
+01/14/2014 meclizine 12.5 mg tablet take 1 Tablet by oral route 2 times every day
+PRN as needed
+10/13/2017 meloxicam 7.5 mg tablet take 1 tablet by oral route every day
+10/05/2017 metformin 500 mg tablet 1 TABLET, ORAL, TWICE DAILY 06/29/2018
+06/29/2018 metformin 500 mg tablet 1 TABLET, ORAL, TWICE DAILY
+12/12/2016 olopatadine 0.1 % eye drops instill 1 drop by ophthalmic route 2 times every day
+07/11/2016 omeprazole 20 mg
+tablet,delayed release take 1 by Oral route every day
+PreserVision AREDS 2 250
+mg-2.5 mg-0.5 mg capsule
+01/19/2018 ProAir HFA 90 mcg/actuation
+aerosol inhaler
+inhale 2 puff by inhalation route every 4 - 6 hours as needed
+01/14/2014 triamcinolone acetonide 0.1 %
+topical cream apply by topical route 2 times every day a thin layer to the affected area(s)
+12/21/2017 valsartan 80 mg tablet take 1 tablet by oral route every day
+Vitamin D3 400 unit tablet
+06/29/2018 Vyzulta 0.024 % eye drops instill 1 drop by ophthalmic route every day into affected eye(s) in the evening
+Counseling / Educational Factors:
+Counseling / educational factors reviewed.
+The patient was checked out at 1:45 PM by Amanda Goncalves.
+Electronically signed by: Thelma Batiancila MD 07/03/2018 10:20 AM
+Document generated by: Thelma Batiancila 07/03/2018 10:20 AM
+Electronically signed by Thelma Batiancila MD on 07/03/2018 10:20 AM
+
+-------------------------------------------
+-------------------------------------------

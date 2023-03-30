@@ -1,0 +1,110 @@
+<ezNLP>
+<Icd10CmCode>
+<code value="F41.9" rank="213" knowledgeId="116" isDisable="0" text="Anxiety disorder;" isBillable="false" evidence="Anxiety disorder" evidenceBegin="9698" evidenceEnd="9714" cuiList="3469;" acceptRejectFlag="DEFAULT"/>
+<problem value="Anxiety disorder" begin="9698" end="9714" status="0" certainty="0" cui="C0003469" tui="T048" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z68.26" rank="999" knowledgeId="9" isDisable="0" text="BMI;" isBillable="false" evidence="BMI" evidenceBegin="921" evidenceEnd="924" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<meas value="BMI" begin="921" end="924" status="0" certainty="0" code="EZBD001947">
+<measData value="02422018" begin="931" end="939" rank="5" unit="" unitBegin="" unitEnd=""/>
+<measData value="160.02" begin="887" end="893" rank="3" unit="cm" unitBegin="894" unitEnd="896"/>
+<measData value="5" begin="877" end="878" rank="1" unit="cm" unitBegin="894" unitEnd="896"/>
+<measData value="63.76" begin="911" end="916" rank="6" unit="kg" unitBegin="917" unitEnd="919"/>
+<measData value="26.9" begin="926" end="930" rank="7" unit="" unitBegin="" unitEnd=""/>
+<measData value="3" begin="881" end="882" rank="2" unit="cm" unitBegin="894" unitEnd="896"/>
+<measData value="151.6" begin="900" end="905" rank="4" unit="lbs" unitBegin="906" unitEnd="909"/>
+</meas>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="F41.9" rank="213" knowledgeId="116" isDisable="0" text="Anxiety disorder;" isBillable="false" evidence="Anxiety disorder" evidenceBegin="9750" evidenceEnd="9766" cuiList="3469;" acceptRejectFlag="DEFAULT"/>
+<problem value="Anxiety disorder" begin="9750" end="9766" status="0" certainty="0" cui="C0003469" tui="T048" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="F41.9" rank="553" knowledgeId="113" isDisable="0" text="Anxiety;" isBillable="false" evidence="Anxiety" evidenceBegin="487" evidenceEnd="494" cuiList="3467;" acceptRejectFlag="DEFAULT"/>
+<problem value="Anxiety" begin="487" end="494" status="0" certainty="0" cui="C1963064;C0860603;C0003467;C0003469" tui="T048;T033;T041" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J06.9" rank="149" knowledgeId="84" isDisable="0" text="upper respiratory infection;" isBillable="false" evidence="upper respiratory infection" evidenceBegin="5436" evidenceEnd="5463" cuiList="41912;" acceptRejectFlag="DEFAULT"/>
+<code value="P28.89" rank="129" knowledgeId="128" isDisable="0" text="upper respiratory infection;" isBillable="false" evidence="upper respiratory infection" evidenceBegin="5436" evidenceEnd="5463" cuiList="41912;" acceptRejectFlag="DEFAULT"/>
+<problem value="upper respiratory infection" begin="5436" end="5463" status="0" certainty="0" cui="C2169571;C0041912;C2169609;C0009450;C0035243;C1556682;C1282910" tui="T047;T033;T047;T033;T033;T082;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R51" rank="129" knowledgeId="128" isDisable="0" text="headache;" isBillable="false" evidence="headache" evidenceBegin="5093" evidenceEnd="5101" cuiList="2096315;" acceptRejectFlag="DEFAULT"/>
+<problem value="headache" begin="5093" end="5101" status="0" certainty="0" cui="C0423623;C2096315;C0018681;C0037195" tui="T184;T033;T184;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R05" rank="600" knowledgeId="116" isDisable="0" text="coughing;" isBillable="false" evidence="coughing" evidenceBegin="5239" evidenceEnd="5247" cuiList="10200;" acceptRejectFlag="DEFAULT"/>
+<problem value="coughing" begin="5239" end="5247" status="0" certainty="0" cui="S00003732;C1961131;C0010200;C0687152" tui="T046;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R51" rank="33" knowledgeId="32" isDisable="0" text="pain cheelc stuffy nose;sinus;" isBillable="false" evidence="sinus_SEP_pain_SEP_nose" evidenceBegin="5129,5135,5154" evidenceEnd="5134,5139,5158" cuiList="30193;30471;" acceptRejectFlag="DEFAULT"/>
+<anatomicalStructure value="sinus" begin="5129" end="5134" status="0" certainty="0" cui="C1278898;C0030471;C0423772;C1305231" tui="T023;T030;T190;T030" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<problem value="pain cheelc stuffy nose" begin="5135" end="5158" status="0" certainty="0" cui="C0027424;C1278898;C1962975;C1557397;C1260880;C1278896;C2096314;C0030471;C2237483;C0522251;C0015468;C0028429;C2015953;C0030193;S00019428;C2127442;C2127443;C1522019;C0240564;C1272939;C1963236;C0242936;C1882272;C0723349" tui="T023;T030;T184;T184;T184;T033;T046;T046;T033;T184;T184;T184;T184;T184;T109,T121;T033;T184;T169;T023;T122;T033;T184;T033;T184;T073,T093;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="P83.88" rank="129" knowledgeId="128" isDisable="0" text="Rash;" isBillable="false" evidence="Rash" evidenceBegin="1238" evidenceEnd="1242" cuiList="15230;" acceptRejectFlag="DEFAULT"/>
+<code value="R21" rank="246" knowledgeId="117" isDisable="0" text="Rash;" isBillable="false" evidence="Rash" evidenceBegin="1238" evidenceEnd="1242" cuiList="15230;" acceptRejectFlag="DEFAULT"/>
+<problem value="Rash" begin="1238" end="1242" status="0" certainty="0" cui="S00005214;C0015230" tui="T047;T046" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="F32.9" rank="395" knowledgeId="116" isDisable="0" text="Depression;" isBillable="false" evidence="Depression" evidenceBegin="4039" evidenceEnd="4049" cuiList="11581;" acceptRejectFlag="DEFAULT"/>
+<problem value="Depression" begin="4039" end="4049" status="1" certainty="0" cui="C0011570;C1579931;C1999266;C0011581;C0344315;C0460137" tui="T048;T169;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z87.891" rank="999" knowledgeId="9" isDisable="0" text=";" isBillable="false" evidence="Former smoker" evidenceBegin="2867" evidenceEnd="2880" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<modifier value="" begin="0" end="0" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z88.2" rank="999" knowledgeId="9" isDisable="0" text="SULFA;" isBillable="false" evidence="SULFA" evidenceBegin="1301" evidenceEnd="1306" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="SULFA" begin="1301" end="1306" status="0" certainty="0" code="NO-CODE" cui="C0749139" tui="T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="K21.9" rank="282" knowledgeId="116" isDisable="0" text="GERD;" isBillable="false" evidence="GERD" evidenceBegin="4081" evidenceEnd="4085" cuiList="17168;" acceptRejectFlag="DEFAULT"/>
+<problem value="GERD" begin="4081" end="4085" status="1" certainty="0" cui="C0017168" tui="T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z88.0" rank="999" knowledgeId="9" isDisable="0" text="AMOXICILLIN;" isBillable="false" evidence="AMOXICILLIN" evidenceBegin="1225" evidenceEnd="1236" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="AMOXICILLIN" begin="1225" end="1236" status="0" certainty="0" code="NO-CODE" cui="C0002645;C0700524;C0740069" tui="T109,T195" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J01.90" rank="999" knowledgeId="9" isDisable="0" text="J01.90;" isBillable="false" evidence="J01.90" evidenceBegin="10046" evidenceEnd="10052" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z83.3" rank="129" knowledgeId="96" isDisable="0" text="Family History;Diabetes mellitus;" isBillable="false" evidence="Diabetes mellitus" evidenceBegin="2651" evidenceEnd="2668" cuiList="11849;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Diabetes mellitus" begin="2651" end="2668" status="2" certainty="0" cui="C0011849" tui="T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.3" rank="129" knowledgeId="96" isDisable="0" text="Family History;stroke;" isBillable="false" evidence="stroke" evidenceBegin="2780" evidenceEnd="2786" cuiList="38454;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="stroke" begin="2780" end="2786" status="2" certainty="0" cui="C0038454" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="H57.89" rank="129" knowledgeId="128" isDisable="0" text="itching;" isBillable="false" evidence="eye itching" evidenceBegin="5259" evidenceEnd="5270" cuiList="22281;" acceptRejectFlag="DEFAULT"/>
+<code value="L29.8" rank="129" knowledgeId="128" isDisable="0" text="itching;" isBillable="false" evidence="eye itching" evidenceBegin="5259" evidenceEnd="5270" cuiList="22281;" acceptRejectFlag="DEFAULT"/>
+<problem value="itching" begin="5263" end="5270" status="0" certainty="0" cui="C0700184;C0022281;C0033774;S00010792" tui="T184;T184;T046;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R51" rank="324" knowledgeId="97" isDisable="0" text="facial pain;facial pain;" isBillable="false" evidence="facial_SEP_pain" evidenceBegin="5104,5111" evidenceEnd="5110,5115" cuiList="15450;30193;" acceptRejectFlag="DEFAULT"/>
+<problem value="facial pain" begin="5104" end="5115" status="0" certainty="0" cui="C1557397;C1962975;C1281591;C2096314;C0015468;C0522251;C0030193;C2127442;S00019428;C2127443;C0524465;C1963236;C0015450;C0242936;C1882272;C2828055;C0723349" tui="T073,T093;T033;T184;T082;T028;T029;T023;T033;T184;T109,T121;T033;T184;T184;T184;T046;T184;T184;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="F41.9" rank="999" knowledgeId="9" isDisable="0" text="F41.9;" isBillable="false" evidence="F41.9" evidenceBegin="9743" evidenceEnd="9748" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R21" rank="246" knowledgeId="117" isDisable="0" text="Rash;" isBillable="false" evidence="Rash" evidenceBegin="1276" evidenceEnd="1280" cuiList="15230;" acceptRejectFlag="DEFAULT"/>
+<code value="P83.88" rank="129" knowledgeId="128" isDisable="0" text="Rash;" isBillable="false" evidence="Rash" evidenceBegin="1276" evidenceEnd="1280" cuiList="15230;" acceptRejectFlag="DEFAULT"/>
+<problem value="Rash" begin="1276" end="1280" status="0" certainty="0" cui="S00005214;C0015230" tui="T046;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="J01.90" rank="999" knowledgeId="9" isDisable="0" text="Acute sinusitis;unspecified;" isBillable="false" evidence="Acute sinusitis_SEP_unspecified" evidenceBegin="10054,10071" evidenceEnd="10069,10082" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.3" rank="129" knowledgeId="96" isDisable="0" text="Family History;Cerebrovascular accident;" isBillable="false" evidence="Cerebrovascular accident" evidenceBegin="2735" evidenceEnd="2759" cuiList="38454;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Cerebrovascular accident" begin="2735" end="2759" status="2" certainty="0" cui="C0038454" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="R49.0" rank="165" knowledgeId="100" isDisable="0" text="hoarseness;" isBillable="false" evidence="hoarseness" evidenceBegin="5304" evidenceEnd="5314" cuiList="19825;" acceptRejectFlag="DEFAULT"/>
+<problem value="hoarseness" begin="5304" end="5314" status="0" certainty="0" cui="C0019825" tui="T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+</ezNLP>

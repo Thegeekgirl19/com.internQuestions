@@ -1,0 +1,274 @@
+ 0019T extracorporeal shock wave musculoskeletal system  
+ 0051T implantation cardiectomy heart, artificial  
+ 0051T implantation replacement cardiectomy heart, artificial  
+ 0191T implantation drainage device eye glaucoma  heart, artificial  
+ 15777 implantation acellular dermis  eye glaucoma  heart, artificial  
+ 33207 implantation pacemaker heart  heart, artificial  
+ 33207 implantation pacemaker intracardiac  heart, artificial  
+ 33207 implantation pacemaker transvenous electrode  heart, artificial  
+ 33207 implantation pacemaker ventricular  heart, artificial  
+ 33216 implantation pacemaker electrode  heart, artificial  
+ 33216 implantation pacemaker electrode  transvenous  
+ 33208 implantation dual-chamber pacemaker  electrode  transvenous  
+ 33211 implantation dual chamber pacemaker  electrode  transvenous  
+ 33216 implantation electrode cardioverter-defibrillator  transvenous  
+ 33216 implantation electrode transvenous cardioverter-defibrillator  
+ 63655 implantation electrode spinal cord stimulator laminectomy  
+ 33282 implantation patient activated monitoring device cardiac  
+ 33282 implantation pt activated monitoring device cardiac  
+ 33282 implantation pt activated cardiac event recorder  
+ 33282 implantation event recorder patient activated cardiac  
+ 33282 implantation heart patient activated monitoring device  
+ 33282 implantation heart pt activated monitoring device  
+ 33282 implantation heart event recorder patient activated  
+ 33282 implantation heart event recorder pt activated  
+ 33927 implantation heart recipient cardiectomy replacement  
+ 33880, 33881 implantation endovascular graft  recipient cardiectomy replacement  
+ 33886 implantation distal endovascular extension  recipient cardiectomy replacement  
+ 33927 implantation recipient cardiectomy artificial heart  replacement  
+ 36555, 36556 implantation vein catheter non-tunneled  
+ 36555, 36556 implantation vein catheter non-tunneled  jugular  
+ 36555, 36556 implantation vein catheter non-tunneled  subclavian  
+ 36555, 36556 implantation vein catheter non-tunneled  central  
+ 36568, 36569 implantation vein catheter peripheral  central  
+ 36555, 36556 implantation vein central line non-tunneled  central  
+ 36555, 36556 implantation vein central line non-tunneled  central  
+ 36555, 36556 implantation vein central line non-tunneled  jugular  
+ 36555, 36556 implantation vein central line non-tunneled  subclavian  
+ 36568, 36569 implantation vein central line peripheral  subclavian  
+ 36555, 36556 implantation venous catheter non-tunneled  subclavian  
+ 36555, 36556 implantation venous catheter non-tunneled  jugular  
+ 36555, 36556 implantation venous catheter non-tunneled  subclavian  
+ 36555, 36556 implantation venous catheter non-tunneled  central  
+ 36568, 36569 implantation venous catheter peripheral  central  
+ 36555, 36556 implantation venous central line non-tunneled  central  
+ 36555, 36556 implantation venous central line non-tunneled  central  
+ 36555, 36556 implantation venous central line non-tunneled  jugular  
+ 36555, 36556 implantation venous central line non-tunneled  subclavian  
+ 36568, 36569 implantation venous central line peripheral  subclavian  
+ 36557, 36558 implantation tunneled vein catheter  subclavian  
+ 36557, 36558 implantation tunneled vein catheter  jugular  
+ 36557, 36558 implantation tunneled vein catheter  subclavian  
+ 36557, 36558 implantation tunneled vein catheter  central  
+ 36561 implantation tunneled vein catheter  port jugular  
+ 36561 implantation tunneled vein catheter  port subclavian  
+ 36561 implantation tunneled vein catheter  port central  
+ 36557, 36558 implantation tunneled vein central line  port central  
+ 36557, 36558 implantation tunneled vein central line  central  central  
+ 36557, 36558 implantation tunneled vein central line  jugular  central  
+ 36557, 36558 implantation tunneled vein central line  subclavian  central  
+ 36561 implantation tunneled vein central line  port central  
+ 36561 implantation tunneled vein central line  port jugular  
+ 36561 implantation tunneled vein central line  port subclavian  
+ 36557, 36558 implantation tunneled venous catheter  port subclavian  
+ 36557, 36558 implantation tunneled venous catheter  jugular  subclavian  
+ 36557, 36558 implantation tunneled venous catheter  subclavian  subclavian  
+ 36557, 36558 implantation tunneled venous catheter  central  subclavian  
+ 36561 implantation tunneled venous catheter  port jugular  
+ 36561 implantation tunneled venous catheter  port subclavian  
+ 36561 implantation tunneled venous catheter  port central  
+ 36557, 36558 implantation tunneled venous central line  port central  
+ 36557, 36558 implantation tunneled venous central line  central  central  
+ 36557, 36558 implantation tunneled venous central line  jugular  central  
+ 36557, 36558 implantation tunneled venous central line  subclavian  central  
+ 36561 implantation tunneled venous central line  port central  
+ 36561 implantation tunneled venous central line  port jugular  
+ 36561 implantation tunneled venous central line  port subclavian  
+ 36561 implantation tunneled port central venous access device  port subclavian  
+ 43246 implantation endoscopic gastrostomy tube  central venous access device  port subclavian  
+ 43246 implantation endoscopic gastrostomy tube  percutaneous  port subclavian  
+ 63685 implantation spinal cord stimulator  gastrostomy tube  percutaneous  port subclavian  
+ 63685 implantation spinal cord stimulator  battery  percutaneous  port subclavian  
+ 63685 implantation spinal cord stimulator  pulse generator  percutaneous  port subclavian  
+ 63685 implantation neurostimulator epidural  percutaneous  port subclavian  
+ 63685 implantation epidural stimulator  epidural  percutaneous  port subclavian  
+ 63685 implantation epidural stimulator  battery  percutaneous  port subclavian  
+ 63685 implantation pulse generator epidural stimulator  percutaneous  port subclavian  
+ 63685 implantation pulse generator spinal cord  percutaneous  port subclavian  
+ 63685 implantation spinal cord neurostimulator  percutaneous  port subclavian  
+ 64561 implantation sacral foramen neurostimulator electrode  percutaneous  port subclavian  
+ 66984 implantation chamber posterior phacoemulsification lens intraocular cataract  
+ 66982 implantation chamber posterior phacoemulsification lens intraocular cataract  complex  
+ 66982 implantation chamber posterior phacoemulsification lens intraocular complicated cataract  
+ 0051T implantation procedure intracorporeal total replacement entire heart  
+ 0051T implantation procedure intracorporeal total replacement heart  
+ 33361 implantation procedure medical valves aorta percutaneous femoral artery approach  
+ 33362 implantation procedure medical valves aorta open femoral artery approach  
+ 33363 implantation procedure medical valves aorta open axillary artery approach  
+ 33364 implantation procedure medical valves aorta open iliac artery approach  
+ 33365 implantation procedure medical valves aorta transaortic approach  
+ 33361 implantation procedure medical valves entire aorta percutaneous femoral artery approach  
+ 33362 implantation procedure medical valves entire aorta open femoral artery approach  
+ 33363 implantation procedure medical valves entire aorta open axillary artery approach  
+ 33364 implantation procedure medical valves entire aorta open iliac artery approach  
+ 33365 implantation procedure medical valves entire aorta transaortic approach  
+ 61107 implantation procedure subdural space puncture wound  transaortic approach  
+ 64553 implantation procedure electrode cranial nerves  transaortic approach  
+ 64553 implantation procedure electrode entire cranial nerve  transaortic approach  
+ 64561 implantation procedure electrode entire sacral nerve  transaortic approach  
+ 64561 implantation procedure electrode sacral nerve  transaortic approach  
+ 64581 implantation procedure electrode incisional technique entire sacral nerve  
+ 64581 implantation procedure electrode incisional technique sacral nerve  
+ 64568, 64569 implantation procedure cranial nerves  incisional technique sacral nerve  
+ 64568, 64569 implantation procedure entire cranial nerve  incisional technique sacral nerve  
+ 0053T repair heart, artificial  
+ 0052T, 0053T repair heart, artificial  intracorporeal  
+ 0052T repair heart, artificial  thoracic  
+ 11760 repair nail bed  thoracic  
+ 11760 repair laceration nail bed  
+ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037 repair laceration axillae  
+ 12001, 12002, 12004, 12005, 12006, 12007 repair laceration external genitalia  
+ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037 repair laceration feet  
+ 12001, 12002, 12004, 12005, 12006, 12007 repair laceration finger  
+ 12001, 12002, 12004, 12005, 12006, 12007 repair laceration hand  
+ 12001, 12002, 12004, 12005, 12006, 12007 repair laceration leg  
+ 12001, 12002, 12004, 12005, 12006, 12007 repair laceration neck  
+ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037 repair laceration scalp  
+ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037 repair laceration trunk  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair laceration ears  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018 repair laceration eyebrow  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair laceration eyelids  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair laceration face  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair laceration lips  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair laceration mucous membrane  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair laceration muscles  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair laceration nose  
+ 12031, 12032, 12034, 12035, 12036, 12037 repair laceration hands  
+ 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair laceration forehead  
+ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037 repair wound scalp  
+ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037 repair wound trunk  
+ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037 repair wound axillae  
+ 12001, 12002, 12004, 12005, 12006, 12007 repair wound external genitalia  
+ 12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037 repair wound feet  
+ 12001, 12002, 12004, 12005, 12006, 12007 repair wound finger  
+ 12001, 12002, 12004, 12005, 12006, 12007 repair wound hand  
+ 12001, 12002, 12004, 12005, 12006, 12007 repair wound leg  
+ 12001, 12002, 12004, 12005, 12006, 12007 repair wound neck  
+ 12001, 12002, 12004 repair wound simple scalp  
+ 12001, 12002, 12004 repair wound simple neck  
+ 12001, 12002, 12004 repair wound simple axillae  
+ 12001, 12002, 12004 repair wound simple external genitalia  
+ 12001, 12002, 12004 repair wound simple trunk  
+ 12001, 12002, 12004 repair wound simple extremity  
+ 12011, 12013, 12014 repair wound simple face  
+ 12011, 12013, 12014 repair wound simple ear  
+ 12011, 12013, 12014 repair wound simple eyelid  
+ 12011, 12013, 12014 repair wound simple nose  
+ 12011, 12013, 12014 repair wound simple lips  
+ 12011, 12013, 12014 repair wound simple mucous membrane  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair wound ears  mucous membrane  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018 repair wound eyebrow  mucous membrane  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair wound eyelids  mucous membrane  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair wound face  mucous membrane  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair wound lips  mucous membrane  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair wound mucous membrane  mucous membrane  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair wound muscles  mucous membrane  
+ 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057 repair wound nose  mucous membrane  
+ 12031, 12032, 12034, 12035, 12036, 12037 repair wound hands  mucous membrane  
+ 12031, 12032, 12034 repair wound intermediate scalp  
+ 12031, 12032, 12034 repair wound intermediate axillae  
+ 12031, 12032, 12034 repair wound intermediate trunk  
+ 12031, 12032, 12034 repair wound intermediate extremity  
+ 12032 repair wound intermediate thigh  
+ 12041, 12042, 12044 repair wound intermediate neck  
+ 12041, 12042, 12044 repair wound intermediate hand  
+ 12041, 12042, 12044 repair wound intermediate feet  
+ 12041, 12042, 12044 repair wound intermediate external genitalia  
+ 12051, 12052, 12053 repair wound intermediate face  
+ 12051, 12052, 12053 repair wound intermediate ear  
+ 12051, 12052, 12053 repair wound intermediate eyelid  
+ 12051, 12052, 12053 repair wound intermediate nose  
+ 12051, 12052, 12053 repair wound intermediate lips  
+ 12051, 12052, 12053 repair wound intermediate mucous membrane  
+ 12020 repair dehiscence superficial wound  mucous membrane  
+ 12031, 12032, 12034 repair intermediate skin wound scalp  
+ 12031, 12032, 12034 repair intermediate skin wound axillae  
+ 12031, 12032, 12034 repair intermediate skin wound trunk  
+ 12031, 12032, 12034 repair intermediate skin wound extremity  
+ 12041, 12042, 12044 repair intermediate skin wound neck  
+ 12041, 12042, 12044 repair intermediate skin wound hand  
+ 12041, 12042, 12044 repair intermediate skin wound feet  
+ 12041, 12042, 12044 repair intermediate skin wound external genitalia  
+ 12051, 12052, 12053 repair intermediate skin wound face  
+ 12051, 12052, 12053 repair intermediate skin wound ear  
+ 12051, 12052, 12053 repair intermediate skin wound eyelid  
+ 12051, 12052, 12053 repair intermediate skin wound nose  
+ 12051, 12052, 12053 repair intermediate skin wound lips  
+ 12051, 12052, 12053 repair intermediate skin wound mucous membrane  
+ 23412 repair rotator cuff open  mucous membrane  
+ 23485 repair nonunion clavicle  mucous membrane  
+ 24340 repair biceps tendon  clavicle  mucous membrane  
+ 24342 repair biceps tendon  distal  mucous membrane  
+ 25260 repair palmaris longus tendon flexor tendon  mucous membrane  
+ 25260, 25270 repair muscle wrist  mucous membrane  
+ 25405 repair radius autograft malunion  
+ 26350 repair tendon finger fds  
+ 26370 repair tendon finger fdp  
+ 26350 repair tendon flexor pollicis longus  fdp  
+ 26418 repair tendon thumb extensor  
+ 26440 repair tendon flexor palm  
+ 27380 repair tendon patellar  palm  
+ 26418 repair finger extensor tendon  palm  
+ 35207 repair finger digital artery  palm  
+ 26540 repair thumb collateral ligament ulnar  
+ 26540 repair collateral ligament mcp joint  ulnar  
+ 26591 repair abductor digiti minimi  mcp joint  ulnar  
+ 26591 repair flexor digiti minimi  mcp joint  ulnar  
+ 26591 repair hand muscles intrinsic  
+ 26591 repair opponens digiti minimi  muscles intrinsic  
+ 27405 repair ligament primary reconstruction  
+ 27695 repair ligament deltoid  reconstruction  
+ 27652 repair graft achilles tendon  reconstruction  
+ 27695 repair deltoid primary medial  
+ 28292 repair foot bunion  medial  
+ 30600 repair fistula oronasal  medial  
+ 33615 repair tricuspid atresia  oronasal  medial  
+ 33641 repair atrial defect primum septum septal  
+ 34701 repair infrarenal aorta aorto aortic tube endograft  primum septum septal  
+ 34702 repair infrarenal aorta aorto aortic tube endograft  aneurysm  septum septal  
+ 34702 repair infrarenal aorta aorto aortic tube endograft  dissection  septum septal  
+ 34702 repair infrarenal aorta aorto aortic tube endograft  penetrating ulcer  septum septal  
+ 34702 repair infrarenal aorta aorto aortic tube endograft  pseudoaneurysm  septum septal  
+ 34702 repair infrarenal aorta aorto aortic tube endograft  rupture  septum septal  
+ 34703 repair infrarenal aorta aorto uni iliac endograft  rupture  septum septal  
+ 34704 repair infrarenal aorta aorto uni iliac endograft  aneurysm  septum septal  
+ 34704 repair infrarenal aorta aorto uni iliac endograft  dissection  septum septal  
+ 34704 repair infrarenal aorta aorto uni iliac endograft  penetrating ulcer  septum septal  
+ 34704 repair infrarenal aorta aorto uni iliac endograft  pseudoaneurysm  septum septal  
+ 34704 repair infrarenal aorta aorto uni iliac endograft  rupture  septum septal  
+ 34705 repair infrarenal aorta aorto bi iliac endograft  rupture  septum septal  
+ 34706 repair infrarenal aorta aorto bi iliac endograft  aneurysm  septum septal  
+ 34706 repair infrarenal aorta aorto bi iliac endograft  dissection  septum septal  
+ 34706 repair infrarenal aorta aorto bi iliac endograft  penetrating ulcer  septum septal  
+ 34706 repair infrarenal aorta aorto bi iliac endograft  pseudoaneurysm  septum septal  
+ 34706 repair infrarenal aorta aorto bi iliac endograft  rupture  septum septal  
+ 34707 repair infrarenal aorta ilio iliac tube endograft  rupture  septum septal  
+ 34708 repair infrarenal aorta ilio iliac tube endograft  aneurysm  septum septal  
+ 34708 repair infrarenal aorta ilio iliac tube endograft  dissection  septum septal  
+ 34708 repair infrarenal aorta ilio iliac tube endograft  penetrating ulcer  septum septal  
+ 34708 repair infrarenal aorta ilio iliac tube endograft  pseudoaneurysm  septum septal  
+ 34708 repair infrarenal aorta ilio iliac tube endograft  rupture  septum septal  
+ 35226 repair leg artery  rupture  septum septal  
+ 35226 repair leg vein  rupture  septum septal  
+ 35226 repair artery lower extremity  rupture  septum septal  
+ 35226 repair vein lower extremity  rupture  septum septal  
+ 36575 repair venous access device  lower extremity  rupture  septum septal  
+ 36576 repair venous access device  subcutaneous port  rupture  septum septal  
+ 36576 repair venous access device  subcutaneous pump  rupture  septum septal  
+ 36576 repair access device central venous  septum septal  
+ 36832 repair arteriovenous aneurysm  device central venous  septum septal  
+ 40527 repair cleft lip cross lip pedicle flap  central venous  septum septal  
+ 40650 repair lip  cross lip pedicle flap  central venous  septum septal  
+ 44050 repair laparotomy volvulus  central venous  septum septal  
+ 44604 repair small bowel tear serosal  septum septal  
+ 45560 repair rectocele  tear serosal  septum septal  
+ 46707 repair plug fistula anal  septum septal  
+ 46707 repair plug anorectal fistula  anal  septum septal  
+ 64912 repair nerve allograft  anal  septum septal  
+ 64912 repair nerve homograft  anal  septum septal  
+ 64913 repair nerve strand additional allograft  septal  
+ 64913 repair nerve strand additional homograft  septal  
+ 65275 repair corneal laceration  strand additional homograft  septal  
+ 66250 repair operative wound  strand additional homograft  septal  
+ 67900 repair brow ptosis  strand additional homograft  septal  
+ 68700 repair lacrimal canaliculi  strand additional homograft  septal

@@ -1,0 +1,1007 @@
+REPORT STATUS Final
+PATIENT INFORMATION
+LEONE, LYDIA M
+Charlotte Hungerford
+Labs
+ORDERING PHYSICIAN
+MORRIS, GLENELL
+Age: 95
+SPECIMEN INFORMATION
+REQUISITION: 337012
+LAB REF NO:
+ACCESSION #: V06855082
+ORDER DATE 05/09/2019 09:25 AM
+DOB: 5/7/1924
+GENDER: Female
+MRN: H327804
+CLIENT INFORMATION: 91224
+CHARLOTTE HUNGERFORD
+MULTI-SPECIALTY GROUP
+220 KENNEDY DRIVE
+ID: 24027-1
+PHONE: (860) 482-8376
+TORRINGTON
+CT
+06790 - 6679
+VisitNumber :
+V06855082
+|Test Name||In Range Out|of Range Result Flag|Reference Range ID|
+|Vitamin D, 25|||||
+|CBC w/ Auto Diff|||Normal||
+|COLLECTED: 5/9/2019 9:26:00 AM|||||
+|WHITE BLOOD COUNT||7.30|N|3.6-11.1 10-3/UL|
+|RED BLOOD COUNT||4.13|N|3.69-5.16 10-6/UL|
+|HEMOGLOBIN||12.7|N|11.6-15.2 G/DL|
+|HEMATOCRIT||38.1|N|34.4-45.7 %|
+|MCV INDEX||92.2|N|81.1-98.7 FL|
+|MCH INDEX||30.8|N|26.8-33.2 PG|
+|MCHC INDEX||33.4|N|32.3-35.6 G/DL|
+|RC DISTR WIDTH||14.4|N|10.9-15.8 %|
+|PLATELET COUNT||224|N|122-400 10-3/UL|
+|MEAN PLATELET VOLUME||8.8|N|7.1-10.8 fL|
+|% NEUTROPHILS||56.7|N|%|
+|% LYMPHOCYTES||33.2|N|%|
+|% MONOCYTES||8.4|N|%|
+|% EOSINOPHILS||1.0|N|%|
+|% BASOPHILS||0.7|N|%|
+
+1
+of
+4
+LEONE, LYDIA M
+0
+Page
+01 CLIA# 07D0100596 Charlotte Hungerford Hospital Laboratory 540 Litchfield Street Torrington CT 06790 Medical
+Direct Signed by KAREN CARTER on 06/28/2019 03:39 PM
+Notes: REVIEWED BY PROVIDER
+-
+
+-------------------------------------------
+-------------------------------------------
+REPORT STATUS Final
+PATIENT INFORMATION
+LEONE, LYDIA M
+Charlotte Hungerford
+Labs
+ORDERING PHYSICIAN
+MORRIS, GLENELL
+Age: 95
+SPECIMEN INFORMATION
+REQUISITION: 337012
+LAB REF NO:
+ACCESSION #: V06855082
+ORDER DATE 05/09/2019 09:25 AM
+DOB: 5/7/1924
+GENDER: Female
+MRN: H327804
+CLIENT INFORMATION: 91224
+CHARLOTTE HUNGERFORD
+MULTI-SPECIALTY GROUP
+220 KENNEDY DRIVE
+ID: 24027-1
+PHONE: (860) 482-8376
+TORRINGTON
+ 
+06790 - 6679
+VisitNumber :
+V06855082
+|Test Name|In Range|Out of Range|Result Flag|Reference Range ID|
+|NEUTROPHIL NUMBER|4.2||N|2.0-7.5 10-3/UL|
+|LYMPHOCYTE NUMBER|2.4||N|1.5-4.5 10-3/UL|
+|MONOCYTE NUMBER|0.6||N|0.2-1.0 10-3/UL|
+|EOSINOPHIL NUMBER|0.1||N|0.0-0.7 10-3/UL|
+|BASOPHIL NUMBER|0.1||N|0.0-0.1 10-3/UL|
+|NUCLEATED RBC NUMBER|0.0||N|0.0-0.3|
+|Comp Metabolic Panel|||Abnormal||
+|COLLECTED: 5/9/2019 9:26:00 AM|||||
+|GLUCOSE|100||N|70-110 MG/DL|
+|BLOOD UREA NITROGEN||32|H|7-18 MG/DL|
+|CREATININE||1.5|H|0.6-1.0 MG/DL|
+|ESTIMATED GFR||34|L|>60 ML/MIN|
+|If patient|is African American multiply|by 1.21.|||
+
+|ESTIMATED CREATININE CLEARANCE|Test Not Performed Weight missing, cannot calculate CRCL|N|ML/MIN|
+|SODIUM|141|N|136-145 MMOL/L|
+|POTASSIUM|4.2|N|3.5-5.1 MMOL/L|
+|CHLORIDE|105|N|98-110 MMOL/L|
+|CO2|28|N|21-32 MMOL/L|
+|CALCIUM|8.9|N|8.5-10.1 MG/DL|
+
+2
+of
+4
+LEONE, LYDIA M
+0
+Page
+01 CLIA#07D0100596 Charlotte Hungerford Hospital Laboratory 540 Litchfield Street Torrington CT 06790 Medical
+DirectSigned by KAREN CARTER on 06/28/2019 03:39 PM
+Notes: REVIEWED BY PROVIDER
+-
+
+-------------------------------------------
+-------------------------------------------
+REPORT STATUS Final
+PATIENT INFORMATION
+LEONE, LYDIA M
+Charlotte Hungerford
+Labs
+ORDERING PHYSICIAN
+MORRIS, GLENELL
+Age: 95
+SPECIMEN INFORMATION
+REQUISITION: 337012
+LAB REF NO:
+ACCESSION #: V06855082
+ORDER DATE 05/09/2019 09:25 AM
+DOB: 5/7/1924
+GENDER: Female
+MRN: H327804
+CLIENT INFORMATION: 91224
+CHARLOTTE HUNGERFORD
+MULTI-SPECIALTY GROUP
+220 KENNEDY DRIVE
+ID: 24027-1
+PHONE: (860) 482-8376
+TORRINGTON
+ 
+06790 - 6679
+VisitNumber :
+V06855082
+|Test Name||In Range|Out of Range|Result Flag|Reference Range ID|
+|TOTAL PROTEIN||7.2||N|6.4-8.0 G/DL|
+|ALBUMIN||3.5||N|3.4-5.0 G/DL|
+|TOTAL BILIRUBIN||0.9||N|0.2-1.0 MG/DL|
+|AST/SGOT||16||N|15-37 U/L|
+|ALT/SGPT||19||N|12-78 U/L|
+|ALKALINE PHOSPHATASE||57||N|45-117 U/L|
+|Lipid Profile||||Normal||
+|COLLECTED: 5/9/2019 9:26:00 AM||||||
+|CHOLESTEROL||133||N|<200 MG/DL|
+||Desirable: Borderline-High High: Reference range Cholesterol| < 200 mg/dl 200-239 mg/dl > /= 240 mg/dl recommendations from the Education Program (NCEP) /|National May/01.|||
+|TRIGLYCERIDE||103||N|<150 MG/DL|
+||Normal:|<150 mg/dl||||
+||Borderline-High:|150-199 mg/dl||||
+||High:|200-499 mg/dl||||
+|Very|High:|>500 mg/dl||||
+||Reference range Cholesterol|recommendations from the Education Program (NCEP)|National May/01.|||
+|||||||
+|HDL CHOLESTEROL||55||N|MG/DL|
+|HDL|levels are coronary heart HDL < 40 HDL > or Reference range Cholesterol|inversely related to the disease (CHD) mg/dL Major risk = 60 mg/dL Low risk factor recommendations from the Education Program (NCEP) ,|incident of factor for CHD for CHD National May/01.||| |LDL CHOLESTEROL (CAL)||57||N| < 100 MG/DL|
+
+:
+:
+mg
+<100
+Near Optimal/Above Optimal: 100-129 mg/dl
+Borderline High:
+130-159 mg/dl
+LEONE, LYDIA M
+0
+Page
+3 of 01 CLIA# 07D0100596 Charlotte Hungerford Hospital Laboratory 540 Litchfield Street Torrington CT 06790 Medical
+DirectSigned by KAREN CARTER on 06/28/2019 03:39 PM
+Notes: REVIEWED BY PROVIDER
+4
+-
+
+-------------------------------------------
+-------------------------------------------
+REPORT STATUS Final
+PATIENT INFORMATION
+LEONE, LYDIA M
+Charlotte Hungerford
+Labs
+ORDERING PHYSICIAN
+MORRIS, GLENELL
+Age: 95
+SPECIMEN INFORMATION
+REQUISITION: 337012
+LAB REF NO:
+ACCESSION #: V06855082
+ORDER DATE 05/09/2019 09:25 AM
+DOB: 5/7/1924
+GENDER: Female
+MRN: H327804
+CLIENT INFORMATION: 91224
+CHARLOTTE HUNGERFORD
+MULTI-SPECIALTY GROUP
+220 KENNEDY DRIVE
+ID: 24027-1
+PHONE: (860) 482-8376
+TORRINGTON
+CT
+06790 - 6679
+VisitNumber :
+V06855082
+Test Name
+In Range
+Out of Range
+Result Flag Reference Range ID
+High:
+160-189 mg/dl
+Very High:
+>= 190 mg/dl
+Reference range recommendations from the National
+Cholesterol Education Program (NCEP), May/01.
+This LDL result is based on the Freidewald calculation.
+When the LDL is elevated, the Direct LDL test may provide a more accurate risk stratification. Upon request a Direct
+LDL can be performed on this specimen within 3 days of collection.
+Normal
+TSH W/REFLEX FREE T4
+COLLECTED:
+5/9/2019 9:26:00 AM
+3.56
+N
+0.35-4.0 IU/ML
+GLYCHOHEMOGLOBIN
+Abnormal
+COLLECTED:
+5/9/2019 9:26:00 AM
+HEMOGLOBIN A1c
+5.7
+H
+<5.7
+UNITS OF MEASURE: % of total Hgb
+For someone without known diabetes, a hemoglobin
+A1c value between 5.7% and 6.4% is consistent with prediabetes and should be confirmed with a follow-up test.
+For someone with known diabetes, a value <7% indicates that their diabetes is well controlled. Alc targets should be individualized based on duration of diabetes, age, comorbid conditions, and other considerations.
+This assay result is consistent with an increased risk of diabetes.
+Currently, no consensus exists regarding use of hemoglobin Alo for diagnosis of diabetes for children.
+Test performed at QUEST DIAGNOSTICS LLC
+200 FOREST STREET 3RD FLOOR, SUITE B
+MARLBOROUGH, MA 01752-3023
+Director: SALIM E KABAWAT MD
+Order Comments:
+4 of 4
+LEONE, LYDIA M
+0
+Page
+01 CLIA# 07D0100596 Charlotte Hungerford Hospital Laboratory 540 Litchfield Street Torrington CT 06790 Medical
+Direct Signed by KAREN CARTER on 06/28/2019 03:39 PM
+Notes: REVIEWED BY PROVIDER
+-
+
+-------------------------------------------
+-------------------------------------------
+Lydia M Leone
+95 Year Old Female Birth Date: 5/7/1924 MRN: H327804 Account: 24027-1
+Patient Encounter
+This encounter was created on Monday, October 22, 2018 at 3:18 PM
+General Information
+Main Provider: Glenell Morris, PAC
+Encounter: ID 447516
+Responsible: Glenell Morris, PAC
+Stage: Patient with Provider Room:
+Appointment: Monday, October 22, 2018 at 3:30 PM
+Insurance: CONNECTICARE MEDICARE (MCRCT)
+Visit Type:
+Pcp Follow Up 30 Minutes
+Location: Primary Care Practice
+Case :
+DEFAULT CASE (0)
+Base Date: None
+Charges: No
+Signature: Signed by GLENELL MORRIS, PAC on Monday, October 22, 2018 at 4:25 PM External Appointment Id: V06557583
+Charting
+Lydia Leone: F: 5/07/1924: 10/22/2018 04:23PM
+Reason for Visit
+Visit for: Review of Chronic Conditions.
+ Follow-up visit for hypertension
+ Follow-up visit for diabetes
+The reason for visit/ chief complaint is: FOLLOW UP. Refused flu shot.
+The reason for visit/ chief complaint is: bw results.
+History of present illness
+Lydia Leone is a 94 year old female.
+She reported: Medication list reviewed.
+Patient presents to the office for f/u type 2 DM/HTN and to review her labs.
+Type 2 DM: BS has been stable on januvia 25 mg QD, in the low 100s. Highest 104. No hypoglycemia. Will recheck HgBA1C
+Coumadin - Pt has been coming in once a month to have her INR checked.
+HTN: Taking atenolol 100 mg QD, lisinopril 40 mg QD, and amlodipine 2.5 mg QD. BP has been good at home. Tolerating all these well.
+RHM: Pt is refusing shingles or flu vaccine.
+.
+Current medication
+medication history.
+ Coumadin 5 mg oral tablet: renewed: 4/22/2016 Sig: 0.5 tablet (s) orally (by mouth) once/day as directed
+ FREESTYLE LITE LANCETS: renewed: 4/13/2017 Sig: test bs qd and prn e11.9
+ FREESTYLE LITE METER: renewed: 4/13/2017 Sig: test bs qd and prn dx e.11.9
+ lisinopril 40 mg oral tablet: renewed: 5/14/2018 Sig: take one tablet(s) daily
+Synthroid 50 mcg (0.05 mg) oral tablet: renewed: 8/13/2018 Sig: 1 orally (by mouth) once a day
+ atenolol 100 mg oral tablet: renewed: 9/6/2018 Sig: 1 orally (by mouth) once a day
+ warfarin 1 mg oral tablet: renewed: 9/24/2018 Sig: 1 1/2 orally (by mouth) once a day
+ Januvia 25 mg oral tablet: renewed: 9/24/2018 Sig: 1 tab once a day
+ atorvastatin 20 mg oral tablet: renewed: 9/25/2018 Sig: 1 orally (by mouth) once a day
+ amLODIPine 2.5 mg oral tablet: renewed: 10/15/2018 Sig: 1 orally (by mouth) once a day
+ amLODIPine 2.5 mg oral tablet: renewed: 1/30/2018 Sig: 1 orally (by mouth) once a day
+ warfarin 1 mg oral tablet: renewed: 3/12/2018 Sig: 1 orally (by mouth) once a day
+ atenolol 100 mg oral tablet: renewed: 3/12/2018 Sig: 1 orally (by mouth) once a day
+ atorvastatin 20 mg oral tablet: renewed: 3/28/2018 Sig: 1 orally (by mouth) once a day
+ lisinopril 40 mg oral tablet: renewed: 10/12/2017 Sig: take one tablet(s) daily
+Synthroid 50 mcg (0.05 mg) oral tablet: renewed: 10/24/2017 Sig: 1 orally (by mouth) once a day
+Risk Assessment
+Patient reports no history of falls within the last 90 days.
+Feels safe in home.
+Patient does not require or need assistance to rise from a chair.
+Patient does not use a cane or a walker.
+Patient does not require or need assistance to walk and get around.
+Past medical/surgical history
+Reported:
+Reviewed no recent change in medical history - I have reviewed the patient's medical history from the prior encounter and no changes are noted.
+Currently wearing eyeglasses.
+Not wearing contact lenses.
+A recent examination by a podiatrist.
+No mammogram was performed.
+
+-------------------------------------------
+-------------------------------------------
+Lydia M Leone
+95 Year Old Female Birth Date: 5/7/1924 MRN: H327804 Account: 24027-1
+No prior tests were performed bone density.
+No prior tests were performed colonoscopy.
+Personal history
+Reviewed social history unchanged - I have reviewed the patient's social history from the prior encounter on the date above and no changes are noted.
+Current diet: Unremarkable diet.
+Behavioral: Never a smoker.
+Alcohol: Not using alcohol.
+Habits: Seeing an eye doctor 2014 and seeing an eye doctor.
+Not seeing a dentist.
+Family history
+Family history unchanged - I have reviewed the patient's family history from the prior encounter on the date above and no changes are noted.
+Review of systems
+Systemic: Feeling fine, not feeling terrible, no generalized pain, Experiencing no pain, and not feeling tired (fatigue). No fever, no recent weight loss, and no recent weight gain.
+Head: No headache.
+Cardiovascular: Leg edema. No chest pain or discomfort and no palpitations.
+Pulmonary: No dyspnea.
+Gastrointestinal: No nausea, no vomiting, no abdominal pain, bowel movement frequency was normal, and no hematochezia.
+Constipation.
+Genitourinary: No urinary symptoms.
+Hematologic: No easy bleeding.
+Neurological: No dizziness, no lightheadedness, and no frequent falls while walking. No difficulty with balance.
+Physical findings
+Vital Signs:
+Vital Signs/Measurements Value
+RR 169 breaths/minPR -Right Arm 60 bpm PR -Left Arm 67 bpm
+Weight 196 lbs
+Body mass index 35.8 kg/m2
+Skin:
+ No rash.
+Vital Signs:
+Vital Signs: Value
+Temperature 98.8 FSystolic blood pressure in the left arm 132 mmHg
+Diastolic blood pressure in the left arm 78 mmHgSystolic blood pressure in the right arm 136 mmHg
+Diastolic blood pressure in the right arm 64 mmHg
+Standard Measurements:
+ Height.
+Weight - unable to obtain. Height - unable to obtain.
+General Appearance:
+ Well-appearing Elderly woman in NAD, pleasant. In no acute distress.
+Head:
+Appearance: Head normocephalic.
+Eyes:
+General/bilateral:
+Anterior Orbit / Periorbit: Anterior orbit/periorbit normal.
+External: Eye showed no abnormalities.
+Sclera: Normal.
+Pharynx:
+Oropharynx: Normal.
+Lungs:
+ Clear to auscultation. No wheezing was heard. No rhonchi were heard. No rales/crackles were heard.
+Cardiovascular:
+Heart Rate And Rhythm: Normal.
+Heart Sounds: Normal.
+Murmurs: No murmurs were heard.
+Carotid Arteries: No bruit in the carotid artery.
+Arterial Pulses: Radial pulses were normal.
+o
+o
+Edema: Present Lymphedema BLEs.
+Abdomen:
+o Normal.
+Neurological:
+ Level of consciousness was normal. Cognitive functioning was normal. Oriented to time, place, and person.
+Psychiatric:
+Mood: Euthymic.
+Skin:
+o
+ General appearance was normal.
+Laboratory Studies:
+ 97% oxygen saturation.
+Blood Analysis:
+
+-------------------------------------------
+-------------------------------------------
+Lydia M Leone
+95 Year Old Female Birth Date: 5/7/1924 MRN: H327804 Account: 24027-1
+Blood Analysis:
+Blood Gas Analyses: Arterial blood fio2 room air.
+Tests
+Blood Analysis:
+Blood sugar level by fingerstick was 104 mg/dL.
+Reviewed CBC.
+Blood Chemistry:
+Reviewed hepatic function panel, reviewed lipid test panel, and reviewed renal function panel.
+Blood Vitamin Levels:
+Reviewed blood vitamin levels low 25 and reviewed vitamin D.
+Endocrine Laboratory Tests:
+Reviewed hemoglobin Alc.
+Assessment
+ Vitamin D deficiency Vit D low 25 - Pt will take 2000 mg Vit D daily. Recheck on f/u
+Type 2 diabetes mellitus which is stable, continue current tx regimen
+Hypertension which is stable Check labs, continue current tx regimen
+Constipation Discussed dietary and lifestyle modification. Pt reports improvement with Prune juice. She will continue and take 6-8 glasses of water daily. Activity as tolerated
+ Edema Will order pneumatic compression device. I have recommended compression socks and leg elevation
+.
+Plan
+ Serum 25-hydroxycholecalciferol
+ Hemoglobin Alc
+Continue to drink a small glass of warm prune juice/day
+.
+Drink a glass of water with meals and a glass everytime you go into the bathroom.
+Get up and walk around at least once an hour while you are awake
+Elevate your legs frequently and wear compression stockings when walking in the stores.
+TAke Vitamin D 1000 - 2000mg of Vit D. daily.
+ Follow-up for re-examination in 6 months.per pt request
+Medications
+No medications have been prescribed.
+Custom Encounter Template
+No Custom Template has been selected.
+
+-------------------------------------------
+-------------------------------------------
+1
+DATE: 05/10/19
+PAGE 1
+Charlotte Hungerford Hospital Laboratory
+540 Litchfield Street, Torrington, CT 06790
+Medical Director: Jyothilekshmi N. Pillai MD
+(860) 496-6560 CLIA#07D0100596
+State License: Main Lab HP-0245
+BloodBank BB-1028
+V#: V06855082
+UNIT # : H327804
+PATIENT : LEONE, LYDIA M
+PHYSICIAN: MORRIS, GLENELL PA
+DOB: 05/07/24
+AGE/SEX: 95/F
+LOCATION: LABOPCHH
+PHONE #: 860-482-8376
+Received: 05/09/19-1044
+Specimen: 0509:000217R COMP Collected: 05/09/19-0926
+Submitting Doctor: MORRIS, GLENELL PA
+Copies To: MORRIS, GLENELL PA
+Test
+Low
+Normal
+High
+Flag Reference
+> TSH
+3.56
+10.35-4.0 IU/ML
+Received: 05/09/19-1044
+Specimen: 0509:C00218R COMP Collected: 05/09/19-0926
+Submitting Doctor: MORRIS, GLENELL PA
+Copies To: MORRIS, GLENELL PA
+Test
+LOW
+Normal
+High
+Flag Reference
+CHEMISTRY
+|> GLUCOSE||100|||70-110 MG/DL|
+|> BLOOD UREA NITROGEN|||32|H|7-18 MG/DL|
+|> CREATININE, SERUM|||1.5|H|0.6-1.0 MG/DL|
+|> ESTIMATED GFR|34|||L|>60 ML/MIN|
+
+1 If patient 1.21 . > ESTIMATED CREATININE CLEARANCE
+African
+American
+multiply
+is
+by
+||Test|not performed|I||ML/MIN|
+||Weight missing,|cannot|calculate CRCL|||
+|> SODIUM||141|||136-145 MMOL/L|
+|> POTASSIUM||4.2|||3.5-5.1 MMOL/L|
+|> CHLORIDE||105|||98-110 MMOL/L|
+|> CO2||28|||21-32 MMOL/L|
+|> CALCIUM||8.9|||8. 5-10.1 MG/DL|
+|> TOTAL PROTEIN||7.2|||6.4-8.0 G/DL|
+|> ALBUMIN||3.5|||3.4-5.0 G/DL|
+|> TOTAL BILIRUBIN||0.9|||0.2-1.0 MG/DL|
+|> AST||16|||15-37 U/L|
+|> ALT||19|||12-78 U/L|
+|> ALKALINE PHOSPHATASE||57|||45-117 U/L|
+|> CHOLESTEROL||133|||<200 MG/DL|
+
+, <200
+Borderline-High: 200-239 mg/d1
+High:
+Desirable:
+>/= 240 mg/dl
+Reference range recommendations from the National
+Cholesterol Education Program (NCEP), May/01.
+> TRIGLYCERIDES
+103
+|<150 MG/DL
+Normal:
+<150
+Borderline-High: 150-199 mg/d1
+High:
+200-499 mg/d1
+mg/di
+** CONTINUED ON NEXT PAGE **
+
+-------------------------------------------
+-------------------------------------------
+2
+DATE: 05/10/19
+PAGE 2
+Charlotte Hungerford Hospital Laboratory
+540 Litchfield Street, Torrington, CT 06790
+Medical Director: Jyothilekshmi N. Pillai MD
+(860) 496-6560 CLIA#07D0100596
+State License: Main Lab HP-0245
+BloodBank BB-1028
+UNIT #: H327804
+V#: V06855082
+PATIENT: LEONE, LYDIA M
+(continued)
+Test
+LOW
+Normal
+High
+Flag
+Reference
+Very High:
+>500 mg/dl
+Reference range recommendations from the National
+Cholesterol Education Program (NCEP), May/01.
+CHEMISTRY CONTINUED
+> HDL CHOLESTEROL
+55
+| MG/DL
+HDL levels are inversely related to the incident of coronary heart disease (CHD).
+HDL < 40 mg/dL Major risk factor for CHD
+HDL > or = 60 mg/dL Low risk factor for CHD
+Reference range recommendations from the National
+Cholesterol Education Program (NCEP), May/01.
+> LDL CHOLESTEROL (cal)
+| 57
+|<100 MG/DL
+Optimal:
+<100
+mg/d1
+Near Optimal/Above Optimal: 100-129 mg/dl
+Borderline High:
+130-159 mg/dl
+High:
+160-189 mg/dl
+Very High:
+>/= 190 mg/dl
+Reference range recommendations from the National
+Cholesterol Education Program (NCEP), May/01.
+This LDL result is based on the Freidewald calculation.
+When the LDL is elevated, the Direct LDL test may provide a more accurate risk stratification. Upon request a Direct
+LDL can be performed on this specimen within 3 days of collection.
+Received: 05/09/19-1044
+Specimen: 0509:CG00041R COMP Collected: 05/09/19-0926
+Submitting Doctor: MORRIS, GLENELL PA
+Copies To: MORRIS, GLENELL PA
+Test
+Low
+Normal
+High
+Flag Reference
+| H 19.6-11.5 SEC
+> PT
+19.0
+> INTERNATIONAL NORM RATIO
+1.8
+Standard dose anticoagulant: 2.0 - 3.0
+High dose anticoagulant: 2.5 - 3.5
+H 10.9-1.1
+** CONTINUED ON NEXT PAGE **
+
+-------------------------------------------
+-------------------------------------------
+2
+DATE: 05/10/19
+PAGE 2
+Charlotte Hungerford Hospital Laboratory
+540 Litchfield Street, Torrington, CT 06790
+Medical Director: Jyothilekshmi N. Pillai MD
+(860) 496-6560 CLIA#07D0100596
+State License: Main Lab HP-0245
+BloodBank BB-1028
+UNIT #: H327804
+V#: V06855082
+PATIENT: LEONE, LYDIA M
+(continued)
+Test
+Low
+Normal
+High
+Flag
+Reference
+Very High:
+>500 mg/d1
+Reference range recommendations from the National
+Cholesterol Education Program (NCEP), May/01.
+CHEMISTRY CONTINUED
+> HDL CHOLESTEROL
+1 55
+MG/DL
+HDL levels are inversely related to the incident of coronary heart disease (CHD).
+HDL < 40 mg/dL Major risk factor for CHD
+HDL > or = 60 mg/dL Low risk factor for CHD
+Reference range recommendations from the National
+Cholesterol Education Program (NCEP), May/01.
+> LDL CHOLESTEROL (cal)
+57
+|<100 MG/DL
+Optimal:
+<100
+mg/d1
+Near Optimal/Above Optimal: 100-129 mg/d1
+Borderline High:
+130-159 mg/d1
+High:
+160-189 mg/d1
+Very High:
+>/= 190 mg/dl
+Reference range recommendations from the National
+Cholesterol Education Program (NCEP), May/01.
+This LDL result is based on the Freidewald calculation.
+When the LDL is elevated, the Direct LDL test may provide a more accurate risk stratification. Upon request a Direct
+LDL can be performed on this specimen within 3 days of collection.
+Received: 05/09/19-1044
+Specimen: 0509:CG00041R COMP Collected: 05/09/19-0926
+Submitting Doctor: MORRIS, GLENELL PA
+Copies To: MORRIS, GLENELL PA
+Test
+LOW
+Normal
+High
+Flag Reference
+| H 19.6-11.5 SEC
+> PT
+19.0
+> INTERNATIONAL NORM RATIO
+1.8
+Standard dose anticoagulant: 2.0 3.0
+High dose anticoagulant: 2.5 - 3.5
+HH 10.9-1.1
+** CONTINUED ON NEXT PAGE **
+
+-------------------------------------------
+-------------------------------------------
+3
+DATE: 05/10/19
+PAGE 3
+Charlotte Hungerford Hospital Laboratory
+540 Litchfield Street, Torrington, CT 06790
+Medical Director: Jyothilekshmi N. Pillai MD
+(860) 496-6560 CLIA#07D0100596
+State License: Main Lab HP-0245
+BloodBank BB-1028
+UNIT #: H327804
+V#: V06855082
+PATIENT : LEONE, LYDIA M
+(continued)
+Specimen: 0509:H001310 COMP Collected: 05/09/19-0926
+Submitting Doctor: MORRIS, GLENELL PA
+Received: 05/09/19-1044
+Copies To: MORRIS, GLENELL PA
+|Test|Low|Normal|High||Flag Reference|
+|COMPLETE BLOOD COUNT||||||
+|> WHITE BLOOD COUNT||7.30|||3.6-11.1 10-3/UL|
+|> RED BLOOD COUNT||4.13|||3.69-5.16 10-6/UL|
+|> HEMOGLOBIN||12.7|||11.6-15.2 G/DL|
+|> HEMATOCRIT||38.1|||34.4-45.7 %|
+|> MCV INDEX||92.2|||81.1-98.7 FL|
+|> MCH INDEX||30.8|||26.8-33.2 PG|
+|> MCHC INDEX||33.4|||32.3-35.6 G/DL|
+|> RC DISTR WIDTH||14.4|||10.9-15.8 f|
+|> PLATELET COUNT||224|||122-400 10-3/UL|
+|> MEAN PLATELET VOLUME||8.8|||7.1-10.8 fL|
+|AUTOMATED DIFFERENTIAL||||||
+|> of NEUTROPHILS||56.7|||%|
+|> & LYMPHOCYTES||33.2|||&|
+|> & MONOCYTES||8.4||||
+|> & EOSINOPHILS||1.0||||
+|> q BASOPHILS||0.7|||f|
+|||||||
+|> NEUTROPHIL #||4.2|||2.0-7.5 10-3/UL|
+|> LYMPHOCYTE #||2.4|||1.5-4.5 10-3/UL|
+|> MONOCYTE #||0.6|||0.2-1.0 10-3/UL|
+|> EOSINOPHIL #||0.1|||0.0-0.7 10-3/UL|
+|> BASOPHIL #||0.1|||0.0-0.1 10-3/UL|
+|> NUCLEATED RBC NUMBER||0.0|||0.0-0.3|
+
+.
+Received: 05/09/19-1044
+Specimen: 0509: SN00053R COMP Collected: 05/09/19-0926
+Submitting Doctor: MORRIS, GLENELL PA
+Copies To: MORRIS, GLENELL PA
+Test
+LOW
+Normal
+High
+Flag Reference
+> HEMOGLOBIN Alc
+1 5.7
+H<5.7
+UNITS OF MEASURE: % of total Hgb
+For someone without known diabetes, a hemoglobin
+Alc value between 5.7% and 6.4% is consistent with prediabetes and should be confirmed with a follow-up test.
+|
+I
+** CONTINUED ON NEXT PAGE **
+
+-------------------------------------------
+-------------------------------------------
+4
+DATE: 05/10/19
+PAGE 4
+Charlotte Hungerford Hospital Laboratory
+540 Litchfield Street, Torrington, CT 06790
+Medical Director: Jyothilekshmi N. Pillai MD
+(860) 496-6560 CLIA#07D0100596
+State License: Main Lab HP-0245
+BloodBank BB-1028
+UNIT #: H327804
+V#: V06855082
+PATIENT: LEONE, LYDIA M
+(continued)
+Test
+LOW
+Normal
+High
+Flag
+Reference
+For someone with known diabetes, a value <7% indicates that their diabetes is well controlled. Alc targets should be individualized based on duration of diabetes, age, comorbid conditions, and other considerations.
+This assay result is consistent with an increased risk of diabetes.
+Currently, no consensus exists regarding use of hemoglobin Alc for diagnosis of diabetes for children.
+Test performed at QUEST DIAGNOSTICS LLC
+200 FOREST STREET 3RD FLOOR, SUITE B
+MARLBOROUGH, MA 01752-3023
+Director: SALIM E KABAWAT, MD
+Received: 05/09/19-1044
+Specimen: 0509: SN00054R COMP Collected: 05/09/19-0926
+Submitting Doctor: MORRIS, GLENELL PA
+Copies To: MORRIS, GLENELL PA
+|Test|Low|Normal High|
+|> VIT D 25-OH TOTAL|23 Vitamin D Status|| L 25-OH Vitamin D:|
+||||
+||Deficiency:|<20 ng/mL|
+||Insufficiency:|20 - 29 ng/mL|
+||Optimal:|> or = 30 ng/mL|
+||||
+||For 25-OH Vitamin D|testing on patients on|
+||D2-supplementation|and patients for whom|
+||of D2 and D3 fractions|is required, the|
+||25-OH VIT D, (D2,D3),|LC/MS/MS is recommended:|
+||code 92888 (patients|>2yrs)|
+||For more information|on this test, go to:|
+||http://education.|questdiagnostics.com/faq/FAQ163|
+||(This link is being|provided for|
+||informational/educational|purposes only. )|
+||||
+
+Flag Reference
+| 30-100 ng / mL
+quantitation QuestAssureD ( TM )
+: order
+.
+** CONTINUED ON NEXT PAGE **
+
+-------------------------------------------
+-------------------------------------------
+5
+DATE: 05/10/19
+PAGE 5
+Charlotte Hungerford Hospital Laboratory
+540 Litchfield Street, Torrington, CT 06790
+Medical Director: Jyothilekshmi N. Pillai MD
+(860) 496-6560 CLIA#07D0100596
+State License: Main Lab HP-0245
+BloodBank BB-1028
+UNIT #: H327804
+v#: V06855082
+PATIENT: LEONE, LYDIA M
+(continued)
+Test
+LOW
+Normal
+High
+Flag
+Reference
+Test performed at QUEST DIAGNOSTICS LLC
+200 FOREST STREET 3RD FLOOR, SUITE B
+MARLBOROUGH, MA 01752-3023
+Director: SALIM E KABAWAT, MD
+** END OF REPORT **
+
+-------------------------------------------
+-------------------------------------------
+Lydia M Leone
+95 Year Old Female Birth Date: 5/7/1924 MRN: H327804 Account: 24027-1
+Patient Encounter
+This encounter was created on Tuesday, May 14, 2019 at 3:17 PM
+General Information
+Main Provider: Glenell Morris, PAC
+Encounter: ID 534950
+Responsible: Glenell Morris, PAC
+Stage: Patient with Provider Room:
+Referring: Morris, Glenell PAC
+Appointment: Tuesday, May 14, 2019 at 3:30 PM
+Insurance: CONNECTICARE MEDICARE (MCRCT)
+Visit Type: Pcp Follow Up 30 Minutes
+Location: Primary Care Practice
+Case : DEFAULT CASE (0)
+Base Date: None
+Charges: No
+Signature: Signed by GLENELL MORRIS, PAC on Tuesday, May 14, 2019 at 4:09 PM External Appointment Id: 106703102
+Charting
+Lydia Leone: F: 5/07/1924: 5/14/2019 03:55PM
+Reason for Visit
+Visit for: Review of Chronic Conditions.
+Visit for: follow-up exam Vitamin D deficiency and leg edema.
+ Follow-up visit for hypertension
+ Follow-up visit for diabetes
+The reason for visit/ chief complaint is: FOLLOW UP. Refused flu shot.
+The reason for visit/ chief complaint is: bw results.
+History of present illness
+Lydia Leone is a 95 year old female.
+She reported: Medication list reviewed.
+Patient presents to the office for f/u type 2 DM/HTN and to review her labs.
+Type 2 DM: BS has been stable on januvia 25 mg QD, in the low 100s. Highest 104. No hypoglycemia. HgbA1C is 5.7%
+Coumadin - Pt will continue coming in once a month to have her INR checked.
+HTN: Taking atenolol 100 mg QD, lisinopril 40 mg QD, and amlodipine 2.5 mg QD. BP has been good at home. Tolerating all these well.
+GFR 34
+Pt is not drinking recommended amount of water. She eats canned soups.
+Current medication
+medication history.
+ Coumadin 5 mg oral tablet: renewed: 4/22/2016 Sig: 0.5 tablet (s) orally (by mouth) once/day as directed
+ FREESTYLE LITE LANCETS: renewed: 4/13/2017 Sig: test bs qd and prn e11.9
+ FREESTYLE LITE METER: renewed: 4/13/2017 Sig: test bs qd and prn dx e.11.9
+ amLODIPine 2.5 mg oral tablet: renewed: 10/15/2018 Sig: 1 orally (by mouth) once a day
+Synthroid 50 mcg (0.05 mg) oral tablet: renewed: 11/16/2018 Sig: 1 orally (by mouth) once a day
+ lisinopril 40 mg oral tablet: renewed: 11/29/2018 Sig: take one tablet(s) daily
+ atenolol 100 mg oral tablet: renewed: 3/7/2019 Sig: 1 orally (by mouth) once a day
+ Januvia 25 mg oral tablet: renewed: 3/18/2019 Sig: 1 tab once a day
+ atorvastatin 20 mg oral tablet: renewed: 3/27/2019 Sig: 1 orally (by mouth) once a day
+ warfarin 1 mg oral tablet: renewed: 4/19/2019 Sig: 1 1/2 orally (by mouth) once a day
+ amLODIPine 2.5 mg oral tablet: renewed: 1/30/2018 Sig: 1 orally (by mouth) once a day
+ warfarin 1 mg oral tablet: renewed: 3/12/2018 Sig: 1 orally (by mouth) once a day
+ atenolol 100 mg oral tablet: renewed: 3/12/2018 Sig: 1 orally (by mouth) once a day
+ atorvastatin 20 mg oral tablet: renewed: 3/28/2018 Sig: 1 orally (by mouth) once a day
+ lisinopril 40 mg oral tablet: renewed: 10/12/2017 Sig: take one tablet(s) daily
+ Synthroid 50 mcg (0.05 mg) oral tablet: renewed: 10/24/2017 Sig: 1 orally (by mouth) once a day
+ lisinopril 40 mg oral tablet: renewed: 5/14/2018 Sig: take one tablet(s) daily
+ Synthroid 50 mcg (0.05 mg) oral tablet: renewed: 8/13/2018 Sig: 1 orally (by mouth) once a day
+ atenolol 100 mg oral tablet: renewed: 9/6/2018 Sig: 1 orally (by mouth) once a day
+ warfarin 1 mg oral tablet: renewed: 9/24/2018 Sig: 1 1/2 orally (by mouth) once a day
+ Januvia 25 mg oral tablet: renewed: 9/24/2018 Sig: 1 tab once a day
+ atorvastatin 20 mg oral tablet: renewed: 9/25/2018 Sig: 1 orally (by mouth) once a day
+Risk Assessment
+Patient reports no history of falls within the last 90 days.
+Feels safe in home.
+Patient does not require or need assistance to rise from a chair.
+Patient does not use a cane or a walker.
+Patient does not require or need assistance to walk and get around.
+
+-------------------------------------------
+-------------------------------------------
+Lydia M Leone
+95 Year Old Female Birth Date: 5/7/1924 MRN: H327804 Account: 24027-1
+Past medical/surgical history
+Reported:
+Reviewed no recent change in medical history - I have reviewed the patient's medical history from the prior encounter and no changes are noted.
+Currently wearing eyeglasses.
+Not wearing contact lenses.
+A recent examination by a podiatrist.
+No mammogram was performed.
+No prior tests were performed bone density.
+No prior tests were performed colonoscopy.
+Personal history
+Reviewed social history unchanged - I have reviewed the patient's social history from the prior encounter on the date above and no changes are noted.
+Current diet: Unremarkable diet.
+Behavioral: Never a smoker.
+Alcohol: Not using alcohol.
+Habits: Seeing an eye doctor 2014 and seeing an eye doctor.
+Not seeing a dentist.
+Family history
+Family history unchanged - I have reviewed the patient's family history from the prior encounter on the date above and no changes are noted.
+Review of systems
+Systemic: Feeling fine, not feeling terrible, no generalized pain, Experiencing no pain, and not feeling tired (fatigue). No fever, no recent weight loss, and no recent weight gain.
+Head: No headache.
+Cardiovascular: Leg edema. No chest pain or discomfort and no palpitations.
+Pulmonary: No dyspnea.
+Gastrointestinal: No nausea, no vomiting, no abdominal pain, bowel movement frequency was normal, and no hematochezia.
+Constipation.
+Genitourinary: No urinary symptoms.
+Hematologic: No easy bleeding.
+Neurological: No dizziness, no lightheadedness, and no frequent falls while walking. No difficulty with balance.
+.
+o
+Physical findings
+Vital Signs:
+Vital Signs/Measurements Value
+RR 169 breaths/minBlood pressure in the left arm 132/78 mmHgBlood pressure in the right arm 158/76 mmHgPR -Right Arm 59 bpmPR -Left
+Arm 67 bpm
+Weight 196 lbs
+Body mass index 35.84 kg/m2
+Height 62 in Skin:
+ No rash.
+Vital Signs:
+Temperature was 97.4 F.
+Standard Measurements:
+Weight - unable to obtain. Height - unable to obtain.
+General Appearance:
+Well-appearing Elderly woman in NAD, pleasant. In no acute distress.
+Head:
+Appearance: Head normocephalic.
+Eyes:
+General/bilateral:
+Anterior Orbit / Periorbit: Anterior orbit/periorbit normal.
+External: Eye showed no abnormalities.
+Sclera: Normal.
+Pharynx:
+Oropharynx: Normal.
+Lungs:
+o
+ Clear to auscultation. No wheezing was heard. No rhonchi were heard. No rales/crackles were heard.
+Cardiovascular:
+Heart Rate And Rhythm: Normal.
+Heart Sounds: Normal.
+Murmurs: No murmurs were heard.
+Carotid Arteries: No bruit in the carotid artery.
+Arterial Pulses: Radial pulses were normal.
+Edema: Present Lymphedema BLES.
+Abdomen:
+o Normal.
+Neurological:
+ level of consciousness was normal. Cognitive functioning was normal. Oriented to time, place, and person.
+
+-------------------------------------------
+-------------------------------------------
+Lydia M Leone
+95 Year Old Female Birth Date: 5/7/1924 MRN: H327804 Account: 24027-1
+ Level of consciousness was normal. Cognitive functioning was normal. Oriented to time, place, and person.
+Psychiatric:
+Mood: Euthymic.
+Skin:
+ General appearance was normal.
+Laboratory Studies:
+ 98% oxygen saturation.
+Blood Analysis:
+Blood Gas Analyses: Arterial blood fio2 room air.
+Tests
+Blood Analysis:
+Blood sugar level by fingerstick was 104 mg/dL.
+Reviewed CBC.
+Blood Chemistry:
+Reviewed hepatic function panel, reviewed lipid test panel, and reviewed renal function panel.
+Blood Vitamin Levels:
+Reviewed blood vitamin levels low 25 and reviewed vitamin D in serum.
+Endocrine Laboratory Tests:
+Reviewed hemoglobin Alc.
+Assessment
+ Vitamin D deficiency Vit D low 25 - Pt will take 2000 IUS daily
+Type 2 diabetes mellitus which is well-controlled, continue current tx regimen
+Hypertension which is stable Check labs, continue current tx regimen. CKD III - advised pt to increase fluids and limit salt and processed foods. Will recheck CMP in 6 months
+Constipation which is well-controlled pt will continue with Prune juice, encouraged improved hydration and activity as tolerated
+ Edema Will order pneumatic compression device. I have recommended compression socks and leg elevation
+.
+Plan
+1. Watch the salt in canned soups or other processed foods.
+2. Put a glass for water in the bathroom and drink one every time you visit the bathroom.
+3. Continue with compression boots and leg elevation.
+ Follow-up for re-examination in 6 months.per pt request
+Medications
+No medications have been prescribed.
+Custom Encounter Template
+No Custom Template has been selected.
+
+-------------------------------------------
+-------------------------------------------

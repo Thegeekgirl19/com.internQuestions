@@ -1,0 +1,94 @@
+<ezNLP>
+<Icd10CmCode>
+<code value="E66.9" rank="471" knowledgeId="116" isDisable="0" text="obesity;" isBillable="false" evidence="obesity" evidenceBegin="9764" evidenceEnd="9771" cuiList="28754;" acceptRejectFlag="DEFAULT"/>
+<problem value="obesity" begin="9764" end="9771" status="0" certainty="0" cui="C0028754;C1963185" tui="T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="N18.3" rank="999" knowledgeId="9" isDisable="0" text="N18.3;" isBillable="false" evidence="N18.3" evidenceBegin="9271" evidenceEnd="9276" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z68.39" rank="5" knowledgeId="4" isDisable="0" text="Body mass;" isBillable="false" evidence="Body mass index" evidenceBegin="9742" evidenceEnd="9757" cuiList="2240399;" acceptRejectFlag="DEFAULT"/>
+<meas value="Body mass" begin="9742" end="9751" status="0" certainty="0" code="NO-CODE">
+</meas>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.3" rank="129" knowledgeId="96" isDisable="0" text="Family History;Cerebrovascular accident;" isBillable="false" evidence="Cerebrovascular accident" evidenceBegin="3138" evidenceEnd="3162" cuiList="38454;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Cerebrovascular accident" begin="3138" end="3162" status="2" certainty="0" cui="C0038454" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="P29.2" rank="129" knowledgeId="128" isDisable="0" text="HIGH BLOOD PRESSURE;" isBillable="false" evidence="HIGH BLOOD PRESSURE" evidenceBegin="9718" evidenceEnd="9737" cuiList="20538;" acceptRejectFlag="DEFAULT"/>
+<problem value="HIGH BLOOD PRESSURE" begin="9718" end="9737" status="0" certainty="0" cui="C0005824;C1272641;C1271104;C0020538;C0857121;C0005823" tui="T058;T033;T040;T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.22" rank="999" knowledgeId="100" isDisable="0" text=";Chronic kidney disease;Type 2 diabetes mellitus;type 2 diabetes mellitus;N18.3;Diabetes;CHRONIC KIDNEY DISEASE" isBillable="false" evidence="Diabetes_SEP_Diabetes_SEP_Chronic kidney disease due to type 2 diabetes mellitus_SEP_N18.3_SEP_Chronic kidney disease_SEP_stage 3_SEP_moderate_SEP_CHRONIC KIDNEY DISEASE_SEP_Insulin treated type 2 diabetes mellitus_SEP_Type 2 diabetes mellitus" evidenceBegin="3991,4070,9187,9271,9278,9302,9311,9323,9369,9480" evidenceEnd="3999,4078,9241,9276,9300,9309,9319,9345,9409,9504" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<problem value="Chronic kidney disease" begin="9187" end="9209" status="0" certainty="0" cui="C0403447;C0022661;C2874077;C1561643;C1579029" tui="T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<problem value="Chronic kidney disease" begin="9278" end="9300" status="0" certainty="0" cui="C0403447;C0022661;C1561643" tui="T047;T047;T046;T046;T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<problem value="CHRONIC KIDNEY DISEASE" begin="9323" end="9345" status="0" certainty="0" cui="C2316787;C0403447;C0022661;S00016225;S00014513;C1561643;S00019322;C1561640" tui="T047;T046;T047;T046;T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<problem value="Diabetes" begin="3991" end="3999" status="1" certainty="0" cui="C0241863;C0011847;C0011849" tui="T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<problem value="Diabetes" begin="4070" end="4078" status="0" certainty="0" cui="C0241863;C0011847;C0011849" tui="T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<problem value="type 2 diabetes mellitus" begin="9385" end="9409" status="0" certainty="0" cui="C0011860;S20004383;C0342266" tui="T047;T046;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<problem value="Type 2 diabetes mellitus" begin="9480" end="9504" status="0" certainty="0" cui="C0011860;S20004383" tui="T046;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.899" rank="999" knowledgeId="9" isDisable="0" text="metoprolol tartrate;" isBillable="false" evidence="metoprolol tartrate" evidenceBegin="2602" evidenceEnd="2621" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="metoprolol tartrate" begin="2602" end="2621" status="0" certainty="0" code="NO-CODE" cui="C0039328;C0144544;C0025859;C2723290;C1127547;C0700548" tui="T109,T121;T200;T109,T121;T200;T118;T109,T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="25" strengthBegin="2622" strengthEnd="2624" strengthUnit="mg" strengthUnitBegin="2625" strengthUnitEnd="2627" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="2628" formEnd="2634" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="C81.90" rank="81" knowledgeId="48" isDisable="0" text="dialysis;" isBillable="false" evidence="dialysis" evidenceBegin="10240" evidenceEnd="10248" cuiList="19829;" acceptRejectFlag="DEFAULT"/>
+<code value="G10" rank="213" knowledgeId="116" isDisable="0" text="dialysis;" isBillable="false" evidence="dialysis" evidenceBegin="10240" evidenceEnd="10248" cuiList="20179;" acceptRejectFlag="DEFAULT"/>
+<code value="Z99.2" rank="258" knowledgeId="128" isDisable="0" text="dialysis;" isBillable="false" evidence="dialysis" evidenceBegin="10240" evidenceEnd="10248" cuiList="11945;" acceptRejectFlag="DEFAULT"/>
+<procedure value="dialysis" begin="10240" end="10248" status="0" certainty="0" cui="C0020179;C0019829;C2982389;C0011945;C0011946;C1654851;C1705681;S00002057;C1059964;C0917873" tui="T170;T061;T191;T070;T028;T204;T046;T047;T074" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.4" rank="1998" knowledgeId="9" isDisable="0" text="Insulin;" isBillable="false" evidence="Insulin" evidenceBegin="2787" evidenceEnd="2794" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="Insulin" begin="2787" end="2794" status="0" certainty="0" code="NO-CODE" cui="C0202098;C0020884;C0021641;C3537244;C1533581" tui="T059;T116,T121,T125;T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="0.5;30" strengthBegin="2795;2802" strengthEnd="2798;2804" strengthUnit="mL;gauge" strengthUnitBegin="2799;2805" strengthUnitEnd="2801;2810" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.4" rank="1998" knowledgeId="9" isDisable="0" text="Insulin;" isBillable="false" evidence="Insulin" evidenceBegin="2078" evidenceEnd="2085" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="Insulin" begin="2078" end="2085" status="0" certainty="0" code="NO-CODE" cui="C0202098;C0020884;C0021641;C3537244;C1533581" tui="T059;T116,T121,T125;T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="11/09/18" begin="2118" end="2126">
+<medData strength="3" strengthBegin="2099" strengthEnd="2100" strengthUnit="mL" strengthUnitBegin="2101" strengthUnitEnd="2103" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="subcutaneous" routeBegin="2105" routeEnd="2117"/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.3" rank="129" knowledgeId="96" isDisable="0" text="Family History;Cerebrovascular accident;" isBillable="false" evidence="Cerebrovascular accident" evidenceBegin="3172" evidenceEnd="3196" cuiList="38454;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Cerebrovascular accident" begin="3172" end="3196" status="2" certainty="0" cui="C0038454" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="N18.3" rank="129" knowledgeId="128" isDisable="0" text="CHRONIC KIDNEY DISEASE;Chronic kidney disease;" isBillable="false" evidence="Chronic kidney disease_SEP_stage 3_SEP_CHRONIC KIDNEY DISEASE" evidenceBegin="9278,9302,9323" evidenceEnd="9300,9309,9345" cuiList="1561643;2316787;" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z68.39" rank="5" knowledgeId="4" isDisable="0" text="Body mass index;" isBillable="false" evidence="Body mass index" evidenceBegin="9838" evidenceEnd="9853" cuiList="2240399;" acceptRejectFlag="DEFAULT"/>
+<meas value="Body mass index" begin="9838" end="9853" status="0" certainty="0" code="NO-CODE">
+</meas>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I12.9" rank="999" knowledgeId="100" isDisable="0" text=";Essential hypertension;Essential (primary) hypertension;Chronic kidney disease;N18.3;CHRONIC KIDNEY DISEASE;HIGH BLOOD PRESSURE" isBillable="false" evidence="Chronic kidney disease due to type 2 diabetes mellitus_SEP_N18.3_SEP_Chronic kidney disease_SEP_stage 3_SEP_moderate_SEP_CHRONIC KIDNEY DISEASE_SEP_Essential hypertension_SEP_Essential (primary) hypertension_SEP_HIGH BLOOD PRESSURE" evidenceBegin="9187,9271,9278,9302,9311,9323,9530,9627,9718" evidenceEnd="9241,9276,9300,9309,9319,9345,9552,9659,9737" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<problem value="Essential hypertension" begin="9530" end="9552" status="0" certainty="0" cui="C2882073;C0745117;C0020538;C0085580" tui="T047;T058;T033;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.22" rank="5" knowledgeId="4" isDisable="0" text="Chronic kidney disease;" isBillable="false" evidence="Chronic kidney disease due to type 2 diabetes mellitus" evidenceBegin="9187" evidenceEnd="9241" cuiList="2874077;" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="N18.2" rank="426" knowledgeId="116" isDisable="0" text="Chronic kidney disease;" isBillable="false" evidence="Chronic kidney disease due to type 2 diabetes mellitus" evidenceBegin="9187" evidenceEnd="9241" cuiList="1579029;" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="K85.90" rank="342" knowledgeId="116" isDisable="0" text="pancreatitis;" isBillable="false" evidence="pancreatitis" evidenceBegin="618" evidenceEnd="630" cuiList="30305;" acceptRejectFlag="DEFAULT"/>
+<problem value="pancreatitis" begin="618" end="630" status="0" certainty="0" cui="C0030305;C1963198" tui="T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="N18.3" rank="5" knowledgeId="4" isDisable="0" text="CHRONIC KIDNEY DISEASE;" isBillable="false" evidence="stage 3_SEP_moderate_SEP_CHRONIC KIDNEY DISEASE" evidenceBegin="9302,9311,9323" evidenceEnd="9309,9319,9345" cuiList="1561640;" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E55.9" rank="999" knowledgeId="9" isDisable="0" text="E55.9;" isBillable="false" evidence="E55.9" evidenceBegin="10007" evidenceEnd="10012" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.4" rank="1998" knowledgeId="9" isDisable="0" text="Insulin Iisprc;" isBillable="false" evidence="Insulin Iisprc" evidenceBegin="1753" evidenceEnd="1767" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="Insulin Iisprc" begin="1753" end="1767" status="0" certainty="0" code="NO-CODE" cui="C0202098;C0020884;C0021641;C3537244;C1533581" tui="T059;T116,T121,T125;T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="08/05/19" begin="1797" end="1805">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="subcutaneous" routeBegin="1780" routeEnd="1792"/></date>
+</med>
+</Icd10CmCode>
+</ezNLP>

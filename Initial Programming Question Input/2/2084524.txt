@@ -1,0 +1,1962 @@
+NextGen Patient Record
+Name: Murray, Sarah K
+DOB: 05/11/1936
+|Collection Date & Time|08/19/2019 16:32|04/30/2019 14:22|12/28/2018 14:51|12/21/2017 11:54|12/15/2016 10:31|05/26/2016 12:17|0|
+|Complete Blood Count.||||||||
+|White Blood Count|||7.1|6.3|5.2|9.3||
+|Hemoglobin|||15.3|14.7|14.9|15.7||
+|Hematocrit|||45.2|44.4|44.9|46.9||
+|Platelet Count|||223|252|227|235||
+|Band Neutrophil|||DNR|||||
+|Band Neutrophil, Absol.|||DNR|||||
+|Basophil|||1.4|1.4|1.9|0.9||
+|Basophil, Absolute|||99|0.09|0.10|0.08||
+|Blast|||DNR|||||
+|Blast, Absolute|||DNR|||||
+|Comment|||DNR|No comment|No comment|No comment||
+|Eosinophil||||2.4|3.9|0.3||
+|Eosinophil, Absolute|||178|0.15|0.20|0.03||
+|Immature Granulocyte||||0.5|0.6|1.8||
+|Immature Granulocyte,||||0.03|0.03|0.17||
+|Lymphocyte|||32.1|24.6|27.7|15.1||
+|Lymphocyte, Absolute|||2279|1.55|1.43|1.40||
+|MCH|||30.7|30.3|30.6|30.8||
+|MCHC|||33.8|33.1|33.2|33.5||
+|MCV|||90.8|92|92|92||
+|Metamyelocyte|||DNR|||||
+|Metamyelocyte, Absolu...|||DNR|||||
+|Monocyte|||9.8|8.1|10.8|5.2||
+|Monocyte, Absolute|||696|0.51|0.56|0.48||
+|MPV|||10.4|9.9|10.4|10.4||
+|Myelocyte|||DNR|||||
+|Myelocyte, Absolute|||DNR|||||
+|Neutrophil|||54.2|63.0|55.1|76.7||
+|Neutrophil, Absolute|||3848|3.98|2.85|7.14||
+|nRBC|||DNR|0.0|0.0|0.0||
+|nRBC, Absolute|||DNR|0.00|0.00|0.00||
+|Promvelocyte Absolute|||DNR|||||
+
+
+-------------------------------------------
+-------------------------------------------
+|Collection Date & Time|08/19/2019 16:32|04/30/2019 14:22|12/28/2018 14:51|12/21/2017 11:54|12/15/2016 10:31|05/26/2016 12:17|04/1 1|
+|Red Blood Count|||4.98|4.85|4.87|5.10||
+|Comprehensive Metab.||||||||
+|African American Estim.|||>60|>60|98|83||
+|AGAP|||14|10|12|13||
+|Alanine Aminotrans (AL.|||5|10|9|16||
+|Albumin|||4.0|3.9|4.3|4.4||
+|Albumin/Globulin Ratio|||1.8|1.7|1.9|2.3||
+|Alkaline Phosphatase|||119|101|95|88||
+|Aspartate Aminotrans (|||20|24|28|24||
+|Bilirubin, Total|||0.3|0.4|0.4|0.7||
+|Blood Urea Nitrogen (B.|||19|19|24|24||
+|BUN / Creatinine Ratio|||27|27|34|30||
+|Calcium|||9.4|9.4|9.4|9.6||
+|Carbon Dioxide|||24|28|26|27||
+|Chloride|||104|103|105|100||
+|Creatinine|||0.7|0.7|0.7|0.8||
+|eGFR|||>60|>60|81|69||
+|Globulin|||2.2|2.3|2.3|1.9||
+|Glucose|||104|84|89|89||
+|Potassium|||4.4|4.9|5.5|5.1||
+|Protein, Total|||6.2|6.2|6.6|6.3||
+|Sodium|||142|141|143|140||
+|COPY(IES) SENT TO:||||||||
+
+
+-------------------------------------------
+-------------------------------------------
+Electronically signed By: Lazarides, Lazaros MD 08/24/2018 02:38 PM
+Pago 2013
+THE GRIFFIN HOSPITAL
+130 DIVISION STREET
+DERBY, CT 06418
+203-732-7260
+RADIOLOGY DEPARTMENT
+DIAGNOSTIC IMAGING REPORT
+PATIENT: MURRAY, SARAH
+MEDICAL RECORD NO: 236648
+PRESENT AGE: 82
+PATIENT ACCOUNT NO: 6592139
+DOB: 05/11/36
+LOCATION: IVY.CT
+ORDERING PHYSICIAN: Lazaros Lazarides MD
+SERVICE DATE: 08/20/18-1019
+EXAM TYPE: CAT-CT ABD & PELVIS WIO IV CONTRAS
+EXAMINATION:
+CT ABDOMEN AND PELVIS WITHOUT CONTRAST
+CLINICAL INFORMATION:
+Right-sided flank pain radiating to groin.
+COMPARISON:
+None
+TECHNIQUE
+Multidetector volumetric imaging was performed from the superior aspect of the liver through the pubic symphysis
+. Sagittal and coronal reformatted images were obtained on the technologist's workstation.
+DLP:
+1026 mGy-cm
+FINDINGS:
+LUNG BASES: Paraseptal emphysematous changes are noted in the lower lobes.
+LIVER, GALLBLADDER, AND BILIARY TREE: The liver is normal in size, shape, and attenuation. No focal hepatic lesion or biliary ductal dilatation is present.
+Cholecystectomy
+PANCREAS: Unremarkable.
+SPLEEN: Unremarkable.
+ADRENAL GLANDS: Unremarkable.
+KIDNEYS AND URETERS: A 7 mm calculus is noted at the upper pole of the right kidney. No hydronephrosis or perinephric stranding.
+BLADDER: Unremarkable
+CC: Lazarides MD,Lazaros
+Procedure's CPT Code: 74176
+Order: 08200037
+Accession 4.921615.001
+Report #: CAT 0820-0082
+4
+Page 1
+
+-------------------------------------------
+-------------------------------------------
+NEVIDIUM
+Gir Hospital
+Page 303
+RADIOLOGY DEPARTMENT
+DIAGNOSTIC IMAGING REPORT
+MEDICAL RECORD NO: 236648
+PATIENT ACCOUNT NO: 6592139
+PATIENT: MURRAY, SARAH
+SERVICE DATE: 08/20/18-1019
+GASTROINTESTINAL TRACT: Diffuse sigmoid diverticulosis without associated inflammatory stranding. No bowel obstruction. Normal appendix. Stomach appears normal.
+ABDOMINAL WALL: Small fat-containing periumbilical hernias.
+LYMPH NODES: Normal.
+VASCULAR: Atheromatous changes in the abdominal aorta and its branch vessels.
+PELVIC VISCERA: Uterus and adnexa are within normal limits.
+OSSEOUS STRUCTURES: Postoperative findings related to posterior decompression and instrumented fusion spanning L2-51 with transpedicular screws (with sparing of the left L3 pedicle) and paired stabilization rods. There are interbody devices in place. No evidence of hardware fracture or loosening.
+IMPRESSION:
+Calculus in the upper pole of the right kidney measuring 7 mm. No hydronephrosis or perinephric stranding.
+Sigmoid diverticulosis without diverticulitis
+-
+.
+- Postoperative findings in the lumbar spine.
+DICTATED BY: Zoltani MD, Zombor
+DATE/TIME TRANSCRIBED:08/20/18 / 1256
+CONFIDENTIAL, DO NOT COPY WITHOUT APPROPRIATE AUTHORIZATION.
+ < Electronically signed in Other Vendor System > 
+SIGNED BY: Zoltani MD, Zombor 08/20/18 1309 nebu i niCT AID
+CC: Lazarides MD,Lazaros
+Procedure's CPT Code: 74176
+Order: 0820-0037
+Accession #: 921615.001
+Report 1: CAT 0820-0082
+Page 2
+
+-------------------------------------------
+-------------------------------------------
+De 1/2018 Time 308 40 PM
+Greta
+Pada 2013
+f
+ancirted
+THE GRIFFIN HOSPITAL
+130 DIVISION STREET
+DERBY, CT 06418
+203-732-7260
+RADIOLOGY DEPARTMENT
+DIAGNOSTIC IMAGING REPORT
+Show
+PATIENT: MURRAY,SARAH
+MEDICAL RECORD NO: 236648
+PRESENT AGE: 82
+PATIENT ACCOUNT NO: 6544415
+DOB: 05/11/36
+LOCATION: CBW.MAMMO
+ORDERING PHYSICIAN: Lazaros Lazarides MD
+SERVICE DATE: 05/14/18-1119
+EXAM TYPE: MAMMO - DIGITAL SCREENING MAMMOGRAPHY
+EXAMINATION:
+MM SCREENING WITH TOMOSYNTHESIS, BILATERAL
+CLINICAL INFORMATION:
+Routine annual screening mammography.
+BREAST CANCER RISK:
+The lifetime risk of breast cancer based on the Gail Score Model is not applicable. Patient is 82 years old.
+The lifetime risk of breast cancer based on the NCI Model is 1.7%.
+Several risk assessment tools, including the Gail Score Model and the Breast
+Cancer Risk Assessment Tool designed at the National Cancer Institute (NCI), are available to help health professionals estimate a woman's breast cancer risk. These tools give approximate, rather than precise, estimates of breast cancer risk based on different combinations of risk factors and different data sets.
+Annual screening with breast MRI may be of benefit in women with a Gail Score of 20% or greater
+COMPARISON:
+10/7/2013, and 6/24/2011.
+TECHNIQUE:
+Examination was performed using full breast technique. Tomosynthesis views of both breasts were obtained at 1 mm increments. Computer-aided detection was utilized by the radiologist in the interpretation of this exam.
+FINDINGS:
+There are scattered areas of fibroglandular density (ACR BI-RADS breast composition Category b)'.
+Bilateral breasts: No suspicious masses, calcifications or other abnormalities are seen. Compared to the prior/exam, there has been no
+CC: Lazarides MD,Lazaros; PAM; Passarelli MD Marianne
+Procedure's CPT Code: 77067
+Order: 0514-0034
+Accession t: 8900 16.001
+Report #: MAMMO 0514-0147
+Page 1
+
+-------------------------------------------
+-------------------------------------------
+Electronically SigarhBy: Lazarides, Lazaros MD 05/16/2018 09:51:29 PM
+29
+|RADIOLOGY DEPARTMENT DIAGNOSTIC IMAGING REPORT|||
+|PATIENT: MURRAY,SARAH MEDICAL RECORD NO: 236648 SERVICE DATE: 05/14/18-1119 PATIENT ACCOUNT NO: 6544415|||
+|significant interval change.|||
+|IMPRESSION:|||
+|There is no mammographic evidence of malignancy.|||
+|Routine follow-up mammogram in 1 year is recommended.|||
+|The patient will receive a lay summary of the results of this breast imaging exam. Lay summaries for mammography examinations will also identify the patient's personal breast tissue composition as required by state law.|||
+|BI-RADS ASSESSMENT: ACR BI-RADS 1: Negative examination.|||
+|*BREAST COMPOSITION|||
+|Breast composition descriptions are based on the standard practice guidelines of the ACR BI-RADS Atlas. A reference guide is provided below.|||
+|BREAST COMPOSITION CATEGORIES - BI-RADS VERSION V|||
+|a. The breasts are almost entirely fatty.|||
+|b. There are scattered areas of fibroglandular density.|||
+|c. The breasts are heterogeneously dense, which may obscure small masses.|||
+|d. The breasts are extremely dense, which lowers the sensitivity of mammography.|||
+|Patients in categories C and d may qualify for supplemental screening exams.|||
+|This patient?s information was entered into a reminder system with a target due date for their next mammogram.|||
+|DICTATED BY: Karak MD Prasanta DATE/TIME DICTATED:05/14/15 /1446 TRANSCRIPTIONIST:RAD.TRAN DATE/TIME TRANSCRIBED:05/14/18/1446|||
+|CONFIDENTIAL, DO NOT COPY WITHOUT APPROPRIATE AUTHORIZATION.|||
+|<Electronically signed in Other Vendor System) SIGNED BY: Karak MD, Prasanta 05/14/18 1456 CC: Lazarides MD, Lazaros; PAM; Passarelli MD Marianne G.|||
+|Procedure's CPT Code: 77067 Order #: 0514-0034 Accession #: 890016.001 Report #: MAMMO 0514-0147|||
+|Page2|||
+
+
+-------------------------------------------
+-------------------------------------------
+CONTENTS
+Encounter: 8/19/2019 11:45:00 AM
+Master_Im
+Encounter: 4/30/2019 1:00:00 PM
+Master_Im
+Encounter: 4/4/2019 11:45:00 AM
+Master_lm
+Encounter: 12/28/2018 2:00:00 PM
+Master_lm
+Encounter: 8/15/2018 11:45:00 AM
+Master_lm
+Encounter: 5/1/2018 11:30:00 AM
+Master_Im
+Encounter: 1/17/2018 2:15:00 PM
+Master_Im
+Murray, Sarah K. 000000169940 05/11/1936 08/19/2019 11:45 AM 2/36
+PATIENT: Sarah Murray
+DATE OF BIRTH: 05/11/1936
+DATE: 08/19/2019 11:45 AM
+VISIT TYPE: Office Visit
+This 83 year old female presents for Urinary frequency.
+History of Present Illness:
+1. Urinary frequency
+The onset was 2 weeks ago. Severity level is moderate-severe. Patient reports no pain. It occurs intermittently. The problem is unchanged. Associated symptoms include urinary frequency, pelvic pain and urgency. Pertinent negatives include fever and incomplete emptying. Additional information:
+PT FINISHED ANTIBIOTICX 1 WEEK AGO (WALK IN VISIT) PT NOT SURE WHICH ANTIBIOTIC MOD
+LEUK MOD BLOOD LARGE KETONE.
+PROBLEM LIST:
+Problem Description Onset Date Chronic Clinical Status Notes
+Malaise and fatigue 12/18/2013 Y Mapped from KBM Chronic
+Conditions table on 05/03/2014 by
+the ICD9 to SNOMED Bulk Mapping
+Utility. The mapped diagnosis code
+was Fatigue / Malaise, 780.79, added by Lazaros Lazarides, with responsible provider Lazaros
+Lazarides MD. Onset date
+12/18/2013
+Benign essential hypertension
+12/18/2013 Y Mapped from KBM Chronic
+Conditions table on 05/03/2014 by
+the ICD9 to SNOMED Bulk Mapping
+Utility. The mapped diagnosis code
+was Hypertension, Benign Essential, 401.1, added by Lazaros Lazarides, with responsible provider Lazaros
+
+-------------------------------------------
+-------------------------------------------
+Lazarides MD. Onset date
+12/18/2013.
+Hypothyroidism 12/18/2013 Y Mapped from KBM Chronic
+Conditions table on 05/03/2014 by
+the ICD9 to SNOMED Bulk Mapping
+Utility. The mapped diagnosis code
+was Hypothyroidism, 244.9, added
+by Lazaros Lazarides, with responsible provider Lazaros
+Lazarides MD. Onset date
+12/18/2013
+Murray, Sarah K. 000000169940 05/11/1936 08/19/2019 11:45 AM 3/36
+PAST MEDICAL/SURGICAL HISTORY (Detailed)
+Disease/disorder Onset Date Management Date Comments
+Hypertension
+Thyroid disease
+cervical fusion
+lumbar fusion
+left leg fracture
+DIAGNOSTICS HISTORY
+Test Ordered Completed Interpretation Result
+X-RAY EXAM OF NECK SPINE 05/26/2016 05/27/2016 see scanned report
+CT NECK SPINE W/O DYE 06/01/2016 08/16/2016 see scanned report
+EYE EXAM 04/15/2016 normal
+MAMMOGRAM, SCREENING 12/21/2017 12/18/2018
+MAMMOGRAM, SCREENING 05/14/2018 See scanned report.
+CT ABD & PELVIS W/O CONTRAST 08/15/2018 08/20/2018 see scanned report
+GYNECOLOGIC HISTORY:
+Patient is postmenopausal.
+Family History (Detailed)
+Relationship Deceased Age at Death Condition Onset Age Cause of Death
+Brother Heart Attack Y
+Father Cancer, lung Y
+Mother Cancer, lung Y
+Sister Aneurysm Y
+Sister Cancer, lung Y
+Social History: (Detailed)
+Tobacco use reviewed.
+Preferred language is English.
+The patient does not need an interpreter.
+MARITAL STATUS/FAMILY/SOCIAL SUPPORT
+Marital status: Married
+Tobacco use status: Never smoked tobacco.
+Smoking status: Never smoker.
+SMOKING STATUS
+Type Smoking Status Usage Per Day Years Used Total Pack Years
+
+-------------------------------------------
+-------------------------------------------
+Cigarette Never smoker
+TOBACCO/VAPING EXPOSURE
+No passive smoke exposure.
+ALCOHOL
+There is no history of alcohol use.
+CAFFEINE
+The patient uses caffeine: coffee - 2 cups a day.
+LIFESTYLE
+Murray, Sarah K. 000000169940 05/11/1936 08/19/2019 11:45 AM 4/36
+Sedentary activity level. Never exercises.
+DIET
+junk food.
+SLEEP PATTERNS
+Patient has no changes to sleep patterns.
+HOME ENVIRONMENT/SAFETY
+The home has smoke detectors. Carbon monoxide detector at home.
+The patient is risk for falls.
+The patient has not fallen in the last year.
+The home does not have radon present.
+Uses seat belts.
+Medications (active prior to today)
+Medication Name Sig Description Start Date Stop Date Refilled Rx Elsewhere multivitamin capsule take 1 by Oral route once 12/18/2013 N
+Vitamin B-12 500 mcg
+tablet take 1 by Oral route once 12/18/2013 08/19/2019 N
+Probiotic take 1 daily. // Y
+melatonin take 1 daily. // Y
+LEVOTHYROXINE 50
+MCG TABLET
+TAKE 1 TABLET BY ORAL
+ROUTE EVERY DAY
+09/21/2018 09/21/2018 N
+DULOXETINE HCL DR 20
+MG CAP
+TAKE ONE CAPSULE BY
+MOUTH EVERY DAY
+02/18/2019 02/18/2019 N losartan 100 mg tablet take 1 tablet by oral route every day
+04/04/2019 N
+METOPROLOL TARTRATE
+25 MG TAB
+TAKE 1 TABLET BY ORAL
+ROUTE 3 TIMES EVERY DAY
+07/30/2019 07/30/2019 N
+Patient Status
+Completed with information received for patient transitioning into care.
+at
+
+-------------------------------------------
+-------------------------------------------
+Medication Reconciliation
+Medications reconciled today.
+Allergies
+Ingredient Reaction (Severity) Medication
+Name
+Comment
+SULFA (SULFONAMIDE
+ANTIBIOTICS)
+Nausea/Vomiting
+Reviewed, no changes.
+Review of Systems
+System Neg/Pos Details
+Constitutional Negative Fever.
+GU Positive Pelvic pain, Urgency, Urinary frequency.
+GU Negative Incomplete emptying.
+Reproductive Positive The patient is post-menopausal.
+Vital Signs
+Time BP
+mm/Hg
+Pulse
+/min
+Resp
+/min
+Temp F Ht ft Ht in Ht cm Wt Ib Wt kg BMI
+kg/m2
+BSA m2 02
+Sat%
+11:40 134/72 97 5.0 152.40 170.00 77.111 33.20 1.81 97
+Murray, Sarah K. 000000169940 05/11/1936 08/19/2019 11:45 AM 5/36
+AM
+Measured By
+Time Measured by
+11:40 AM Chris Pellicano
+Screening Summary:
+The following were reviewed: tobacco use
+Physical Exam
+Exam Findings Details
+Constitutional Normal No acute distress. Well developed.
+Head/Face * Skull - normocephalic, atraumatic.
+Eyes Normal General - Right: Normal, Left: Normal. Conjunctiva - Right: Normal, Left:
+Normal. Sclera - Right: Normal, Left: Normal. Pupil - Right: Normal, Left:
+Normal. Fundus - Right: Normal, Left: Normal.
+Ears Normal Inspection - Right: Normal, Left: Normal. Canal - Right: Normal, Left:
+Normal. TM - Right: Normal, Left: Normal.
+Nasopharynx Normal Tonsils - Normal. Oropharynx - Normal.
+Neck Exam Normal Inspection - Normal. Palpation - Normal.
+Respiratory Normal Auscultation - Normal. Effort - Normal.
+
+-------------------------------------------
+-------------------------------------------
+Cardiovascular Normal Inspection - JVD: Absent. Palpation/percussion - PMI normal. Heart rate -
+Regular rate. Rhythm - Regular. Heart sounds - Normal S1, Normal S2.
+Murmurs - None. Extremities - No edema. Regular rhythm. No murmurs, gallops, or rubs.
+Vascular Normal Pulses - Carotids: Normal, Dorsalis pedis: Normal.
+Abdomen Normal Inspection - Normal. Auscultation - Normal. No abdominal tenderness.
+No hepatic enlargement. No splenic enlargement.
+Musculoskeletal Normal Overview - Normal.
+Extremity Normal No edema.
+Neurological Normal Level of consciousness - Normal. Memory - Normal. Cranial nerves
+Cranial nerves II through XII grossly intact. DTRS - Normal.
+Psychiatric Normal Orientation - Oriented to time, place, person & situation. Appropriate mood and affect. Normal insight. Normal judgment.
+Immunizations Entered by History
+Date Immunization
+9/18/2018 12:00:00 AM Influenza, injectable, MDCK, preservative free Flucelvax Quad 2018-2019
+Completed Orders (this encounter)
+Order Side Site Interpretation Result Details
+URINALYSIS NONAUTO
+W/O SCOPE
+abnormal Method of collection: clean catch.
+Clarity: Cloudy. Urine dipstick:
+Color: dark yellow. Glucose:
+negative. Bilirubin: negative.
+Ketones: large. Specific Gravity:
+1.025. Blood: moderate. pH: 5.0.
+Protein: negative. Urobilinogen:
+normal. Nitrite: negative.
+Leukocytes: moderate.
+Assessment/Plan
+# Detail Type Description
+1. Assessment Urinary tract infection, site not specified (N39.0).
+Murray, Sarah K. 000000169940 05/11/1936 08/19/2019 11:45 AM 6/36
+Impression urine cx to be obtained. Placed on levaquin 500mg daily x 7 days. No longer seeing urology..
+Plan Orders Urine Culture, Routine to be performed. The patient had the following test(s) completed
+today: URINALYSIS NONAUTO W/O SCOPE.
+Fall Risk Plan
+The patient has not fallen in the last year. The patient is at risk for falls.
+Medications (Added, Continued or Stopped today)
+Start Date Medication Directions Stop Date
+02/18/2019 DULOXETINE HCL DR 20 MG
+CAP
+TAKE ONE CAPSULE BY MOUTH EVERY DAY
+08/19/2019 Levaquin 500 mg tablet take 1 tablet by oral route every 24 hours
+09/21/2018 LEVOTHYROXINE 50 MCG
+TABLET
+-
+
+-------------------------------------------
+-------------------------------------------
+TAKE 1 TABLET BY ORAL ROUTE EVERY DAY
+04/04/2019 losartan 100 mg tablet take 1 tablet by oral route every day melatonin take 1 daily.
+07/30/2019 METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES EVERY
+DAY
+12/18/2013 multivitamin capsule take 1 by Oral route once
+Probiotic take 1 daily.
+12/18/2013 Vitamin B-12 500 mcg tablet take 1 by Oral route once 08/19/2019
+Urine Dipstick:
+Status Interpretation Result completed abnormal Method of collection: clean catch. Clarity: Cloudy. Urine dipstick:
+Color: dark yellow. Glucose: negative. Bilirubin: negative.
+Ketones: large. Specific Gravity: 1.025. Blood: moderate. pH: 5.0.
+Protein: negative. Urobilinogen: normal. Nitrite: negative.
+Leukocytes: moderate.
+Counseling / Educational Factors:
+Counseling / educational factors reviewed.
+The patient was checked out at 1:02 PM by Judy Naccarato.
+Provider:
+Lazarides, Lazaros 08/19/2019 10:09 PM
+Document generated by: Lazaros Lazarides 08/19/2019 10:09 PM
+Electronically signed by Lazaros Lazarides MD on 08/19/2019 10:10 PM
+Murray, Sarah K. 000000169940 05/11/1936 04/30/2019 01:00 PM 7/36
+PATIENT: Sarah Murray
+DATE OF BIRTH: 05/11/1936
+DATE: 04/30/2019 01:00 PM
+VISIT TYPE: Office Visit
+This 82 year old female presents for UTI.
+History of Present Illness:
+1. UTI
+The symptoms are recurring. Presenting/Initial symptoms include dribbling, fever and urgency.
+Associated symptoms include dysuria, frequency and urgency. Pertinent negatives include fatigue, fever, nausea, nocturia, rash or vomiting. Additional information: Has been taking Amoxillin-Clav
+875-125mg since Sunday.
+PROBLEM LIST:
+Problem Description Onset Date Chronic Clinical Status Notes
+Hypothyroidism 12/18/2013 Y Mapped from KBM Chronic
+Conditions table on 05/03/2014 by
+the ICD9 to SNOMED Bulk Mapping
+Utility. The mapped diagnosis code
+was Hypothyroidism, 244.9, added
+by Lazaros Lazarides, with responsible provider Lazaros
+Lazarides MD. Onset date
+12/18/2013.
+
+-------------------------------------------
+-------------------------------------------
+Benign essential hypertension
+12/18/2013 Y Mapped from KBM Chronic
+Conditions table on 05/03/2014 by
+the ICD9 to SNOMED Bulk Mapping
+Utility. The mapped diagnosis code
+was Hypertension, Benign Essential, 401.1, added by Lazaros Lazarides, with responsible provider Lazaros
+Lazarides MD. Onset date
+12/18/2013
+Malaise and fatigue 12/18/2013 Y Mapped from KBM Chronic
+Conditions table on 05/03/2014 by
+the ICD9 to SNOMED Bulk Mapping
+Utility. The mapped diagnosis code
+was Fatigue / Malaise, 780.79, added by Lazaros Lazarides, with responsible provider Lazaros
+Lazarides MD. Onset date
+12/18/2013.
+Murray, Sarah K. 000000169940 05/11/1936 04/30/2019 01:00 PM 8/36
+PAST MEDICAL/SURGICAL HISTORY (Detailed)
+Disease/disorder Onset Date Management Date Comments
+Hypertension
+Thyroid disease
+cervical fusion
+lumbar fusion
+left leg fracture
+DIAGNOSTICS HISTORY
+Test Ordered Completed Interpretation Result
+X-RAY EXAM OF NECK SPINE 05/26/2016 05/27/2016 see scanned report
+CT NECK SPINE W/O DYE 06/01/2016 08/16/2016 see scanned report
+EYE EXAM 04/15/2016 normal
+MAMMOGRAM, SCREENING 12/21/2017 12/18/2018
+MAMMOGRAM, SCREENING 05/14/2018 See scanned report.
+CT ABD & PELVIS W/O CONTRAST 08/15/2018 08/20/2018 see scanned report
+GYNECOLOGIC HISTORY:
+Patient is postmenopausal.
+Family History (Detailed)
+Relationship Deceased Age at Death Condition Onset Age Cause of Death
+Brother Heart Attack Y
+Father Cancer, lung Y
+Mother Cancer, lung Y
+Sister Aneurysm Y
+Sister Cancer, lung Y
+Social History: (Detailed)
+
+-------------------------------------------
+-------------------------------------------
+Tobacco use reviewed.
+Preferred language is English.
+The patient does not need an interpreter.
+MARITAL STATUS/FAMILY/SOCIAL SUPPORT
+Marital status: Married
+Tobacco use status: Never smoked tobacco.
+Smoking status: Never smoker.
+SMOKING STATUS
+Type Smoking Status Usage Per Day Years Used Total Pack Years
+Cigarette Never smoker
+TOBACCONVAPING EXPOSURE
+No passive smoke exposure.
+ALCOHOL
+There is no history of alcohol use.
+CAFFEINE
+The patient uses caffeine: coffee - 2 cups a day.
+LIFESTYLE
+Sedentary activity level. Never exercises.
+DIET
+Murray, Sarah K. 000000169940 05/11/1936 04/30/2019 01:00 PM 9/36 junk food.
+SLEEP PATTERNS
+Patient has no changes to sleep patterns.
+HOME ENVIRONMENT/SAFETY
+The home has smoke detectors. Carbon monoxide detector at home.
+The patient is at risk for falls.
+The patient has fallen 2 times in the last year.
+The home does not have radon present.
+Uses seat belts.
+Medications (active prior to today)
+Medication Name Sig Description Start Date Stop Date Refilled Rx Elsewhere multivitamin capsule take 1 by Oral route once 12/18/2013 N
+Vitamin B-12 500 mcg
+tablet take 1 by Oral route once 12/18/2013 N
+Probiotic take 1 daily. // Y
+melatonin take 1 daily. // Y
+LEVOTHYROXINE 50
+MCG TABLET
+TAKE 1 TABLET BY ORAL
+ROUTE EVERY DAY
+09/21/2018 09/21/2018 N.
+DULOXETINE HCL DR 20
+MG CAP
+TAKE ONE CAPSULE BY
+MOUTH EVERY DAY
+02/18/2019 02/18/2019 N losartan 100 mg tablet take 1 tablet by oral route
+
+-------------------------------------------
+-------------------------------------------
+every day
+04/04/2019 N
+METOPROLOL TARTRATE
+25 MG TAB
+TAKE 1 TABLET BY ORAL
+ROUTE 3 TIMES EVERY DAY
+04/11/2019 04/11/2019 N
+Patient Status
+Completed with information received for patient in a summary of care record.
+Medication Reconciliation
+Medications reconciled today.
+Medication Reviewed
+Adherence Medication Name Sig Desc Elsewhere Status taking as directed multivitamin capsule take 1 by Oral route once N Verified
+taking as directed Vitamin B-12 500 mcg tablet take 1 by Oral route once N Verified taking as directed Probiotic take 1 daily. Y Verified taking as directed melatonin take 1 daily. Y Verified taking as directed LEVOTHYROXINE 50 MCG
+TABLET
+TAKE 1 TABLET BY ORAL ROUTE EVERY
+DAY
+N Verified taking as directed DULOXETINE HCL DR 20 MG
+CAP
+TAKE ONE CAPSULE BY MOUTH EVERY
+DAY
+N Verified taking as directed losartan 100 mg tablet take 1 tablet by oral route every day N Verified taking as directed METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES
+EVERY DAY
+N Verified
+taking as directed amoxicillin 875 mg-potassium
+clavulanate 125 mg tablet
+take 1 tablet by oral route every 12 hours
+N Verified
+Allergies
+Ingredient Reaction (Severity) Medication
+Name
+Comment
+SULFA (SULFONAMIDE
+ANTIBIOTICS)
+Nausea/Vomiting
+Murray, Sarah K. 000000169940 05/11/1936 04/30/2019 01:00 PM 10/36
+Review of Systems
+
+-------------------------------------------
+-------------------------------------------
+System Neg/Pos Details
+Constitutional Positive Chills/rigors.
+Constitutional Negative Fatigue and Fever.
+Respiratory Negative Cough, Dyspnea, Sputum and Wheezing.
+Cardio Negative Chest pain.
+GI Negative Diarrhea, Nausea and Vomiting.
+GU Positive Dysuria, Urgency, Urinary frequency.
+GU Negative Foul urine odor, Nocturia and Urinary incontinence.
+Integumentary Negative Rash.
+Reproductive Positive The patient is post-menopausal.
+Vital Signs
+Time BP
+mm/Hg
+Pulse
+/min
+Resp
+/min
+Temp F Ht ft Ht in Ht cm Wt lb Wt kg BMI
+kg/m2
+BSA m2 02
+Sat%
+1:06 PM 110/66 62 98.6 5.0 0.00 152.40 175.00 79.379 34.18 96
+Measured By
+Time Measured by
+1:06 PM Alyssa Morales
+Screening Summary:
+The following were reviewed: tobacco use, alcohol use, caffeine use and drugs of abuse
+Physical Exam
+Exam Findings Details
+Constitutional Normal No acute distress. Well developed.
+Respiratory Normal Inspection - Normal. Auscultation - Normal. Effort - Normal.
+Cardiovascular Normal Heart rate - Regular rate. Rhythm - Regular.
+Abdomen Normal Inspection - Normal. Auscultation - Normal. Percussion - Normal.
+Anterior palpation - Normal.
+Genitourinary * Suprapubic tenderness.
+Genitourinary Normal No CVA tenderness.
+Skin * Inspection - General inspection: warm and dry.
+Neurological Normal Level of consciousness - Normal. Orientation - Normal.
+Psychiatric Normal Orientation - Oriented to time, place, person & situation. Appropriate mood and affect.
+Immunizations Entered by History
+Date Immunization
+9/18/2018 12:00:00 AM Influenza, injectable, MDCK, preservative free Flucelvax Quad 2018-2019
+Completed Orders (this encounter)
+Order Side Site Interpretation Result Details
+UA DIPSTICK see detail Color: yellow. Clarity: clear.
+Glucose: negative. Bilirubin:
+
+-------------------------------------------
+-------------------------------------------
+negative. Ketones: negative.
+Specific Gravity: 1.015. Blood:
+trace. pH: 5.0. Protein: negative.
+Urobilinogen: normal. Nitrite:
+negative. Leukocytes: negative.
+Murray, Sarah K. 000000169940 05/11/1936 04/30/2019 01:00 PM 11/36
+Assessment/Plan
+# Detail Type Description
+1. Assessment Dysuria (R30.0).
+Impression Hx recurrent UTI and non-obstructing renal stone. She called urology on-call and was prescribed Augmentin course starting this past Sunday.
+Patient Plan UA with trace heme. No leuks or nitrites. Will send out urine culture.
+Pt encouraged to follow up with urology Dr. Passarelli for recurrent UTIs in the past; however pt would like to see another urologist due to personal reasons. She will get back to me with whom she would like to refer to.
+Plan Orders Urine Culture, Routine to be performed. The patient had the following test(s) completed
+today: UA DIPSTICK.
+2. Assessment Benign essential hypertension (110).
+Impression Stable.
+Patient Plan Losartan 100 mg PO QD.
+Metoprolol tartrate 25 mg PO TID.
+3. Assessment Hypothyroidism, unspecified type (E03.9).
+Impression TSH 1.96 from Dec 2018.
+Patient Plan Levothyroxine 50 mcg PO QD.
+Fall Risk Plan
+The patient has fallen 2 times in the last year. The patient is at risk for falls.
+Patient Education
+# Patient Education
+1. Frequent Urination: Care Instructions
+Medications (Added, Continued or Stopped today)
+Start Date Medication Directions Stop Date
+04/30/2019 amoxicillin 875 mg-potassium
+clavulanate 125 mg tablet
+take 1 tablet by oral route every 12 hours 04/30/2019
+02/18/2019 DULOXETINE HCL DR 20 MG
+CAP
+TAKE ONE CAPSULE BY MOUTH EVERY DAY
+09/21/2018 LEVOTHYROXINE 50 MCG
+TABLET
+TAKE 1 TABLET BY ORAL ROUTE EVERY DAY
+04/04/2019 losartan 100 mg tablet take 1 tablet by oral route every day melatonin take 1 daily.
+04/11/2019 METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES EVERY
+DAY
+12/18/2013 multivitamin capsule take 1 by Oral route once
+
+-------------------------------------------
+-------------------------------------------
+Probiotic take 1 daily.
+12/18/2013 Vitamin B-12 500 mcg tablet take 1 by Oral route once
+Urine Dipstick:
+Status Interpretation Result completed see detail Color: yellow. Clarity: clear. Glucose: negative. Bilirubin: negative. Ketones: negative. Specific Gravity: 1.015. Blood:
+trace. pH: 5.0. Protein: negative. Urobilinogen: normal. Nitrite: negative. Leukocytes: negative.
+Counseling / Educational Factors:
+Counseling / educational factors reviewed.
+The patient was counseled today by Rose Tran on diet.
+Murray, Sarah K. 000000169940 05/11/1936 04/30/2019 01:00 PM 12/36
+Provider:
+Tran, Rose 04/30/2019 1:22 PM
+Document generated by: Rose Tran 04/30/2019 01:22 PM
+Electronically signed by Rose Tran APRN on 04/30/2019 01:22 PM
+Murray, Sarah K. 000000169940 05/11/1936 04/04/2019 11:45 AM 13/36
+PATIENT: Sarah Murray
+DATE OF BIRTH: 05/11/1936
+DATE: 04/04/2019 11:45 AM
+VISIT TYPE: Office Visit
+This 82 year old female presents for Dizziness.
+History of Present Illness:
+1. Dizziness
+Onset was 10 days ago. Severity is moderate. The problem is improving. It occurs intermittently.
+The patient describes it as (an) imbalance, light-headed and severe. Associated symptoms include nausea and weakness. Pertinent negatives include chest pain, headache and palpitations.
+Screening Tools
+Other Screenings:
+Encounter
+Date
+Documented
+Date
+Instrument Score Severity/Interpretation MDD Classification
+04/04/2019 04/04/2019 Patient Health
+Questionnaire (PHQ-2)
+2 2 - Further testing
+indicated
+PROBLEM LIST:
+Problem Description Onset Date Chronic Clinical Status Notes
+Hypothyroidism 12/18/2013 Y Mapped from KBM Chronic
+Conditions table on 05/03/2014 by
+the ICD9 to SNOMED Bulk Mapping
+Utility. The mapped diagnosis code
+was Hypothyroidism, 244.9, added
+by Lazaros Lazarides, with responsible provider Lazaros
+
+-------------------------------------------
+-------------------------------------------
+||||
+|Lazarides MD. Onset date|||
+|12/18/2013.|||
+|Benign essential|||
+|hypertension|||
+|12/18/2013 Y Mapped from KBM Chronic|||
+|Conditions table on 05/03/2014 by|||
+|the ICD9 to SNOMED Bulk Mapping|||
+|Utility. The mapped diagnosis code|||
+|was Hypertension, Benign Essential,|||
+|401.1, added by Lazaros Lazarides,|||
+|with responsible provider Lazaros|||
+|Lazarides MD. Onset date|||
+|12/18/2013.|||
+|Malaise and fatigue 12/18/2013 Y Mapped from KBM Chronic|||
+|Conditions table on 05/03/2014 by|||
+|the ICD9 to SNOMED Bulk Mapping|||
+|Utility. The mapped diagnosis code|||
+|was Fatigue / Malaise, 780.79,|||
+|Murray, Sarah K. 000000169940 05/11/1936 04/04/2019 11:45 AM 14/36|||
+|added by Lazaros Lazarides, with|||
+|responsible provider Lazaros|||
+|Lazarides MD. Onset date 12/18/2013.|||
+|PAST MEDICAL/SURGICAL HISTORY (Detailed)|||
+|Disease/disorder Onset Date Management Date Comments|||
+|Hypertension|||
+|Thyroid disease|||
+|cervical fusion|||
+|lumbar fusion|||
+|left leg fracture|||
+|DIAGNOSTICS HISTORY|||
+|Test Ordered Completed Interpretation Result|||
+|X-RAY EXAM OF NECK SPINE 05/26/2016 05/27/2016 see scanned|||
+|report|||
+|CT NECK SPINE W/O DYE 06/01/2016 08/16/2016 see scanned|||
+|report|||
+|EYE EXAM 04/15/2016 normal|||
+|MAMMOGRAM, SCREENING 12/21/2017 12/18/2018|||
+|MAMMOGRAM, SCREENING 05/14/2018 See scanned report.|||
+|CT ABD & PELVIS W/O CONTRAST 08/15/2018 08/20/2018 see scanned|||
+|report|||
+|Family History (Detailed)|||
+|Relationship Deceased Age at Death Condition Onset Age Cause of Death|||
+|Brother Heart Attack Y|||
+|Father Cancer, lung Y|||
+|Mother Cancer, lung Y|||
+|Sister Aneurysm Y|||
+|Sister Cancer, lung Y|||
+|Social History: (Detailed)|||
+
+
+-------------------------------------------
+-------------------------------------------
+Tobacco use reviewed.
+Preferred language is English.
+MARITAL STATUS/FAMILY/SOCIAL SUPPORT
+Marital status: Married
+Tobacco use status: Never smoked tobacco.
+Smoking status: Never smoker.
+SMOKING STATUS
+Type Smoking Status Usage Per Day Years Used Total Pack Years
+Cigarette Never smoker
+TOBACCONVAPING EXPOSURE
+No passive smoke exposure.
+ALCOHOL
+There is no history of alcohol use.
+CAFFEINE
+Murray, Sarah K. 000000169940 05/11/1936 04/04/2019 11:45 AM 15/36
+The patient uses caffeine: coffee - 2 cups a day.
+LIFESTYLE
+Sedentary activity level. Never exercises.
+DIET
+junk food.
+SLEEP PATTERNS
+Patient has no changes to sleep patterns.
+HOME ENVIRONMENT/SAFETY
+The home has smoke detectors. Carbon monoxide detector at home.
+The patient is at risk for falls.
+The patient has fallen 2 times in the last year.
+The fall(s) resulted in injury. Details: CELLULITIS ELBOW.
+The home does not have radon present.
+Uses seat belts.
+Advance Directives
+Reviewed
+Medications (active prior to today)
+Medication Name Sig Description Start Date Stop Date Refilled Rx Elsewhere multivitamin capsule take 1 by Oral route once 12/18/2013 N
+Vitamin B-12 500 mcg
+tablet take 1 by Oral route once 12/18/2013 N
+Probiotic take 1 daily. // Y
+melatonin take 1 daily. // Y
+LEVOTHYROXINE 50
+MCG TABLET
+TAKE 1 TABLET BY ORAL
+ROUTE EVERY DAY
+09/21/2018 09/21/2018 N losartan 50 mg tablet take 1 tablet by oral route once
+12/28/2018 04/04/2019 N
+DULOXETINE HCL DR 20
+
+-------------------------------------------
+-------------------------------------------
+report
+08/16/2016
+EYE EXAM normal 04/15/2016
+Test Ordered Ordering Comments Modifier
+X-RAY EXAM OF NECK SPINE
+05/26/2016 neck pain arm pain 3 weeks
+CT NECK SPINE
+W/O DYE
+06/01/2016 abn cervical spine xray
+EYE EXAM
+Family History (Detailed)
+Relationship Family Member Name Deceased Age at Death Condition Onset Age Cause of Death
+Murray, Sarah K. 000000169940 05/11/1936 01/17/2018 02:15 PM 34/36
+Brother Heart Attack Y
+Father Cancer, lung Y
+Mother Cancer, lung Y
+Sister Aneurysm Y
+Sister Cancer, lung Y
+SOCIAL HISTORY (Detailed)
+Tobacco use reviewed.
+Preferred language is English.
+MARITAL STATUS/FAMILY/SOCIAL SUPPORT
+Currently married.
+Smoking status: Former smoker.
+SMOKING STATUS
+Use Status Type Smoking Status Usage Per Day Years Used Total Pack Years yes Cigarette Former smoker
+No passive smoke exposure.
+LIFESTYLE
+Exercises 2-3 times a week.
+DIET
+healthy, junk food.
+SLEEP PATTERNS
+Patient has no changes to sleep patterns.
+HOME ENVIRONMENT/SAFETY
+Carbon monoxide detector at home.
+The patient is not at risk for falls.
+The Patient has fallen 1 times in the last year.
+Uses seat belts.
+Medications (active prior to today)
+Medication Name Sig Desc Start Date Stop Date Refilled Elsewhere multivitamin capsule take 1 by Oral route once 12/18/2013 N.
+Vitamin B-12 500 mcg
+tablet take 1 by Oral route once 12/18/2013 N
+Probiotic take 1 daily. // Y
+melatonin take 1 daily. // Y
+
+-------------------------------------------
+-------------------------------------------
+LEVOTHYROXINE 50
+MCG TABLET
+TAKE 1 TABLET BY ORAL
+ROUTE EVERY DAY
+09/28/2017 09/28/2017 N
+duloxetine 20 mg
+capsule,delayed release
+take 1 Tablet by oral route
+once
+12/21/2017 N
+METOPROLOL TARTRATE
+25 MG TAB
+TAKE 1 TABLET BY ORAL
+ROUTE 3 TIMES EVERY DAY
+12/27/2017 12/27/2017 N
+Patient Status
+Completed with information received for patient in a summary of care record.
+Medication Reconciliation
+Medications reconciled today.
+Medication Reviewed
+Adherence Medication Name Sig Desc Elsewhere Status taking as directed multivitamin capsule take 1 by Oral route once N Verified
+Murray, Sarah K. 000000169940 05/11/1936 01/17/2018 02:15 PM 35/36 taking as directed Vitamin B-12 500 mcg tablet take 1 by Oral route once N Verified taking as directed Probiotic take 1 daily. Y Verified taking as directed melatonin take 1 daily. Y Verified taking as directed LEVOTHYROXINE 50 MCG
+TABLET
+TAKE 1 TABLET BY ORAL ROUTE EVERY
+DAY
+N Verified
+taking as directed duloxetine 20 mg
+capsule,delayed release
+take 1 Tablet by oral route once N Verified taking as directed METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES
+EVERY DAY
+N Verified
+Allergies
+Ingredient Reaction Medication Name Comment
+SULFA
+(SULFONAMIDE
+ANTIBIOTICS)
+Nausea/Vomiti
+ng
+Reviewed, no changes.
+
+-------------------------------------------
+-------------------------------------------
+REVIEW OF SYSTEMS
+System Neg/Pos Details
+Constitutional Positive Fatigue.
+Constitutional Negative Change in appetite, chills/rigors, generalized weakness and night sweats.
+ENMT Negative Ear infections, fullness in ears, hoarseness, nasal congestion, nasal drainage, pharyngitis, post-nasal drainage, rhinorrhea and sinusitis.
+Respiratory Negative Cough, dyspnea, known TB exposure, nocturnal dyspnea, orthopnea, pleuritic pain and sputum.
+Cardio Negative Chest pain, edema and irregular heartbeat/palpitations.
+GI Negative Abdominal pain, change in appetite, constipation, decreased appetite and diarrhea.
+GU Negative Nocturia.
+Neuro Negative Headache and syncope.
+Psych Negative Feeling down, depressed or hopeless and little interest or pleasure in doing things.
+Integumentary Positive Erythema.
+VITAL SIGNS
+Time BP
+mm/Hg
+Pulse
+/min
+Resp
+/min
+Temp
+F
+Ht ft Ht in Ht cm Wt Ib Wt kg BMI
+kg/m2
+BSA
+m2
+02 Sat%
+2:18 PM 120/82 61 5.0 4.00 162.56 175.00 79.379 30.04 96
+MEASURED BY
+Time Measured by
+2:18 PM Maria Ricci
+Physical Exam
+Exam Findings Details
+Constitutional Normal No acute distress. Well developed.
+Eyes Normal General - Right: Normal, Left: Normal. Conjunctiva - Right: Normal, Left:
+Normal. Pupil - Right: Normal, Left: Normal.
+Ears Normal Inspection - Right: Normal, Left: Normal. Canal - Right: Normal, Left:
+Normal.
+Nose/Mouth/Throat Normal Sinuses - Right: Normal, Left: Normal. Buccal mucosa - Normal. Tonsils -
+Normal. Oropharynx - Normal.
+Murray, Sarah K. 000000169940 05/11/1936 01/17/2018 02:15 PM 36/36
+Neck Exam Normal Inspection - Normal. Range of motion - Normal. Submandibular lymph nodes - Normal. Cervical lymph nodes - Normal.
+Lymph Detail Normal Anterior cervical. Posterior cervical.
+Respiratory Normal Auscultation - Normal. Chest wall tenderness - Absent. Cough - Absent.
+
+-------------------------------------------
+-------------------------------------------
+Effort - Normal.
+Cardiovascular Normal Palpation/percussion - PMI normal. Heart rate - Regular rate. Rhythm -
+Regular. Heart sounds - Normal S1, Normal S2. Murmurs - None.
+Vascular Normal Pulses - Carotids: Normal.
+Abdomen Normal Auscultation - Normal.
+Skin Comments left anterior thigh cluster of erythematous lesions
+Completed Orders (this encounter)
+Order Side Interpretation Result Details
+Patient Health
+Questionnaire (PHQ-2)
+Further testing
+is not required
+0
+Assessment/Plan
+# Detail Type Description
+1. Assessment Herpes zoster without complication (B02.9).
+Impression left anterior thigh started on valtrex.
+Fall Risk Plan
+The Patient has fallen 1 times in the last year.
+Medications (Added, Continued or Stopped this visit)
+Started Medication Directions Stopped
+12/21/2017 duloxetine 20 mg
+capsule,delayed release
+take 1 Tablet by oral route once
+09/28/2017 LEVOTHYROXINE 50 MCG
+TABLET
+TAKE 1 TABLET BY ORAL ROUTE EVERY DAY melatonin take 1 daily.
+12/27/2017 METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES EVERY
+DAY
+12/18/2013 multivitamin capsule take 1 by Oral route once
+Probiotic take 1 daily.
+01/17/2018 valacyclovir 1 gram tablet take 1 tablet by oral route 3 times every day
+12/18/2013 Vitamin B-12 500 mcg tablet take 1 by Oral route once
+The patient was checked out at 2:58 PM by Judy Naccarato.
+Electronically signed by: Lazaros Lazarides MD 01/17/2018 05:49 PM
+Document generated by: Lazaros Lazarides 01/17/2018 05:49 PM
+Electronically signed by Lazaros Lazarides MD on 01/17/2018 05:49 PM
+
+-------------------------------------------
+-------------------------------------------
+MG CAP
+TAKE ONE CAPSULE BY
+MOUTH EVERY DAY
+02/18/2019 02/18/2019 N
+METOPROLOL TARTRATE
+25 MG TAB
+TAKE 1 TABLET BY ORAL
+ROUTE 3 TIMES EVERY DAY
+03/04/2019 03/04/2019 N
+Patient Status
+Completed with information received for patient in a summary of care record.
+Medication Reconciliation
+Medications reconciled today.
+Medication Reviewed
+Adherence Medication Name Sig Desc Elsewhere Status taking as directed multivitamin capsule take 1 by Oral route once N Verified
+taking as directed Vitamin B-12 500 mcg tablet take 1 by Oral route once N Verified taking as directed Probiotic take 1 daily. Y Verified taking as directed melatonin take 1 daily. Y Verified taking as directed LEVOTHYROXINE 50 MCG
+TABLET
+TAKE 1 TABLET BY ORAL ROUTE EVERY
+DAY
+N Verified taking as directed losartan 50 mg tablet take 1 tablet by oral route once N Verified
+taking as directed DULOXETINE HCL DR 20 MG
+CAP
+TAKE ONE CAPSULE BY MOUTH EVERY
+DAY
+N Verified
+taking as directed METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES
+EVERY DAY
+N Verified
+Murray, Sarah K. 000000169940 05/11/1936 04/04/2019 11:45 AM 16/36
+Allergies
+Ingredient Reaction (Severity) Medication
+Name
+Comment
+SULFA (SULFONAMIDE
+ANTIBIOTICS)
+Nausea/Vomiting
+Reviewed, no changes.
+Review of Systems
+System Neg/Pos Details
+Cardio Negative Chest pain and Irregular heartbeat/palpitations.
+
+-------------------------------------------
+-------------------------------------------
+GI Positive Nausea.
+Neuro Negative Headache.
+MS Positive Weakness.
+Vital Signs
+Time BP
+mm/Hg
+Pulse
+/min
+Resp
+/min
+Temp F Ht ft Ht in Ht cm Wt Ib Wt kg BMI
+kg/m2
+BSA m2 02
+Sat%
+11:42
+AM
+148/88 58 5.0 152.40 180.00 81.647 35.15 1.86 97
+Measured By
+Time Measured by
+11:42 AM Chris Pellicano
+Screening Summary:
+The following were reviewed: tobacco use
+Immunizations Entered by History
+Date Immunization
+9/18/2018 12:00:00 AM Influenza, injectable, MDCK, preservative free Flucelvax Quad 2018-2019Y
+Completed Orders (this encounter)
+Order Side Site Interpretation Result Details
+Patient Health
+Questionnaire (PHQ-2)
+2 - Further
+testing
+indicated
+2
+ELECTROCARDIOGRAM, COMPLETE
+TO BE READ BY
+DR
+Assessment/Plan
+# Detail Type Description
+1. Assessment Dizziness (R42).
+Impression referral to neurology for further eval, consider imaging ie. MRI.
+Plan Orders The patient had the following test(s) completed today: ELECTROCARDIOGRAM, COMPLETE.
+Referrals: Neurology. Sanjay Rathi. Evaluate and treat.
+2. Assessment Subjective carotid bruit (R09.89).
+Impression u/s carotid ordered.
+Plan Orders Further diagnostic evaluations ordered today include(s) EXTRACRANIAL STUDY to be performed.
+
+-------------------------------------------
+-------------------------------------------
+3. Assessment Essential (primary) hypertension (110).
+Impression will increase losartan to 100mg daily, cont metoprolol.
+Murray, Sarah K. 000000169940 05/11/1936 04/04/2019 11:45 AM 17/36
+Fall Risk Plan
+The patient has fallen 2 times in the last year. The fall(s) resulted in injury. Details: CELLULITIS ELBOW.The patient is at risk for falls.
+Medications (Added, Continued or Stopped today)
+Start Date Medication Directions Stop Date
+02/18/2019 DULOXETINE HCL DR 20 MG
+CAP
+TAKE ONE CAPSULE BY MOUTH EVERY DAY
+09/21/2018 LEVOTHYROXINE 50 MCG
+TABLET
+TAKE 1 TABLET BY ORAL ROUTE EVERY DAY
+04/04/2019 losartan 100 mg tablet take 1 tablet by oral route every day
+12/28/2018 losartan 50 mg tablet take 1 tablet by oral route once 04/04/2019 melatonin take 1 daily.
+03/04/2019 METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES EVERY
+DAY
+12/18/2013 multivitamin capsule take 1 by Oral route once
+Probiotic take 1 daily.
+12/18/2013 Vitamin B-12 500 mcg tablet take 1 by Oral route once
+Counseling / Educational Factors:
+Counseling / educational factors reviewed.
+Provider:
+Lazarides, Lazaros 4/04/2019 1:06 PM
+Document generated by: Lazaros Lazarides 04/04/2019 01:06 PM
+Electronically signed by Lazaros Lazarides MD on 04/04/2019 01:06 PM
+Murray, Sarah K. 000000169940 05/11/1936 12/28/2018 02:00 PM 18/36
+PATIENT: Sarah Murray
+DATE OF BIRTH: 05/11/1936
+DATE: 12/28/2018 02:00 PM
+VISIT TYPE: Medicare Preventive
+This 82 year old female presents for medicare preventive, Follow up on lab test(s) and EYE EXAM.
+History of Present Illness:
+1. medicare preventive
+The patient has not felt depressed and has had interest and pleasure doing things recently. The patient is at risk for falls. The patient has fallen 1 times in the last year. The fall(s) resulted in injury.
+Patient's activity level is sedentary. Patient never exercises. The patient has smoke detectors, carbon monoxide detectors in the home. The patient does not have firearms in the home. There is no radon in the patient's home. Patient reports using a seatbelt in vehicles. PT FEELS TIRED Patient reports a healthy diet. Patient reports recent weight gain of 6 lbs, 2.73 kgs over 4 Months. Patient does not take calcium. Patient reports not taking Vitamin D. Patient reports taking a multivitamin daily. Patient does not take folic acid. Relevant history is negative for passive smoke exposure, alcohol use.
+
+-------------------------------------------
+-------------------------------------------
+2. Follow up on lab test(s)
+NO TESTS DONE
+3. EYE EXAM
+WITH IN A YR
+Screening Tools
+Other Screenings:
+Encounter
+Date
+Documented
+Date
+Instrument Score Severity/Interpretation MDD Classification
+12/28/2018 12/28/2018 Patient Health
+Questionnaire (PHQ-2)
+O Further testing is not
+required
+PROBLEM LIST:
+Problem Description Onset Date Chronic Clinical Status Notes
+Hypothyroidism 12/18/2013 Y Mapped from KBM Chronic
+Conditions table on 05/03/2014 by
+the ICD9 to SNOMED Bulk Mapping
+Utility. The mapped diagnosis code
+was Hypothyroidism, 244.9, added
+by Lazaros Lazarides, with responsible provider Lazaros
+Lazarides MD. Onset date
+12/18/2013
+Benign essential hypertension
+12/18/2013 Y Mapped from KBM Chronic
+Conditions table on 05/03/2014 by
+the ICD9 to SNOMED Bulk Mapping
+Utility. The mapped diagnosis code
+was Hypertension, Benign Essential, 401.1, added by Lazaros Lazarides, with responsible provider Lazaros
+Murray, Sarah K. 000000169940 05/11/1936 12/28/2018 02:00 PM 19/36
+Lazarides MD. Onset date
+12/18/2013.
+Malaise and fatigue 12/18/2013 Y Mapped from KBM Chronic
+Conditions table on 05/03/2014 by
+the ICD9 to SNOMED Bulk Mapping
+Utility. The mapped diagnosis code
+was Fatigue / Malaise, 780.79, added by Lazaros Lazarides, with responsible provider Lazaros
+Lazarides MD. Onset date
+12/18/2013.
+PAST MEDICAL/SURGICAL HISTORY (Detailed)
+
+-------------------------------------------
+-------------------------------------------
+Disease/disorder Onset Date Management Date Comments
+Hypertension
+Thyroid disease
+cervical fusion
+lumbar fusion
+left leg fracture
+Family History (Detailed)
+Relationship Deceased Age at Death Condition Onset Age Cause of Death
+Brother Heart Attack Y
+Father Cancer, lung Y
+Mother Cancer, lung Y
+Sister Aneurysm Y
+Sister Cancer, lung Y
+Social History: (Detailed)
+Tobacco use reviewed.
+Preferred language is English.
+MARITAL STATUS/FAMILY/SOCIAL SUPPORT
+Marital status: Married
+Tobacco use status: Never smoked tobacco.
+Smoking status: Never smoker.
+SMOKING STATUS
+Type Smoking Status Usage Per Day Years Used Total Pack Years
+Cigarette Never smoker
+TOBACCONVAPING EXPOSURE
+No passive smoke exposure.
+ALCOHOL
+There is no history of alcohol use.
+CAFFEINE
+The patient uses caffeine: coffee - 2 cups a day.
+LIFESTYLE
+Sedentary activity level. Never exercises.
+DIET
+Murray, Sarah K. 000000169940 05/11/1936 12/28/2018 02:00 PM 20/36 junk food.
+SLEEP PATTERNS
+Patient has no changes to sleep patterns.
+HOME ENVIRONMENT/SAFETY
+The home has smoke detectors. Carbon monoxide detector at home.
+The patient is at risk for falls.
+The patient has fallen 1 times in the last year.
+The fall(s) resulted in injury.
+The home does not have radon present.
+Uses seat belts.
+Advance Directives
+Reviewed
+Medications (active prior to today)
+Medication Name Sig Description Start Date Stop Date Refilled Rx Elsewhere
+
+-------------------------------------------
+-------------------------------------------
+multivitamin capsule take 1 by Oral route once 12/18/2013 N
+Vitamin B-12 500 mcg
+tablet take 1 by Oral route once 12/18/2013 N
+Probiotic take 1 daily. // Y
+melatonin take 1 daily. // Y
+duloxetine 20 mg
+capsule,delayed release
+take 1 Tablet by oral route
+once
+12/21/2017 N
+LEVOTHYROXINE 50
+MCG TABLET
+TAKE 1 TABLET BY ORAL
+ROUTE EVERY DAY
+09/21/2018 09/21/2018 N meclizine 12.5 mg tablet take 1 Tablet by oral route 3 times every day as needed
+10/22/2018 12/28/2018 N
+METOPROLOL TARTRATE
+25 MG TAB
+TAKE 1 TABLET BY ORAL
+ROUTE 3 TIMES EVERY DAY
+12/27/2018 12/27/2018 N
+Patient Status
+Completed with information received for patient in a summary of care record.
+Medication Reconciliation
+Medications reconciled today.
+Medication Reviewed
+Adherence Medication Name Sig Desc Elsewhere Status taking as directed multivitamin capsule take 1 by Oral route once N Verified
+taking as directed Vitamin B-12 500 mcg tablet take 1 by Oral route once N Verified taking as directed Probiotic take 1 daily. Y Verified taking as directed melatonin take 1 daily. Y Verified taking as directed duloxetine 20 mg
+capsule, delayed release
+take 1 Tablet by oral route once N Verified
+taking as directed LEVOTHYROXINE 50 MCG
+TABLET
+TAKE 1 TABLET BY ORAL ROUTE EVERY
+DAY
+N Verified
+taking as directed METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES
+EVERY DAY
+N Verified
+
+-------------------------------------------
+-------------------------------------------
+Allergies
+Ingredient Reaction (Severity) Medication
+Name
+Comment
+SULFA (SULFONAMIDE Nausea/Vomiting
+Murray, Sarah K. 000000169940 05/11/1936 12/28/2018 02:00 PM 21/36
+ANTIBIOTICS)
+Reviewed, no changes.
+Review of Systems
+System Neg/Pos Details
+Constitutional Positive Fatigue, Weight gain.
+Constitutional Negative Change in appetite, Chills/rigors, Generalized weakness and Night sweats.
+ENMT Negative Ear infections, Fullness in ears, Hoarseness, Nasal congestion, Nasal drainage, Pharyngitis, Post-nasal drainage, Rhinorrhea and Sinusitis.
+Respiratory Negative Cough, Dyspnea, Known TB exposure, Nocturnal dyspnea, Orthopnea, Pleuritic pain and Sputum.
+Cardio Negative Chest pain, Edema and Irregular heartbeat/palpitations.
+GI Negative Abdominal pain, Change in appetite, Constipation, Decreased appetite and Diarrhea.
+GU Negative Nocturia.
+Neuro Negative Headache and Syncope.
+Psych Negative Feeling down, depressed or hopeless and Little interest or pleasure in doing things.
+Vital Signs
+Time BP
+mm/Hg
+Pulse
+/min
+Resp
+/min
+Temp F Ht ft Ht in Ht cm Wt Ib Wt kg BMI
+kg/m2
+BSA m2 02
+Sat%
+1:57 PM 146/80 74 97.2 5.0 0.00 152.40 174.00 78.925 33.98 93
+Measured By
+Time Measured by
+1:57 PM Chris Pellicano
+Screening Summary:
+The following were reviewed: nutrition, tobacco use, alcohol use, caffeine use and drugs of abuse
+Physical Exam
+Exam Findings Details
+Constitutional Normal No acute distress. Well developed.
+Eyes Normal General - Right: Normal, Left: Normal. Conjunctiva - Right: Normal, Left:
+Normal. Pupil - Right: Normal, Left: Normal.
+Ears Normal Inspection - Right: Normal, Left: Normal. Canal - Right: Normal, Left:
+
+-------------------------------------------
+-------------------------------------------
+Normal.
+Nose/Mouth/Throat Normal Sinuses - Right: Normal, Left: Normal. Buccal mucosa - Normal. Tonsils -
+Normal. Oropharynx - Normal.
+Neck Exam Normal Inspection - Normal. Range of motion - Normal. Submandibular lymph nodes - Normal. Cervical lymph nodes - Normal.
+Lymph Detail Normal Anterior cervical. Posterior cervical.
+Respiratory Normal Auscultation - Normal. Chest wall tenderness - Absent. Cough - Absent.
+Effort - Normal.
+Cardiovascular Normal Palpation/percussion - PMI normal. Heart rate - Regular rate. Rhythm -
+Regular. Heart sounds - Normal S1, Normal S2. Murmurs - None.
+Vascular Normal Pulses - Carotids: Normal.
+Abdomen Normal Auscultation - Normal.
+Immunizations Entered by History
+Date Immunization
+9/18/2018 12:00:00 AM Influenza, injectable, MDCK, preservative free Flucelvax Quad 2018-2019
+Murray, Sarah K. 000000169940 05/11/1936 12/28/2018 02:00 PM 22/36
+Completed Orders (this encounter)
+Order Side Site Interpretation Result Details
+Patient Health
+Questionnaire (PHQ-2)
+Further testing
+is not required
+0.
+ELECTROCARDIOGRAM, COMPLETE
+TO BE READ BY
+DR
+Assessment/Plan
+# Detail Type Description
+1. Assessment Essential (primary) hypertension (110).
+Impression elevated maybe contributing to dizzy spell added losartan 50mg daily.
+Plan Orders The patient had the following test(s) completed today: ELECTROCARDIOGRAM, COMPLETE.
+2. Assessment Vertigo (R42).
+Impression obtain MRI of brain , r/o organic disease.
+Plan Orders CBC w/diff to be performed, CMP to be performed, Hemoglobin A1c to be performed, Lipid Panel to be performed, TSH W/Reflex To FT4 to be performed, Urinalysis, Microscopic
+Only to be performed and Vitamin D, 25-Hydroxy to be performed. Further diagnostic evaluations ordered today include(s) MRI BRAIN W/O DYE to be performed.
+3. Assessment Hypercholesteremia (E78.00).
+Impression f/u lipids diet and exercise.
+4. Assessment Acquired hypothyroidism (E03.9).
+Impression on levothyroxine.
+5. Assessment Spinal stenosis, site unspecified (M48.00).
+Impression chronic nature cont to monitor.
+6. Assessment Dysthymia (F34.1).
+Impression on duloxetine stable.
+Fall Risk Plan
+
+-------------------------------------------
+-------------------------------------------
+The patient has fallen 1 times in the last year. The fall(s) resulted in injury. The patient is at risk for falls.
+Patient Education
+# Patient Education
+1. Well Visit, Over 65: Care Instructions
+Medications (Added, Continued or Stopped today)
+Start Date Medication Directions Stop Date
+12/21/2017 duloxetine 20 mg
+capsule,delayed release
+take 1 Tablet by oral route once
+09/21/2018 LEVOTHYROXINE 50 MCG
+TABLET
+TAKE 1 TABLET BY ORAL ROUTE EVERY DAY
+12/28/2018 losartan 50 mg tablet take 1 tablet by oral route once
+10/22/2018 meclizine 12.5 mg tablet take 1 Tablet by oral route 3 times every day as needed
+12/28/2018
+melatonin take 1 daily.
+12/27/2018 METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES EVERY
+DAY
+12/18/2013 multivitamin capsule take 1 by Oral route once
+Probiotic take 1 daily.
+Murray, Sarah K. 000000169940 05/11/1936 12/28/2018 02:00 PM 23/36
+12/18/2013 Vitamin B-12 500 mcg tablet take 1 by Oral route once
+Counseling / Educational Factors:
+Counseling / educational factors reviewed.
+The patient was checked out at 2:56 PM by Heather McDaniel.
+Provider:
+Lazarides, Lazaros 12/31/2018 9:38 AM
+Document generated by: Lazaros Lazarides 12/31/2018 09:38 AM
+Electronically signed by Lazaros Lazarides MD on 12/31/2018 09:39 AM
+Murray, Sarah K. 000000169940 05/11/1936 08/15/2018 11:45 AM 24/36
+PATIENT: Sarah Murray
+DATE OF BIRTH: 05/11/1936
+DATE: 08/15/2018 11:45 AM
+VISIT TYPE: Office Visit
+This 82 year old female presents for back pain.
+History of Present Illness:
+1. back pain
+Onset: 1 year ago. The problem is fluctuating. It occurs persistently. Additional information: pt states she is still having side lower back pain, states it does radiate to hip, denies issues with urinating but refused to leave a sample. has issues with walking due to pain. saw surgeon. MR/LL.
+PROBLEM LIST:
+L
+
+-------------------------------------------
+-------------------------------------------
+Problem Description Onset Date Chronic
+Malaise and fatigue 12/18/2013 Y
+Benign essential hypertension 12/18/2013 Y
+Hypothyroidism 12/18/2013 Y
+PAST MEDICAL/SURGICAL HISTORY (Detailed)
+Disease/disorder Onset Date Management Date Comments
+cervical fusion
+Hypertension
+left leg fracture
+lumbar fusion
+Thyroid disease
+DIAGNOSTICS HISTORY:
+Test Ordered Interpretation Result completed
+X-RAY EXAM OF NECK SPINE
+05/26/2016 see scanned
+report
+05/27/2016
+CT NECK SPINE
+W/O DYE
+06/01/2016 see scanned
+report
+08/16/2016
+EYE EXAM normal 04/15/2016
+MAMMOGRAM, SCREENING
+See scanned report. 05/14/2018
+Test Ordered Ordering Comments Modifier
+X-RAY EXAM OF NECK SPINE
+05/26/2016 neck pain arm pain 3 weeks
+CT NECK SPINE
+W/O DYE
+06/01/2016 abn cervical spine xray
+EYE EXAM
+MAMMOGRAM, SCREENING
+Murray, Sarah K. 000000169940 05/11/1936 08/15/2018 11:45 AM 25/36
+Family History (Detailed)
+Relationship Family Member Name Deceased Age at Death Condition Onset Age Cause of Death
+Brother Heart Attack Y
+Father Cancer, lung Y
+Mother Cancer, lung Y
+Sister Aneurysm Y
+Sister Cancer, lung Y
+SOCIAL HISTORY (Detailed)
+Tobacco use reviewed.
+Preferred language is English.
+
+-------------------------------------------
+-------------------------------------------
+MARITAL STATUS/FAMILY/SOCIAL SUPPORT
+Currently married.
+Smoking status: Never smoker.
+SMOKING STATUS
+Use Status Type Smoking Status Usage Per Day Years Used Total Pack Years yes Cigarette Never smoker
+No passive smoke exposure.
+LIFESTYLE
+Exercises 2-3 times a week.
+DIET
+healthy, junk food.
+SLEEP PATTERNS
+Patient has no changes to sleep patterns.
+HOME ENVIRONMENT/SAFETY
+Carbon monoxide detector at home.
+The patient is not at risk for falls.
+The Patient has fallen 2 times in the last year.
+Uses seat belts.
+Medications (active prior to today)
+Medication Name Sig Desc Start Date Stop Date Refilled Elsewhere multivitamin capsule take 1 by Oral route once 12/18/2013 N
+Vitamin B-12 500 mcg
+tablet take 1 by Oral route once 12/18/2013 N
+Probiotic take 1 daily. // Y
+melatonin take 1 daily. // Y
+LEVOTHYROXINE 50
+MCG TABLET
+TAKE 1 TABLET BY ORAL
+ROUTE EVERY DAY
+09/28/2017 09/28/2017 N
+duloxetine 20 mg
+capsule,delayed release
+take 1 Tablet by oral route
+once
+12/21/2017 N
+METOPROLOL TARTRATE
+25 MG TAB
+TAKE 1 TABLET BY ORAL
+ROUTE 3 TIMES EVERY DAY
+07/23/2018 07/23/2018 N
+Patient Status
+Completed with information received for patient in a summary of care record.
+Medication Reconciliation
+Medications reconciled today.
+Medication Reviewed
+Murray, Sarah K. 000000169940 05/11/1936 08/15/2018 11:45 AM 26/36
+
+-------------------------------------------
+-------------------------------------------
+Adherence Medication Name Sig Desc Elsewhere Status taking as directed multivitamin capsule take 1 by Oral route once N Verified taking as directed Probiotic take 1 daily. Y Verified taking as directed Vitamin B-12 500 mcg tablet take 1 by Oral route once N Verified taking as directed melatonin take 1 daily. Y Verified taking as directed LEVOTHYROXINE 50 MCG
+TABLET
+TAKE 1 TABLET BY ORAL ROUTE EVERY
+DAY
+N Verified
+taking as directed METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES
+EVERY DAY
+N Verified
+taking as directed duloxetine 20 mg
+capsule,delayed release
+take 1 Tablet by oral route once N Verified
+Allergies
+Ingredient Reaction Medication Name Comment
+SULFA
+(SULFONAMIDE
+ANTIBIOTICS)
+Nausea/Vomiti
+ng
+Reviewed, no changes.
+REVIEW OF SYSTEMS
+System Neg/Pos Details
+Constitutional Positive Fatigue.
+Constitutional Negative Change in appetite, chills/rigors, generalized weakness and night sweats.
+ENMT Negative Ear infections, fullness in ears, hoarseness, nasal congestion, nasal drainage, pharyngitis, post-nasal drainage, rhinorrhea and sinusitis.
+Respiratory Negative Cough, dyspnea, known TB exposure, nocturnal dyspnea, orthopnea, pleuritic pain and sputum.
+Cardio Negative Chest pain, edema and irregular heartbeat/palpitations.
+GI Negative Abdominal pain, change in appetite, constipation, decreased appetite and diarrhea.
+GU Negative Nocturia.
+Neuro Negative Headache and syncope.
+Psych Negative Feeling down, depressed or hopeless and little interest or pleasure in doing things.
+VITAL SIGNS
+Time BP
+mm/Hg
+Pulse
+/min
+Resp
+/min
+
+-------------------------------------------
+-------------------------------------------
+Temp
+F
+Ht ft Ht in Ht cm Wt Ib Wt kg BMI
+kg/m2
+BSA
+m2
+02 Sat%
+12:05 PM 130/70 58 5.0 4.00 162.56 168.00 76.204 28.84 95
+MEASURED BY
+Time Measured by
+12:05 PM Maria Ricci
+Physical Exam
+Exam Findings Details
+Constitutional Normal No acute distress. Well developed.
+Eyes Normal General - Right: Normal, Left: Normal. Conjunctiva - Right: Normal, Left:
+Normal. Pupil - Right: Normal, Left: Normal.
+Ears Normal Inspection - Right: Normal, Left: Normal. Canal - Right: Normal, Left:
+Normal.
+Nose/Mouth/Throat Normal Sinuses - Right: Normal, Left: Normal. Buccal mucosa - Normal. Tonsils -
+Normal. Oropharynx - Normal.
+Murray, Sarah K. 000000169940 05/11/1936 08/15/2018 11:45 AM 27/36
+Neck Exam Normal Inspection - Normal. Range of motion - Normal. Submandibular lymph nodes - Normal. Cervical lymph nodes - Normal.
+Lymph Detail Normal Anterior cervical. Posterior cervical.
+Respiratory Normal Auscultation - Normal. Chest wall tenderness - Absent. Cough - Absent.
+Effort - Normal.
+Cardiovascular Normal Palpation/percussion - PMI normal. Heart rate - Regular rate. Rhythm -
+Regular. Heart sounds - Normal S1, Normal S2. Murmurs - None.
+Vascular Normal Pulses - Carotids: Normal.
+Abdomen Normal Auscultation - Normal.
+Completed Orders (this encounter)
+Order Side Interpretation Result Details
+Patient Health
+Questionnaire (PHQ-2)
+Further testing
+is not required
+0
+Assessment/Plan
+# Detail Type Description
+1. Assessment Kidney stone on right side (N20.0).
+Impression Patient has a history of kidney stone on the right in the calculus upper pole of the right kidney. She's been having right flank pain with involvement of the lumbar region. Patient seen by urology in the past. She did have an ultrasound of the kidney which showed a 4 mm stone. I will obtain a CAT scan of the pelvis to rule out any progression of her kidney stone in the meantime the patient will start a physical therapy regimen. 3 times a week due to the involvement of the lumbar paravertebral region on the right side.
+Plan Orders Further diagnostic evaluations ordered today include(s) CT ABD & PELVIS W/O CONTRAST to be performed.
+
+-------------------------------------------
+-------------------------------------------
+Fall Risk Plan
+The Patient has fallen 2 times in the last year.
+Medications (Added, Continued or Stopped this visit)
+Started Medication Directions Stopped
+12/21/2017 duloxetine 20 mg
+capsule,delayed release
+take 1 Tablet by oral route once
+09/28/2017 LEVOTHYROXINE 50 MCG
+TABLET
+TAKE 1 TABLET BY ORAL ROUTE EVERY DAY melatonin take 1 daily.
+07/23/2018 METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES EVERY
+DAY
+12/18/2013 multivitamin capsule take 1 by Oral route once
+Probiotic take 1 daily.
+12/18/2013 Vitamin B-12 500 mcg tablet take 1 by Oral route once
+The patient was checked out at 12:34 PM by Judy Naccarato.
+Electronically signed by: Lazaros Lazarides MD 08/15/2018 09:18 PM
+Document generated by: Lazaros Lazarides 08/15/2018 09:17 PM
+Electronically signed by Lazaros Lazarides MD on 08/15/2018 09:18 PM
+Murray, Sarah K. 000000169940 05/11/1936 05/01/2018 11:30 AM 28/36
+PATIENT: Sarah Murray
+DATE OF BIRTH: 05/11/1936
+DATE: 05/01/2018 11:30 AM
+VISIT TYPE: Office Visit
+This 81 year old female presents for Dizziness.
+History of Present Illness:
+1. Dizziness
+The patient describes it as (an) spinning. Associated symptoms include incoordination and nausea.
+Pertinent negatives include chest pain, diplopia, ear drainage, fever, headache, loss of consciousness, palpitations, paresthesia, seizures, vision loss and vomiting.
+PROBLEM LIST:
+Problem Description Onset Date Chronic
+Malaise and fatigue 12/18/2013 Y
+Hypothyroidism 12/18/2013 Y
+Benign essential hypertension 12/18/2013 Y
+PAST MEDICAL/SURGICAL HISTORY (Detailed)
+Disease/disorder Onset Date Management Date Comments
+cervical fusion
+Hypertension
+left leg fracture
+lumbar fusion
+
+-------------------------------------------
+-------------------------------------------
+Thyroid disease
+DIAGNOSTICS HISTORY:
+Test Ordered Interpretation Result completed
+X-RAY EXAM OF NECK SPINE
+05/26/2016 see scanned
+report
+05/27/2016
+CT NECK SPINE
+W/O DYE
+06/01/2016 see scanned
+report
+08/16/2016
+EYE EXAM normal 04/15/2016
+Test Ordered Ordering Comments Modifier
+X-RAY EXAM OF NECK SPINE
+05/26/2016 neck pain arm pain 3 weeks
+CT NECK SPINE
+W/O DYE
+06/01/2016 abn cervical spine xray
+EYE EXAM
+Family History (Detailed)
+Relationship Family Member Name Deceased Age at Death Condition Onset Age Cause of Death
+Brother Heart Attack Y
+Murray, Sarah K. 000000169940 05/11/1936 05/01/2018 11:30 AM 29/36
+Father Cancer, lung Y
+Mother Cancer, lung Y
+Sister Aneurysm Y
+Sister Cancer, lung Y
+SOCIAL HISTORY (Detailed)
+Tobacco use reviewed.
+Preferred language is English.
+MARITAL STATUS/FAMILY/SOCIAL SUPPORT
+Currently married.
+Smoking status: Never smoker.
+SMOKING STATUS
+Use Status Type Smoking Status Usage Per Day Years Used Total Pack Years yes Cigarette Former smoker
+No passive smoke exposure.
+CAFFEINE
+The patient uses caffeine: coffee - 2 cups a day.
+LIFESTYLE
+Exercises 2-3 times a week.
+DIET
+healthy, junk food.
+SLEEP PATTERNS
+Patient has no changes to sleep patterns.
+
+-------------------------------------------
+-------------------------------------------
+HOME ENVIRONMENT/SAFETY
+Carbon monoxide detector at home.
+The patient is at risk for falls.
+The Patient has fallen 1 times in the last year.
+Uses seat belts.
+Medications (active prior to today)
+Medication Name Sig Desc Start Date Stop Date Refilled Elsewhere multivitamin capsule take 1 by Oral route once 12/18/2013 N
+Vitamin B-12 500 mcg
+tablet take 1 by Oral route once 12/18/2013 N
+Probiotic take 1 daily. // Y
+melatonin take 1 daily. // Y
+LEVOTHYROXINE 50
+MCG TABLET
+TAKE 1 TABLET BY ORAL
+ROUTE EVERY DAY
+09/28/2017 09/28/2017 N
+duloxetine 20 mg
+capsule,delayed release
+take 1 Tablet by oral route
+once
+12/21/2017 N
+valacyclovir 1 gram
+tablet
+take 1 tablet by oral route 3 times every day
+01/17/2018 05/01/2018 N
+METOPROLOL TARTRATE
+25 MG TAB
+TAKE 1 TABLET BY ORAL
+ROUTE 3 TIMES EVERY DAY
+04/23/2018 04/23/2018 N
+Patient Status
+Completed with information received for patient transitioning into care.
+Completed with information received for patient in a summary of care record.
+Medication Reconciliation
+Murray, Sarah K. 000000169940 05/11/1936 05/01/2018 11:30 AM 30/36
+Medications reconciled today.
+Medication Reviewed
+Adherence Medication Name Sig Desc Elsewhere Status taking as directed multivitamin capsule take 1 by Oral route once N Verified taking as directed melatonin take 1 daily. Y Verified taking as directed Probiotic take 1 daily. Y Verified taking as directed Vitamin B-12 500 mcg tablet take 1 by Oral route once N Verified
+taking as directed LEVOTHYROXINE 50 MCG
+TABLET
+
+-------------------------------------------
+-------------------------------------------
+TAKE 1 TABLET BY ORAL ROUTE EVERY
+DAY
+N Verified
+taking as directed METOPROLOL TARTRATE 25
+MG TAB
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES
+EVERY DAY
+N Verified taking as directed valacyclovir 1 gram tablet take 1 tablet by oral route 3 times every day
+N Verified
+taking as directed duloxetine 20 mg
+capsule,delayed release
+take 1 Tablet by oral route once N Verified
+Allergies
+Ingredient Reaction Medication Name Comment
+SULFA
+(SULFONAMIDE
+ANTIBIOTICS)
+Nausea/Vomiti
+ng
+Reviewed, no changes.
+REVIEW OF SYSTEMS
+System Neg/Pos Details
+Constitutional Negative Change in appetite, chills/rigors, fatigue, fever, generalized weakness, malaise, night sweats and pallor.
+ENMT tive Dysphagia, ear drainage, facial pain, fullness in ears, hoarseness, lump in throat, nasal congestion, otalgia, pharyngitis, post-nasal drainage, rhinitis, sneezing and tinnitus.
+Eyes Negative Burning eyes, diplopia, dry eyes, eye pain, eye redness, floaters, nystagmus, photophobia, tearing and vision loss.
+Respiratory Negative Accelerated respirations, cough, dyspnea, use of accessory muscles for respirations and wheezing.
+Cardio Negative Chest pain and irregular heartbeat/palpitations.
+GI Positive Nausea.
+GI Negative Abdominal pain, blood in stool, diarrhea, hematemesis, rectal bleeding and vomiting.
+Neuro Positive Dizziness, Incoordination.
+Neuro Negative Headache, loss of consciousness, paresthesia and seizures.
+Psych Negative Feeling down, depressed or hopeless and little interest or pleasure in doing things.
+Integumentary Negative Rash.
+MS Negative Back pain, bone/joint symptoms, muscle weakness, myalgia and neck stiffness.
+VITAL SIGNS
+Time BP
+mm/Hg
+Pulse
+
+-------------------------------------------
+-------------------------------------------
+/min
+Resp
+/min
+Temp
+F
+Ht ft Ht in Ht cm Wt Ib Wt kg BMI
+kg/m2
+BSA
+m2
+02 Sat%
+11:46 AM 150/70
+11:43 AM 160/84
+11:42 AM 160/90 60
+Murray, Sarah K. 000000169940 05/11/1936 05/01/2018 11:30 AM 31/36
+11:33 AM 5.0 4.00 162.56 164.00 74.389 28.15
+MEASURED BY
+Time Measured by
+11:46 AM Dana Rector
+11:43 AM Dana Rector
+11:42 AM Dana Rector
+11:33 AM Dana Rector
+Physical Exam
+Exam Findings Details
+Constitutional * Overall appearance - age appropriate.
+Eyes Normal Conjunctiva - Right: Normal, Left: Normal. Pupil - Right: Normal, Left:
+Normal.
+Ears Normal Inspection - Right: Normal, Left: Normal. Canal - Right: Normal, Left:
+Normal. TM - Right: Normal, Left: Normal.
+Nasopharynx * External nose - tender bridge of nose.
+Nose/Mouth/Throat * External nose - tender bridge of nose.
+Nasopharynx Normal Lips/teeth/gums - Normal. Tonsils - Normal. Oropharynx - Normal.
+Nose/Mouth/Throat Normal Nares - Right: Normal, Left: Normal. Lips/teeth/gums - Normal. Tonsils -
+Normal. Oropharynx - Normal.
+Lymph Detail Normal No cervical or supraclavicular adenopathy.
+Respiratory Normal Inspection - Normal. Auscultation - Normal. Effort - Normal.
+Cardiovascular Normal Regular rate and rhythm. No murmurs, gallops, or rubs.
+Vascular Normal Pulses - Carotids: Normal, Dorsalis pedis: Normal. Bruits - Carotids:
+Absent.
+Abdomen Normal Inspection - Normal. Auscultation - Normal. No abdominal tenderness.
+No hepatic enlargement. No splenic enlargement.
+Skin Normal Inspection - Normal.
+Musculoskeletal Normal Visual overview of all four extremities is normal.
+Extremity Normal No edema.
+Neurological * Balance & gait - unsteady gait.
+Neurological Comments negative pronator drift. positive Romberg. normal finger to nose
+Neurological Normal Level of consciousness - Normal. Orientation - Normal. Cranial nerves -
+Cranial nerves II through XII grossly intact. Coordination - Normal.
+Psychiatric Normal Orientation - Oriented to time, place, person & situation. Appropriate
+
+-------------------------------------------
+-------------------------------------------
+mood and affect.
+Completed Orders (this encounter)
+Order Side Interpretation Result Details
+Patient Health
+Questionnaire (PHQ-2)
+Further testing
+is not required
+0
+Dietary management
+education, guidance, and counseling
+Assessment/Plan
+# Detail Type Description
+1. Assessment Dizziness (R42).
+Impression dizziness started after the fall. history of vertigo. dizziness is constant. worse with movement. worse with looking down at ground..
+Patient Plan symptomatic with changing positions, orthostatic when standing. discussed changing positions slowly. will obtain head CT to r/o bleed (not on anticoagulants). discussed dizziness may be post-concussion (treatment with dark room, rest, fluids). if symptoms worsen, pt and daughter to go to ER. both in agreement with POC>
+Murray, Sarah K. 000000169940 05/11/1936 05/01/2018 11:30 AM 32/36
+Plan Orders Further diagnostic evaluations ordered today include(s) CT HEAD/BRAIN W/O DYE to be performed on 05/01/2018.
+2. Assessment Fall, initial encounter (W19.XXXA).
+Impression was walking in her home on sunday and tripped on stool. fell onto her face. hit her nose on hardwoord floor. no LOC. was able to get herself. left arm, bilateral knee, nose discomfort om fall..
+3. Assessment Traumatic injury of head, initial encounter (S09.90XA).
+Patient Plan tenderness to bridge of nose from trauma. will obtain xray to r/o fracture.
+Plan Orders Further diagnostic evaluations ordered today include(s) CT MAXILLOFACIAL W/O DYE to be performed on 05/01/2018.
+4. Assessment Body mass index (BMI) 28.0-28.9, adult (768.28).
+Plan Orders Today's instructions / counseling include(s) Dietary management education, guidance, and counseling
+Fall Risk Plan
+The Patient has fallen 1 times in the last year.
+Medications (Added, Continued or Stopped this visit)
+Started Medication Directions Stopped
+12/21/2017 duloxetine 20 mg
+capsule, delayed release
+take 1 Tablet by oral route once
+09/28/2017 LEVOTHYROXINE 50 MCG
+TABLET
+TAKE 1 TABLET BY ORAL ROUTE EVERY DAY melatonin take 1 daily.
+04/23/2018 METOPROLOL TARTRATE 25
+MG TAB
+
+-------------------------------------------
+-------------------------------------------
+TAKE 1 TABLET BY ORAL ROUTE 3 TIMES EVERY
+DAY
+12/18/2013 multivitamin capsule take 1 by Oral route once
+Probiotic take 1 daily.
+01/17/2018 valacyclovir 1 gram tablet take 1 tablet by oral route 3 times every day 05/01/2018
+12/18/2013 Vitamin B-12 500 mcg tablet take 1 by Oral route once
+The patient was checked out at 1:17 PM by Donna Belardinelli.
+Electronically signed by: Dana Rector APRN 05/01/2018 01:31 PM
+Document generated by: Dana Rector 05/01/2018 01:31 PM
+Electronically signed by Dana Rector APRN on 05/01/2018 01:31 PM
+Murray, Sarah K. 000000169940 05/11/1936 01/17/2018 02:15 PM 33/36
+PATIENT: Sarah Murray
+DATE OF BIRTH: 05/11/1936
+DATE: 01/17/2018 02:15 PM
+VISIT TYPE: Office Visit
+This 81 year old female presents for rash.
+History of Present Illness:
+1. rash
+The patient presents for rash. This episode began 2 weeks ago. The symptom(s) are described as worse.
+The patient describes the affected area(s) as burning, dry, red and stinging. Associated symptoms include erythema
+(skin). Additional
+information: pt states she has been having pain in L upper thigh, states she has now noticed a red mark and rash starting, pt thinks may be shingles, has had in the past. MR/LL.
+PROBLEM LIST:
+Problem Description Onset Date Chronic
+Malaise and fatigue 12/18/2013 Y
+Hypothyroidism 12/18/2013 Y
+Benign essential hypertension 12/18/2013 Y
+PAST MEDICAL/SURGICAL HISTORY (Detailed)
+Disease/disorder Onset Date Management Date Comments
+cervical fusion
+Hypertension
+left leg fracture
+lumbar fusion
+Thyroid disease
+DIAGNOSTICS HISTORY:
+Test Ordered Interpretation Result completed
+X-RAY EXAM OF NECK SPINE
+05/26/2016 see scanned
+report
+05/27/2016
+CT NECK SPINE
+W/O DYE
+06/01/2016 see scanned
+
+-------------------------------------------
+-------------------------------------------

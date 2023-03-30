@@ -1,0 +1,1791 @@
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MRN1002366940)
+Signed By: Robert Gendler, MD on 11/15/2018 2:26 PM
+Ordered On 11/15/2018 1:38 PM
+|Ordering Provider|Authorizing Provider|Ordering User|Ordering Department|
+|Henry D Todd, MD|Henry D Todd, MD|Henry D Todd, MD|HHCMG PLAINVILLE|
+|860-827-4199|860-827-4199|||
+|Printed||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/2
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MRN 1002366940)
+2
+The Hospital of Central Connecticut
+Connect to healthier.'
+Auth Prov: Henry D Todd
+201 North Mountain Road
+Ste 203
+Plainville CT 06062
+Hartford Healthcare
+Imaging Result
+|Name:|DOB:|Sex:|Patient Class:|
+|Spaczynski, Kazimierz|12/10/1928|Male|Outpatient|
+|Procedures Performed:|Exam Date and Time:|Reason for Exam:|Diagnosis:|
+|XR Chest 2 views|10/30/2018 4:12 PM|cough X week and a half|Acute bronchitis, unspecified organism|
+|Performing Department:|Accession Number:|Patient MRN:|PCP:|
+|HOCC IC XRAY|NB2018103002786|1002366940|Todd, Henry D|
+|201 North Mountain Road Plainville CT 06062-1848 860-827-4166||||
+
+XR CHEST 2 VIEWS: 10/30/2018 4:01 PM
+Indication: cough x week and a half. Acute bronchitis, unspecified organism
+Frontal and lateral views of the chest were performed. Cardiomegaly is noted. Left lower lobe infiltrate, Mediastinal and hilar structures are normal. Osseous structures are intact.
+IMPRESSION:
+Left lower lobe infiltrate. Cardiomegaly.
+Signed By: Robert Gendler, MD on 10/30/2018 4:20 PM
+Ordered On 10/30/2018 3:39 PM
+|Ordering Provider|Authorizing Provider|Ordering User|Ordering Department|
+|Henry D Todd, MD|Henry D Todd, MD|Henry D Todd, MD|HHCMG PLAINVILLE|
+|860-827-4199|860-827-4199|||
+|Printed||||
+
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/1
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 03/02/2018
+Printed by FERRATO, DANIELLE [3131]
+Discharge
+Disposition
+skilled nursing facility
+Code Status
+Procedures
+ Full Code
+.
+Admission Medications
+acetaminophen (TYLENOL) 500 MG tablet Take 500 mg by mouth 4 times daily (every 6 hours) as needed for mild pain.
+amLODIPine (NORVASC) 5 MG tablet Take 5 mg by mouth daily.
+calcium carbonate-vitamin D 600 mg-400 unit Take 1 tablet by mouth daily.
+tablet
+Carboxymethylcellulose Sodium
+Administer 1 drop to both eyes 2 (two) times
+(THERATEARS) 0.25 % Solution a day as needed.
+cyanocobalamin (VITAMIN B-12) 1000 MCG Take 1,000 mcg by mouth daily.
+tablet
+docusate sodium (COLACE) 100 MG capsule Take 100 mg by mouth as needed for constipation.
+levothyroxine (SYNTHROID) 88 MCG tablet Take 88 mcg by mouth daily on an empty stomach.
+MENTHOL, TOPICAL ANALGESIC, EX Apply 1 application topically as needed.
+ sodium chloride (OCEAN) 0.65 % nasal 1 spray into each nostril as needed for drops/spray congestion.
+ tamsulosin (FLOMAX) 0.4 MG capsule Take 0.4 mg by mouth daily. In the afternoon.
+traZoDone (DESYREL) 100 MG tablet Take 100 mg by mouth nightly.
+.
+Discharge Medications
+New Medications
+bisacodyl 10 MG suppository
+Commonly known as: DULCOLAX
+Sig
+Insert 1 suppository (10 mg total) into the rectum daily as needed for constipation.
+Quantity: 12 suppository
+magnesium hydroxide 400 mg/5 mL
+suspension
+Commonly known as: MILK OF MAGNESIA
+Take 30 mL by mouth nightly as needed for constipation.
+Quantity: 360 mL
+traMADol 50 MG tablet
+Commonly known as: ULTRAM
+Take 1 tablet (50 mg total) by mouth 3 times daily (every 8 hours) as needed for moderate pain.
+Quantity: 30 tablet
+Medications To Continue
+acetaminophen 500 MG tablet
+Commonly known as: TYLENOL
+Sig
+Take 500 mg by mouth 4 times daily (every 6 hours) as needed for mild pain.
+Take 5 mg by mouth daily.
+amLODIPine 5 MG tablet
+Commonly known as: NORVASC
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+6/10
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 03/02/2018
+Sig
+TO, DANIELLE [3131]
+|calcium carbonate-vitamin D 600 mg-400 unit tablet|Take 1 tablet by mouth daily.||
+|cyanocobalamin 1000 MCG tablet Commonly known as: VITAMIN B-12|Take 1,000 mcg by mouth daily.||
+|docusate sodium 100 MG capsule Commonly known as: COLACE|Take 100 mg by mouth as needed for constipation.||
+|sodium chloride 0.65 % nasal drops/spray Commonly known as: OCEAN|1 spray into each nostril as needed for congestion.||
+|SYNTHROID 88 MCG tablet Generic drug: levothyroxine|Take 88 mcg by mouth daily on an empty stomach.||
+|tamsulosin 0.4 MG capsule Commonly known as: FLOMAX|Take 0.4 mg by mouth daily. In the afternoon.||
+|THERATEARS 0.25 % Soln Generic drug: Carboxymethyloellulose Sodium|Administer 1 drop to both eyes 2 (two) times a day as needed.||
+|traZODone 100 MG tablet Commonly known as: DESYREL|Take 100 mg by mouth nightly.||
+|Stopped Medications MENTHOL (TOPICAL ANALGESIC) EX|||
+
+Discharge
+Orders
+Alternate periods of rest with activity.
+No driving
+DISCHARGE DIET
+Diet
+Regular Diet (no dietary
+restrictions)
+Call your doctor for: The same symptoms that brought you to the hospital
+May shower: specify.
+Additional Discharge Instructions
+If have Aquacel dressing, Additional Information remove after 7 days
+Future Appointments
+|Date|Time|Provider|Department|Center|
+|7/24/2018|11:00 AM|Henry D Todd, MD|MG PC PLNVL|HHCMG Cent|
+
+Follow-up
+Providers
+Monsignor Bojnowski Manor
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+7/10
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 03/02/2018
+50 Pulaski St
+New Britain, CT 06053
+860-229-0336
+Printed by FERRATO, DANIELLE [3131]
+Follow up
+FAX W10 TO 860-229-3252
+Henry D Todd, MD
+201 North Mountain Road
+Suite 203
+Plainville CT 06062
+860-229-0100
+Active Issues Requiring Follow-up
+follow-up Dr Khan in 2-4 weeks
+Incidental hospital findings:none
+Test Results Pending at Discharge
+Details of Hospital Stay
+Presenting Problem/History of Present Illness
+Patient loss his balance and fell. Unable to get himself up after fall and complains of back pain.
+Hospital Course
+Patient found to have L1 compression fracture. Admitted to hospital and initially treated for pain control. His pain is now minimal. Physical therapy consulted and patient is unsteady and recommend short term rehab for gait training.
+No notes on file
+Inpatient Treatments: therapies: PT
+Consults: none
+Procedures:
+Diagnostic Studies: radiology: X-Ray: L1 compression fracture
+Physical Exam at Discharge
+Discharge Condition: stable
+Last Vitals:
+Pulse:75, Resp:20,BP:116/62, SpO2:96 %,Weight: 59 kg (130 lb)
+Temp Last 24 hrs: Temp Min: 97.8 F (36.6 C) Max: 98.2 F (36.8 C)
+AVSS, no calf tenderness,supple bilateral. Moving bilateral legs equally in chair
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+8/10
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 03/02/2018
+Tracy E Benjamin, PA
+Printed by FERRATO, DANIELLE [3131]
+3/6/2018
+9:55 AM
+Other Notes
+All notes
+H&P from John J Ryng, PA (Surgery)
+Hospital Problem List
+Closed compression fracture of L1 lumbar vertebra (HCC)
+Care Timeline
+03/02 Admitted from ED 1619
+03/06 Q Discharged 1936
+Discharge
+Skilled Nursing Facility
+AVS
+ After Visit Summary-AVS (Printed 3/6/2018)
+ W10 (Printed 3/6/2018)
+Follow-Ups
+ Follow up with Monsignor Bojnowski Manor; FAX W10 TO 860-229-3252
+ Follow up with Henry D Todd, MD (Medicine Hospitalist)
+Medication List at Discharge
+Acetaminophen 500 mg Oral Every 6 hours PRN
+amLODIPine Besylate 5 mg Oral Daily
+Bisacodyl 10 mg Rectal Daily PRN
+Calcium Carbonate-Vitamin D 600 mg-400 unit 1 tablet Oral Daily
+Carboxymethylcellulose Sodium 0.25 % 1 drop Each Eye 2 times daily PRN
+Cyanocobalamin 1,000 mcg Oral Daily
+Docusate Sodium 100 mg Oral As needed
+Levothyroxine Sodium 88 mcg Oral Daily
+Magnesium Hydroxide 400 mg/5 ml 30 mL Oral Nightly PRN
+Saline 0.65 % 1 spray Nasal As needed ib
+Tamsulosin HCl 0.4 mg Oral Daily, In the afternoon.
+traMADol HCl 50 mg Oral Every 8 hours PRN is trazoDone HCI 100 mg Oral Nightly
+Printed by Danielle F at 11/1/2019 1:51 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+9/10
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 03/02/2018
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+10/10
+
+-------------------------------------------
+-------------------------------------------
+Cancer Center of Central Connecticut, LLC.
+201 North Mountain Road, Suite 202
+Plainville, CT 06062
+Phone: (860) 224-4408 Fax: (860) 827-3428
+CLPOL1063
+TTTTT
+FACSIMILE TRANSMITTAL SHEET
+To:
+William R McQueen Fx: (860)225-2647
+Date: 10/8/2015 3:00:35 PM
+From:
+Peter Byeff, MD
+Subject:
+MD Follow Up Note for patient: SPACZYNSKI, KAZIMIERZ, DOB: 12/10/1928
+Notes:
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/4
+
+-------------------------------------------
+-------------------------------------------
+Cancer Center of Central Connecticut, LLC.
+201 North Mountain Road, Suite 202
+Plalnville, CT 06062
+Phone: (860) 224-4408 Fax: (860) 827-3428
+CLPOL1063
+Patient Name: SPACZYNSKI, KAZIMIERZ
+Patient Number: 9607
+Date: 10/8/2015
+Date of Birth: 12/10/1928
+To:
+Leukopenia. B-cell clone.
+Chief Complaint/Reason for Visit
+Lab Check Surveillance Visit
+Dlagnosis/Problem
+Anemia, unspecified (285.9) Anemia and leukopenia 2007
+Ataxia
+Peripheral Neuropathy
+Hypothyroidism
+Rheumatoid Arthritis
+TURP May 2009
+TURB 1995
+Appendectomy
+Basal Cell skin cancers removed
+B Cell Clone on periperal blood flow cytometry
+Allergles
+Vicodin
+Medications
+amlodipine 5 mg tablet, B Complex oral, Calcium 500 500 mg calcium (1,250 mg) tablet, docusate sodium 100 mg capsule, Flomax 0.4
+mg capsule, krill oil 1,000 mg-170 mg-50 mg-80 mg capsule, levothyroxine 88 mcg tablet, Lyrica 50 mg capsule, PreserVision 226 mg-
+200 unit-5 mg Cap, Vitamin D3 2,000 unit tablet
+History of Present Illness
+Mr. Spaczynski has been referred for longstanding leukopenia. He has had a consistent ANC of over 1000 per microliter. He has had normal B12, normal SPEP, negative ANA and no lymphocytosis. He has refused bone marrow examination but peripheral blood flow cytometry showed a B cell clone. His lymphocyte count usually is about 1000 per microliter. He has had a ferritin of 23 ng/mL in 2009 but has not been taking iron supplements.
+Past Medical History
+High blood pressure(hypertension). Thyroid disease. Neuropathy.
+No previous treatment hilstory has been entered for this patient.
+Past Surgical History
+TURB 1995
+TURP 2009 for BPH
+Soclal History
+Living with spouse. Retired. No hazardous or chemical material exposures
+Smoking former smoker. Patient discontinued use in 1990. Patient has a pack year history of: 40. Cessation Not Discussed
+Alcohol Use
+Denies any prior alcohol use.
+Primary Occupation
+manual labor
+Family History
+SPACZYNSKI, KAZIMIERZ DOB: 12/10/1928 (9607)
+Page 1 of 3
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+214
+
+-------------------------------------------
+-------------------------------------------
+His daughter is well. There is no history of low blood counts in his parents or his daughter. No family history of cancer or hematologic disorders affecting first degree relatives. No suspicion of genetic family cancer syndrome.
+Personal History
+Health Screening/procedures: Transfusion History: Births:
+Review Of Systems
+Patient reports no weight loss, no fatigue, no loss of appetite, no fever, no chills, no night sweats, no pain. Denies any seasonal allergies or frequent infections. He has had a recent upper respiratory infection. No fever. Pt reports no blurred vision. Pt reports no sore throat.
+Denies any itching or skin rashes. Pt reports no heart palpitations. Pt reports no chest pains. Pt reports cough. Pt reports sputum production. His sputum with his recent cough is clear. Pt reports no abdominal pain. Pt reports no rectal bleeding. Pt reports no blood in urine. Pt reports no pain with urination. He has had recent evaluation for neuropathy and myelopathy. He has a gait disturbance but no recent falls. Very tangential. Upset when lengthy answeres to questions interrupted. Denies any lumps in arm-pits, neck or groin.
+Vitals
+Vitals on 10/8/2015 2:22:00 PM: Height=66in, Weight=1451b, Temp=98.7f, Pulse=80, SystolicBP=151, Diastolic BP=68, Resp=20
+Physical Exam
+Appears chronically ill. Conjunctiva clear. Lips, Teeth and Gums appear normal. Oropharynx without lesions. Neck is supple, no thyromegaly, no masses and no adenopathy, $1, S2 without murmurs, rubs or gallops. Carotid pulse 2/4. Lungs clear to auscultation with unlabored breathing, no accessory muscle use and no rales or rhonchi. Not examined. He has no liver or spleen enlargement but has a large right groin hernia that is not painful. Skin without rash or lesions. Normal turgor. No neck, axillary or groin lymphadenopathy. No petechia or purpura No bony tenderness. Patellar reflexes are present, ankle reflexes are not active. Sensation intact. Without clubbing, cyanosis or edema.
+Labs
+Lab results on 10/8/2015: WBC=2.13 K/UL, RBC=4.6 m/uL, Hgb=13 g/dl, HCT=37.1 %, MCV=80.8 fL, MCH=28.2 pg, MCHC=35 g/dL, RDW=13.2 %, Plat=121 KluL, MPV=5.25 u3, Gran#=0.778 10 9/L, Lymph#=1.01 10 9/L, MONO#=0.308 10 9/L, BASO#=0.013 10 9/L, EOS#=0.021 10 9/L, Gran%=36.6 %, Lymph%=47,3 %, MONO%=14.5 %, BASO%=0.628 %, EOS%=0.994 %
+Imaging Results
+Assessment
+In the office on 3/12/15, I had a long discussion with the patient and his wife. He was previously found to have a B-cell clone in his peripheral blood, and refused a bone marrow examination. He denied any fevers or sweats. His WBC was 2.58, Hgb/Hct 13./37.9, and plt ot 155. He again declined a bone marrow examination. I am sending additional tests including peripheral blood flow cytometry. He will return to the office in one month for further evaluation. The interaction lasted one hour.
+On 4/16/15, his WBC was 2.55, Hgb/Hot 13.5/37.2, and plt ct 158. I reviewed his laboratory tests with him which showed a possible monoclonal paraprotein. I have sent serum and urine immunofixations. His peripheral blood flow cytometry was negative. He will return to the office in 3 months for further evaluation.
+In the office on 7/16/15, his weight was found to have decreased 10 pounds in the past 4 months. He states that his appetite is good.
+His serum and urine immunofixations did not reveal any paraprotein. His WBC was 2.69, Hgb/Hct 13.8/37.9, and plt ct 143. He continues to decline a bone marrow examination. He will return to the office in 3 months for further evaluation.
+On 10/8/15, his weight was found to have decreased 3 pounds to 145. He denied fevers or sweats. He had no adenopathy or
+splenomegaly. His WBC was 2.13, Hgb/Hct 13/37.1, and plt ct 121. He continues to decline a bone marrow examination. He will return to the office in 3 months for further evaluation.
+Plan
+Ordered Tests: CBC, CMP
+Reviewed with patient NCON guidelines for management of disease
+Reviewed with patient natural history, prognosis, treatment options
+I met with the Family today
+CBC, CMP
+SPACZYNSKI, KAZIMIERZ DOB: 12/10/1928 (9607)
+Page 2 of 3
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/4
+
+-------------------------------------------
+-------------------------------------------
+Peta BufffmD
+Signed By:
+Peter Byeff, MD on 10/8/2015 at 3:00 PM
+SPACZYNSKI, KAZIMIERZ DOB: 12/10/1928 (9607)
+Page 3 of 3
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/4
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Results
+Complete Blood Count, with Differential (Order 142940410)
+?
+Complete Blood Count, with Differential
+Order: 142940410
+Status: Final result Visible to patient: No (Not Released) Next appt: Today at 05:00 PM in Home Health
+Services (Damian Wolski, LPN)
+HHC HOCC The Hospital Spaczynski, Kazimierz of Central Connecticut MRN: 1002366940, DOB: 12/10/1928, Sex: M
+100 Grand Street
+Acct #: 31806100686
+New Britain CT 06050 Adm: 3/2/2018, D/C: 3/6/2018
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccarelord_detail.asp?from=ResultReview&Ndx=4
+1/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+@
+V
+Newer results are available.
+||Ref Range & Units|1yr ago|
+|White Blood Cell Count|4.0 - 11.0 Thou/uL|2.7|
+|Platelet Count|150 - 450 Thou/uL|146|
+|Hemoglobin|13.0 - 17.7 g/dL|10.9|
+|Hematocrit|39.0 - 54.0 %|31.3|
+|Red Blood Cell Count|4.50 - 6.20 Mil/uL|3.72|
+|MCV|80 - 100 fL|84|
+|MCH|27.0 - 31.0 pg|29.3|
+|MCHC|30.0 - 36.0 g/dL|34.8|
+|RDW|11.5 - 14.5 %|14.9|
+
+V
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccarelord_detail.asp?from=ResultReview&Ndx=4
+2/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+|MPV|9.4 - 12.5 fL|8.8|
+|Neutrophils Auto|%|65.6|
+|Immature Granulocytes|%|0.4|
+|Lymphocytes Auto|%|19.8|
+|Monocytes Auto|%|13.8|
+|Eosinophils Auto|%|0.4|
+|Basophils Auto|%|0.0|
+|Abs Neutrophils Auto|2.00 - 7.50 Thou/uL|1.76|
+|Abs Immature Granulocytes|0.00 - 0.10 Thou/uL|0.01|
+|Abs Lymphocytes Auto|1.50 - 4.50 Thou/uL|0.53|
+|Abs Monocytes Auto|0.20 - 1.50 Thou/uL|0.37|
+|Abs Eosinophils Auto|0.00 - 0.70 Thou/uL|0.01|
+|Abs Basophils Auto|0.00 - 0.20 Thou/uL|0.00|
+
+V
+V
+Comment : Performed at Hospitals of Central CT New Britain Campus , 100 Grand St , New Britain CT 06050 . CLIA License 07D0092913 , CT license HP 0222 . Resulting Agency
+Hospital
+Specimen Collected: Last Resulted: 03/02/18 Order Details View Encounter Lab and Collection
+03/02/18 12:53 PM 1:07 PM
+Details Routing Result History
+Additional Information
+Bill Type
+Client ID
+Specimen ID
+F80340_20180302125300
+Additional Information
+|Specimen Date|Specimen Time|Specimen|Specimen|Result Date|Result Time|
+|Taken|Taken|Received Date|Received Time|||
+|Mar 2, 2018|12:53 PM|Mar 2, 2018|1:04 PM|Mar 2, 2018|1:07 PM|
+
+Hartford Healthcare Laboratories, CT State License No.
+Backus Hospital Lab: HP-0230, Backus Plainfield Emergency Center Lab: CL-0766, HHC Cancer Institute: CL-0719, Charlotte Hungerford Hospital: HP-
+0245, Charlotte Hungerford Winsted Emergency Center Lab: CL-0720, Hartford Hospital: HP-0254, Hartford Hospital, Newington Campus: CL-0385, Midstate Medical Center Lab: HP-0310, The Hospital of Central CT Lab: HP-0222, The Hospital of Central CT Lab (Blood Gas): HP-0303, The Hospital of Central CT Bradley Emergency Center Lab: HP-0240, The Hospital of Central CT-Satellite Campus: HP-0261, Windham Hospital Lab: HP-0366
+External Results Report
+Open External Results Report
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato (3131) at 11/1/19 1:53 PM
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccarelord_detail.asp?from=ResultReview&Ndx=4
+3/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+||20 9/6/2016 15:10|19 10/31/2016 07:23|18 10/31/2016 07:23|17 7/17/2017 10:39|16 1/25/2018 06:55|
+|CHEMISTRY GE NERAL||||||
+|Sodium|140|139|||137 *|
+|Potassium|4.0|4.1|||4.1*|
+|Chloride|103|103|||106 *|
+|CO2|24|23|||26*|
+|Anion Gap|13||13|||
+|BUN|16|16|||22 *|
+|Creatinine|0.83|0.91|||0.82 *|
+|Bun / Creat Ratio|||||NOT APPLICA BLE *|
+|Glucose|96|99.|||84 *|
+|Calcium|8.8|8.6|||8.2 *|
+|Magnesium||||||
+|Protein, Total||7.4|||6.8*|
+|Albumin||3.7|||3.7*|
+|Globulin|||3.7||3.1|
+|A/G Ratio|||1.00||1.2*|
+|eGFR||||||
+|eGFR African Am erican|>60.00 *|>60.00 *|||91 *|
+|eGFR Non- African A.|>60.00|60.00|||78 *|
+|eGFR VTE Africa nA...|60.00 *|60.00 *||||
+|eGFR VTE Non- Afric|60.00|60.00||||
+|GFR - African A mer.||||||
+|Bilirubin Total||1.1|||0.9*|
+|Aspartate Aminot ra||32|||20 *|
+|Alanine Aminotra ns||26|||11*|
+|Alkaline Phospha tase||71|||58 *|
+|Lactic Acid||||||
+|Phosphorus||||||
+|CARDIAC/SKEL ETAL M.||||||
+
+...
+...
+Y
+Y
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+1/7
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+||20 9/6/2016 15:10|19 10/31/2016 07:23|18 10/31/2016 07:23|17 7/17/2017 10:39|16 1/25/2018 06:55|
+|Creatine Kinase ( CK)||||||
+|Troponin I||||||
+|proBNP, N- terminal||||||
+|LIPID PROFILE||||||
+|Cholesterol||80||85|76*|
+|Triglyceride||49||||
+|Triglycerides||||45|43 *|
+|HDL||28.3||30|24 *|
+|Estimated LDL||||46 *||
+|LDL Calculated|||42|||
+|LDL Cholesterol|||||40 *|
+|Cholesterol/HDL Ratio||||2.8|3.2*|
+|Non HDL Chol. ( LDL|||||52 *|
+|Risk Factor|||3...|||
+|ENDOCRINE/FE RTILITY||||||
+|Hemoglobin A1C||4.8||||
+|Average Glucose|||91.1|||
+|TSH, Highly Sen sitive|||||6.13 *|
+|TSH reflex Free T4||||||
+
+*
+...
+||15 3/2/2018 12:53|14 2/11/2019 15:10|13 3/27/2019 16:03|12 3/27/2019 17:17|11 3/29/2019 11:05|
+|CHEMISTRY GE NERAL||||||
+|Sodium|137|136 *|139||137|
+|Potassium|4.1|4.2 *|3.9||3.8|
+|Chloride|102|102 *|102||101|
+|CO2|26|24 *|26||23|
+|Anion Gap|9||11||13|
+|BUN|18|19 *|21||21|
+|Creatinine|0.7|0.76 *|0.7||0.6|
+
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+2/7
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+||15 3/2/2018 12:53|14 2/11/2019 15:10|13 3/27/2019 16:03|12 3/27/2019 17:17|11 3/29/2019 11:05|
+|Bun / Creat Ratio|26*|NOT APPLICA BLE *|30||35|
+|Glucose|144|81 *|165||219|
+|Calcium|8.3|8.5 *|8.3||7.9|
+|Magnesium|||2.2|||
+|Protein, Total||7.0 *|6.7||6.8|
+|Albumin||3.5 *|3.3||3.3|
+|Globulin||3.5 *|3.4||3.5|
+|A/G Ratio||1.0 *|1.0||0.9|
+|eGFR|>60||>60*||>60 *|
+|eGFR African Am erican||93 *||||
+|eGFR Non- African A.||80 *||||
+|eGFR VTE Africa nA...||||||
+|eGFR VTE Non- Afric||||||
+|GFR - African A mer.|>60 *||>60 *||> 60 *|
+|Bilirubin Total||0.7|0.8||0.6|
+|Aspartate Aminot ra||14 *|20||14|
+|Alanine Aminotra ns.||8*|9||7|
+|Alkaline Phospha tase||57*|62||61|
+|Lactic Acid||||0.8|2.1|
+|Phosphorus||||||
+|CARDIAC/SKEL ETAL M.||||||
+|Creatine Kinase ( CK)||||11||
+|Troponin I||||<0.30||
+|proBNP, N- terminal||||||
+|LIPID PROFILE||||||
+|Cholesterol||||||
+|Triglyceride||||||
+|Triglycerides||||||
+|HDL||||||
+
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+3/7
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+||15 3/2/2018 12:53|14 2/11/2019 15:10|13 3/27/2019 16:03|12 3/27/2019 17:17|11 3/29/2019 11:05|
+|Estimated LDL||||||
+|LDL Calculated||||||
+|LDL Cholesterol||||||
+|Cholesterol/HDL Ratio||||||
+|Non HDL Chol. ( LDL||||||
+|Risk Factor||||||
+|ENDOCRINE/FE RTILITY||||||
+|Hemoglobin A1C||||||
+|Average Glucose||||||
+|TSH, Highly Sen sitive||||||
+|TSH reflex Free T4||3.13 *||||
+
+...
+||10 3/29/2019 15:40|9 3/30/2019 07:17|8 3/31/2019 04:38|7 4/1/2019 04:51|6 5/24/2019 18:38|
+|CHEMISTRY GE NERAL||||||
+|Sodium||137|134|137|136|
+|Potassium||3.9|4.2|4.3|3.9|
+|Chloride||104|101|101|102|
+|CO2||24|25|26|22|
+|Anion Gap||9|8|10|12|
+|BUN||15|12|16|20|
+|Creatinine||0.7|0.8|0.8|0.8|
+|Bun / Creat Ratio||21|15|20|25|
+|Glucose||95|98|97|140|
+|Calcium||8.2|8.4|8.6|8.7|
+|Magnesium||2.1|2.1|||
+|Protein, Total|||||7.2|
+|Albumin|||||3.7|
+|Globulin|||||3.5|
+|A/G Ratio|||||1.1|
+|eGFR||>60 *|>60 *|>60*|>60 |
+
++
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?Which Frame=3&Action=Print
+4/7
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+||10 3/29/2019 15:40|9 3/30/2019 07:17|8 3/31/2019 04:38|7 4/1/2019 04:51|6 5/24/2019 18:38|
+|eGFR African Am erican||||||
+|eGFR Non- African A.||||||
+|eGFR VTE Africa nA.||||||
+|eGFR VTE Non- Afric||||||
+|GFR - African A mer.||>60 *|>60*|>60 *|>60*|
+|Bilirubin Total|||||1.0|
+|Aspartate Aminot ra|||||17|
+|Alanine Aminotra ns|||||12|
+|Alkaline Phospha tase|||||72|
+|Lactic Acid|1.5|||||
+|Phosphorus|||3.0|||
+|CARDIAC/SKEL ETAL M||||||
+|Creatine Kinase ( CK)||||||
+|Troponin I|||||<0.30|
+|proBNP, N- terminal||||||
+|LIPID PROFILE||||||
+|Cholesterol||||||
+|Triglyceride||||||
+|Triglycerides||||||
+|HDL||||||
+|Estimated LDL||||||
+|LDL Calculated||||||
+|LDL Cholesterol||||||
+|Cholesterol/HDL Ratio||||||
+|Non HDL Chol. ( LDL||||||
+|Risk Factor||||||
+|ENDOCRINE/FE RTILITY||||||
+|Hemoglobin A1C||||||
+|Average Glucose||||||
+|TSH, Highly Sen sitive||4.14||||
+
+...
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?Which Frame=3&Action=Print
+5/7
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+||10 3/29/2019 15:40|9 3/30/2019 07:17|8 3/31/2019 04:38|7 4/1/2019 04:51|6 5/24/2019 18:38|
+|TSH reflex Free T4||||||
+
+||5 9/3/2019 14:19|4 9/3/2019 16:15|3 9/4/2019 06:34|2 9/5/2019 06:05|1 9/6/2019 06:19|
+|CHEMISTRY GE NERAL||||||
+|Sodium|138||141|143|140|
+|Potassium|3.9||3.6|3.7|3.9|
+|Chloride|102||108|109|107|
+|CO2|25||23|24|26|
+|Anion Gap|11||10|10|7|
+|BUN|25||22|23|18|
+|Creatinine|0.7||0.6|0.6|0.6|
+|Bun / Creat Ratio|36||37|38|30|
+|Glucose|145||103|123|100|
+|Calcium|8.8||7.9|8.4|8.1|
+|Magnesium|2.2||2.1|2.1||
+|Protein, Total|7.2|||||
+|Albumin|3.1|||||
+|Globulin|4.1|||||
+|A/G Ratio|0.8|||||
+|eGFR|>60 *||>60 *|>60 *|>60*|
+|eGFR African Am erican||||||
+|eGFR Non- African A.||||||
+|eGFR VTE Africa n.A..||||||
+|eGFR VTE Non- Afric.||||||
+|GFR - African A mer.|>60 *||>60 *|>60*|>60*|
+|Bilirubin Total|0.8|||||
+|Aspartate Aminot ra|10|||||
+|Alanine Aminotra ns.|<5|||||
+|Alkaline Phospha tase|58|||||
+
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+6/7
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+||5 9/3/2019 14:19|4 9/3/2019 16:15|3 9/4/2019 06:34|2 9/5/2019 06:05|1 9/6/2019 06:19|
+|Lactic Acid|1.4|0.6||||
+|Phosphorus||||2.9||
+|CARDIAC/SKEL ETAL M.||||||
+|Creatine Kinase ( CK)||||||
+|Troponin I|<0.30|||||
+|proBNP, N- terminal|1,911|||||
+|LIPID PROFILE||||||
+|Cholesterol||||||
+|Triglyceride||||||
+|Triglycerides||||||
+|HDL||||||
+|Estimated LDL||||||
+|LDL Calculated||||||
+|LDL Cholesterol||||||
+|Cholesterol/HDL Ratio||||||
+|Non HDL Chol. ( LDL||||||
+|Risk Factor||||||
+|ENDOCRINE/FE RTILITY||||||
+|Hemoglobin A1C||||||
+|Average Glucose||||||
+|TSH, Highly Sen sitive||||||
+|TSH reflex Free T4||||||
+
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?Which Frame=3&Action=Print
+7/7
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MRN 1002366940)
+2
+The Hospital of Central Connecticut
+Connect to healthier.'
+Auth Prov: Henry D Todd
+201 North Mountain Road
+Ste 203
+Plainville CT 06062
+Hartford Healthcare
+Imaging Result
+|Name:|DOB:|Sex:|Patient Class:|
+|Spaczynski, Kazimierz|12/10/1928|Male|Outpatient|
+|Procedures Performed:|Exam Date and Time:|Reason for Exam:|Diagnosis:|
+|XR Chest 2 views|11/15/2018 2:18 PM|left lower lobe pneumonia|Essential hypertension < br ' > Hypothyroidism, unspecified type < br / > Benign prostatic hyperplasia with weak urinary stream < br / > Other dysphagia < br / > Pneumonia due to infectious organism, unspecified laterality, unspecified part of| ||||lung|
+|Performing Department:|Accession Number:|Patient MRN:|PCP:|
+|HOCC IC XRAY 201 North Mountain Road Plainville CT 06062-1848 860-827-4166|NB2018111502406|1002366940|Todd, Henry D|
+
+XR CHEST 2 VIEWS: 11/15/2018 2:00 PM
+Indication: left lower lobe pneumonia . Essential hypertension, Hypothyroidism, unspecified type, Benign prostatic hyperplasia with weak urinary stream, Benign prostatic hyperplasia with weak urinary stream, Other dysphagia, Pneumonia due to infectious organism, unspecified laterality, unspecified part of lung
+Frontal and lateral views of the chest were performed. Cardiomegaly is noted. Small focal right upper lobe and left lower lobe infiltrates.
+Mediastinal and hilar structures are normal. Osseous structures are intact.
+IMPRESSION:
+Cardiomegaly. Small bilateral infiltrates.
+Printed
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/2
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+Kazimierz Spaczynski
+11/15/2018 1:30 PM Office Visit
+MRN: 1002366940
+Description: Male DOB: 12/10/1928 Provider: Henry D Todd, MD
+Department: Hartford Health Care Medical Group Plainville
+Diagnoses
+8
+Reason for Visit
+id
+Follow-up
+Reason for Visit History
+Essential hypertension - Primary
+Codes: 110
+Hypothyroidism, unspecified type
+Codes: E03.9
+Benign prostatic hyperplasia with weak urinary stream
+Codes: N40.1, R39.12
+Other dysphagia
+Codes: R13.19
+Pneumonia due to infectious organism, unspecified
+laterality, unspecified part of lung
+Codes: J18.9
+Progress Notes
+Progress Notes by Henry D Todd, MD at 11/15/2018 1:35 PM
+Author: Henry D Todd, MD Author Type: Physician
+Note Status: Signed
+Cosign: Cosign Not Required
+Filed:
+Encounter
+Date:
+11/15/2018 4:49 PM
+11/15/2018
+Editor: Henry D Todd, MD (Physician)
+2
+Hartford
+Health Care
+Connect to healthier.
+Plainville Practice
+201 North Mountain Road
+Suite 203
+Plainville, Ct. 06062
+Tel: ( 860) 827,4199
+Fax: (860) 225.2647
+Chief Complaint
+Chief Complaint
+Patient presents with Follow-up
+0
+HPI:
+Kazimierz Spaczynski is a 89 y.o. male here for HTN-denies chest pain or headache
+Hypothyroid-denies fatigue
+BPH-urine output good
+Dysphagia-symptoms controlled
+Review of Systems
+Constitutional: Negative.
+HENT: Negative.
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato [3131] at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+Eyes: Negative.
+Respiratory: Negative.
+Cardiovascular: Negative.
+Gastrointestinal: Negative.
+Endocrine: Negative.
+Genitourinary: Negative.
+Musculoskeletal: Negative.
+Skin: Negative.
+Allergic/Immunologic: Negative.
+Neurological: Negative.
+Psychiatric/Behavioral: Negative.
+.
+History.
+Past Medical History:
+Diagnosis
+Bladder cancer (HCC)
+Essential hypertension
+Generalized osteoarthritis of unspecified site
+Hypothyroid
+Neuropathy
+Pancytopenia (HCC)
+.
+Date
+10/19/2015
+10/19/2015
+10/19/2015
+10/19/2015
+10/19/2015
+10/19/2015
+Laterality
+Date
+Past Surgical History:
+Procedure
+LIPID PANEL
+Lipid Panel 20080706230000
+PR COLONOSCOPY FLX DX W/COLLJ SPEC WHEN
+PERMD
+Colonoscopy 20080916230000
+Social History
+.
+0
+Socioeconomic History
+Marital status:
+Married
+Spouse name:
+Not on file
+ Number of children: Not on file
+Years of education:
+Not on file
+Highest education level: Not on file
+Social Needs
+Financial resource strain: Not on file
+Food insecurity - worry: Not on file
+Food insecurity - inability: Not on file
+Transportation needs - Not on file
+medical:
+Transportation needs - non- Not on file
+medical:
+Occupational History
+Not on file
+Tobacco Use
+ Smoking status:
+Former Smoker
+Types:
+Cigarettes
+ Smokeless tobacco:
+Never Used
+Tobacco comment: Stopped 50 yrs ago.
+Substance and Sexual Activity
+Alcohol use:
+Yes
+Alcohol/week:
+0.0 oz
+.
+.
+.
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato (3131] at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+.
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+Comment: Current Beer (12oz) Wine (5oz) daily
+Drug use:
+No
+Comment: Never
+Sexual activity:
+Not on file
+Comment: Married
+Other Topics
+Concern
+Not on file
+Social History Narrative
+Not on file
+Family History
+Family history unknown: Yes
+Allergies
+Allergen
+ Vicodin (Hydrocodone-Acetaminophen]
+Weak/Fatique
+Reactions
+Other (See Comments)
+Current Outpatient Medications
+|Medication|Sig|Dispense Refill|
+|acetaminophen (TYLENOL) 500 MG tablet|Take 500 mg by mouth 4 times daily (every 6 hours) as needed for mild pain.||
+|amLODIPine (NORVASC) 5 MG tablet|Take 5 mg by mouth daily.||
+|calcium carbonate-vitamin D 600 mg-400 unit tablet|Take 1 tablet by mouth daily.||
+|Carboxymethylcellulose Sodium (THERATEARS) 0.25 % Solution|Administer 1 drop to both eyes 2 (two) times a day as needed.||
+|cyanocobalamin (VITAMIN B- 12) 1000 MCG tablet|Take 1,000 mcg by mouth daily.||
+|docusate sodium (COLACE) 100 MG capsule|Take 100 mg by mouth as needed for constipation.||
+|doxycycline (MONODOX) 100 MG capsule|Take 1 capsule (100 mg total) by mouth 2 (two) times a day.|14 capsule 0|
+|levothyroxine (SYNTHROID, LEVOTHROID) 88 MCG tablet|TAKE ONE TABLET BY MOUTH DAILY ON AN EMPTY STOMACH|90 tablet 1|
+|SUPPLY DME MISC|2Cal: drink 1 can bid Dx: feeding difficulties (pls fill 3 months supply/72 cans per box?)|154 supply 3|
+|SUPPLY DME MISC|HOYER LIFT/ELECTRIC|1 Device 0|
+||LENGTH OF NEED- LIFETIME WEIGHT-134LBS||
+|Spaczynski, Kazimierz (MRN 1002366940) Printed by|Danielle Ferrato [3131] at|11/1/19 1:49 PM|
+
+ 
+(
+(
+.
+(
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+DX- PHYSICAL
+DECONDITIONING/
+MUSCULAR
+WEAKNESS/WHEE
+LCHAIR BOUND
+ELECTRIC HOYER 1 Device
+LIFT
+.
+SUPPLY DME MISC
+0
+LENGTH OF NEED -
+LIFETIME
+pts weight- 134]bs
+.
+1
+DX- MUSCULAR
+WEAKNESS-
+PHYSICAL
+DECONDITIONING-
+WHEELCHAIR
+BOUND tamsulosin (FLOMAX) 0.4 MG Take 0.4 mg by
+capsule
+mouth daily. In the afternoon.
+ traMADol (ULTRAM) 50 MG Take 1 tablet (50 mg 30 tablet
+tablet
+total) by mouth 3
+times daily (every 8
+hours) as needed for moderate pain.
+traZoDone (DESYREL) 100 Take 100 mg by
+MG tablet
+mouth nightly.
+.
+No current facility-administered medications for this visit.
+Vitals:
+BP:
+Pulse:
+Sp02:
+11/15/18 1313
+(!) 146/68
+78
+94%
+Physical Exam
+Constitutional: He is oriented to person, place, and time. He appears well-developed and well- nourished.
+HENT:
+Head: Normocephalic and atraumatic.
+Neck: Normal range of motion. Neck supple.
+Cardiovascular: Normal rate, regular rhythm and normal heart sounds.
+Pulmonary/Chest: Effort normal and breath sounds normal.
+Abdominal: Soft. Bowel sounds are normal.
+Musculoskeletal: Normal range of motion.
+Neurological: He is alert and oriented to person, place, and time.
+Skin: Skin is warm and dry.
+Vitals reviewed.
+ASSESSMENTI PLAN:
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato (3131] at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+Patient is a 89 y.o, male here today for:
+HTN-repeat blood pressure 110/70. Continue current medications
+Hypothyroid-cont levothyroxine
+BPH-cont flomax
+Dysphagia-continue dysphagia diet
+There are no diagnoses linked to this encounter.
+There are no diagnoses linked to this encounter.
+Henry D Todd, MD
+11/15/18
+Discontinued Medications
+Reason for Discontinue benzonatate (TESSALON) 200 MG capsule Therapy completed
+Orders placed This Encounter
+Future
+Labs/Procedures Expected by
+XR Chest 2 views 11/15/2018
+[71046 Custom]
+Expires
+11/15/2019
+Medication List Reviewed
+User
+ANETA PETRYKOWSKI, RN [8958]
+Date and Time
+10/18/2019 2:53 PM
+* Vitals
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato (3131) at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+BP
+146/68 !
+Pulse
+78
+SpO2
+94%
+Smoking Status
+Former Smoker
+6 All Flowsheet Templates (all
+recorded)
+Custom Formula Data
+Encounter Vitals
+Referring Provider
+Henry D Todd, MD
+Level of Service
+Level of Service
+PR ESTABLISHED OFFICE MODERATE 25 MIN [99214]
+All Charges for This Encounter
+|Code|Description|Service Date|Service Provider|Modifiers Qty|
+|99214|PR ESTABLISHED OFFICE MODERATE 25 MIN|11/15/2018|Henry D Todd, MD|1|
+||||||
+
+BestPractice Advisories
+Click to view Best Practice Advisory history
+4. Allergies as of 11/15/2018
+Reviewed by Elizabeth A Fragione, MA on 11/15/2018
+Reaction Type
+Deletion Reason
+Noted
+09/17/2015
+Vicodin [hydrocodone-
+acetaminophen]
+Weak/Fatique
+Reactions
+Other (See
+Comments)
+Z Medications at Start of Encounter
+End
+Refills
+1
+Start
+9/21/2015
+Disp
+tamsulosin (FLOMAX) 0.4 MG capsule
+(Taking)
+Sig - Route: Take 0.4 mg by mouth nightly. - Oral
+Class: Historical Med
+Number of times this order has been changed since signing: 7
+Order Audit Trail
+Spaczynski , Kazimierz (MRN 1002366940) Printed by Danielle Ferrato [3131] at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+6/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Disp
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+Refills
+Start
+End
+acetaminophen (TYLENOL) 500 MG tablet
+3/27/2019
+(Taking/Discontinued)
+Sig - Route: Take 500 mg by mouth 4 times daily (every 6 hours) as needed for mild pain. - Oral
+Class: Historical Med
+Reason for Discontinue: Error
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+amLODIPine (NORVASC) 5 MG tablet
+12/10/2018
+(Taking/Discontinued)
+Sig - Route: Take 5 mg by mouth daily. - Oral
+Class: Historical Med
+Reason for Discontinue: Duplicate order
+Number of times this order has been changed since signing: 1
+Order Audit Trail benzonatate (TESSALON) 200 MG capsule 20 capsule 0
+10/30/2018 11/15/2018
+(Taking/Discontinued)
+Sig - Route: Take 1 capsule (200 mg total) by mouth 2 (two) times a day as needed for cough. - Oral
+Class: E Prescribe
+Reason for Discontinue: Therapy completed
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+calcium carbonate-vitamin D 600 mg-400
+3/27/2019
+unit tablet (Taking/Discontinued)
+Sig - Route: Take 1 tablet by mouth daily. - Oral
+Class: Historical Med
+Reason for Discontinue: Error
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+Carboxymethylcellulose Sodium
+3/27/2019
+(THERATEARS) 0.25 % Solution
+(Taking/Discontinued)
+Sig - Route: Administer 1 drop to both eyes 2 (two) times a day as needed. - Each Eye
+Class: Historical Med
+Reason for Discontinue: Error
+Number of times this order has been changed since signing: 3
+Order Audit Trail
+cyanocobalamin (VITAMIN B-12) 1000 MCG
+3/27/2019
+tablet (Taking/Discontinued)
+Sig - Route: Take 1,000 mcg by mouth daily. - Oral
+Class: Historical Med
+Reason for Discontinue: Error
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+docusate sodium (COLACE) 100 MG capsule
+3/27/2019
+(Taking/Discontinued)
+Sig - Route: Take 100 mg by mouth as needed for constipation. - Oral
+Class: Historical Med
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato (3131] at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+7/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+|Reason for Discontinue: Error Number of times this order has been changed since signing: 1 Order Audit Trail|||||
+|doxycycline (MONODOX) 100 MG capsule|14 capsule|0|11/1/2018|12/26/2018|
+|(Taking/Discontinued) Sig - Route: Take 1 capsule (100 mg total) Class: E Prescribe Number of times this order has been|by mouth 2|(two) times a day.|- Oral||
+|changed since signing: 1 Order Audit Trail|||||
+|levothyroxine (SYNTHROID, LEVOTHROID)|90 tablet|1|11/8/2018|2/18/2019|
+|88 MCG tablet (Taking/Discontinued)|||||
+|Sig: TAKE ONE TABLET BY MOUTH DAILY|ON AN EMPTY|STOMACH|||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1 Order Audit Trail|||||
+|SUPPLY DME MISC (Taking/Discontinued)|154 supply|3|5/3/2018|3/27/2019|
+|Sig: 2Cal: drink 1 can bid|||||
+|Dx: feeding difficulties|||||
+|(pls fill 3 months supply/72 cans per box?)|||||
+|Class: Fax|||||
+|Reason for Discontinue: Error|||||
+|Number of times this order has been|||||
+|changed since signing: 1|||||
+|Order Audit Trail|||||
+|SUPPLY DME MISC (Taking/Discontinued) Sig: HOYER LIFT/ELECTRIC|1 Device|0|6/7/2018|3/27/2019|
+|LENGTH OF NEED- - LIFETIME WEIGHT-134LBS|||||
+|DX- PHYSICAL DECONDITIONING/MUSCULAR||WEAKNESS/WHEELCHAIR|BOUND||
+
+(
+Class : Print
+Reason for Discontinue: Error
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+SUPPLY DME MISC (Taking/Discontinued) 1 Device 0
+9/25/2018
+Sig: ELECTRIC HOYER LIFT
+3/27/2019
+LENGTH OF NEED - LIFETIME
+pts weight- 134/bs
+DX- MUSCULAR WEAKNESS-PHYSICAL DECONDITIONING-WHEELCHAIR BOUND
+Class: Print
+Reason for Discontinue: Error
+Number of times this order has been changed since signing: 1
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato (3131] at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+8/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+Disp
+Refills
+Start
+End Order Audit Trail
+|traMADol (ULTRAM) 50 MG tablet 30 tablet||3/6/2018|3/27/2019|
+|(Taking/Discontinued)||||
+|Sig - Route: Take 1 tablet (50 mg total) by mouth 3 times|daily (every 8|hours) as needed|for moderate pain. -|
+|Oral||||
+|Class: No Print||||
+|Reason for Discontinue: Error||||
+|traZODone (DESYREL) 100 MG tablet|||4/1/2019|
+|(Taking/Discontinued)||||
+|Sig - Route: Take 100 mg by mouth nightly. - Oral||||
+|Class: Historical Med||||
+|Reason for Discontinue: Stop Taking at Discharge||||
+|Number of times this order has been||||
+|changed since signing: 3||||
+|Order Audit Trail||||
+|amLODIPine (NORVASC) 5 MG tablet 90 tablet|1|5/14/2018|10/30/2018|
+|(Discontinued)||||
+|Sig: TAKE ONE TABLET BY MOUTH EVERY MORNING||||
+|Class: E Prescribe||||
+|Reason for Discontinue: Duplicate order||||
+|Number of times this order has been||||
+|changed since signing: 1 Order Audit Trail||||
+|levothyroxine (SYNTHROID, LEVOTHROID) 90 tablet|0|8/7/2018|11/8/2018|
+|88 MCG tablet (Discontinued)||||
+|Sig: TAKE 1 TABLET BY MOUTH DAILY ON AN EMPTY|STOMACH|||
+|Class: E Prescribe||||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been||||
+
+changed since signing : 1 Order Audit Trail i Medications at End of Encounter
+Refills
+Disp
+Refills
+Start
+End
+tamsulosin (FLOMAX) 0.4 MG capsule
+1
+9/21/2015
+(Taking)
+Sig - Route: Take 0.4 mg by mouth nightly. - Oral
+ss: Historical Med
+Number of times this order has been changed since signing: 7
+Order Audit Trail
+acetaminophen (TYLENOL) 500 MG tablet
+3/27/2019
+(Taking/Discontinued)
+Sig - Route: Take 500 mg by mouth 4 times daily (every 6 hours) as needed for mild pain. - Oral
+Class: Historical Med
+Reason for Discontinue: Error
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+amLODIPine (NORVASC) 5 MG tablet
+12/10/2018
+(Taking/Discontinued)
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato (3131) at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+9/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+|Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018|||
+|Disp Refills|Start|End|
+|Sig - Route: Take 5 mg by mouth daily. - Oral|||
+|Class: Historical Med|||
+|Reason for Discontinue: Duplicate order|||
+|Number of times this order has been|||
+|changed since signing: 1|||
+|Order Audit Trail|||
+|calcium carbonate-vitamin D 600 mg-400||3/27/2019|
+|unit tablet (Taking/Discontinued)|||
+|Sig - Route: Take 1 tablet by mouth daily. - Oral|||
+|Class: Historical Med|||
+|Reason for Discontinue: Error|||
+|Number of times this order has been|||
+|changed since signing: 1|||
+|Order Audit Trail|||
+|Carboxymethylcellulose Sodium||3/27/2019|
+|(THERATEARS) 0.25 % Solution|||
+|(Taking/Discontinued)|||
+|Sig - Route: Administer 1 drop to both eyes 2 (two) times a day as needed.|- Each Eye||
+|Class: Historical Med|||
+|Reason for Discontinue: Error|||
+|Number of times this order has been changed since signing: 3 Order Audit Trail|||
+|cyanocobalamin (VITAMIN B-12) 1000 MCG||3/27/2019|
+|tablet (Taking/Discontinued)|||
+|Sig - Route: Take 1,000 mcg by mouth daily. - Oral|||
+|Class: Historical Med|||
+|Reason for Discontinue: Error|||
+|Number of times this order has been|||
+|changed since signing: 1|||
+|Order Audit Trail|||
+|docusate sodium (COLACE) 100 MG capsule||3/27/2019|
+|(Taking/Discontinued)|||
+|Sig - Route: Take 100 mg by mouth as needed for constipation. - Oral|||
+|Class: Historical Med|||
+|Reason for Discontinue: Error|||
+|Number of times this order has been|||
+
+changed since signing : 1 Order Audit Trail doxycycline ( MONODOX ) 100 MG capsule 14 capsule 0
+11/1/2018
+(Taking/Discontinued)
+Sig - Route: Take 1 capsule (100 mg total) by mouth 2 (two) times a day. - Oral
+Class: E Prescribe
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+levothyroxine (SYNTHROID, LEVOTHROID) 90 tablet 1
+11/8/2018
+88 MCG tablet (Taking/Discontinued)
+Sig: TAKE ONE TABLET BY MOUTH DAILY ON AN EMPTY STOMACH
+Class: E Prescribe
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 1
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato [3131] at 11/1/19 1:49 PM
+12/26/2018
+2/18/2019
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+10/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+|Order Audit Trail|Disp|Refills|Start|End|
+|SUPPLY DME MISC faking/Discontinued) Sig: 2Cal: drink 1 can bid Dx: feeding difficulties|154 supply|3|5/3/2018|3/27/2019|
+|(pls fill 3 months supply/72 cans per box?)|||||
+|Class: Fax|||||
+|Reason for Discontinue: Error|||||
+|Number of times this order has been|||||
+|changed since signing: 1 Order Audit Trail|||||
+|SUPPLY DME MISC (Taking/Discontinued)|1 Device|0|6/7/2018|3/27/2019|
+|Sig: HOYER LIFT/ELECTRIC|||||
+||||||
+
+(
+WEIGHT - 134LBS
+-
+DX- PHYSICAL DECONDITIONING/MUSCULAR WEAKNESS/WHEELCHAIR BOUND
+Class: Print
+Reason for Discontinue: Error
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+SUPPLY DME MISC (Taking/Discontinued) 1 Device 0
+9/25/2018
+Sig: ELECTRIC HOYER LIFT
+3/27/2019
+LENGTH OF NEED - LIFETIME
+pts weight- 134lbs
+DX- MUSCULAR WEAKNESS-PHYSICAL DECONDITIONING-WHEELCHAIR BOUND
+Class: Print
+Reason for Discontinue: Error
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+traMADol (ULTRAM) 50 MG tablet
+30 tablet
+3/6/2018 3/27/2019
+(Taking/Discontinued)
+Sig - Route: Take 1 tablet (50 mg total) by mouth 3 times daily (every 8 hours) as needed for moderate pain. -
+Oral
+Class: No Print
+Reason for Discontinue: Error
+traZoDone (DESYREL) 100 MG tablet
+4/1/2019
+(Taking/Discontinued)
+Sig - Route: Take 100 mg by mouth nightly. - Oral
+Class: Historical Med
+Reason for Discontinue: Stop Taking at Discharge
+Number of times this order has been changed since signing: 3
+Order Audit Trail amLODIPine (NORVASC) 5 MG tablet 90 tablet 1
+5/14/2018 10/30/2018
+(Discontinued)
+Sig: TAKE ONE TABLET BY MOUTH EVERY MORNING
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato (3131] at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+11/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+|Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928|Encounter|Date: 11/15/2018|||
+||Disp|Refills|Start|End|
+|Class: E Prescribe Reason for Discontinue: Duplicate order Number of times this order has been changed since signing: 1 Order Audit Trail|||||
+|levothyroxine (SYNTHROID, LEVOTHROID)|90 tablet|0|8/7/2018|11/8/2018|
+|88 MCG tablet (Discontinued) Sig: TAKE 1 TABLET BY MOUTH DAILY ON Class: E Prescribe|AN EMPTY|STOMACH|||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1 Order Audit Trail|||||
+
+i Medications the Patient Reported Taking
+tamsulosin (FLOMAX) 0.4 MG capsule (Taking)
+Number of times this order has been changed since signing: 7
+Order Audit Trail
+acetaminophen (TYLENOL) 500 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+amLODIPine (NORVASC) 5 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+benzonatate (TESSALON) 200 MG capsule (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail calcium carbonate-vitamin D 600 mg-400 unit tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+Carboxymethylcellulose Sodium (THERATEARS) 0.25 % Solution (Taking/Discontinued)
+Number of times this order has been changed since signing: 3
+Order Audit Trail cyanocobalamin (VITAMIN B-12) 1000 MCG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail docusate sodium (COLACE) 100 MG capsule (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+doxycycline (MONODOX) 100 MG capsule (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail levothyroxine (SYNTHROID, LEVOTHROID) 88 MCG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+SUPPLY DME MISC (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+SUPPLY DME MISC (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato (3131] at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+12/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+Order Audit Trail
+SUPPLY DME MISC (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+traMADol (ULTRAM) 50 MG tablet (Taking/Discontinued)
+traZoDone (DESYREL) 100 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 3
+Order Audit Trail
+reco Immunizations as of 11/15/2018
+Never Reviewed
+|Name|Date|Dose||VIS Date|Route|
+|H1N1 Inj Preservative Free Comment:|10/1/2010|0 mm||--||
+|Influenza Inactivated/Split Preservative Free IM Site: Left deltoid Given By: Jaymelee Boucher,|11/3/2016 LPN|0.5 mL||8/7/2015|Intramuscular|
+|Influenza, Unspecified Comment: CVS|10/15/2015|0.5 mL||--||
+|Influenza, Unspecified Site: Left deltoid Comment: [10/2/2013] csl|9/30/2013 biotherapies. VIS date|0.5 mL 7/26/13 given|on|-- 9/30/13.|Intramuscular|
+|Influenza, Unspecified Comment:|9/21/2012|0.5 mL||--|Intramuscular|
+|Influenza, Unspecified Comment:|12/1/2009|0 mm||--|--|
+|Pneumococcal, Unspecified Comment:|7/1/1997|0 mm||--|--|
+|Td Comment:|8/1/1998|0 mm||--|--|
+
+.
+|Problem List||||Never Reviewed|
+|as of 11/15/2018 Generalized osteoarthritis of unspecified site|ICD-10-CM M15.9|Priority|Class|Noted - Resolved 10/19/2015 - Present|
+|Bladder cancer (HCC) Relevant Medications tamsulosin (FLOMAX) 0.4 MG capsule|C67.9|||10/19/2015 - Present|
+|Essential hypertension|I10|||10/19/2015 -|
+|Relevant Medications amLODIPine (NORVASC) 5 MG tablet||||Present|
+|Other Relevant Orders XR Chest 2 views (Completed)|||||
+
+A
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato (3131] at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+13/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+|ICD-10-CM Priority|Class|Noted - Resolved|
+|Hypothyroid E03.9||10/19/2015 -|
+|Relevant Medications levothyroxine (SYNTHROID, LEVOTHROID) 88 MCG tablet||Present|
+|Other Relevant Orders XR Chest 2 views (Completed)|||
+|Neuropathy G62.9||10/19/2015 - Present|
+|Pancytopenia (HCC) D61.818||10/19/2015 - Present|
+|Relevant Medications cyanocobalamin (VITAMIN B-12) 1000 MCG tablet ibuprofen (MOTRIN) tablet 400 mg (Completed)|||
+|Closed compression fracture of L1 lumbar vertebra S32.010A (HCC) Relevant Medications traMADol (ULTRAM) 50 MG tablet||3/2/2018 - Present|
+|Benign prostatic hyperplasia with weak urinary stream N40.1, R39.12 Relevant Orders XR Chest 2 views (Completed)||11/15/2018 - Present|
+|Other dysphagia R13.19 Relevant Orders XR Chest 2 views (Completed)||11/15/2018 - Present|
+
+Surgical History
+Laterality Date
+Source
+Procedure
+LIPID PANEL
+PR COLONOSCOPY FLX DX
+W/COLLJ SPEC WHEN PERMD
+Comment
+Lipid Panel 20080706230000
+Colonoscopy 20080916230000
+i Family History
+Family history is unknown by patient.
+i Social Documentation
+No social documentation on file.
+Pediatric History
+Show all answered pediatric history
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato (3131) at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+14/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 11/15/2018
+No questionnaires available.
+9 AVS Reports
+|Date/Time|Report|Action|User|
+|11/15/2018 1:53 PM|After Visit Summary|Printed|Jacqueline Gates|
+|11/15/2018 1:50 PM|AVS - With Med List|Printed|Jodi Morgillo|
+
+& All Flowsheet Templates (all recorded)
+Custom Formula Data
+Encounter Vitals
+Chart Review Routing History
+No encounter routing history is on file
+Spaczynski, Kazimierz (MRN 1002366940) Printed by Danielle Ferrato [3131] at 11/1/19 1:49 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+15/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 03/02/2018
+Printed by FERRATO, DANIELLE [3131]
+MRN: 1002366940
+Spaczynski, Kazimierz
+Last attending: Ahmed M Khan, MD Treatment team
+Principal problem: Closed compression fracture of L1 lumbar vertebra (HCC)
+ED to Hosp-Admission
+3/2/2018 - 3/6/2018 (4 days)
+Status: Discharged
+HHC HOCC The Hospital of Central Connecticut
+ED Chart Summary
+ED Chart Summary Report
+Discharge Summary Notes
+Discharge Summary by Tracy E Benjamin, PA at 3/6/2018 9:55 AM
+Author: Tracy E Benjamin, PA Service: Neurosurgery
+Author Type: Physician Assistant
+Filed: 3/6/2018 9:59 AM
+Date of Service: 3/6/2018 9:55 AM Status: Signed
+Editor: Tracy E Benjamin, PA (Physician Assistant)
+Cosigner: Ahmed M an, MD at
+4/3/2018 4:04 PM
+Inpatient Discharge Summary
+HHC HOCC The Hospital of Central Connecticut
+Brief Overview
+Patient Demographics
+KAZIMIERZ SPACZYNSKI
+MRN: 1002366940
+12/10/1928
+89 y.o.
+Allergies
+Allergen
+Vicodin (Hydrocodone-Acetaminophen]
+Weak/Fatique
+Reactions
+Other (See Comments)
+Admission Date: 3/2/2018
+Admitting Provider: Ahmed M Khan, MD
+Discharge Pro ler: Ahn Khan, MD
+Primary Care Provider at Discharge: Henry D Todd, MD
+M
+Discharge Date: 3/6/2018
+Primary Discharge
+Diagnosis
+Principal Problem:
+Closed compression fracture of L1 lumbar vertebra (HCC) POA: Unknown
+Discharge
+Disposition
+skilled nursing facility
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/10
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 03/02/2018
+Printed by FERRATO, DANIELLE [3131]
+Code Status
+Procedures
+ Full Code
+.
+Admission Medications
+acetaminophen (TYLENOL) 500 MG tablet Take 500 mg by mouth 4 times daily (every 6 hours) as needed for mild pain.
+ amLODIPine (NORVASC) 5 MG tablet Take 5 mg by mouth daily.
+calcium carbonate-vitamin D 600 mg-400 unit Take 1 tablet by mouth daily.
+tablet
+Carboxymethylcellulose Sodium
+Administer 1 drop to both eyes 2 (two) times
+(THERATEARS) 0.25 % Solution a day as needed.
+ cyanocobalamin (VITAMIN B-12) 1000 MCG Take 1,000 mcg by mouth daily.
+tablet
+docusate sodium (COLACE) 100 MG capsule Take 100 mg by mouth as needed for constipation.
+levothyroxine (SYNTHROID) 88 MCG tablet Take 88 mcg by mouth daily on an empty stomach.
+MENTHOL, TOPICAL ANALGESIC, EX Apply 1 application topically as needed.
+sodium chloride (OCEAN) 0.65 % nasal 1 spray into each nostril as needed for drops/spray congestion.
+tamsulosin (FLOMAX) 0.4 MG capsule Take 0.4 mg by mouth daily. In the afternoon.
+trazodone (DESYREL) 100 MG tablet Take 100 mg by mouth nightly.
+.
+Discharge Medications
+New Medications
+bisacodyl 10 MG suppository
+Commonly known as: DULCOLAX
+Sig
+Insert 1 suppository (10 mg total) into the rectum daily as needed for constipation.
+Quantity: 12 suppository
+magnesium hydroxide 400 mg/5 mL
+suspension
+Commonly known as: MILK OF MAGNESIA
+Take 30 mL by mouth nightly as needed for constipation.
+Quantity: 360 mL
+traMADol 50 MG tablet
+Commonly known as: ULTRAM
+Take 1 tablet (50 mg total) by mouth 3 times daily (every 8 hours) as needed for moderate pain.
+Quantity: 30 tablet
+Medications To Continue
+acetaminophen 500 MG tablet
+Commonly known as: TYLENOL
+Sig
+Take 500 mg by mouth 4 times daily (every 6 hours) as needed for mild pain.
+amLODIPine 5 MG tablet
+Commonly known as: NORVASC
+Take 5 mg by mouth daily.
+calcium carbonate-vitamin D 600 mg-400 unit Take 1 tablet by mouth daily.
+tablet
+cyanocobalamin 1000 MCG tablet
+Commonly known as: VITAMIN B-12
+Take 1,000 mcg by mouth daily.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/10
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 03/02/2018
+||Sig|DANIELLE [3131]|
+|docusate sodium 100 MG capsule Commonly known as: COLACE|Take 100 mg by mouth as needed for constipation.||
+|sodium chloride 0.65 % nasal drops/spray Commonly known as: OCEAN|1 spray into each nostril as needed for congestion.||
+|SYNTHROID 88 MCG tablet Generic drug: levothyroxine|Take 88 mcg by mouth daily on an empty stomach.||
+|tamsulosin 0.4 MG capsule Commonly known as: FLOMAX|Take 0.4 mg by mouth daily. In the afternoon.||
+|THERATEARS 0.25 % Soln Generic drug: Carboxymethylcellulose Sodium|Administer 1 drop to both eyes 2 (two) times a day as needed.||
+|traZODone 100 MG tablet Commonly known as: DESYREL|Take 100 mg by mouth nightly.||
+
+Stopped Medications
+MENTHOL (TOPICAL ANALGESIC) EX
+Discharge
+Orders
+Alternate periods of rest with activity.
+No driving
+DISCHARGE DIET
+Diet
+Regular Diet (no dietary
+restrictions)
+Call your doctor for: The same symptoms that brought you to the hospital
+May shower: specify
+Additional Discharge Instructions
+If have Aquacel dressing, Additional Information remove after 7 days
+Future Appointments
+|Date|Time|Provider|Department|Center|
+|7/24/2018|11:00 AM|Henry D Todd, MD|MG PC PLNVL|HHCMG Cent|
+
+Follow-up Providers
+Monsignor Bojnowski Manor
+50 Pulaski St
+New Britain, CT 06053
+860-22 0336
+Follow up
+FAX W10 TO 860-229-3252
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/10
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 03/02/2018
+Printed by FERRATO, DANIELLE [3131]
+Henry D Todd, MD
+201 North Mountain Road
+Suite 203
+Plainville CT 06062
+860-229-0100
+Active Issues Requiring Follow-up
+follow-up Dr Khan in 2-4 weeks
+Incidental hospital findings:none
+Test Results Pending at Discharge
+Details of Hospital Stay
+Presenting Problem/History of Present Illness
+Patient loss his balance and fell. Unable to get himself up after fall and complains of back pain.
+Hospital Course
+Patient found to have L1 compression fracture. Admitted to hospital and initially treated for pain control. His pain is now minimal. Physical therapy consulted and patient is unsteady and recommend short term rehab for gait training.
+No notes on file
+Inpatient Treatments: therapies: PT
+Consults: none
+Procedures:
+Diagnostic Studies: radiology: X-Ray: L1 compression fracture
+Physical Exam at Discharge
+Discharge Condition: stable
+Last Vitals:
+Pulse:75, Resp:20,BP: 116/62,SpO2:96 %,Weight: 59 kg (130 lb)
+Temp Last 24 hrs: Temp Min: 97.8 F (36.6 C) Max: 98.2 F (36.8 C)
+AVSS, no calf tenderness,supple bilateral. Moving bilateral legs equally in chair
+Tracy E Benjamin, PA
+3/6/2018
+9:55 AM
+Electronically signed by Tracy E Benjamin, PA at 3/6/2018 9:59 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/10
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Spaczynski, Kazimierz (MR#1002366940) Printed by FERRATO, DANIELLE [3131]
+Spaczynski, Kazimierz (MR # 1002366940) DOB: 12/10/1928 Encounter Date: 03/02/2018
+Electronically signed by Ahmed M Khan, MD at 4/3/2018 4:04 PM
+Printed by FERRATO, DANIELLE [3131]
+Encounter Notes
+All notes
+Discharge Summary from Tracy E Benjamin, PA (Neurosurgery)
+H&P from John J Ryng, PA (Surgery)
+Additional Orders and Documentation
+Meds
+Orders
+Results
+Imaging
+Flowsheets
+Encounter Info: History, Allergies, Education, Care Plan, Detailed Report
+Communications
+Last Clinical Note sent to Kimberly Otriz, RN
+Sent 3/6/2018 by Nelida Caraballo
+Media
+Electronic signature on 3/2/2018 11:01 AM - Signed
+Electronic signature on 3/2/2018 10:29 AM: wife signed - Signed
+Scan on 3/2/2018: SIGNED 3/2/18 & 3/5/18
+Scan on 4/20/2018 9:12 AM by Nelida Caraballo: ConnCare - Inpt Approval for DOS: 3/2/18
+Discharge Summary
+Tracy E Benjamin, PA (Physician Assistant) Neurosurgery
+Cosigned by: Ahmed M Khan, MD at 4/3/2018 4:04 PM
+Inpatient Discharge Summary
+HHC HOCC The Hospital of Central Connecticut
+Brief Overview
+Patient Demographics
+KAZIMIERZ SPACZYNSKI
+MRN: 1002366940
+12/10/1928
+89 y.o.
+Allergies
+Allergen
+Vicodin (Hydrocodone-Acetaminophen]
+Weak/Fatique
+Reactions
+Other (See Comments)
+Admission Date: 3/2/2018
+Admitting Provider: Ahmed M Khan, MD
+Discharge Provider: Ahmed M Khan, MD
+Primary Care Provider at Discharge: Henry D Todd, MD
+Discharge Date: 3/6/2018
+Primary Discharge
+Diagnosis
+Principal Problem:
+Closed compression fracture of L1 lumbar vertebra (HCC) POA: Unknown
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/10
+
+-------------------------------------------
+-------------------------------------------

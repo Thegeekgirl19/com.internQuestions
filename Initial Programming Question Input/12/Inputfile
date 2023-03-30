@@ -1,0 +1,575 @@
+accession	yes	yes
+accession number	yes	yes
+account no	yes	yes
+account number	yes	yes
+acct	yes	yes
+active eye meds	no	no
+active problem list	no	no
+active problems	no	no
+acute problems	no	no
+addendum	no	no
+addendum	no	no
+additional comments	no	no
+additional comments	yes	no
+additional comments	no	no
+additional findings	no	no
+additional findings	no	no
+additional information	yes	no
+additional instructions	no	no
+admit date	yes	YES
+age	yes	YES
+age/sex	yes	YES
+alcohol use	no	YES
+alcohol use	no	YES
+alcohol use	yes	YES
+alcohol use	yes	YES
+allergies	no	no
+allergies	no	no
+allergies	yes	no
+allergies	yes	no
+allergy	no	no
+appointment date	yes	yes
+assessment	no	no
+assessment	no	no
+assessment	no	no
+assessment / plan	no	no
+assessment & plan	no	no
+assessment & plan	yes	no
+assessment and plan	no	no
+assessment plan	no	no
+assessment/ plan	no	no
+assessment/plan	no	no
+assessments	no	no
+associated diagnoses	no	no
+associated diagnoses	yes	no
+associated symptoms	no	no
+attending addendum	no	no
+attending physician	yes	no
+author	yes	no
+author	no	no
+billing information	yes	no
+birth date	yes	yes
+birthdate	yes	yes
+cardiac history	no	no
+cardiac	no	no
+cardiologist	yes	yes
+cc	yes	yes
+cc	no	yes
+cc	no	yes
+cc	yes	yes
+chemistry	no	no
+chemistry	no	no
+chemistry	yes	no
+chemistry general	yes	no
+chest x-ray	yes	no
+chief complaint	no	no
+chief complaint and hpi	no	no
+chief complaint/reason for visit	no	no
+chief complaints	no	no
+chief complaints	no	no
+clinical history	no	no
+clinical impression	no	no
+clinical indication	no	no
+clinical indication	yes	no
+clinical indications	no	no
+clinical information	no	no
+collection date	yes	yes
+comment	yes	no
+comment	no	no
+comment	yes	no
+comment	no	no
+comment	yes	no
+comments	no	no
+comments	yes	no
+comments	no	no
+comparison	yes	no
+comparison	no	no
+completed orders	yes	no
+complications	no	no
+conclusion	no	no
+conclusion	yes	no
+confidentiality notice	yes	no
+consult	yes	no
+context	no	no
+continue these medications which have changed	no	no
+contrast	yes	no
+contrast	no	no
+cpt code	no	no
+cpt codes	no	no
+ct spine	no	no
+current medication	no	no
+current medication list	no	no
+current medications	no	no
+current medications	no	no
+current meds	no	no
+current outpatient medications	no	no
+current outpatient medications	no	no
+current problem list	no	no
+date	yes	yes
+date	yes	yes
+date	no	yes
+date	yes	yes
+date	yes	yes
+date & time	yes	yes
+date and time	yes	yes
+date and time	yes	yes
+date of birth	yes	yes
+date of birth	yes	yes
+date of consult	yes	yes
+date of exam	yes	yes
+date of examination	yes	yes
+date of report	yes	yes
+date of service	yes	yes
+date of study	yes	yes
+date of surgery	yes	yes
+date of visit	yes	yes
+date time	yes	yes
+date/time	yes	yes
+deceleration time	yes	yes
+description	no	no
+description	yes	no
+diagnoses	no	no
+diagnoses	yes	no
+diagnoses and all orders for this visit	no	no
+diagnoses and all orders for this visit	no	no
+diagnosis	no	no
+diagnosis	no	no
+diagnosis	no	no
+diagnosis	yes	no
+diagnostic	no	no
+diagnostic history	no	no
+diagnostic imaging	no	no
+diagnostic imaging	yes	no
+diagnostic review	no	no
+diagnostics	yes	no
+dictated by	yes	no
+dilated fundus examination	no	no
+discharge assessment	no	no
+discharge attending physician	yes	no
+discharge date	yes	no
+discharge disposition	yes	no
+discharge instructions	no	no
+discharge medications	no	no
+discharge physical exam	no	no
+discharge plan	no	no
+discharge summary	no	no
+disposition	yes	no
+dob	yes	yes
+dob	yes	yes
+dob	no	yes
+dob	yes	yes
+drug use	no	yes
+drug use	no	yes
+drug use	yes	yes
+drug use	yes	yes
+dx	no	no
+dx	no	no
+dx	yes	no
+ecg	no	no
+echocardiogram	no	no
+ed course	no	no
+edited by	yes	yes
+ekg results	no	no
+ekg results	yes	no
+ekg	no	no
+ekg	yes	no
+electronically signed by	yes	yes
+electronically signed by	yes	yes
+electronically signed by	yes	yes
+end date	yes	yes
+entered by	yes	yes
+exam	no	no
+exam	yes	no
+exam date and time	yes	yes
+exam date	yes	yes
+examination	no	no
+examination	no	no
+extended hpi	no	no
+external exam	no	no
+external results report	no	no
+fall risk plan	no	no
+family history	no	no
+family history	no	no
+family hx	no	no
+family medical history	no	no
+fh	no	no
+final diagnosis	yes	no
+final result	no	no
+finding	no	no
+findings	no	no
+findings	yes	no
+findings/impression	no	no
+findings/impression	no	no
+findings/impressions	no	no
+follow-up	yes	no
+followup note	yes	no
+followup	no	no
+followup	yes	no
+general hpi	no	no
+general hpi	no	no
+general instructions	yes	no
+get help right away if	yes	no
+gi consult	no	no
+gyn history	no	no
+gynecologic history	no	no
+historian	yes	no
+history	no	no
+history of present illness	no	no
+history of the present illness	no	no
+history	yes	no
+home medications	no	no
+hospital course	no	no
+hospitalization	no	no
+hospitalization	yes	no
+hpi	no	no
+hpi comments	no	no
+hpi details	no	no
+hpi	no	no
+hpl	no	no
+illicit drugs	no	no
+imaging	yes	no
+imaging	yes	no
+imaging	yes	no
+imaging results	yes	no
+imaging results	yes	no
+immunization	no	no
+immunizationa administered as of 2/8/2019	no	no
+immunizations	no	no
+immunizations	yes	no
+impression	no	no
+impression	yes	no
+impression and plan	no	no
+impression	no	no
+impression/cpt code(s)	no	no
+impression/plan	no	no
+impressions	no	no
+impressions	no	no
+indication for surgery	no	no
+indication	yes	no
+indication	no	no
+indications	yes	no
+indications	no	no
+initial history	no	no
+instructions	no	no
+instructions	yes	no
+interim history	no	no
+interpreted by	yes	no
+interval history	no	no
+interval hx	no	no
+interventions	no	yes
+investigations	no	no
+lab	yes	no
+lab	yes	no
+lab	yes	no
+lab information	yes	no
+lab information	yes	no
+lab results	yes	no
+lab results	yes	no
+lab results	yes	no
+lab review	yes	no
+lab work	yes	no
+lab work	yes	no
+lab	yes	no
+lab	yes	no
+laboratory	yes	no
+laboratory	yes	no
+laboratory evaluation	yes	no
+laboratory studies	yes	no
+labs	yes	no
+labs	yes	no
+labs	yes	no
+labs reviewed	yes	no
+labs reviewed	yes	no
+living situation	yes	no
+lmp	no	no
+location	yes	yes
+location	no	yes
+location	yes	yes
+medical history	no	no
+medical history	no	no
+medical hx	no	no
+medical record number	yes	yes
+medication	no	no
+medication	no	no
+medication at start of encounter	no	no
+medication changes	yes	no
+medication changes	no	no
+medication list	no	no
+medication list reviewed	no	no
+medication list reviewed	yes	no
+medication name	no	no
+medication reconciliation	no	no
+medication review	no	no
+medications	no	no
+medications	yes	no
+medications	no	no
+medications at start of encounter	no	no
+medications at start of encounter	yes	no
+medications list	no	no
+medications reviewed	no	no
+medicine	no	no
+medicine	yes	no
+medicine	no	no
+medicines	no	no
+medicines	yes	no
+meds	no	no
+modifying factors	no	no
+motor exam	no	no
+mr number	yes	yes
+mr	yes	yes
+mri brain	yes	no
+mrn	yes	yes
+mrn	yes	yes
+mrn	no	yes
+name	yes	yes
+name	yes	yes
+name	yes	yes
+narrative	yes	no
+narrative	yes	no
+narrative	yes	no
+note	no	no
+note	yes	no
+note status	yes	no
+note status	no	no
+note time	yes	no
+o	no	no
+ob history	no	no
+objective	no	no
+obstetric history	no	no
+order date	yes	yes
+order information	no	no
+order information	yes	no
+ordered by	yes	no
+ordering physician	yes	no
+orders	no	no
+orders	no	no
+orders	yes	no
+other diagnosis	no	no
+other symptoms	no	no
+p	yes	no
+pain assessment	no	no
+pain location	no	no
+pain management plan	yes	no
+pain scale	yes	no
+past eye and medical history	no	no
+past eye history	no	no
+past medical and surgical history	no	no
+past medical history	no	no
+past medical history	yes	no
+past medical history	no	no
+past medical history	no	no
+past medical hx	no	no
+past medical/family/social history	no	no
+past medical/surgical history	no	no
+past order	no	no
+past orders	yes	no
+past surgical history	no	no
+past surgical history	no	no
+past surgical history	yes	no
+past surgical history	no	no
+past surgical hx	no	no
+past systemic medical history	no	no
+pathologist	yes	no
+pathology	yes	no
+patient	yes	yes
+patient	yes	yes
+patient	no	yes
+patient	yes	yes
+patient active problem list	no	no
+patient demographics	yes	no
+patient education	yes	no
+patient education	no	no
+patient identification	yes	no
+patient information	yes	no
+patient instructions	yes	no
+patient instructions	no	no
+patient lab findings and test results	no	no
+patient mrn	yes	yes
+patient name	yes	yes
+patient status	yes	yes
+patient status	no	yes
+pediatric history	no	no
+pending labs	yes	no
+performed by	yes	yes
+performed by	no	yes
+personal & social history	no	no
+personal history	no	no
+pertinent history	no	no
+pertinent imaging	no	no
+pertinent labs	no	no
+pharmacy	no	no
+pharmacy	yes	no
+physical exam	no	no
+physical exam	no	no
+physical exam	yes	no
+physical exam	no	no
+physical examination	no	no
+physical findings	no	no
+physical	no	no
+physician	yes	yes
+physician requesting consult	yes	no
+physicians	yes	no
+plan	no	no
+plan	yes	no
+plan details	yes	no
+plan/recommendations	no	no
+plans	no	no
+please note	yes	no
+pmh	no	no
+presenting complaint	no	no
+primary care physician	yes	yes
+primary care provider	yes	yes
+primary diagnosis	no	no
+primary diagnosis	yes	no
+primary physician	yes	yes
+principal diagnosis	no	no
+problem	no	no
+problem	no	yes
+problem list	no	no
+problems	no	no
+problems,assessment and plans	no	no
+procedure	no	no
+procedure	yes	no
+procedure	no	no
+procedure codes	yes	no
+procedure codes	no	no
+procedure date	yes	yes
+procedure note	no	no
+procedures	no	no
+procedures	yes	no
+procedures performed	no	no
+provider	yes	no
+psh	no	no
+psychosocial history	no	no
+pt discharge	no	no
+pt/inr	no	no
+quit date	no	yes
+radiology report	no	no
+radiology	yes	no
+re	yes	no
+reason for appointment	no	no
+reason for consultation	no	no
+reason for consultation	yes	no
+reason for exam	no	no
+reason for test	no	no
+reason for visit	no	no
+recent lab	yes	no
+recent labs	yes	no
+recommendation	yes	no
+recommendations	no	no
+recommendations	yes	no
+reference range	yes	no
+reference range	no	no
+referred by	yes	no
+referring phys	yes	no
+referring physician	yes	no
+report	yes	no
+reported by	yes	no
+requested by	yes	no
+requesting physician	yes	no
+result date	yes	yes
+results	no	no
+results	yes	no
+results	no	no
+results	yes	no
+review date	yes	yes
+review of psychiatric symptoms	no	no
+review of symptoms	no	no
+review of systems	yes	no
+review of systems	no	no
+review of systems	no	no
+reviewed allergies	no	no
+reviewed by	yes	no
+reviewed medications	no	no
+reviewed medications	no	no
+risk assessment	no	no
+risk assessment	yes	no
+risk factors	yes	no
+risk factors	no	no
+ros	yes	no
+ros	no	no
+ros	yes	no
+ros	no	no
+routing history	no	no
+s	no	no
+safety screening	yes	no
+seen by	yes	no
+service date	yes	yes
+service	yes	yes
+service	yes	yes
+service	no	yes
+sex	yes	yes
+sexual history	no	no
+sexual history	no	no
+sh	no	no
+signed by	yes	yes
+signed date/time	yes	yes
+slit lamp exam	no	no
+smoking status	no	yes
+smoking status	no	yes
+smoking status	no	yes
+smoking status	no	yes
+soc hx	no	no
+social and family history	no	no
+social history	no	no
+social history	no	no
+social history	yes	no
+social history	no	no
+social hx	no	no
+sonographer	yes	no
+special instructions	yes	no
+start date	yes	yes
+start date	yes	yes
+study date	yes	yes
+subjective	no	no
+subjective	no	no
+subjective	no	no
+summary	no	no
+summary	yes	no
+surgeon	yes	yes
+surgeon	yes	yes
+surgeon	yes	yes
+surgery date	yes	yes
+surgical history	no	no
+surgical history	no	yes
+surgical hx	no	no
+systemic medications	yes	no
+tech	no	no
+tech	yes	no
+technician	yes	no
+technician	no	no
+technique	no	no
+technique	yes	no
+technologist	yes	yes
+test date	yes	yes
+time	yes	yes
+time	yes	yes
+time of visit	yes	yes
+time	no	yes
+timing	yes	no
+tobacco cessation information	no	no
+transcribed by	yes	yes
+transcribed date/time	yes	yes
+transcriptionist	yes	yes
+treatment	no	no
+treatment	yes	no
+tte procedure	no	no
+type of surgery	yes	no
+urine culture	no	no
+urine culture	yes	no
+us abdomen	no	no
+us abdomen	yes	no
+vaccinations	no	no
+vaccinations	yes	no
+views	no	no
+visit date	yes	yes
+visit date	no	yes
+visit diagnoses	no	no
+visual acuity	yes	no
+vital signs	no	no
+vital signs	no	no
+vital signs	yes	no
+vitals	no	yes
+vitals	no	no
+wellness history	no	no
+wound care orders from today's visit	no	no

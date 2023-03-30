@@ -1,0 +1,1293 @@
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Result Notes for B-type natriuretic peptide
+HHC HH PC Family Health Locher, Claire U
+Center, South Windsor MRN: 1000115174, DOB: 5/29/1931, Sex: F
+1559 Sullivan Avenue Acct #: 11833305095
+South Windsor CT 06074- Visit date: 11/29/2018
+2712
+Notes recorded by Sarah Johnson, LPN on 12/3/2018 at 8:22 AM EST
+Telephone call to pt son Peter. Advised Peter of results, need for Lasix 20mg and for f/u visit with Dr. Goldblatt.
+Notes recorded by Jeffrey E Stein, MD on 12/3/2018 at 8:00 AM EST
+Lab indicates mild congestive heart failure causing some of her leg swelling and shortness of breath.
+I am prescribing an additional fluid medicine and would like her to see her cardiologist, Dr. Goldblatt, sometime soon (last visit 3 years ago).
+Patient Result Comments
+Viewed by Claire U Locher on 1/1/2019 9:48 PM
+Written by Stein, Jeffrey E, MD on 12/3/2018 8:00 AM
+Lab indicates mild congestive heart failure causing some of her leg swelling and shortness of breath.
+I am prescribing an additional fluid medicine and would like her to see her cardiologist, Dr. Goldblatt, sometime soon (last visit 3 years ago).
+Results
+O B-type natriuretic peptide (Order 179719289)
+Result Notes for B-type natriuretic peptide
+Notes recorded by Sarah Johnson, LPN on 12/3/2018 at 8:22 AM EST
+Telephone call to pt son Peter. Advised Peter of results, need for Lasix 20mg and for f/u visit with Dr.Goldblatt.
+Notes recorded by Jeffrey E Stein, MD on 12/3/2018 at 8:00 AM EST
+Lab indicates mild congestive heart failure causing some of her leg swelling and shortness of breath.
+I am prescribing an additional fluid medicine and would like her to see her cardiologist, Dr. Goldblatt, sometime soon (last visit 3 years ago).
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/6
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+OB-type natriuretic peptide
+Order: 179719289
+Status: Final result Visible to patient: Yes (MyChartPLUS) Next appt: None Dx: Pedal edema
+@
+11 mo ago
+Newer results are available.
+Ref Range & Units
+B-Type Natriuretic Peptide < 100 pg/mL
+355
+Comment:
+BNP levels increase with age in the general population with the highest values seen in individuals greater than 75 years of age.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/6
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Reference: J. Am. Coll. Cardiol. 2002; 40:976-982.
+Resulting Agency
+NL1
+Narrative
+Performed by: Quest
+FASTING:NO
+FASTING: NO
+Resulting Agency's Comment
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3rd Fl, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+Specimen Collected: Last Resulted: 11/30/18 Order Details View Encounter Lab and Collection
+11/29/18 2:15 PM 9:00 AM
+Details Routing Result History
+Other Results from 11/29/2018
+Result Notes for Basic Metabolic Panel
+Notes recorded by Sarah Johnson, LPN on 12/3/2018 at 8:22 AM EST
+Telephone call to pt son Peter. Advised Peter of results, need for Lasix 20mg and for f/u visit with Dr.Goldblatt.
+Notes recorded by Jeffrey E Stein, MD on 12/3/2018 at 8:00 AM EST
+Lab indicates mild congestive heart failure causing some of her leg swelling and shortness of breath.
+I am prescribing an additional fluid medicine and would like her to see her cardiologist, Dr. Goldblatt, sometime soon (last visit 3 years ago).
+Basic Metabolic Panel
+Order: 179719288
+Status: Final result Visible to patient: Yes (MyChartPLUS) Next appt: None Dx: Essential hypertension
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/6
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+@
+Newer results are available.
+Ref Range & Units
+Glucose
+65 - 139 mg/dL
+Comment:
+Non-fasting reference interval
+11mo ago
+83
+271
+1.35^
+Blood Urea Nitrogen (BUN) 7 - 25 mg/dL
+Creatinine
+0.60 - 0.88 mg/dL
+Comment: For patients >49 years of age, the reference limit for Creatinine is approximately 13% higher for people identified as African-American.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/6
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+||||
+|eGFR Non-African American|> OR = 60|35 V|
+|eGFR African American|mL/min/1.73m2 > OR = 60 mL/min/1.73m2|41 V|
+|BUN/Creatinine Ratio|6 - 22 (calc)|20|
+|Sodium|135 - 146 mmol/L|142|
+|Potassium|3.5 - 5.3 mmol/L|4.3|
+|Chloride|98 - 110 mmol/L|105|
+|CO2|20 - 32 mmol/L|29|
+|Calcium|8.6 - 10.4 mg/dL|9.3|
+|Resulting Agency||NL1|
+|Narrative|||
+
+Performed by: Quest
+FASTING:NO
+FASTING: NO
+Resulting Agency's Comment
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd Fl, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+Specimen Collected: Last Resulted: 11/30/18 Order Details View Encounter Lab and Collection
+11/29/18 2:15 PM 9:00 AM
+Details Routing Result History
+Performing Laboratory Information
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd FI, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+All Reviewers List
+Sarah Johnson, LPN on 12/3/2018 8:22 AM
+Jeffrey E Stein, MD on 12/3/2018 8:00 AM
+Additional Information
+Specimen ID
+WC319315D
+Bill Type
+Third-Party
+Client ID
+22188373
+Additional Information
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/6
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+|Specimen Date|Specimen Time|Specimen|Specimen|Result Date|Result Time|
+|Taken|Taken|Received Date|Received Time|||
+|Nov 29, 2018|2:15 PM|Nov 29, 2018|2:15 PM|Nov 30, 2018|9:00 AM|
+
+Hartford Healthcare Laboratories , CT State License No. Backus Hospital Lab : HP - 0230 , Backus Plainfield Emergency Center Lab : CL - 0766 , HHC Cancer Institute : CL - 0719 , Charlotte Hungerford Hospital : HP 0245 , Charlotte Hungerford Winsted Emergency Center Lab : CL - 0720 , Hartford Hospital : HP - 0254 , Hartford Hospital , Newington Campus : CL - 0385 , Midstate Medical Center Lab : HP - 0310 , The Hospital of Central CT Lab : HP - 0222 , The Hospital of Central CT Lab ( Blood Gas ) : HP - 0303 , The Hospital of Central CT Bradley Emergency Center Lab : HP - 0240 , The Hospital of Central CT - Satellite Campus : HP - 0261 , Windham Hospital Lab : HP - 0366 Additional Comments Performing Organization Information :
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd FI, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+External Results Report
+Open External Results Report
+Locher, Claire U (MRN 1000115174) Printed by Amber Hickey (19538] at 10/28/19 11:57 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+6/6
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Result Notes for Basic Metabolic Panel
+HHC HH PC Family Health Locher, Claire U
+Center, South Windsor MRN: 1000115174, DOB: 5/29/1931, Sex: F
+1559 Sullivan Avenue Acct #: 11729605729
+South Windsor CT 06074- Visit date: 10/23/2017
+2712
+Notes Recorded by Sarah Johnson, LPN on 12/4/2017 at 8:45 AM EST
+Telephone call to pt son. Peter states sx resolved and pt to see pcp today.
+Notes Recorded by Sarah Johnson, LPN on 11/30/2017 at 9:25 AM EST
+Telephone call to pt. Pt POA Peter states will speak with pt and inquire about sx then contact our office with update.
+Notes Recorded by Jeffrey E Stein, MD on 11/30/2017 at 9:09 AM EST
+Urine test shows a possible infection. Ask whether she is having any urinary symptoms. If not, no action needed.
+Results
+Basic Metabolic Panel (Order 130758571)
+!
+Result Notes for Basic Metabolic Panel
+Notes Recorded by Sarah Johnson, LPN on 12/4/2017 at 8:45 AM EST
+Telephone call to pt son. Peter states sx resolved and pt to see pcp today.
+Notes Recorded by Sarah Johnson, LPN on 11/30/2017 at 9:25 AM EST
+Telephone call to pt. Pt POA Peter states will speak with pt and inquire about sx then contact our office with update.
+Notes Recorded by Jeffrey E Stein, MD on 11/30/2017 at 9:09 AM EST
+Urine test shows a possible infection. Ask whether she is having any urinary symptoms. If not, no action needed.
+Basic Metabolic Panel
+Order: 130758571
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/5
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Status: Final result Visible to patient: No (Not Released) Next appt: None Dx: Essential hypertension
+L
+Newer results are available.
+Ref Range & Units
+65 - 99 mg/dL
+1 yr ago
+79
+Glucose
+Comment:
+Fasting reference interval
+Blood Urea Nitrogen (BUN) 7 - 25 mg/dL
+20
+Creatinine
+0.60 - 0.88 mg/dL
+Comment: For patients >49 years of age, the reference limit for Creatinine is approximately 13% higher for people
+1.44^
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/5
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538] identified as African-American.
+33 V
+EGFR Non-African American > OR = 60
+|eGFR African American|mL/min/1.73m2 > OR = 60 mL/min/1.73m2|38 V|
+|BUN/Creatinine Ratio|6 - 22 (calc)|14|
+|Sodium|135 - 146 mmol/L|143|
+|Potassium|3.5 - 5.3 mmol/L|4.6|
+|Chloride|98 - 110 mmol/L|105|
+|CO2|20 - 31 mmol/L|26|
+|Calcium|8.6 - 10.4 mg/dL|9.5|
+|Resulting Agency||NL1|
+|Narrative|||
+
+Performed by: Quest
+FASTING: YES
+FASTING: YES
+Resulting Agency's Comment
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd Fl, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+Specimen Collected: Last Resulted: 11/30/17 Order Details View Encounter Lab and Collection
+11/29/17 10:27 AM 12:43 AM
+Details Routing Result History
+Other Results from 10/23/2017
+Result Notes for Urinalysis with Reflex to Microscopic
+Notes Recorded by Sarah Johnson, LPN on 12/4/2017 at 8:45 AM EST
+Telephone call to pt son. Peter states sx resolved and pt to see pcp today.
+Notes Recorded by Sarah Johnson, LPN on 11/30/2017 at 9:25 AM EST
+Telephone call to pt. Pt POA Peter states will speak with pt and inquire about sx then contact our office with update.
+Notes Recorded by Jeffrey E Stein, MD on 11/30/2017 at 9:09 AM EST
+Urine test shows a possible infection. Ask whether she is having any urinary symptoms. If not, no action needed.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/5
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Urinalysis with Reflex to Microscopic
+Order: 130758572
+Status: Final result Visible to patient: No (Not Released) Next appt: None Dx: Essential hypertension
+||Ref Range & Units|1yr ago|
+|Color|YELLOW|YELLOW|
+|Clarity|CLEAR|CLEAR|
+|Specific Gravity|1.001 - 1.035|1.009|
+|pH|5.0 - 8.0|7.0|
+|Glucose, Urine, Random|NEGATIVE|NEGATIVE|
+|Bilirubin|NEGATIVE|NEGATIVE|
+|Ketones|NEGATIVE|NEGATIVE|
+|Blood|NEGATIVE|NEGATIVE|
+|Protein|NEGATIVE|NEGATIVE|
+|Nitrite|NEGATIVE|NEGATIVE|
+|Leukocyte Esterase|NEGATIVE|3+ !|
+|WBC|< OR = 5 /HPF|6-10 !|
+|RBC|< OR = 2 /HPF|NONE SEEN|
+|Squamous Epithelial Cells|< OR = 5 /HPF|0-5|
+|Bacteria|NONE SEEN /HPF|NONE SEEN|
+|Hyaline Cast|NONE SEEN /LPF|NONE SEEN|
+|Resulting Agency||NL1|
+|Narrative|||
+
+.
+Performed by: Quest
+FASTING: YES
+FASTING: YES
+Resulting Agency's Comment
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd Fl, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+Specimen Collected: Last Resulted: 11/30/17 Order Details View Encounter Lab and Collection
+11/29/17 10:27 AM 12:43 AM
+Details Routing Result History
+Performing Laboratory Information
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd FI, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/5
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+All Reviewers List
+Sarah Johnson, LPN on 12/4/2017 8:45 AM
+Jeffrey E Stein, MD on 11/30/2017 9:09 AM
+Additional Information
+Specimen ID
+WC862589P
+Bill Type
+Third-Party
+Client ID
+22188373
+Additional Information
+|Specimen Date|Specimen Time|Specimen|Specimen|Result Date|Result Time|
+|Taken|Taken|Received Date|Received Time|||
+|Nov 29, 2017|10:27 AM|Nov 29, 2017|10:27 AM|Nov 30, 2017|12:43 AM|
+
+Hartford Healthcare Laboratories, CT State License No.
+Backus Hospital Lab: HP-0230, Backus Plainfield Emergency Center Lab: CL-0766, HHC Cancer Institute: CL-0719, Charlotte Hungerford Hospital: HP-
+0245, Charlotte Hungerford Winsted Emergency Center Lab: CL-0720, Hartford Hospital: HP-0254, Hartford Hospital, Newington Campus: CL-0385, Midstate Medical Center Lab: HP-0310, The Hospital of Central CT Lab: HP-0222, The Hospital of Central CT Lab (Blood Gas): HP-0303, The Hospital of Central CT Bradley Emergency Center Lab: HP-0240, The Hospital of Central CT-Satellite Campus: HP-0261, Windham Hospital Lab: HP-0366
+Additional Comments
+Performing Organization Information:
+Site ID: NL1
+Name: Quest Diagnostics LLC-Quest Diagnostics LLC
+Address: 200 Forest St, 3Rd FI, Suite B Marlborough, MA 01752-3023
+Director: Salim E Kabawat MD
+External Results Report
+Open External Results Report
+Locher, Claire U (MRN 1000115174) Printed by Amber Hickey (19538] at 10/28/19 11:59 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/5
+
+-------------------------------------------
+-------------------------------------------
+Nov. 10. 2015 3:43PM
+No. 5291 P. 1/3
+Date:
+.
+Hartford Health Care
+Medical Group
+Number of pages including cover slicet:
+FACSIMILE
+I'rom:
+Mark Fisherkeller, M.D.
+Adolph ***41. A.
+To:
+Hartford Health Care
+Medical Group
+Company:
+Jeffrey E Stein M.D.
+860-569-8800
+Fax #: 860-696-2360
+Phone #:
+5 Founders Street, Suite 102
+Williniantic, CT 06226
+Subject:
+Phone #: (860) 450-2898
+Fax #: (860) 456-3078
+REMARKS:
+Urgent
+OFor
+your review
+l'HI Fax Policy for manual
+fax transmission to
+unsecured fax machine.
+Please Reply
+ASAP
+ Use fax cover sheet.
+O Alert l'ecipient in advance.
+U Confirm fax # twice
+beforc pressing send.
+. Check confirmation
+slicct.
+Scan all pages into
+medical record. If not
+on EMR, retain fax
+cover sheet and transmission report in *** CONFIDENTIAL NOTICE*** paper chart.
+This facsimile originatcs from a llurtford Health Care Medical Group office. The information contained in this transmittat may be privileged and confidential. If you are the intended rccipicnt(s), you are obligated to muintain this transmittal in a secure and contidential 11anner in accordance with applicable laws. If you are not the intended recipient(s), you are hercoy notificd that you have received this transmittal in error and any review, use, distribution or copying is strictly proliibited. If you have reccived this transmittel in error, please notify the sender immcdiately and destroy this message. T unik yeni.
+(Above steps not nccded for faxing to pharmacies or from Allscripts.)
+KiTective 5/7/12
+Revised 5/1/13
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/3
+
+-------------------------------------------
+-------------------------------------------
+Nov. 10. 2015 3:43PM
+No. 5291 P. 2/3
+G
+Hartford Health Care
+Medical Group
+October 16, 2015
+Jelliey E. Stein, M.D.
+265 Ellington Road
+Last I lartford, CT 06108
+P!: 860-560-8800
+Faxil: 860-696-2360
+Rc: Claire Locher
+DOB: 05/29/1931
+MRNO: 1855374
+Dear Dr. Stein:
+I saw Claire today follow up of her atrial fibrillation management as well as hypertension management.
+As my letters and records reflect, I have been in constant cffort is trying to find the right balance of medications for Claire. There has been essentially no satisfactory medication that has improved licr functional status without some adverse reaction, As a result, the only antihypertensive that she is on is triamterene/HCTZ onc-half pill daily, Clairc says that she is exhausted after her morning chores and she keeps asking why she does not have more energy. I had tried her on medication to put her in sinus rhythm, none of which eflective. If anything, they slowed her down and made her leel wcak.
+were
+Although she has thyroid issues, she is secing Dr. Diana Wagner who says that right now there is no intervention indicated for her thyroid.
+Physical Examination:
+Vital Signs: Blood pressure 146/90 in the right arm and 152/90 in the left. These readings are lower than on her previous visit. Pulse was 68 and irregular.
+Neck: Neck had no JVD. Carotids 2.
+Lungs: Clear
+Cardiac Exam: Irregularly irregular. Si and S2. No audible murmurs or gallops.
+Extremities: She did have a skin abrasion on her leg, which occurred three weeks ago. It is a dry and showing signs of healing; however, I had told her she probably should have sought medical attention for it.
+Impression/Plan: Claire has issues with both hypertension and atrial fibrillation.
+Hartford Health Care Medical Group is the d.b.a, name for HHC PhysiciansCare, Inc.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/3
+
+-------------------------------------------
+-------------------------------------------
+Nov. 10. 2015 3:43PM
+No. 5291
+P. 3/3
+Patient Name: Claire Locher
+DOB: May 29, 1931
+DOV: October 16, 2015
+Page 2
+Impression/Plan: Attempts to return her to sinus rhythm were not tolerated medically, I had her consult with Dr, Eric Crespo. She was not in favor of any intervention such as ablation.
+Thoughts of AV nodal ablation did not appear to be indicated, as her heart rates generally do not incrcasc much above the 80s lo 90s.
+In regards to hypertension, she has quite labile hypertension and prior significant anxiety. She reports that blood pressures in the morning are elevated, but by the evening, they are in the 110s lo 120s.
+As it appears that continuing to reduce Claire's medications has improved her functional capacity and energy, I will take the step of reducing her triamlorenc to just every other day. She will contact me, I she feels noticeably improved, I will take the next step of discontinuing the triamterene altogether. I will then have her follow up on her blood pressure and report back to me.
+With best regards
+see
+Steven Goldblatt, M.D.
+164 Otrobando Avenue
+Norwich, CT 06360
+SG/UKM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/3
+
+-------------------------------------------
+-------------------------------------------
+Iivili. UI GAIVIANCI
+10. fu) vuu LUUU
+Iuyu. 1
+ULU. LIVIILUIUIUIT.III IV
+i
+-
+TO: [(860) 696-2360, Jeffrey Stein, MD] ID: (15134.116681] stech
+NO TASK
+ECHN
+Eastern Connecticut
+Medical Professionals
+Vernon Endocrinology
+460 Hartford Tpk, Suite A
+Vernon, CT 06066
+Phone: (860) 896-4877 Fax:(860 979-0898
+DOB: 05/29/1931 (84 years)
+CLAIRE LOCHER
+Date of Visit: 07/30/2015
+History of Present Illness
+DIANA WAGNER, MD 07/31/2015 09:27 PM
+Hyperthyroidism (Reason for Visit)
+The patient is a 84 year old female who presents with hyperthyroidism.
+Symptoms include increased perspiration, weight loss and fatigue, while symptoms do not include tremor, anxiety, weakness or exophthalmos. History of Present Illness was reviewed by provider. Patient came alone to appointment.
+Transition into care
+The patient is transitioning into care from another physician (Dr. Jeffrey Stein ).
+Reason for Visit Note: No SOB or CP, having night sweats lately.
+More tired since Neurontin was increased lately, decided to go back to prior dose.
+Labs 7/24: TSH 0.55 (N 0.4), FT4 1.4 (N 1.8), D 43
+History
+Allergy
+Propafenone, HCI *ANTIARRHYTHMICS* [Drug allergyl
+Past Medical
+HYPERTHYROIDISM; due to thyroiditis, uptake 2.9% in Aug 2014.
+Off Amiodarona and Propafenone
+MULTIPLE THYROID NODULES
+VITAMIN D DEFICIENCY
+PERIPHERAL NEUROPATHY
+HTN (HYPERTENSION)
+OSTEOPENIA
+CKD (CHRONIC KIDNEY DISEASE)
+AFIB
+PCP; Dr. Jeffrey Stein
+PERIPHERAL VASCULAR DISEASE
+HYPERLIPIDEMIA
+Social
+Tobacco Use: Never smoker
+divorced
+Medications
+Aspirin EC (81MG Tablet DR, Oral daily) Active.
+Centrum Silver ( Oral daily) Active.
+Vitamin B Complex (1 Oral ad) Active.
+Vitamin D (2000UNIT Capsule, 1 Oral ad) Active.
+Triamterene-HCTZ (75-50MG Tablet, 1/2 tablet Oral daily) Active.
+Gabapentin (100MG Capsule, Oral at bedtime) Active.
+Medications Reconciled.
+Family
+FH: OSTEOPOROSIS: Sister
+FH: BREAST CANCER: Sister
+FH: HEART DISEASE: Sister
+Vitals (Heather Millett; 07/30/2015 10:42 AM)
+07/30/2015 10:41 AM
+Weight: 140 lb Height: 67 in Body Surface Area: 1.73 m2 Body Mass Index: 21.93 kg/m2
+Pulse: 62 (Regular)
+BP: 130/70 Manual (Sitting, Left Arm, Standard)
+8:31
+Friday, July 31, 2015
+Page 1/4
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/4
+
+-------------------------------------------
+-------------------------------------------
+IIVII. VIII CALTANI
+Dale. 11IILUTUiU14.ILITY
+10. (UV) -cuuu 1 aye. U
+TO: [(860) 696-2360, Jeffrey Stein, MD] ID: (15134.116681]
+NO TASK
+Vernon Endocrinology
+ECHN
+Eastern Connecticut
+Medical Professionals
+460 Hartford Tpk, Suite A
+Vernon, CT 06066
+Phone: (860) 896-4877 Fax:(860 979-0898
+CLAIRE LOCHER
+DOB: 05/29/1931 (84 years)
+Review of Systems
+General: Present- Fatigue, Night Sweats and Unexplained weight loss, Not Present- Recent febrile illness.
+Skin: Present- Hair Loss. Not Present-Rash.
+HEENT: Present- Hoarseness. Not Present- Headache, Blurred Vision and Periorbital Puffiness.
+Neck: Present- Lump in neck. Not Present-Thyroid pain.
+Respiratory: Not Present- Shortness of breath.
+Cardiovascular: Not Present- ankle edema, Chest pain or pressure and Palpitations (very rare).
+Gastrointestinal: Not Present- Constipation, Diarrhea, Difficulty Swallowing and Nausea.
+Musculoskeletal: Not Present- arthralgias and muscle aches.
+Neurological: Not Present- Tremor.
+Psychiatric: Not Present-
+Anxiety and Depression.
+Endocrine: Not Present- Cold Intolerance and Heat Intolerance.
+Physical Exam
+General
+Mental Status - Alert General Appearance - Not in acute distress. Build & Nutrition - Lean.
+Integumentary
+Normal: - Skin warm, dry, without rashes or lesions.
+Head and Neck
+Thyroid: Characteristics - enlarged, non-tender.
+Eye
+General characteristics - Bilateral - no exophthalmos.
+ENMT
+Mouth and Throat
+Oral Cavity /Oropharynx: Oral Mucosa - moist.
+Chest and Lung Exam
+Chest and lung exam reveals - normal breath sounds, no adventitious sounds.
+Cardiovascular
+Auscultation: Rhythm - Irregularly irregular.
+Abdomen
+Palpation / Percussion: Normal exam - Soft and Non Tender.
+Peripheral Vascular
+Lower Extremity: Edema - Bilateral - no edema.
+Neurologic
+Neurologic evaluation reveals - alert and oriented x 3 with no impairment of recent or remote memory and normal strength and tone.
+Motor exam: Involuntary movements - no tremors.
+Neuropsychiatric
+Mood and Affect - appropriate.
+Assessment & Plan
+HYPERTHYROIDISM (242.90 I E05.90)
+Problem Story: due to thyroiditis, uptake 2.9% in Aug 2014.
+Off Amiodarona and Propafenone
+Friday, July 31, 2015
+Page 2/4
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+214
+
+-------------------------------------------
+-------------------------------------------
+I
+ aAIYIan , 
+10. luu) vou-LUVU
+I ayo. UIT
+a. IILUIUIU. 17.ILITY
+TO: [(860) 696-2360, Jeffrey Stein, MD] ID: (15134.116681]
+NO TASK
+ECHN
+Vernon Endocrinology
+Eastern Connecticut
+460 Hartford Tpk, Suite A
+Medical Professionals
+Vernon, CT 06066
+Phone: (860) 896-4877 Fax:(860 979-0898
+CLAIRE LOCHER
+DOB: 05/29/1931 (84 years)
+Today's Impression: resolved, euthyroid by labs, but TSH low N, with wt loss, decaeased energy, gets tired easily, and new sweats at night
+. Discussed a trial of very low dose Methimazole, 2.5 mg 2-3 x/week, with close TFT f/o, but she does not want to start any new med, stating that she already had bad side effects from prior meds. To follow TFT in 3-6 mo, sooner if new sx
+Current Plans:
+TSH (84443) Routine ()
+Result:
+. T4 FREE (84439) Routine ()
+Result:
+ T3 FREE (84481) Routine ()
+Result:
+How to access health information online
+CKD (CHRONIC KIDNEY DISEASE) (585.9 IN18.9)
+Today's Impression: GFR improved
+Current Plans:
+HYPERLIPIDEMIA (272.41 78.5)
+Today's Impression: follows with PCP
+Current Plans:
+MULTIPLE THYROID NODULES (241.11 E04.2)
+Today's Impression: on palpation, confirmed on US, possible responsible for peristent low N TSH
+Current Plans:
+ US EXAM OF HEAD AND NECK (76536) Routine)
+Echogenicity Normal
+Nodules Present Yes
+HIN (HYPERTENSION) (401.9 1110)
+Today's Impression: BP at goal
+Current Plans:
+OSTEOPENIA (733.90 I M85.80).
+Today's Impression: on Ca + D, does not want more meds
+Current Plans:
+VITAMIN D DEFICIENCY (268.9 | E55.9)
+Today's Impression: good level on present dose
+Current Plans:
+AFIB (427.31 | 148.91)
+Today's Impression: rate controlled on no meds, off Amiodarone
+Current Plans:
+Thyroid US:
+Tryroid enlarged, heterogenous, with no increased vascularity, Trachea midline, isthmus 0.6 cm with a heterogenous hypoechoic nodule 0.6x1.3 x 1.09 cm.
+Friday, July 31, 2015
+Page 3/4
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/4
+
+-------------------------------------------
+-------------------------------------------
+CIUIT. UIII Calvianei
+Dale. IIILUTUTU..ILITY
+10. (UU) VOULUUU
+I aye, 17
+TO: [(860) 696-2360, Jeffrey Stein, MD] ID: (15134.116681]
+NO TASK
+ECHN
+Vernon Endocrinology
+Eastern Connecticut
+460 Hartford Tpk, Suite A
+Medical Professionals
+Vernon, CT 05066
+Phone: (860) 896-4877 Fax:(860 979-b898
+CLAIRE LOCHER
+DOB: 05/29/1931 (84 years)
+R lobe 1.9 x 2.44 x 5.26 cm, L lobe 2x 2.4 cm.
+R midpole slightly isoechoic nodule with e few microcalcifications but no increased vascularity 0.76x 1.2 x 1 cm. Another
+isoechoic nodule with small hyperechoic island 0.88 x 0.87 cm.
+Llobe with a ispechoic nodule ant upper pole 0.46 x 0.75 x 0.84 cm, a lower slightly hypoechoic nodule 0.94 x 1.58 x 1 cm
+and a lower pole 1.4 x 0.9 x0.88 cm, heterogenous, with few macrocalcifications casting shadow.
+Images discussed, few nodules would qualify for FNA, procedure described; she declined the procedure at this time.
+f/u 6 mo
+Diana Wagner
+DIANA WAGNER, MD.
+Friday, July 31, 2015
+Page 4 / 4
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+474
+
+-------------------------------------------
+-------------------------------------------
+From: Hartford Neurology LLC To: (860) 696-2360 Page: 1/4
+Date: 12/5/2017 12:05:23 PM
+TO: [(860) 696-2360, Jeffrey Stein, MD] ID: [12520.42568]
+Hartford Neurology
+||Stephen R. Conway, M.D. Lawrence S. Bluth, M.D. Isaac E. Silverman, M.D. Phyllis G. Grable-Esposito, M.D. Arike D. Price, M.D. 85 Seymour Street #800 Hartford, CT 06106 Telephone: (860) 522-4429 Fax: (860) 249-6742||
+|6 Northwestern Drive, Suite 202 Bloomfield, CT 06002|100 Hazard Avenue, Suite 205 Enfield, CT 06082|622 Hebron Avenue, Suite 102 Glastonbury, CT 06033|
+|To: Jeffrey Stein MD 1559 Sullivan Ave South Windsor, CT 06074 From: Lawrence S. Bluth MD|Phone: (860) 696-2350 Fax: (860) 696-2360||
+|Encounter Date: 12/05/2017 11:33|AM||
+
+Consultation for : Claire Locher Date of Birth : 05/29/1931
+History of Present Illness
+Lawrence S. Bluth, MD 12/05/2017 12:01 PM
+She was last seen on 12/6/16. She complains of annoying paresthesias in the feet, but is only taking Gabapentin 100-mg
+po bid. She tolerates this medication fine, and her son asks if she can try a higher dose. She is also tolerating the medications
+for dementia. She has insomnia and plans to try melatonin. She denies any acute exacerbations of the foot symptoms. She has some low back achy pain, but this is non-radiating. She denies a history of headaches, TIAs, strokes or seizures. She has not fallen.
+History
+Lawrence S. Bluth, MD 12/05/2017 11:59 AM
+Allergy
+No Known Drug Allergies (04/07/2014)
+No Known Allergies (04/07/2014)
+Claire Locher
+Patient #: 257190
+DOB: 05/29/1931 (86 years).
+Tuesday, December 5, 2017
+Page 1/4
+This fax was sent with GFI FAXmaker fax server. For more information, visit: http://www.gfi.com
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/4
+
+-------------------------------------------
+-------------------------------------------
+From: Hartford Neurology LLC To: (860) 696-2360 Page: 214 Date: 12/5/2017 12:05:23 PM
+TO: [(860) 696-2360, Jeffrey Stein, MD] ID: [12520.42568]
+Past Medical
+Toe pain (M79.676)
+A-fib (148.91)
+Hypertension (110)
+Gait instability (R26.81)
+Anxiety (F41.9)
+Alzheimer's type dementia (G30.9)
+Hearing loss, bilateral (H91.93)
+Sciatica, right (M54.31)
+Degenerative joint disease (DJD) of hip (M16.9); R>L
+Polyneuropathy (G62.9)
+Numbness and tingling (R20.0)
+Hip pain (M25.559)
+MCI (mild cognitive impairment) with memory loss (G31.84)
+MGUS (monoclonal gammopathy of unknown significance) (D47.2); IgG kappa band
+Tremor (R25.1)
+Memory loss (R41.3)
+Social
+Mantal status: Divorced
+Alcohol Use: Occasional alcohol use
+No Drug Use
+Tobacco Use: Never smoker
+Medications
+Amlodipine Besylate (2.5MG Tablet, 1 Oral daily) Active.
+Aspirin EC Low Strength (81MG Tablet DR, 1 Oral daily) Active.
+Gabapentin (100MG Capsule, 1 Oral two times daily, Taken starting 08/24/2017) Active.
+Namenda XR (28MG Capsule ER 24HR, 1 Oral daily, Taken starting 08/24/2017) Active.
+Rivastigmine (4.6MG/24HR Patch 24HR, 1 Transdemal daily) Active.
+Triamterene HCTZ (75-50MG Tablet, 1 Oral daily) Active.
+Family
+Father No hx given
+Mother Stroke
+Diagnostic Studies
+EMG: Date: 4/7/2014, Results: Bilateral lower extremities: sensorimotor polyneuropathy
+EMG/NCS: Date: 2/9/2016, Results: Bilateral lower extremities: sensory more than motor axonal polyneuropathy, no lumbar radiculopathy
+Claire Locher
+Patient #: 257190
+DOB: 05/29/1931 (86 years).
+Tuesday, December 5, 2017
+Page 2/4
+This fax was sent with GFI FAXmaker fax server. For more information, visit: http://www.gfi.com
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+214
+
+-------------------------------------------
+-------------------------------------------
+From: Hartford Neurology LLC To: (860) 696-2360 Page: 3/4
+Date: 12/5/2017 12:05:24 PM
+TO: [(860) 696-2360, Jeffrey Stein, MD] ID: [12520.425681
+Review of Systems Latoya Betts 12/05/2017 11:40 AM
+General Not Present- Fatigue, Fever and Recent weight change.
+Skin
+Not Present-Rash or itching.
+HEENT Present- Glaucoma, Hearing Loss and Visual Loss. Not Present- Ringing in the Ears.
+Respiratory Present- Sleep apnea. Not Present-Asthma or wheezing, Chronic or frequent coughs, COPD, Shortness of breath and Spitting up blood.
+Cardiovascular Not Present- Chest pain or angina, Heart Trouble, Lightheaded or dizziness, Palpitations and Swelling in feet or ankles.
+Gastrointestinal Not Present- Abdominal pain or heartburn, Peptic Ulcer and Rectal bleeding or blood in stool.
+Female Genitourinary Not Present- Change in Frequency, Frequent Urination, Hematuria (blood in urine), Incontinence, Kidney Stones, Painful Urination and Recurrent urinary tract infection.
+Musculoskeletal Present- Back Pain. Not Present-Joint pain or swelling, Musde pain or cramps, Neck pain and Weakness of musdes or joints.
+Neurological Present- Daytime sleepiness, Difficulty walking, Memory Loss and Numbness or tingling sensations. Not Present- Convulsions or seizures, Frequent or recurring headaches, Head Injury, Paralysis, Stroke and Tremor
+Psychiatric Not Present- Anxiety, Depression and Sleep Disorder.
+Endocrine Not Present- Diabetes and Thyroid disease.
+Hematology Not Present- Anemia and Past Blood Transfusion.
+|Vital Signs||||
+|Date:|12/05/2017 11:40 AM|Height:|67 in|
+|Temperature:||Weight:|145 lb|
+|Pulse:|68|||
+|Blood Pressure:|112/68|||
+
+Physical Exam
+Lawrence S. Buth, MD, 12/05/2017 11:58 AM
+General
+General Appearance - Not in acute distress.
+Neck
+Neck - Abnormal movements (The patient's neck educed range of motion), Cardiovascular
+Carotid Exam - Normal (no bruits). Radial Pulses Exam - Normal. Auscultation - Rhythm - Irregular.
+Neurologic
+Mental Status - Orientation - Abnormal (name only, not date or place). Language - Abnormal (anomia, verbal comprehension problems). Memory - Abnormal and Fund of knowledge abnormal has
+. Attention - Abnormal (unable to do serial
+7's). Cranial Nerves - II Pupils - II Pupils - Visual fields - Normal
+. III IV VI Extraocular Movements - Normal. V Facial
+Sensation - Normal. VII Facial Movement - Normal. VIII Hearing - Hearing impaired. IX Palatal Movement - Nomal. XI
+Accessory Nerve - Nomal. XII Tongue - Normal. Motor - Normal. Tone - Normal (no cogwheeling). Coordination - Normal.
+Sensory - Touch Sensation - Normal. Pin Sensation - Abnormal (reduced in distal feet and toes). Vibration -
+Abnormal (reduced in toes). Reflexes - Right Biceps - 2+. Left Biceps - 2+. Right Knee - 1+. Left Knee - 1+. Right Anke - O.
+Left Ankle - 0. Gait - Broad-based (slow). Other findings - tremors present (mild postural tremor), muscle atrophy present (feet), no fasciculations present.
+Assessments & Plans
+Lawrence S. Bluth, MD, 12/05/2017 12:01 PM
+Polyneuropathy (356.9 | G62.9)
+Medications
+Gabapentin 300-mg po tid.
+Additional Instructions
+How to access health information online
+Patient instructed of medication effects
+Follow up in 1 year or as needed
+Assessment/Plan Note: She may increase the gabapentin to 300-mg po qd to tid prn for the paresthesias in the feet.
+I explained the proper use and side effects of Gabapentin/Neurontin including confusion, dizziness, lethargy and ankle swelling. She may also remain on the same medications for the dementia. I have no other treatments for that
+Claire Locher
+Patient #: 257190
+DOB: 05/29/1931 (86 years).
+Tuesday, December 5, 2017
+Page 3 / 4
+This fax was sent with GFI FAXmaker fax server. For more information, visit: http://www.gfi.com
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/4
+
+-------------------------------------------
+-------------------------------------------
+From: Hartford Neurology LLC To: (860) 696-2360 Page: 414
+Date: 12/5/2017 12:05:24 PM
+TO: [(860) 696-2360, Jeffrey Stein, MD] ID: [12520.42568] condition and she has not developed neurobehavioral problems.
+She may return in a year or prn.
+Laurenes de Moto, M.D.
+dawane
+Lawrence S. Bluth MD
+Claire Locher
+Patient #: 257190
+DOB: 05/29/1931 (86 years).
+Tuesday, December 5, 2017
+Page 4 / 4
+This fax was sent with GFI FAXmaker fax server. For more information, visit: http://www.gfi.com
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+474
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Locher, Claire U (MR # 1000115174) DOB: 05/29/1931 Encounter Date: 11/29/2018
+11/29/2018 1:45 PM Office Visit
+MRN: 1000115174
+Claire U Locher
+Description: Female DOB: 5/29/1931 Provider: Jeffrey E Stein, MD
+Department: Hartford HealthCare Medical Group South Windsor
+Diagnoses
+8
+Reason for Visit
+id
+Essential hypertension - Primary
+Codes: 110
+Pedal edema
+Codes: R60.0
+Leg Swelling
+Reason for Visit History
+Progress Notes
+Progress Notes by Jeffrey E Stein, MD at 12/3/2018 8:00 AM
+Author: Jeffrey E Stein, MD Author Type: Physician
+Filed: 12/3/2018 8:00 AM
+Note Status: Signed
+Cosign: Cosign Not Required Encounter 11/29/2018
+Date:
+Editor: Jeffrey E Stein, MD (Physician)
+Lab indicates mild congestive heart failure causing some of her leg swelling and shortness of breath.
+I am prescribing an additional fluid medicine and would like her to see her cardiologist, Dr. Goldblatt, sometime soon (last visit 3 years ago).
+Progress Notes by Jeffrey E Stein, MD at 11/29/2018 2:00 PM
+Author: Jeffrey E Stein, MD Author Type: Physician
+Note Status: Signed
+Cosign: Cosign Not Required
+Filed:
+Encounter
+Date:
+11/29/2018 2:26 PM
+11/29/2018
+Editor: Jeffrey E Stein, MD (Physician)
+Assessment & Plan
+Assessment
+Claire was seen today for leg swelling.
+Diagnoses and all orders for this visit:
+Essential hypertension
+Basic Metabolic Panel
+-
+Pedal edema
+B-type natriuretic peptide
+-
+Other orders
+High Dose Flu Vaccine (65 years and older)
+-
+I suspect more amlodipine side effect than other cause. Will stop amlodipine as BP well controlled.
+No results found for this or any previous visit (from the past 2 hour(s)).
+Locher, Claire U (MRN 1000115174) Printed by Amber Hickey (19538] at 10/28/19 11:55 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Locher, Claire U (MR # 1000115174) DOB: 05/29/1931 Encounter Date: 11/29/2018
+Communication barriers and lifestyle preferences were addressed with the patient. The care plan including medications and self- management goals were reviewed to the best of the patient's abilities. All questions and concerns were answered. Patient and/or family verbalized understanding of the plan of care.
+Subjective
+Subjective
+Patient ID: Claire U Locher is a 87 y.o, female.
+HPI
+Seen with son.
+Concerned re water retention in her ankles and feet for about a week.
+They tingle.
+She fatigues and has some dyspnea with walking a distance some days.
+Review of Systems
+Cardiovascular: Positive for leg swelling.
+Objective
+Objective
+Vitals:
+BP:
+Pulse:
+Resp:
+Temp:
+Weight:
+Height:
+11/29/18 1350
+112/77
+95
+16
+(!) 65 F (18.3 C)
+70.8 kg (156 lb)
+1.664 m (5' 5.5')
+Physical Exam
+Constitutional:
+Gained 11 lb since visit a year ago
+Neck: No JVD present.
+Cardiovascular: Normal rate, regular rhythm and normal heart sounds. Exam reveals no gallop and no friction rub.
+No murmur heard.
+Pulmonary/Chest: Effort normal and breath sounds normal. She has no wheezes. She has no rales.
+Musculoskeletal: She exhibits edema (trace leg edema on left, none on right).
+Discontinued Medications
+Reason for Discontinue
+Locher, Claire U (MRN 1000115174) Printed by Amber Hickey (19538] at 10/28/19 11:55 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Locher, Claire U (MR # 1000115174) DOB: 05/29/1931 Encounter Date: 11/29/2018
+Reason for Discontinue amLODIPine (NORVASC) 2.5 MG tablet Therapy completed
+Orders placed This Encounter
+Immunization Questions 11/29/2018
+||Influenza|Question 11/29/2018 Have you|Answer Comment NO|
+||High-Dose|ever had a||
+||Inactivated Perservative|serious reaction to||
+||Free|leggs or chicken protein? Have you ever had a serious reaction to any vaccine the past? Are you sick today with moderate to severe acute illness (e.g. T>101.3F)? Verbal or Written|NO in NO a Consent Given|
+|||(Scanned|Into|
+|||Chart)||
+|||Consent||
+|||Obtained||
+|||from||
+|||Patient/Parent||
+|||or Guardian?||
+
+Normal Orders This Visit
+B-type natriuretic peptide [LAB106 Custom]
+Basic Metabolic Panel [LAB15 Custom]
+High Dose Flu Vaccine (65 years and older)
+[IMM90 Custom]
+Medication List Reviewed
+User
+ANGELICA PEREZ, MA [17848]
+Date and Time
+10/8/2019 1:20 PM
+Abnormal
+Results: Basic Metabolic Panel
+Status: Final result (Collected: 11/29/2018 2:15 PM)
+Component
+Glucose
+Value
+83
+Standard Range & Units
+65 - 139 mg/dL
+Non-fasting reference interval
+Locher, Claire U (MRN 1000115174) Printed by Amber Hickey (19538) at 10/28/19 11:55 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Locher , Claire U ( MR # 1000115174 ) DOB : 05/29/1931 Encounter Date : 11/29/2018
+|Component|Value|Standard Range & Units|
+|Blood Urea Nitrogen (BUN)|27|7 25 mg/dL|
+|Creatinine|1.35|0.60 - 0.88 mg/dL|
+
+-
+|For patients >49 years of age, for Creatinine is approximately identified as African-American.|the reference limit 13% higher for people||
+|eGFR Non-African American|35|> OR = 60 mL/min/1.73m2|
+|eGFR African American|41|> OR = 60 mL/min/1.73m2|
+|BUN/Creatinine Ratio|20|6 22 (calc)|
+|Sodium|142|135 - 146 mmol/L|
+|Potassium|4.3|3.5 - 5.3 mmol/L|
+|Chloride|105|98 - 110 mmol/L|
+|CO2|29|20 - 32 mmol/L|
+|Calcium|9.3|8.6 - 10.4 mg/dL|
+
+-
+View Complete Results
+&
+Narrative
+FASTING:NO
+FASTING: NO
+Results: B-type natriuretic peptide
+Abnormal
+Status: Final result (Collected: 11/29/2018 2:15 PM)
+Component
+B-Type Natriuretic Peptide
+Value
+355
+Standard Range & Units
+<100 pg/ml
+BNP levels increase with age in the general population with the highest values seen in individuals greater than 75 years of age.
+Reference: J. Am. coll. Cardiol. 2002; 40:976-982.
+View Complete Results
+I Narrative
+FASTING:NO
+FASTING: NO e Vitals
+BP
+112/77
+Pulse
+95
+Temp
+Resp
+65 F (18.3 C) ! (Oral) 16
+Ht
+1.664 m (5'5.5')
+Wt
+70.8 kg (156 lb)
+BMI
+25.56 kg/m2
+OB Status
+Postmenopausal
+Smoking Status
+Never Smoker
+Locher, Claire U (MRN 1000115174) Printed by Amber Hickey (19538] at 10/28/19 11:55 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Locher, Claire U (MR # 1000115174) DOB: 05/29/1931 Encounter Date: 11/29/2018
+Follow-up and Dispositions
+ Return for wellness visit--AWE--45.
+Follow-up and Disposition History
+All Flowsheet Templates (all
+recorded)
+=
+Custom Formula Data
+Encounter Vitals
+Vital Signs
+Referring Provider
+Jeffrey E Stein, MD
+Level of Service
+Level of Service
+PR ESTABLISHED OFFICE MODERATE 25 MIN [99214]
+All Charges for This Encounter
+|Code|Description|Service Date|Service Provider|Modifiers|Qty|
+|99214|PR ESTABLISHED OFFICE MODERATE 25 MIN|11/29/2018|Jeffrey E Stein, MD|25|1|
+|90662|PR IIV VACCINE PRESERV FREE INCREASED AG COUNT IM|11/29/2018|Jeffrey E Stein, MD||1|
+|G0008|PR ADMIN INFLUENZA VIRUS VAC|11/29/2018|Jeffrey E Stein, MD||1|
+
+Best Practice Advisories
+Click to view Best Practice Advisory history
+4. Allergies as of 11/29/2018
+Reviewed by Jeffrey E Stein, MD on 11/29/2018
+Reaction Type
+Deletion Reason
+Noted
+08/05/2015
+Propafenone
+Reactions
+Other (See
+Comments)
+i Medications at Start of Encounter
+End
+Disp
+Refills
+Start
+aspirin 81 MG tablet (Taking)
+Sig: Aspirin 81 MG Oral Tablet TAKE 1 TABLET DAILY.; Start Date: ; End Date:
+Locher, Claire U (MRN 1000115174) Printed by Amber Hickey (19538) at 10/28/19 11:55 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+|Locher, Claire U (MR # 1000115174) DOB: 05/29/1931 Encounter Date:|11/29/2018|||
+|Disp|Refills|Start|End|
+|Class: Historical Med||||
+|Multiple Vitamin (MULTI VITAMIN PO) (Taking)||||
+|Sig - Route: Take by mouth. - Oral Class: Historical Med||||
+|NAMENDA XR 28 MG Capsule SR 24 hr (Taking) Sig - Route: Take 1 capsule by mouth daily. - Oral Class: Historical Med|5|10/12/2017||
+|rivastigmine (EXELON) 9.5 MG/24HR (Taking) Sig: PLACE 1 PATCH ON SKIN ONCE DAILY Class: Historical Med|5|10/10/2017||
+|amLODIPine (NORVASC) 2.5 MG tablet 30 tablet|11|12/9/2017|11/29/2018|
+|(Taking/Discontinued)||||
+|Sig - Route: TAKE 1 TABLET (2.5 MG TOTAL) BY MOUTH|DAILY. - Oral|||
+|Reason for Discontinue: Therapy completed||||
+|Number of times this order has been||||
+|changed since signing: 1 Order Audit Trail||||
+|gabapentin (NEURONTIN) 100 MG capsule 60 capsule|5|5/2/2016|1/31/2019|
+|(Taking/Discontinued)||||
+|Sig - Route: Take 2 capsules (200 mg total) by mouth nightly Class: No Print|as needed|for pain. - Oral||
+|Notes to Pharmacy: Clarification of Rx just sent.||||
+| riamterene-hydrochlorothiazide 90 tablet|0|9/5/2018|12/5/2018|
+|(MAXZIDE-75) 75-50 MG per tablet||||
+|(Taking/Discontinued)||||
+|Sig - Route: Take 1 tablet by mouth daily. - Oral||||
+|Class: E Prescribe||||
+|Notes to Pharmacy: Pt needs to schedule appt with pcp|for further refills|||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been||||
+
+changed since signing : 1 Order Audit Trail
+Z Medications at End of Encounter
+End
+Disp
+Refills
+Start
+aspirin 81 MG tablet (Taking)
+Sig: Aspirin 81 MG Oral Tablet TAKE 1 TABLET DAILY.; Start Date: ; End Date:
+Class: Historical Med
+Multiple Vitamin (MULTI VITAMIN PO)
+(Taking)
+Sig - Route: Take by mouth. - Oral
+Class: Historical Med
+NAMENDA XR 28 MG Capsule SR 24 hr
+5
+10/12/2017
+(Taking)
+Sig - Route: Take 1 capsule by mouth daily. - Oral
+Class: Historical Med
+rivastigmine (EXELON) 9.5 MG/24HR
+5
+10/10/2017
+(Taking)
+Lopcher, Claire U (MRN 1000115174) Printed by Amber Hickey (19538) at 10/28/19 11:55 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+6/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+|Locher, Claire U (MR # 1000115174) DOB: 05/29/1931 Encounter Date:|11/29/2018|||
+|Disp Sig: PLACE 1 PATCH ON SKIN ONCE DAILY Class: Historical Med|Refills|Start|End|
+|gabapentin (NEURONTIN) 100 MG capsule 60 capsule|5|5/2/2016|1/31/2019|
+|(Taking/Discontinued)||||
+|Sig - Route: Take 2 capsules (200 mg total) by mouth nightly Class: No Print Notes to Pharmacy: Clarification of Rx just sent.|as needed|for pain. - Oral||
+| riamterene-hydrochlorothiazide 90 tablet (MAXZIDE-75) 75-50 MG per tablet|0|9/5/2018|12/5/2018|
+|(Taking/Discontinued)||||
+|Sig - Route: Take 1 tablet by mouth daily. - Oral||||
+|Class: E Prescribe||||
+|Notes to Pharmacy: Pt needs to schedule appt with pcp for|further refills|||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been||||
+
+changed since signing : 1 Order Audit Trail
+Medications the Patient Reported Taking
+aspirin 81 MG tablet (Taking)
+Multiple Vitamin (MULTI VITAMIN PO) (Taking)
+NAMENDA XR 28 MG Capsule SR 24 hr (Taking)
+rivastigmine (EXELON) 9.5 MG/24HR (Taking)
+amLODIPine (NORVASC) 2.5 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+gabapentin (NEURONTIN) 100 MG capsule (Taking/Discontinued)
+triamterene-hydrochlorothiazide (MAXZIDE-75) 75-50 MG per tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+het Immunizations as of 11/29/2018
+Reviewed on 11/29/2018
+|Name Influenza High-Dose Inactivated Perservative Free Site: Right deltoid Given By: Sarah Johnson, LPN|Date 11/29/2018|Dose 0.5 mL|VIS Date 8/7/2015|Route Intramuscular|
+|Influenza Inactivated/Split Preservative Free IM Site: Left deltoid Given By: Christina M Fraley,|10/23/2017 LPN|0.5 mL|8/7/2015|Intramuscular|
+|Influenza Inactivated/Split Preservative Free IM Site: Left deltoid Given By: Sarah Henry, LPN|11/28/2016|0.5 mL|8/7/2015|Intramuscular|
+|Influenza Inactivated/Split Preservative Free IM Site: Left deltoid Given By: Ashly Mooney, LPN|10/15/2015|0.5 mL|8/7/2015|Intramuscular|
+
+Locher , Claire U ( MRN 1000115174 ) Printed by Amber Hickey ( 19538 ] at 10/28/19 11:55 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+7/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+|Lacher, Claire U (MR # 1000115174) DOB:|05/29/1931 Encounter|Date: 11/29/2018|||
+|Name|Date|Dose|VIS Date|Route|
+|Influenza Inactivated/Split Preservative Free IM Comment: Influenza|12/2/2014|--|--|Intramuscular|
+|Influenza, Unspecified Comment: influenza, NOS|-2858118|--|--||
+|Pneumococcal Conjugate 13- Valent Site: Left vastus lateralis Given By: Ashly Mooney, LPN|10/15/2015|0.5 mL|2/27/2013|Intramuscular|
+|Pneumococcal Polysaccharide 23-Valent Comment: pneumococcal|12/3/2013||||
+
+- Problem List
+Date Reviewed: 11/29/2018
+|as of 11/29/2018 Atrial fibrillation (HCC) Overview Signed 8/5/2015 1:14 PM by Jeffrey E Stein, Description : unsuccessful cardioversion X 2|ICD-10-CM Priority 148.91 MD|Class|Noted - Resolved 3/28/2014 - Present|
+|Essential hypertension Relevant Medications triamterene-hydrochlorothiazide (MAXZIDE-75) 75-50 Other Relevant Orders Basic Metabolic Panel (Completed)|I10 MG per tablet||5/23/2014 - Present|
+|Hearing loss|H91.90||7/27/2015 - Present|
+|Other and unspecified hyperlipidemia|E78.5||5/7/2014 - Present|
+|Nontoxic multinodular goiter|E04.2||6/16/2014 - Present|
+|Disorder of bone and cartilage|M89.9, M94.9||7/8/2014 - Present|
+|Overview Signed 8/5/2015 1:14 PM by Jeffrey E Stein, Description : She took alendronate > 10 years.|MD|||
+|Hereditary and idiopathic peripheral neuropathy Overview Signed 8/5/2015 1:14 PM by Jeffrey E Stein, Annotation : Possible|G60.9 MD||7/14/2015 - Present|
+|Peripheral vascular disease (HCC)|173.9||5/7/2014 - Present|
+|Vitamin D deficiency|E55.9||5/7/2014 - Present|
+|Osteoarthritis of right hip|M16.11||12/15/2015 - Present|
+
+.
+Locher, Claire U (MRN 1000115174) Printed by Amber Hickey (19538) at 10/28/19 11:55 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+8/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Locher, Claire U (MR # 1000115174) DOB: 05/29/1931 Encounter Date: 11/29/2018
+||ICD-10-CM|Priority|Class|Noted - Resolved|
+|Monoclonal gammopathy of unknown significance|D47.2|||2/11/2016 - Present|
+|Alzheimer disease|G30.9, F02.80|||5/2/2016 -|
+|Relevant Medications NAMENDA XR 28 MG Capsule SR 24 hr rivastigmine (EXELON) 9.5 MG/24HR||||Present|
+|Actinic keratoses|L57.0|||11/28/2016 - Present|
+
+Surgical History
+|Procedure Laterality EYE SURGERY|Date|Comment Source cataract Provider|
+|PR APPENDECTOMY||Appendectomy: 2014-03-28 13:34:15|
+|PR REMOVE TONSILS/ADENOIDS, <12 Y/O||Tonsillectomy With Adenoidectomy: 2014-05-07 13:14:25|
+|PR REPAIR OF HAMMERTOE,ONE||Hammertoe Operation (Each Toe): 2015-07-14 16:24:39|
+|PR REPAIR OF HAMMERTOE,ONE||Hammertoe Operation (Each Toe): 2015-07-14 16:24:39|
+|PR SINUS SURGERY PROC||Sinus Surgery: 2014-03-28 13:34:15|
+
+UNLISTED
+u Family History
+Age of Onset
+Comments
+cardiac disorder
+Problem
+Relation
+Heart disease
+Sister
+Osteoporosis
+Sister
+No known problems for Daughter, Son.
+No family history of Melanoma.
+9 OB History
+None
+i Social Documentation
+No social documentation on file.
+Pediatric History
+Show all answered pediatric history
+Locher, Claire U (MRN 1000115174) Printed by Amber Hickey (19538) at 10/28/19 11:55 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+9/10
+
+-------------------------------------------
+-------------------------------------------
+10/28/2019
+Locher, Claire U (MR#1000115174) Printed by HICKEY, AMBER (19538]
+Locher, Claire U (MR # 1000115174) DOB: 05/29/1931 Encounter Date: 11/29/2018
+No questionnaires available.
+AVS Reports
+S
+Date/Time
+11/29/2018
+2:13 PM
+Report
+After Visit Summary
+Action
+Printed
+User
+Jeffrey E Stein, MD
+O All Flowsheet Templates (all recorded)
+Custom Formula Data
+Encounter Vitals
+Vital Signs
+Chart Review Routing History
+No encounter routing history is on file
+Locher, Claire U (MRN 1000115174) Printed by Amber Hickey (19538] at 10/28/19 11:55 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+10/10
+
+-------------------------------------------
+-------------------------------------------

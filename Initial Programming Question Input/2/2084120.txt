@@ -1,0 +1,2687 @@
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 09/24/2018
+Medication List Reviewed
+User
+KAITLYN FLYNN, RN [KAIFLYNN]
+Date and Time
+10/1/2019 2:00 PM
+Vitals
+BP
+163/68 !
+Pulse
+80
+Temp
+98.3 F (36.8 C)
+Ht
+1.575 m (5'2')
+Wt
+69.4 kg (153 lb)
+SpO2
+98%
+BMI
+27.98 kg/m2
+OB Status
+Postmenopausal
+Smoking Status
+Never Smoker
+All Flowsheet Templates (all
+recorded)
+=
+ACO Wellness
+Custom Formula Data
+Encounter Vitals
+Referring Provider
+Henry D Todd, MD
+Level of Service
+Level of Service
+PR ESTABLISHED OFFICE MODERATE 25 MIN [99214]
+All Charges for This Encounter
+|Code|Description|Service Date|Service Provider|Modifiers Qty|
+|99214|PR ESTABLISHED OFFICE MODERATE 25 MIN|9/24/2018|Henry D Todd, MD|1|
+||||||
+
+Best Practice Advisories
+Click to view Best Practice Advisory history
+4. Allergies as of 9/24/2018
+Reviewed by Elizabeth A Fragione, MA on 9/24/2018
+Deletion Reason
+Noted
+09/21/2015
+Reaction Type
+Allergy
+Reactions
+Other (See Comments)
+Codeine
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato [3131] at 11/1/19 2:02 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+6/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+|Adamson, Lorraine H (MR #|1001848999) DOB: 01/25/1935|Encounter Date:|09/24/2018|
+|'bouncing off the walls' dizzy|Noted|Reaction Type|Reactions Deletion Reason|
+|Demerol [meperidine] HCI|09/21/2015||GI Intolerance/Nausea/Vomiting|
+|DELETED: Latex Avoid using latex containing|09/21/2015 products||Unknown/Patient and Family Entry Unable to Define miscategorized as an allergy|
+|Morphine|09/21/2015|Allergy|GI Intolerance/Nausea/Vomiting|
+|Paxil [paroxetine] Boils in mouth, lost sense|09/21/2015 of taste||Other (See Comments)|
+|Tramadol|09/21/2015|Allergy|GI ntolerance/Nausea/Vomiting|
+|Tylox [oxycodone- acetaminophen]|09/21/2015||Rash/Dermatitis, GI intolerance/Nausea/Vomiting|
+
+:
+'
+Medications at Start of Encounter
+||Disp|Refills|Start|End|
+|lisinopril (PRINIVIL,ZeSTRIL) 20 MG tablet|90 tablet|1|5/4/2018||
+|(Taking)|||||
+|Sig: take 1 tablet by mouth once daily|||||
+|Class: E Prescribe|||||
+|Notes to Pharmacy: new dose|||||
+|Number of times this order has been changed since signing: 3 Order Audit Trail|||||
+|Multiple Vitamins-Minerals (MULTIVITAMIN|||6/16/2008||
+|& MINERAL PO) (Taking)|||||
+|Sig - Route: Take 1 tablet by mouth daily. -|Oral||||
+|Class: Historical Med|||||
+|Number of times this order has been|||||
+|changed since signing: 3|||||
+|Order Audit Trail|||||
+|Omega 3 1000 MG Cap capsule (Taking)|||||
+|Sig - Route: Take 1,000 mg by mouth 2 (two)|times a day.|Administer|whole. Do not break.|- Oral|
+|Class: Historical Med|||||
+|Number of times this order has been|||||
+|changed since signing: 1|||||
+|Order Audit Trail|||||
+
+pyridoxine ( VITAMIN B - 6 ) 100 MG tablet
+11/8/2011
+(Taking)
+Sig - Route: Take 100 mg by mouth daily. - Oral
+Class: Historical Med
+Number of times this order has been changed since signing: 3
+Order Audit Trail
+senna-docusate (STOOL SOFTENER &
+11/8/2011
+LAXATIVE) 8.6-50 MG (Taking)
+Sig - Route: Take 1 tablet by mouth 2 (two) times a day. - Oral
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato (3131] at 11/1/19 2:02 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+7/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+|Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter|Date: 09/24/2018|||
+|Disp|Refills|Start|End|
+|Class: Historical Med Number of times this order has been changed since signing: 3 Order Audit Trail||||
+|amitriptyline (ELAVIL) 25 MG tablet 90 tablet (Taking/Discontinued) Sig - Route: Take 1 tablet (25 mg total) by mouth nightly. Class: E Prescribe Reason for Discontinue: Reorder Number of times this order has been changed since signing: 2 Order Audit Trail|1 - Oral|6/12/2018|1/2/2019| |aspirin 81 MG tablet (Taking/Discontinued)||11/14/2012|2/8/2019|
+|Sig - Route: Take 81 mg by mouth daily. 0 Refill(s), Type:|Maintenance -|Oral||
+|Class: Historical Med||||
+|Order Audit Trail||||
+|||||
+|1200 PO) (Taking/Discontinued) Sig - Route: Take by mouth. - Oral Class: Historical Med||||
+|Reason for Discontinue: Error||||
+|chlordiazePOXIDE (LIBRIUM) 10 MG capsule 90 capsule|1|5/23/2018|12/10/2018|
+|||||
+|||||
+|||||
+|||||
+|Number of times this order has been||||
+|changed since signing: 1||||
+|||||
+|||||
+|||||
+|Sig: take 2 capsules by mouth three times a day Reason for Discontinue: Reorder Number of order has been||||
+|changed since signing: 1 Order Audit Trail||||
+|||||
+
+|Reason for Discontinue: Discontinued by another clinician Number of times this order has been changed since signing: 3||||
+|||||
+|Calcium Carbonate-Vit D-Min (CALCIUM||11/8/2011|12/26/2018|
+|||||
+|||||
+|||||
+|'Taking/Discontinued)||||
+|Sig: take 1 capsule by mouth once daily||||
+|Class: E Prescribe||||
+|Reason for Discontinue: Reorder||||
+|||||
+|||||
+|Order Audit Trail||||
+|gabapentin (NEURONTIN) 300 MG capsule 540 capsule|3|12/1/2017|12/5/2018|
+|(Taking/Discontinued)||||
+|||||
+|||||
+|times this||||
+|||||
+|gabapentin (NEURONTIN) 600 MG tablet (Taking/Discontinued) Class: Historical Med Reason for Discontinue: Dose adjustment||9/7/2018|11/28/2018|
+|glipiZIDE (GLUCOTROL XL) 5 MG 24 hr 90 tablet|1|4/13/2018|3/5/2019|
+|tablet (Taking/Discontinued)||||
+|Sig: take 1 tablet by mouth every morning AFTER BREAKFAST||||
+|Class: E Prescribe||||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been||||
+|changed since signing: 2||||
+|Order Audit Trail||||
+|Glucosamine 500 MG Cap||6/16/2008|12/26/2018|
+|(Taking/Discontinued)||||
+|Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato [3131]|at 11/1/19|2:02 PM||
+
+]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+8/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+|Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter|Date: 09/24/2018|||
+|Disp|Refills|Start|End|
+|Sig - Route: Take by mouth daily. - Oral||||
+|Class: Historical Med||||
+|Reason for Discontinue: Error||||
+|Number of times this order has been||||
+|changed since signing: 2||||
+|Order Audit Trail||||
+|hydrochlorothiazide (HYDRODIURIL) 25 MG 90 tablet|1|6/12/2018|12/26/2018|
+|tablet (Taking/Discontinued)||||
+|Sig - Route: Take 1 tablet (25 mg total) by mouth every|morning. - Oral|||
+|Class: E Prescribe||||
+|Reason for Discontinue: Stop Taking at Discharge||||
+|Number of times this order has been||||
+|changed since signing: 2||||
+|Order Audit Trail||||
+|lisinopril (PRINIVIL,ZeSTRIL) 10 MG tablet 90 tablet (Taking/Discontinued) Sig - Route: Take 1 tablet (10 mg total) by mouth daily. See Oral Reason for Discontinue: Dose adjustment|3 Instructions,|4/14/2016 Instructions: TAKE|12/5/2018 1 TABLET DAILY -|
+|||||
+|tablet (Taking/Discontinued)||||
+|||||
+
+|||||
+|Multiple Vitamins-Minerals (OCUVITE)||11/8/2011|1/12/2019|
+|||||
+|Sig - Route: Take 1 tablet by mouth daily. - Oral||||
+|Class: Historical Med||||
+|Reason for Discontinue: Stop Taking at Discharge||||
+|Number of times this order has been||||
+|changed since signing: 3||||
+|Order Audit Trail||||
+|nabumetone (RELAFEN) 500 MG tablet 180 tablet|0|3/9/2018|10/22/2018|
+|(Taking/Discontinued)||||
+|Sig: take 1 to 2 tablets by mouth once daily if needed for|pain|||
+|Class: E Prescribe||||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been changed since signing: 1 Order Audit Trail||||
+|prednisoLONE acetate (PRED FORTE) %||1/27/2016|12/26/2018|
+|ophthalmic suspension (Taking/Discontinued) Class: Historical Med||||
+|Reason for Discontinue: Error||||
+|simvastatin (ZOCOR) 80 MG tablet 90 tablet|1|5/12/2016|12/26/2018|
+|(Taking/Discontinued) Sig - Route: Take 1 tablet (80 mg total) by mouth nightly. Reason for Discontinue: Error|- Oral|||
+|VIGAMOX 0.5 % ophthalmic solution||1/27/2016|12/26/2018|
+|(Taking/Discontinued) Class: Historical Med Reason for Discontinue: Error||||
+|simvastatin (ZOCOR) 40 MG tablet 90 tablet|3|5/23/2018|9/24/2018|
+|(Discontinued)||||
+|Sig: take 1 tablet by mouth at bedtime||||
+|Class: E Prescribe||||
+|Reason for Discontinue: Duplicate order||||
+
+1
+Adamson , Lorraine H ( MRN 1001848999 ) Printed by Danielle Ferrato (
+PM
+11/1/19
+2:02
+at
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+9/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Start
+End
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 09/24/2018
+Disp
+Refills
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+Medications at End of Encounter
+||Disp|Refills|Start|End|
+|lisinopril (PRINIVIL,ZeSTRIL) 20 MG tablet|90 tablet|1|5/4/2018||
+|(Taking)|||||
+|Sig: take 1 tablet by mouth once daily|||||
+|Class: E Prescribe|||||
+|Notes to Pharmacy: new dose|||||
+|Number of times this order has been|||||
+|changed since signing: 3|||||
+|Order Audit Trail|||||
+|Multiple Vitamins-Minerals (MULTIVITAMIN|||6/16/2008||
+|& MINERAL PO) (Taking)|||||
+|Sig - Route: Take 1 tablet by mouth daily.|- Oral||||
+|Class: Historical Med|||||
+|Number of times this order has been|||||
+|changed since signing: 3|||||
+|Order Audit Trail|||||
+|Omega 3 1000 MG Cap capsule (Taking)|||||
+|Sig - Route: Take 1,000 mg by mouth 2 (two)|times a day.|Administer|whole. Do not break.|- Oral|
+|Class: Historical Med|||||
+|Number of times this order has been|||||
+|changed since signing: 1|||||
+
+Order Audit Trail pyridoxine ( VITAMIN B - 6 ) 100 MG tablet
+11/8/2011
+(Taking)
+Sig - Route: Take 100 mg by mouth daily. - Oral
+Class: Historical Med
+Number of times this order has been changed since signing: 3
+Order Audit Trail
+senna-docusate (STOOL SOFTENER &
+11/8/2011
+LAXATIVE) 8.6-50 MG (Taking)
+Sig - Route: Take 1 tablet by mouth 2 (two) times a day. - Oral
+iss: Historical Med
+Number of times this order has been changed since signing: 3
+Order Audit Trail amitriptyline (ELAVIL) 25 MG tablet 90 tablet 1
+6/12/2018 1/2/2019
+(Taking/Discontinued)
+Sig - Route: Take 1 tablet (25 mg total) by mouth nightly. - Oral
+Class: E Prescribe
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+aspirin 81 MG tablet (Taking/Discontinued)
+11/14/2012 2/8/2019
+Sig - Route: Take 81 mg by mouth daily. O Refill(s), Type: Maintenance - Oral
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato (3131] at 11/1/19 2:02 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+10/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+|Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date:|09/24/2018|||
+|Disp|Refills|Start|End|
+|Class: Historical Med||||
+|Reason for Discontinue: Discontinued by another clinician||||
+|Number of times this order has been||||
+|changed since signing: 3 Order Audit Trail||||
+|Calcium Carbonate-Vit D-Min (CALCIUM||11/8/2011|12/26/2018|
+|1200 PO) (Taking/Discontinued) Sig - Route: Take by mouth. - Oral Class: Historical Med||||
+|Reason for Discontinue: Error||||
+|chlordiazePOXIDE (LIBRIUM) 10 MG capsule 90 capsule|1|5/23/2018|12/10/2018|
+|(Taking/Discontinued)||||
+|Sig: take 1 capsule by mouth once daily||||
+|Class: E Prescribe||||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been||||
+|changed since signing: 1||||
+|Order Audit Trail||||
+|gabapentin (NEURONTIN) 300 MG capsule 540 capsule|3|12/1/2017|12/5/2018|
+|(Taking/Discontinued) Sig: take 2 capsules by mouth three times a day Reason for Discontinue: Reorder Number of times this order has been||||
+|changed since signing: 1 Order Audit Trail||||
+|gabapentin (NEURONTIN) 600 MG tablet (Taking/Discontinued) Class: Historical Med Reason for Discontinue: Dose adjustment||9/7/2018|11/28/2018|
+|glipiZIDE (GLUCOTROL XL) 5 MG 24 hr 90 tablet|1|4/13/2018|3/5/2019|
+|tablet (Taking/Discontinued)||||
+|Sig: take 1 tablet by mouth every morning AFTER BREAKFAST||||
+|Class: E Prescribe||||
+|Reason for Discontinue: Reorder||||
+|Number of times this order has been changed since signing: 2 Order Audit Trail||||
+|Glucosamine 500 MG Cap||6/16/2008|12/26/2018|
+|(Taking/Discontinued)||||
+|Sig - Route: Take by mouth daily. - Oral||||
+|Class: Historical Med||||
+|Reason for Discontinue: Error||||
+|Number of times this order has been||||
+|changed since signing: 2 Order Audit Trail||||
+|hydrochlorothiazide (HYDRODIURIL) 25 MG 90 tablet|1|6/12/2018|12/26/2018|
+|tablet (Taking/Discontinued)||||
+|Sig - Route: Take 1 tablet (25 mg total) by mouth every|morning. - Oral|||
+|Class: E Prescribe||||
+|Reason for Discontinue: Stop Taking at Discharge||||
+
+:
+Number of times this order has been changed since signing : 2 Order Audit Trail
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato (3131) at 11/1/19 2:02 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+11/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 09/24/2018
+Disp
+Refills
+Start
+End lisinopril ( PRINIVIL , ZESTRIL ) 10 MG tablet
+|(Taking/Discontinued)|||||
+|Sig - Route: Take 1 tablet (10 mg total) by|mouth daily.|See Instructions,|Instructions: TAKE|1 TABLET DAILY -|
+|Oral|||||
+|Reason for Discontinue: Dose adjustment|||||
+|Multiple Vitamins-Minerals (OCUVITE)|||11/8/2011|1/12/2019|
+|tablet (Taking/Discontinued)|||||
+|Sig - Route: Take 1 tablet by mouth daily.|- Oral||||
+|Class: Historical Med|||||
+|Reason for Discontinue: Stop Taking at|Discharge||||
+|Number of times this order has been|||||
+|changed since signing: 3|||||
+|Order Audit Trail|||||
+|nabumetone (RELAFEN) 500 MG tablet|180 tablet|0|3/9/2018|10/22/2018|
+|(Taking/Discontinued)|||||
+|Sig: take 1 to 2 tablets by mouth once daily|if needed for|pain|||
+|Class: E Prescribe|||||
+|Reason for Discontinue: Reorder|||||
+|Number of times this order has been|||||
+|changed since signing: 1 Order Audit Trail|||||
+|prednisoLONE acetate (PRED FORTE) %|||1/27/2016|12/26/2018|
+|ophthalmic suspension|||||
+|(Taking/Discontinued)|||||
+|Class: Historical Med|||||
+|Reason for Discontinue: Error|||||
+|simvastatin (ZOCOR) 80 MG tablet|90 tablet|1|5/12/2016|12/26/2018|
+|(Taking/Discontinued) Sig - Route: Take 1 tablet (80 mg total) by Reason for Discontinue: Error|mouth nightly.|- Oral|||
+|VIGAMOX 0.5 % ophthalmic solution (Taking/Discontinued) Class: Historical Med Reason for Discontinue: Error|||1/27/2016|12/26/2018|
+|ALPRAZolam (XANAX) 0.25 MG tablet|60 tablet|0|9/24/2018|2/8/2019|
+|(Discontinued)|||||
+
+1
+.
+Sig - Route : Take 1 tablet ( 0.25 mg total ) by Class : E Prescribe
+a
+as
+-
+Reason for Discontinue: Reorder
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+Medications the Patient Reported Taking lisinopril (PRINIVIL, ZESTRIL) 20 MG tablet (Taking)
+Number of times this order has been changed since signing: 3
+Order Audit Trail
+Multiple Vitamins-Minerals (MULTIVITAMIN & MINERAL PO) (Taking)
+Number of times this order has been changed since signing: 3
+Order Audit Trail
+Omega 3 1000 MG Cap capsule (Taking)
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato (3131) at 11/1/19 2:02 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+12/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 09/24/2018
+Number of times this order has been changed since signing: 1
+Order Audit Trail pyridoxine (VITAMIN B-6) 100 MG tablet (Taking)
+Number of times this order has been changed since signing: 3
+Order Audit Trail senna-docusate (STOOL SOFTENER & LAXATIVE) 8.6-50 MG (Taking)
+Number of times this order has been changed since signing: 3
+Order Audit Trail
+amitriptyline (ELAVIL) 25 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+aspirin 81 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 3
+Order Audit Trail
+Calcium Carbonate-Vit D-Min (CALCIUM 1200 PO) (Taking/Discontinued) chlordiazePOXIDE (LIBRIUM) 10 MG capsule (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+gabapentin (NEURONTIN) 300 MG capsule (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail
+gabapentin (NEURONTIN) 600 MG tablet (Taking/Discontinued)
+glipiZIDE (GLUCOTROL XL) 5 MG 24 hr tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+Glucosamine 500 MG Cap (Taking/Discontinued)
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+hydrochlorothiazide (HYDRODIURIL) 25 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 2
+Order Audit Trail
+lisinopril (PRINIVIL,ZESTRIL) 10 MG tablet (Taking/Discontinued)
+Multiple Vitamins-Minerals (OCUVITE) tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 3
+Order Audit Trail
+nabumetone (RELAFEN) 500 MG tablet (Taking/Discontinued)
+Number of times this order has been changed since signing: 1
+Order Audit Trail prednisoLONE acetate (PRED FORTE) 1 % ophthalmic suspension (Taking/Discontinued) simvastatin (ZOCOR) 80 MG tablet (Taking/Discontinued)
+VIGAMOX 0.5 % ophthalmic solution (Taking/Discontinued)
+Immunizations as of 9/24/2018
+Never Reviewed
+|Name Influenza Inactivated/Split Preservative Free IM Site: Right deltoid Given By: Mona Huggard, LPN|Date 10/2/2015|Dose 0.5 mL|VIS Date 8/7/2015|Route Intramuscular|
+|Influenza Live Attenuated Intranasal Comment:|12/4/2009|0 mm|--||
+
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato (3131) at 11/1/19 2:02 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+13/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson , Lorraine H ( MR # 1001848999 ) DOB : 01/25/1935 Encounter Date : 09/24/2018
+|Name|Date|Dose|VIS Date|Route|
+|Influenza, Unspecified Site: Right deltoid Comment:|11/14/2012|0 unknown unit|--|Intramuscular|
+|Influenza, Unspecified Site: Right deltoid Comment:|11/8/2011|0.5 mL|--|Intramuscular|
+|Pneumococcal Polysaccharide 23-Valent Comment:|1/1/2010|0 unknown unit|--||
+
+|Problem List as of 9/24/2018 Aortic heart valve narrowing Overview Signed 10/2/2015 10:58 AM by Softdeleted mild|ICD-10-CM Priority 135.0 Roesch|Date Class|Reviewed: 2/2/2016 Noted - Resolved 10/2/2015 - Present|
+|Cancer of colon (HCC) Overview Signed 10/2/2015 7:36 AM by Softdeleted 2007 onset|C18.9 Roesch||2/19/2007 - Present|
+|Breast carcinoma (HCC)|C50.919||12/31/1997 -|
+|Overview Addendum 10/2/2015 7:36 AM by Left, 1998 onset Previous Version|Softdeleted Roesch||Present|
+|Cataract Relevant Medications VIGAMOX 0.5 % ophthalmic solution prednisoLONE acetate (PRED FORTE) 1 %|H26.9 ophthalmic suspension||10/2/2015 - Present|
+|Diabetes (HCC)|E11.9||11/16/2005 -|
+|Relevant Medications gabapentin (NEURONTIN) 300 MG capsule glipiZIDE (GLUCOTROL XL) 5 MG 24 hr tablet|||Present|
+|HLD (hyperlipidemia) Relevant Medications simvastatin (ZOCOR) 80 MG tablet|E78.5||10/2/2015 - Present|
+|BP (high blood pressure) Relevant Medications lisinopril PRINIVIL,ZeSTRIL) 10 MG tablet lisinopril (PRINIVIL,ZeSTRIL) 20 MG tablet hydrochlorothiazide (HYDRODIURIL) 25 MG|I10 tablet||10/2/2015 - Present|
+|Chronic gastritis|K29.50||10/2/2015 - Present|
+|Adamson, Lorraine H (MRN 1001848999) Printed by Danielle|Ferrato [3131] at 11/1/19 2:02 PM|||
+
+02
+(
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+14/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 09/24/2018
+|ICD-10-CM Priority|Class|Noted - Resolved|
+|Carpal tunnel syndrome of left wrist G56.02||10/2/2015 -|
+|Overview Signed 10/2/2015 10:49 AM by Softdeleted Roesch Severe on EMG 12/2013||Present|
+|Mitral regurgitation 134.0 Overview Signed 10/2/2015 10:58 AM by Softdeleted Roesch mild||10/2/2015 - Present|
+|Obesity with alveolar hypoventilation (HCC) E66.2||9/18/2017 - Present|
+
+Surgical History
+|Procedure Laterality|Date|Comment|Source|
+|COLON SURGERY||rt. hemicolectomy 20070219230000|Provider|
+|PR COLONOSCOPY FLX DX||Colonoscopy '11/22/2011 09:48:32 -|Provider|
+|W/COLLJ SPEC WHEN PFRMD||Koch MD||
+|PR EXPLORATION OF SPINAL FUSION||lumbar fusion 20070131230000|Provider|
+|PR MASTECTOMY, PARTIAL||left lumpectomy 19971231230000|Provider|
+|PR NJX DX/THER SBST INTRLMNR Bilateral LMBR/SAC W/IMG GDN|12/11/2017|Procedure: IR Epidural Inject Steroid Lumbar/Sacral w/img; Surgeon: Jeffrey H Takahashi, MD; Location: HOCC CATH LAB; Service: Interventional Radiology|Provider|
+|PR NJX DX/THER SBST INTRLMNR Bilateral LMBR/SAC W/IMG GDN|3/29/2018|Procedure: IR Epidural Inject Steroid Lumbar/Sacral w/img; Surgeon: Lawrence J Briggs, MD; Location: HOCC CATH LAB; Service: Interventional Radiology|Provider|
+|PR OSTEOTOMY LUMB SP,ANT,REMV DISK||lumbar diskectomy 20061231230000|Provider|
+|PR REMOVAL GALLBLADDER||Cholecystectomy; 20080617103317|Provider|
+
+Family History
+Age of Onset
+Comments
+Problem
+Cervical cancer
+Lung cancer
+Relation
+Mother
+Father
+OB History
+D
+Preterm
+AB
+Living
+Gravida
+3
+SAB
+Para
+3
+TAB
+Term
+3
+Ectopic
+Molar
+Multiple
+Live Births
+#
+Date
+GA
+Labor
+Sex
+Outcome
+Term
+Weight
+Anes
+1
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato (3131) at 11/1/19 2:02 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+15/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Weight
+Anes
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 09/24/2018
+# Date
+GA
+Outcome
+Labor Sex
+2
+Term
+3
+Term
+i Social Documentation
+Lives with spouse
+Parentage :3 Idren
+Diet: regular
+Pediatric History
+Show all answered pediatric history
+No questionnaires available.
+9 AVS Reports
+Date/Time Report
+9/24/2018 2:07 AVS - With Med List
+PM
+Action
+Printed
+User
+Jodi Morgillo
+All Flowsheet Templates (all recorded)
+ACO Wellness
+Custom Formula Data
+Encounter Vitals
+Chart Review Routing History
+No encounter routing history is on file
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato [3131] at 11/1/19 2:02 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+16/16
+
+-------------------------------------------
+-------------------------------------------
+10-5-2018 12:44 PM
+Fax Services
+TODD HENRY, 0 1
+9
+One Lake Street
+Cardio - New Britain - Starling Physicians
+New Britain, CT 06052
+(860) 223-0220
+CONFIDENTIAL PATIENT INFORMATION
+The information contained in this facsimile message may be legally privileged and confidential information intended only for the use of the individual or entity name below.
+Date:
+5/10/2018
+Pages:
+1
+To:
+TODD HENRY, (860) 747-5047
+Fax Number:
+From:
+Phone:
+Insel, Jared M (Cardio - New Britain - Starling Physicians)
+(860) 223-0220
+Comment:
+Cardio - New Britain - Starling Physicians: Auto-Fax
+CONFIDENTIALITY NOTE
+This fax is intended solely for the use of the recipient named above and may contain information that is privileged, confidential, and exempt from disclosure under applicable law. If you are not the intended recipient, or the recipient's agent, you are hereby notified that any use, dissemination, distribution, or copying of this fax is strictly prohibited. If you have received this fax in error, please notify us immediately by telephone.
+Then either destroy this fax or return it to us by mail. Thank you.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/5
+
+-------------------------------------------
+-------------------------------------------
+D2
+2014 GRAPHIE
+10-5-2018 12:44 PM
+Fax Services
+TODD HENRY, IAC
+9
+TAC
+WAMI
+VINES
+MARK REGATA
+WORK
+AWAN
+FACILITY.
+NCCREDIT
+ACCREDITA
+Starling
+WA
+CLEARE
+PHYSICIANS
+Department of Cardiology
+Arun Agarwal, MD
+Ellison Berns, MD
+Gilbert Ching, MD Jared Insel, MD Jan Paris, MD Josh Rock, DO
+Joseph Dell'Orfano, MD Wael El-Mallah, MD Neal Lippman, MD
+Morgan Werner, MD
+Aneesh Tolat, MD
+LORRAINE H. ADAMSON
+Date of Birth: 01/25/1935
+Age: 83
+MRN: 232438*72029
+Appointment Date: 05/10/2018
+Appointment Provider: Jared M. Insel M.D.
+OPT - Follow Up
+Patient Care Team
+|Care Team Member|Role|Specialty|Office Number|
+|HENRY TODD|||(860) 747-4377|
+|Jared Insel, MD||Cardiology|(860) 223-0220|
+
+Reason For Visit
+Follow for progressive aortic stenosis for Reason for visit, allergies, medications and vital signs have been recorded by: njones.
+Assessment
+Assessed
+Benign hypertensive heart disease (111.9)
+Diabetes mellitus with proteinuria (E11.29,R80.9)
+Aortic stenosis, severe (135.0)
+HPI
+Patient has long-standing progressive aortic stenosis with a recent echocardiogram. Since the death of her husband she has been somewhat sedentary not doing a lot of activity. She does not want to walk long distances but does get a little short of breath upstairs. She has no symptoms of palpitations or arrhythmia. No dizziness or lightheadedness. No active symptoms of heart failure such as major edema PND orthopnea. No exertional or nonexertional chest pain.
+The most recent echo from 5/3/2018 moderately to severely thickened calcified aortic valve peak gradient 72 mean 41 valve area 1.0 mild aortic insufficiency, mild mitral regurgitation, moderate pulmonary hypertension at 54 mmHg. LVH with preserved ejection fraction.
+There is underlying hypertension, diabetes with proteinuria.
+ROS
+Patient History: Medication list reviewed. Problem list reviewed. Family history reviewed.
+Cardiovascular, no intermittent leg claudication, no edema, no chest pain or discomfort. the heart rate was not fast, the heart rate was not slow. no palpitations, no fainting. no night sweats. not awakening short of breath at night. no cold finger(s). no dyspnea.
+Main Office: 1 Lake Street, New Britain, Connecticut
+Phone: 860-223-0220
+Other Clinical Sites: 1260 Silas Deane Highway, Wethersfield, Connecticut
+209 Main Street, Southington, Connecticut
+www.starlingphysicians.com
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/5
+
+-------------------------------------------
+-------------------------------------------
+10-5-2018 12:44 PM
+Fax Services
+- TODD HENRY, 03
+9
+RE: LORRAINE H. ADAMSON
+DOB: 01/25/1935
+2
+Constitutional: patient was not observed to be obese , no fever. no chills, no recent weight gain, not feeling tired
+(fatigue). not feeling poorly (malaise).
+Respiratory:. no shortness of breath. no cough. no shortness of breath during exertion.
+Gastrointestinal:. no abdominal pain, no vomiting.
+Genitourinary:. no dysuria. no nocturia.
+Neurological:. no fainting. no dizziness.
+Allergies
+Medication
+Codeine Sulfate SOLN
+Paxil
+Talwin SOLN
+TYLOX
+DEMEROL
+morphine
+Toradol
+tramadol
+Past Medical History
+Problems
+Presence of intraocular lens (Z96.1)
+Family History
+Father
+Family history of lung cancer (Z80.1)
+Past Surgical History
+Problems
+History of Cholecystectomy
+History of Left Breast Lumpectomy
+Social History
+Problems
+Never smoked tobacco (278.9)
+Vitals
+STR - Vitals
+||Recorded: 10May2018 11:46AM|Recorded: 10May2018 11:37AM|
+|Systolic|130, RUE|171|
+|Diastolic|60, RUE|69|
+|Height||5ft4i in|
+|Weight||154 lb|
+|BMI Calculated||26.43|
+|BSA Calculated||1.75|
+|Heart Rate||66|
+
+Physical Exam
+Constitutional: Alert, oriented and not in acute distress.
+Neck: Transmitted carotid murmur, but Jugular vein is normal and no carotid bruit.
+Pulmonary: Clear to auscultation bilaterally, no signs of increased work of breathing and no signs of respiratory distress and lungs are clear to auscultation.
+Cardiovascular: an S4 was heard, heart rate bpm, murmur present and Aortic stenosis late peaking 3/6, mitral regurgitation 1-2/6, but normal rate, normal S1, normal S2, no S3, edema not present, jugular venous distention
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/5
+
+-------------------------------------------
+-------------------------------------------
+10-5-2018 12:44 PM
+Fax Services
+> TODD HENRY, 04 e
+RE: LORRAINE H. ADAMSON
+DOB: 01/25/1935
+3
+absent and rhythm regular.
+Abdominal: Normal bowel sounds, soft and not tender.
+Musculoskeletal: Normal movement of all extremities, Inspection/palpation of digits and nails: normal without clubbing or cyanosis, no joint pain, showed no cyanosis and no clubbing.
+Skin: no rash present and no lesions.
+Psychiatric: Not depressed, appropriate affect and insight intact.
+Discussion/Summary
+The patient has significant progressive aortic stenosis which is becoming severe. She is asymptomatic but it leads a very quiet and active lifestyle.. I am concerned and will further evaluate this with a low level stress echocardiogram this summer. We will evaluate her exercise tolerance, her blood pressure response, LV and RV response, and evaluate the peak exercise aortic gradient. Based on these findings we can make recommendations regarding how aggressive to get. She may warrant valve replacement in the near future. The stress evaluation will help determine this.
+No other changes are necessary at this time. The patient will proceed with low level aerobic walking and exercise in the next few weeks to get ready for the stress test
+Medical / Legal: This dictation was performed using voice recognition software, word substitution may have occurred and may have gone unnoticed and uncorrected.
+Please Arrange
+|Date/Time|Provider|Specialty|Site|
+|08/24/2018 10:30 AM|M.D., DO||LAKE ST NEW BRITAIN|
+|08/24/2018 11:00 AM|Insel, Jared, M.D.|Cardiology|LAKE ST NEW BRITAIN|
+|03/25/2019 11:15 AM|Haverly, Karen, M.D.|Obstetrics/Gynecology|EAST ST PLAINVILLE|
+
+,, Schedule:
+Follow up visit with Dr. Insel, in 2 months
+Stress Echo for aortic stenosis
+Please Arrange:
+End of Encounter Meds
+Instruction
+TAKE 1 TABLET AT BEDTIME.
+TAKE 1 TABLET DAILY.
+Medication Name
+Amitriptyline HCI - 25 MG Oral Tablet
+Aspirin Low Dose 81 MG Oral Tablet Delayed
+Release
+ChlordiazePOXIDE HCI - 10 MG Oral Capsule
+FreeStyle Lancets
+TAKE 1 CAPSULE AT BEDTIME AS NEEDED.
+test once daily
+FreeStyle Lite Device
+USE AS DIRECTED.
+FreeStyle Lite Test In Vitro Strip
+TEST ONCE DAILY
+Gabapentin 300 MG Oral Capsule
+GlipiZIDE XL 5 MG Oral Tablet Extended Release TAKE 1 TABLET BY MOUTH EVERY MORNING
+24 Hour
+AFTER BREAKFAST
+HydroCHLOROthiazide 25 MG Oral Tablet TAKE 1 TABLET DAILY.
+Lisinopril 20 MG Oral Tablet
+TAKE 1 TABLET DAILY.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/5
+
+-------------------------------------------
+-------------------------------------------
+10-5-2018 12:44 PM
+Fax Services
+- TODD HENRY, 05 e
+RE: LORRAINE H. ADAMSON
+DOB: 01/25/1935
+4
+Nabumetone 500 MG Oral Tablet
+Simvastatin 40 MG Oral Tablet
+TAKE 1 TABLET AT BEDTIME.
+Signatures
+Electronically signed by: Jared Insel, M.D.; May 10 2018 12:43PM EST
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/5
+
+-------------------------------------------
+-------------------------------------------
+09-5-2018 9:36 AM
+Fax Services
+> HENRY TODD
+0 1
+(
+Cardio - New Britain - Starling Physicians
+One Lake Street
+New Britain, CT 06052
+(860) 223-0220
+CONFIDENTIAL PATIENT INFORMATION
+The information contained in this facsimile message may be legally privileged and confidential information intended only for the use of the individual or entity name below.
+Date:
+5/9/2018
+1
+Pages:
+To:
+HENRY TODD
+Fax Number: (860)747-5047
+From:
+Phone:
+Hungerford, Judith (Cardio - New Britain - Starling Physicians)
+(860) 223-0220
+Comment:
+CONFIDENTIALITY NOTE
+This fax is intended solely for the use of the recipient named above and may contain information that is privileged, confidential, and exempt from disclosure under applicable law. If you are not the intended recipient, or the recipient's agent, you are hereby notified that any use, dissemination, distribution, or copying of this fax is strictly prohibited. If you have received this fax in error, please notify us immediately by telephone. Then either destroy this fax or return it to us by mail. Thank you.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/2
+
+-------------------------------------------
+-------------------------------------------
+09-5-2018 9:36 AM
+Fax Services
+> HENRY TODD
+02
+Starling
+ECHOCARDIOGRAM REPORT
+ICAEL
+bly. 15
+wundled Etawaring my
+the
+be
+Latury
+WHY
+MR#: 232438
+Disk #
+ADAMSON, LORRAINE
+Birthdate: 1/25/1935
+Date Of Service 05/03/2018
+Sonographer: Jhungerford
+Examining MD
+Jared Insel, MD
+Referring MD H. Toda
+ECHO INDICATION AORTIC VALVE DISEASE
+424.1
+Telephone 860-678-7610
+Ht
+W
+BSA
+Blood Press
+Gender
+IVS
+1,5
+LVIDD 5.2
+MEASUREMENTS:
+AO 2.9 20:37)
+LA 4.1 (1.0-4.0)
+RV 1.4
+L2-26)
+16-11)
+16-11)
+(3.7-5.6)
+12.5-3.5.)
+LVPW 1.3
+LVIDS 2.9
+Aortic Root
+The aortic root is normal.
+Aortic Valve
+The aortic valve is moderate- severely thickened and calcified.
+The peak and mean gradients are 72 and 41 mm Hg.by CW doppler.
+Calculated aortic valve area is 1.0 sq. cm. by CW doppler.
+There is mild Al by color flow and CW doppler.
+Left Atrium
+Mitral Valve
+Left atrial volume index = 63.2
+The mitral valve appears structurally normal
+Mild mitral regurgitation is present by color flow doppler.
+Lateral Ele' 16 (426) Medial E/e' 19 (65) EIA
+1.1
+IV Septum
+Normal
+Interatrial Septum Normal.
+Tricuspid Valve
+There is moderate tricuspid regurgitation by
+Estimated PA pressure 54 mmHg assuming RA pressure of 10. TR velocity is 33.2 mes.
+RA_RV
+RA is normali, Normal RV size and function.
+Left Ventricle
+There is moderate concentric LVH with nomal chamber size and systolic function.
+Estimated EF is 60-65%
+Pericardium
+Normal.
+Other
+Conclusion
+Moderate to severe aortic stenosis with mild regurgitation
+Left ventricular hypertrophy with preserved systolic function and diastolic dysfunction
+Mitral valve annular calcification with mild mitral regurgitation
+Moderate left atrial dilatation
+Moderate pulmonary hypertension
+Electronically Signed By:
+Jared Insel, MD
+Date/Time Signed
+5/4/2018 8:01:06 AM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/2
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Results
+Complete Blood Count, with Differential (Order 183171759)
+?
+Complete Blood Count, with Differential
+Order: 183171759
+Status: Final result Visible to patient: Yes (MyChartPLUS) Next appt: Today at 03:00 PM in Primary Care
+(Roger R El-Hachem, MD)
+HHC HH Hartford Hospital Adamson, Lorraine H
+80 Seymour Street MRN: 1001848999, DOB: 1/25/1935, Sex: F
+Hartford CT 06102-8000 Acct #: 11836005378
+Adm: 12/26/2018, D/C: 12/28/2018
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccarelord_detail.asp?from=ResultReview&Ndx=5
+1/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+@
+Newer results are available.
+||Ref Range & Units|10mo ago|
+|White Blood Cell Count|4.0 - 11.0 Thou/uL|7.8|
+|Platelet Count|150 - 450 Thou/uL|207|
+|Hemoglobin|11.7 - 15.7 g/dL|7.2|
+|Hematocrit|35.0 - 47.0 %|24.3|
+|Red Blood Cell Count|4.00 - 5.40 Mil/uL|3.09|
+|MCV|80 - 100 fL|79 Y|
+|MCH|27.0 - 31.0 pg|23.3|
+|MCHC|30.0 - 36.0 g/dL|29.6|
+|RDW|11.5 - 14.5 %|15.6|
+
+V
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccarelord_detail.asp?from=ResultReview&Ndx=5
+2/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018
+MRN: 1001848999
+Adamson, Lorraine H
+Last attending: Nirav Patel, MD Treatment team
+Admission
+12/26/2018 - 12/28/2018 (2 days)
+Status: Discharged
+HHC HH Hartford Hospital
+ED Chart Summary
+ED Chart Summary Report
+Discharge Summary Notes
+Discharge Summary by Lisa A Chaderjian, APRN at 12/28/2018 12:07 PM
+Author: Lisa A Chaderjian, APRN Service: Cardiology
+Author Type: Advanced Practice RN
+Filed: 12/28/2018 3:41 PM
+Date of Service: 12/28/2018 12:07 Status: Signed
+PM
+Editor: Lisa A Chaderjian, APRN (Advanced Practice RN)
+Cosigner: Nirav atel, MD at
+12/28/2018 4:15 PM
+Inpatient Discharge Summary
+HHC HH Hartford Hospital
+Brief Overview
+Patient Demographics
+LORRAINE H ADAMSON
+MRN: 1001848999
+1/25/1935
+83 y.o.
+Reactions
+Other (See Comments)
+Gl Intolerance/Nausea/Vomiting
+Allergies
+Allergen
+Codeine
+'bouncing off the walls'
+dizzy
+Demerol [Meperidine]
+HCI
+Morphine
+Paxil [Paroxetine]
+Boils in mouth, lost sense of taste
+Tramadol
+Tylox (Oxycodone-Acetaminophen]
+.
+Gl Intolerance/Nausea/Vomiting
+Other (See Comments)
+GI Intolerance/Nausea Vomiting
+Rash/Dermatitis and GI
+Intolerance/Nausea/Vomiting
+GI Intolerance/Nausea/Vomiting
+GI Intolerance/Nausea/Vomiting
+GI Intolerance/Nausea/Vomiting
+.
+Levorphanol
+Talwin [Pentazocine]
+Toradol [Ketorolac Tromethamine]
+.
+Admission Date: 12/26/2018
+Admitting Provider: Asma Iftikhar, MD
+Discharge Provider: Nirav Patel, MD
+Primary Care Provider at Discharge: Henry D Todd, MD
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018
+Discharge Date: 12/28/2018
+Primary Discharge
+Diagnosis
+Active Problems:
+Chest pain POA: Yes
+Severe Aortic stenosis
+NSTEMI
+Acute on chronic diastolic heart failure
+Type 2 DM
+Hypertension
+Hyperlipidemia
+Iron deficiency anemia
+Hx of chronic back pain.
+Iron deficiency anemia
+Discharge
+Disposition
+home
+Code Status
+Procedures
+Full code
+DNR rescinded for cardiac cath
+O
+.
+Admission Medications
+amitriptyline (ELAVIL) 25 MG tablet Take 1 tablet (25 mg total) by mouth nightly.
+aspirin 81 MG tablet
+Take 81 mg by mouth daily. O Refill(s), Type:
+Maintenance
+ atorvastatin (LIPITOR) 80 MG tablet Take 1 tablet (80 mg total) by mouth daily.
+Biotin w/ Vitamins C & E (HAIR/SKIN/NAILS Take 1 tablet by mouth daily.
+PO)
+ calcium carbonate-vitamin D 600 mg-400 unit Take 1 tablet by mouth daily.
+tablet
+chlordiazePOXIDE (LIBRIUM) 10 MG TAKE ONE CAPSULE BY MOUTH ONCE
+capsule
+DAILY gabapentin (NEURONTIN) 300 MG capsule Take 2 capsules (600 mg total) by mouth 3
+(three) times a day.
+glucosamine-chondroitin 500-400 MG tablet Take 1 tablet by mouth 2 (two) times a day.
+Heparin Sodium, Porcine, (HEPARIN, Infuse 2.1 mL (2,100 Units total) into a
+PORCINE,) 1000 unit/
+mL injection venous catheter 4 times daily (every 6 hours) as needed (Anti-Xa level LESS than 0.1
+units/mL).
+lisinopril (PRINIVIL,ZESTRIL) 20 MG tablet take 1 tablet by mouth once daily
+metoPROLOL TARTRATE (LOPRESSOR) 25 Take 1 tablet (25 mg total) by mouth every 12
+MG tablet
+(twelve) hours around the clock.
+Multiple Vitamins-Minerals (MULTIVITAMIN & Take 1 tablet by mouth daily.
+MINERAL PO)
+Omega 3 1000 MG Cap capsule
+Take 1,000 mg by mouth 2 (two) times a day.
+Administer whole. Do not break.
+pyridoxine (VITAMIN B-6) 100 MG tablet Take 100 mg by mouth daily.
+senna-docusate (STOOL SOFTENER & Take 1 tablet by mouth 2 (two) times a day.
+LAXATIVE) 8.6-50 MG
+ALPRAZolam (XANAX) 0.25 MG tablet Take 1 tablet (0.25 mg total) by mouth 2 (two)
+Printed by FERRATO, DANIELLE [3131]
+.
+.
+.
+.
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018 times a day as needed for anxiety.
+furosemide (LASIX) 10 mg/mL injection Infuse 2 mL (20 mg total) into a venous catheter daily.
+ glipiZIDE (GLUCOTROL XL) 5 MG 24 hr take 1 tablet by mouth every morning AFTER
+tablet
+BREAKFAST heparin, porcine, 50 units/mL infusion Infuse 853.2 Units/hr into a venous catheter continuous.
+Multiple Vitamins-Minerals (OCUVITE) tablet Take 1 tablet by mouth daily.
+nabumetone (RELAFEN) 500 MG tablet take 1 to 2 tablets by mouth once daily if needed for pain
+.
+Discharge Medications
+New Medications
+ferrous gluconate 324 MG tablet
+Commonly known as: FERGON
+Sig
+Take 1 tablet (324 mg total) by mouth 2
+(two) times a day with breakfast and dinner.
+Take 2 hours before or 4 hours after acid reducers.
+Quantity: 60 tablet
+furosemide 20 MG tablet
+Commonly known as: LASIX
+Replaces: furosemide 10 mg/mL
+injection
+Take 1 tablet (20 mg total) by mouth daily.
+Quantity: 30 tablet
+Medications To Continue
+amitriptyline 25 MG tablet
+Commonly known as: ELAVIL
+Sig
+Take 1 tablet (25 mg total) by mouth nightly.
+Quantity: 90 tablet
+aspirin 81 MG tablet
+Commonly known as: BUFFERIN LOW
+DOSE
+Take 81 mg by mouth daily. 0 Refill(s), Type: Maintenance atorvastatin 80 MG tablet
+Commonly known as: LIPITOR
+Take 1 tablet (80 mg total) by mouth daily.
+Quantity: 30 tablet
+calcium carbonate-vitamin D 600 mg-400 Take 1 tablet by mouth daily.
+unit tablet
+chlordiazePOXIDE 10 MG capsule
+Commonly known as: LIBRIUM
+TAKE ONE CAPSULE BY MOUTH ONCE
+DAILY
+Quantity: 90 capsule
+gabapentin 300 MG capsule
+Commonly known as: NEURONTIN
+Take 2 capsules (600 mg total) by mouth 3
+(three) times a day.
+Quantity: 540 capsule
+glipiZIDE 5 MG 24 hr tablet
+Commonly known as: GLUCOTROL XL take 1 tablet by mouth every morning
+AFTER BREAKFAST
+Quantity: 90 tablet
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018
+Sig
+glucosamine-chondroitin 500-400 MG Take 1 tablet by mouth 2 (two) times a day.
+tablet
+HAIR/SKIN/NAILS PO
+Take 1 tablet by mouth daily.
+lisinopril 20 MG tablet
+take 1 tablet by mouth once daily
+Commonly known as: PRINIVIL,ZESTRIL Quantity: 90 tablet
+metoPROLOL TARTRATE 25 MG tablet
+Commonly known as: LOPRESSOR
+Take 1 tablet (25 mg total) by mouth every
+12 (twelve) hours around the clock.
+Quantity: 60 tablet
+* MULTIVITAMIN & MINERAL PO
+Take 1 tablet by mouth daily.
+* multivitamin with minerals tablet
+Take 1 tablet by mouth daily.
+Omega 3 1000 MG Caps capsule
+Take 1,000 mg by mouth 2 (two) times a day. Administer whole. Do not break.
+Take 100 mg by mouth daily.
+pyridoxine 100 MG tablet
+Commonly known as: VITAMIN B-6
+STOOL SOFTENER & LAXATIVE 8.6-50 Take 1 tablet by mouth 2 (two) times a day.
+MG
+Generic drug: senna-docusate
+* There are duplicate medications prescribed to the patient
+#
+Stopped Medications
+furosemide 10 mg/mL injection
+Commonly known as: LASIX
+Replaced by: furosemide 20 MG tablet
+heparin (porcine) 1000 unit/mL injection
+heparin (porcine) 50 units/mL infusion
+nabumetone 500 MG tablet
+Commonly known as: RELAFEN
+Unreviewed Medications
+ALPRAZolam 0.25 MG tablet
+Commonly known as: XANAX
+Sig
+Take 1 tablet (0.25 mg total) by mouth 2
+(two) times a day as needed for anxiety.
+Quantity: 60 tablet
+Discharge
+Orders
+Complete Blood Count, with Differential
+Prin
+31]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999)
+Standing Status:
+Future
+late: 12/26/2018
+Standing Exp. Date:
+12/28/19
+Alternate periods of rest with activity.
+Increase activity as tolerated
+No restrictions
+DISCHARGE DIET
+|Diet|Restricted Diet||
+|Diet Restrictions|Diabetic||
+|Diet Restrictions|Low Sodium||
+|Diet Restrictions|Low Fat||
+|Calorie/Carb Restriction|Carb Counting 60g/meal 1600-||
+||1900kcal||
+
+Call your doctor for: Shortness of breath
+Call your doctor for: The same symptoms that brought you to the hospital
+Future Appointments
+Date
+Time
+6/5/2019
+1:00 PM
+Provider
+Henry D Todd, MD
+Department
+MG PC PLNVL
+Center
+HHCMG Cent
+Follow-up
+Providers
+Jared M Insel, MD
+One Lake St
+New Britain CT 06050
+860-223-0220
+Follow up call for an appointment with any questions or concerns
+Henry D Todd, MD
+201 North Mountain Road
+Ste 203
+Plainville CT 06062
+860-229-0100
+Follow up call for an appointment with any other health concerns
+Kerry E McGuire, APRN
+80 Seymour St.
+Hartford CT 06102
+860-972-2975
+Follow up
+Call wtih any questions or concerns regarding your TAVR procedure
+Active Issues Requiring Follow-up
+Follow up on CBC scheduled for 1/9/19
+Details of Hospital Stay
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018
+Presenting Problem/History of Present Illness
+Acute SOB and chest pain
+Hospital Course
+Lorraine Adamson is a pleasant 83 year old female whose primary cardiologist is Dr. Insel. Patient has a past medical history of aortic stenosis, type 2 diabetes, hypertension, dyslipidemia, iron deficiency anemia and chronic back pain. She presented to an outside hospital with complaints of shortness of breath x 2 days. On the day of admission she awoke around midnight with acute shortness of breath and chest pain. EMS was called and she was found to be severely hypoxic with an O2 SAT of 70%. She was placed on CPAP support and transferred to the OSH. In the ER, she was treated with IV lasix and her troponin was initially normal. She was transferred to Hartford
+Hospital for evaluation of aortic stenosis for question of TAVR, CHF management, and cath for NSTEMI/potential TAVR. Upon admission to Hartford Hospital, her troponin was elevated to 1.9.
+She was initiated on a heparin drip. Patient was admitted to the Cardiology Hospitalist service and Dr. Mansoor was consulted.
+Upon arrival, she was kept NPO and arrangements were made for a cardiac catheterization. Prior to transfer to Hartford, the patient had an Echocardiogram.The echo noted that her global left ventricular systolic function was normal. The estimated left ventricular ejection fraction was 60-65%.
+Mild eccentric left ventricular hypertrophy was present. Left ventricular cavity size iwas normal. Grade Il diastolic dysfunction was demonstrated. Her right ventricular size and systolic function were
+Normal and moderate aortic insufficiency was seen. She demonstrated a calcified aortic valve with severe aortic stenosis. The peak velocity measured through the aortic valve was4.97m/sec, with a mean gradient of 63.5mmHg
+Patient continued to be followed by the structural heart team and was cleared for discharge after she completed the CTA of the chest/abdomen/and pelvis. It was noted during her admission that she was anemic. Her H&H on admission was 8.8&28.9 and dropped to 7.2 & 24.3. She has a history of iron deficiency anemia which required prior RBC transfusion several years ago. Iron studies were repeated during this admission and her iron was low at 21, iron SAT of 7 and her
+Ferritin level as low at 22. A stool sample was obtained by digital examination at the bed side and was heme negative. As a result, the decision was made to initiate BID iron therapy and an outpatient Referral to Quest lab was generated for a CBC to be obtained on January 9th.
+Mrs. Adamson is stable for discharge to home. She is hemodynamically stable, tolerating po and ambulating ad lib. 10 point review of systems is negative. She will be contacted by the Structural
+Heart Team when to return for her TAVR. In the interim, she has been advised to contact Dr. Insel or her PCP with any other questions or concerns.
+Consults : Cardiology . Structural Heart Team Procedures : Surgical / Procedural Cases on this Admission
+|Case IDs|Date|Procedure|Surgeon|Location|Status|
+|397050|12/27/18|CC CORONARY ANGIO W/LV+LT/RT CATH|Jeffrey A Hirst, MD|HH CATH LAB|Comp|
+
+Physical Exam at Discharge
+Discharge Condition: stable
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+6/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018
+Last Vitals:
+Pulse:70, Resp: 16,BP:(!) 136/58, SpO2:96 %,Weight: 69.6 kg (153 lb 8 oz)
+Temp Last 24 hrs: Temp Min: 96.1 F (35.6 C) Max: 98.2 F (36.8 C)
+General appearance: alert, appears stated age and cooperative
+Neck: no adenopathy, no carotid bruit, no JVD, supple, symmetrical, trachea midline and thyroid not enlarged, symmetric, no tenderness/mass/nodules
+Lungs: clear to auscultation bilaterally
+Heart: S1, S2 normal and III:VI AS
+Abdomen: soft, non-tender; bowel sounds normal; no masses, no organomegaly
+Extremities: extremities normal, atraumatic, no cyanosis or edema
+Pulses: 2+ and symmetric
+Neurologic: Grossly normal
+Time spent teaching and coordinating discharge: 60 minutes
+Lisa A Chaderjian, APRN
+12/28/2018
+3:41 PM
+Electronically signed by Lisa A Chaderjian, APRN at 12/28/2018 3:41 PM
+Electronically signed by Nirav Patel, MD at 12/28/2018 4:15 PM
+Encounter Notes
+All notes
+Discharge Summary
+Lisa A Chaderjian, APRN
+Cardiology 12/28/2018
+H&P
+Asma Iftikhar, MD
+Cardiology 12/26/2018
+Consults
+Christopher R Panetta, PA
+Cardiothoracic Surgery 
+12/28/2018
+Bryan J Piccirillo, MD
+Cardiac Cath 12/28/2018
+Kerry E McGuire, APRN
+Cardiac Cath 12/27/2018
+Mohamed R Mansoor, MD
+Cardiology 12/27/2018
+Stacey A Matan, LCSW
+Social Work 12/27/2018
+Additional Orders and Documentation
+Meds
+Results
+Imaging
+Orders
+Procedures
+Flowsheets
+Encounter Info: History, Allergies, Education, Care Plan, Detailed Report
+Communications
+Summary of care document sent to Jared M Insel, MD
+Sent 12/28/2018 by Nirav Patel, MD
+Media
+Electronic signature on 12/26/2018 8:56 PM - Signed
+Electronic signature on 12/26/2018 8:54 PM Signed
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+7/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018
+Scan on 12/26/2018
+Scan on 12/26/2018: TAVR CONSENT 12/26/2018
+Scan on 12/26/2018: OPEN HEART SURGERY CONSENT 12/28/2018
+Scan on 12/26/2018
+Scan on 12/26/2018: HOCC TRANSFER FORM
+Scan on 12/26/2018: CARDIAC CATHETERIZATION
+Scan on 12/26/2018
+Scan on 12/26/2018
+Scan on 12/26/2018
+Discharge Summary
+Lisa A Chaderjian, APRN (Advanced Practice RN) Cardiology
+Cosigned by: Nirav Patel, MD at 12/28/2018 4:15 PM
+Inpatient Discharge Summary
+HHC HH Hartford Hospital
+Brief Overview
+Reactions
+Other (See Comments)
+Patient Demographics
+LORRAINE H ADAMSON
+MRN: 1001848999
+1/25/1935
+83 y.o.
+Allergies
+Allergen
+Codeine
+'bouncing off the walls'
+dizzy
+Demerol [Meperidine]
+HCI
+Morphine
+Paxil [Paroxetine]
+Boils in mouth, lost sense of taste
+Tramadol
+Tylox [Oxycodone-Acetaminophen]
+.
+GI Intolerance/Nausea/Vomiting
+GI Intolerance/Nausea/Vomiting
+Other (See Comments)
+.
+O
+.
+GI Intolerance/Nausea/Vomiting
+Rash/Dermatitis and GI
+Intolerance/Nausea/Vomiting
+Gl Intolerance/Nausea/Vomiting
+GI Intolerance/Nausea/Vomiting
+GI Intolerance/Nausea/Vomiting
+.
+Levorphanol
+Talwin [Pentazocine]
+Toradol [Ketorolac Tromethamine]
+Admission Date: 12/26/2018
+Admitting Provider: Asma Iftikhar, MD
+Discharge Provider: Nirav Patel, MD
+Primary Care Provider at Discharge: Henry D Todd, MD
+Discharge Date: 12/28/2018
+Primary Discharge
+Diagnosis
+Active Problems:
+Chest pain POA: Yes
+Severe Aortic stenosis
+NSTEMI
+Acute on chronic diastolic heart failure
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+8/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018
+Type 2 DM
+Hypertension
+Hyperlipidemia
+Iron deficiency anemia
+Hx of chronic back pain.
+Iron deficiency anemia
+Discharge
+Disposition
+home
+Code Status
+Procedures
+Full code
+DNR rescinded for cardiac cath
+.
+Admission Medications
+amitriptyline (ELAVIL) 25 MG tablet
+Take 1 tablet (25 mg total) by mouth nightly.
+aspirin 81 MG tablet
+Take 81 mg by mouth daily. O Refill(s), Type:
+Maintenance atorvastatin (LIPITOR) 80 MG tablet Take 1 tablet (80 mg total) by mouth daily.
+Biotin w/ Vitamins C & E (HAIR/SKIN/NAILS Take 1 tablet by mouth daily.
+PO)
+ calcium carbonate-vitamin D 600 mg-400 unit Take 1 tablet by mouth daily.
+tablet
+ chlordiazePOXIDE (LIBRIUM) 10 MG TAKE ONE CAPSULE BY MOUTH ONCE
+capsule
+DAILY
+ gabapentin (NEURONTIN) 300 MG capsule Take 2 capsules (600 mg total) by mouth 3
+(three) times a day.
+glucosamine-chondroitin 500-400 MG tablet Take 1 tablet by mouth 2 (two) times a day.
+Heparin Sodium, Porcine, (HEPARIN, Infuse 2.1 mL (2,100 Units total) into a
+PORCINE,) 1000 unit/mL injection venous catheter 4 times daily (every 6 hours) as needed (Anti-Xa level LESS than 0.1
+units/mL).
+lisinopril (PRINIVIL,ZESTRIL) 20 MG tablet take 1 tablet by mouth once daily
+ metoPROLOL TARTRATE (LOPRESSOR) 25 Take 1 tablet (25 mg total) by mouth every 12
+MG tablet
+(twelve) hours around the clock.
+Multiple Vitamins-Minerals (MULTIVITAMIN & Take 1 tablet by mouth daily.
+MINERAL PO)
+Omega 3 1000 MG Cap capsule
+Take 1,000 mg by mouth 2 (two) times a day.
+Administer whole. Do not break.
+pyridoxine (VITAMIN B-6) 100 MG tablet Take 100 mg by mouth daily.
+ senna-docusate (STOOL SOFTENER & Take 1 tablet by mouth 2 (two) times a day.
+LAXATIVE) 8.6-50 MG
+ALPRAZolam (XANAX) 0.25 MG tablet Take 1 tablet (0.25 mg total) by mouth 2 (two) times a day as needed for anxiety.
+furosemide (LASIX) 10 mg/ml injection Infuse 2 mL (20 mg total) into a venous catheter daily.
+ glipiZIDE (GLUCOTROL XL) 5 MG 24 hr take 1 tablet by mouth every morning AFTER
+tablet
+BREAKFAST heparin, porcine, 50 units/mL infusion Infuse 853.2 Units/hr into a venous catheter continuous.
+Multiple Vitamins-Minerals (OCUVITE) tablet Take 1 tablet by mouth daily.
+nabumetone (RELAFEN) 500 MG tablet take 1 to 2 tablets by mouth once daily if
+.
+O
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+9/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018 needed for pain
+Discharge Medications
+New Medications
+ferrous gluconate 324 MG tablet
+Commonly known as: FERGON
+Sig
+Take 1 tablet (324 mg total) by mouth 2
+(two) times a day with breakfast and dinner.
+Take 2 hours before or 4 hours after acid reducers.
+Quantity: 60 tablet
+furosemide 20 MG tablet
+Commonly known as: LASIX
+Replaces: furosemide 10 mg/ml
+injection
+Take 1 tablet (20 mg total) by mouth daily.
+Quantity: 30 tablet
+Medications To Continue
+amitriptyline 25 MG tablet
+Commonly known as: ELAVIL
+Sig
+Take 1 tablet (25 mg total) by mouth nightly.
+Quantity: 90 tablet
+aspirin 81 MG tablet
+Commonly known as: BUFFERIN LOW
+DOSE
+Take 81 mg by mouth daily. O Refill(s), Type: Maintenance atorvastatin 80 MG tablet
+Commonly known as: LIPITOR
+Take 1 tablet (80 mg total) by mouth daily.
+Quantity: 30 tablet
+calcium carbonate-vitamin D 600 mg-400 Take 1 tablet by mouth daily.
+unit tablet
+chlordiazePOXIDE 10 MG capsule
+Commonly known as: LIBRIUM
+TAKE ONE CAPSULE BY MOUTH ONCE
+DAILY
+Quantity: 90 capsule
+gabapentin 300 MG capsule
+Commonly known as: NEURONTIN
+Take 2 capsules (600 mg total) by mouth 3
+(three) times a day.
+Quantity: 540 capsule
+glipiZIDE 5 MG 24 hr tablet
+Commonly known as: GLUCOTROL XL take 1 tablet by mouth every morning
+AFTER BREAKFAST
+Quantity: 90 tablet
+glucosamine-chondroitin 500-400 MG
+tablet
+Take 1 tablet by mouth 2 (two) times a day.
+HAIR/SKIN/NAILS PO
+Take 1 tablet by mouth daily.
+lisinopril 20 MG tablet
+take 1 tablet by mouth once daily
+Commonly known as: PRINIVIL,ZESTRIL Quantity: 90 tablet
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+10/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018
+Sig
+metoPROLOL TARTRATE 25 MG tablet Take 1 tablet (25 mg total) by mouth every
+Commonly known as: LOPRESSOR 12 (twelve) hours around the clock.
+Quantity: 60 tablet
+* MULTIVITAMIN & MINERAL PO
+Take 1 tablet by mouth daily.
+*
+multivitamin with minerals tablet
+Take 1 tablet by mouth daily.
+Omega 3 1000 MG Caps capsule
+Take 1,000 mg by mouth 2 (two) times a day. Administer whole. Do not break.
+Take 100 mg by mouth daily.
+pyridoxine 100 MG tablet
+Commonly known as: VITAMIN B-6
+STOOL SOFTENER & LAXATIVE 8.6-50 Take 1 tablet by mouth 2 (two) times a day.
+MG
+Generic drug: senna-docusate
+!!
+There are duplicate medications prescribed to the patient
+*
+Stopped Medications
+furosemide 10 mg/mL injection
+Commonly known as: LASIX
+Replaced by: furosemide 20 MG tablet
+heparin (porcine) 1000 unit/mL injection
+heparin (porcine) 50 units/mL infusion
+nabumetone 500 MG tablet
+Commonly known as: RELAFEN
+Unreviewed Medications
+ALPRAZolam 0.25 MG tablet
+Commonly known as: XANAX
+Sig
+Take 1 tablet (0.25 mg total) by mouth 2
+(two) times a day as needed for anxiety.
+Quantity: 60 tablet
+Discharge
+Orders
+Complete Blood Count, with Differential
+Standing Status:
+Future
+Standing Exp. Date:
+12/28/19
+Alternate periods of rest with activity.
+Increase activity as tolerated
+No restrictions
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+11/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018
+DISCHARGE DIET
+Diet
+Diet Restrictions
+Diet Restrictions
+Diet Restrictions
+Calorie/Carb Restriction
+Restricted Diet
+Diabetic
+Low Sodium
+Low Fat
+Carb Counting 60g/meal 1600-
+1900kcal
+Call your doctor for: Shortness of breath
+Call your doctor for: The same symptoms that brought you to the hospital
+Future Appointments
+Date
+Time
+6/5/2019
+1:00 PM
+Provider
+Henry D Todd, MD
+Department
+MG PC PLNVL
+Center
+HHCMG Cent
+Follow-up Providers
+Jared M Insel, MD
+One Lake St
+New Britain CT 06050
+860-223-0220
+Follow up call for an appointment with any questions or concerns
+Henry D Todd, MD
+201 North Mountain Road
+Ste 203
+Plainville CT 06062
+860-229-0100
+Follow up call for an appointment with any other health concerns
+Kerry E McGuire, APRN
+80 Seymour St.
+Hartford CT 06102
+860-972-2975
+Follow up
+Call wtih any questions or concerns regarding your TAVR procedure
+Active Issues Requiring Follow-up
+Follow up on CBC scheduled for 1/9/19
+Details of Hospital Stay
+Presenting Problem/History of Present Illness
+Acute SOB and chest pain
+Hospital Course
+Lorraine Adamson is a pleasant 83 year old female whose primary cardiologist is Dr. Insel. Patient has a past medical history of aortic stenosis, type 2 diabetes, hypertension, dyslipidemia, iron deficiency anemia and chronic back pain. She presented to an outside hospital with complaints of shortness of Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+12/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018 breath x 2 days. On the day of admission she awoke around midnight with acute shortness of breath and chest pain, EMS was called and she was found to be severely hypoxic with an O2 SAT of 70%.
+She was placed on CPAP support and transferred to the OSH. In the ER, she was treated with IV lasix and her troponin was initially normal. She was transferred to Hartford Hospital for evaluation of aortic stenosis for question of TAVR, CHF management, and cath for NSTEMI/potential TAVR. Upon admission to Hartford Hospital, her troponin was elevated to 1.9. She was initiated on a heparin drip.
+Patient was admitted to the Cardiology Hospitalist service and Dr. Mansoor was consulted.
+Upon arrival, she was kept NPO and arrangements were made for a cardiac catheterization. Prior to transfer to Hartford, the patient had an Echocardiogram.The echo noted that her global left ventricular systolic function was normal. The estimated left ventricular ejection fraction was 60-65%.
+Mild eccentric left ventricular hypertrophy was present. Left ventricular cavity size iwas normal. Grade Il diastolic dysfunction was demonstrated. Her right ventricular size and systolic function were
+Normal and moderate aortic insufficiency was seen. She demonstrated a calcified aortic valve with severe aortic stenosis. The peak velocity measured through the aortic valve was4.97m/sec, with a mean gradient of 63.5mmHg
+Patient continued to be followed by the structural heart team and was cleared for discharge after she completed the CTA of the chest/abdomen/and pelvis. It was noted during her admission that she was anemic. Her H&H on admission was 8.8&28.9 and dropped to 7.2 & 24.3. She has a history of iron deficiency anemia which required prior RBC transfusion several years ago. Iron studies were repeated during this admission and her iron was low at 21, iron SAT of 7 and her Ferritin level as low at 22. A stool sample was obtained by digital examination at the bed side and was heme negative. As a result, the decision was made to initiate BID iron therapy and an outpatient Referral to Quest lab was generated for a CBC to be obtained on January 9th.
+Mrs. Adamson is stable for discharge to home. She is hemodynamically stable, tolerating po and ambulating ad lib. 10 point review of systems is negative. She will be contacted by the Structural
+Heart Team when to return for her TAVR. In the interim, she has been advised to contact Dr. Insel or her PCP with any other questions or concerns.
+Consults: Cardiology. Structural Heart Team
+Procedures:
+Surgical/Procedural Cases on this Admission
+Case IDs Date Procedure
+Surgeon
+397050 12/27/18 CC CORONARY ANGIO Jeffrey A Hirst, MD
+W/LV+LT/RT CATH
+Location
+HH CATH LAB
+Status
+Comp
+Physical Exam at Discharge
+Discharge Condition: stable
+Last Vitals:
+Pulse:70, Resp:16, BP:(!) 136/58, SpO2:96 %,Weight: 69.6 kg (153 lb 8 oz)
+Temp Last 24 hrs: Temp Min: 96.1 F (35.6 C) Max: 98.2 F (36.8 C)
+General appearance: alert, appears stated age and cooperative
+Neck: no adenopathy, no carotid bruit, no JVD, supple, symmetrical, trachea midline and thyroid not enlarged, symmetric, no tenderness/mass/nodules
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+13/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018
+Lungs: clear to auscultation bilaterally
+Heart: S1, S2 normal and III:VI AS
+Abdomen: soft, non-tender; bowel sounds normal; no masses, no organomegaly
+Extremities: extremities normal, atraumatic, no cyanosis or edema
+Pulses: 2+ and symmetric
+Neurologic: Grossly normal
+Time spent teaching and coordinating discharge: 60 minutes
+Lisa A Chaderjian, APRN
+12/28/2018
+3:41 PM
+Other Notes
+All notes
+H&P
+Asma Iftikhar, MD Cardiology 12/26/2018
+Consults
+Christopher R Panetta, PA Cardiothoracic Surgery
+ 12/28/2018
+Bryan J Piccirillo, MD Cardiac Cath 12/28/2018
+Kerry E McGuire, APRN Cardiac Cath 
+12/27/2018
+Mohamed R Mansoor, MD Cardiology 
+12/27/2018
+Stacey A Matan, LCSW Social Work 12/27/2018
+Hospital Problem List
+Chest pain
+Care Timeline
+12/26 Admitted 1932
+12/27 CC CORONARY ANGIO W/LV+LT/RT CATH
+12/28Q Discharged 1721
+Discharge
+Home or Self Care
+After Visit Summary-AVS (Printed 12/28/2018)
+Follow-Ups
+ Follow up with Jared M Insel, MD (Cardiovascular Disease); call for an appointment with any questions or concerns
+ Follow up with Henry D Todd, MD (Medicine Hospitalist); call for an appointment with any other health concerns
+ Follow up with Kerry E McGuire, APRN (Cardiovascular Disease); Call wtih any questions or concerns regarding your TAVR procedure
+Discharge Orders
+Complete Blood Count, with Differential
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+14/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 12/26/2018
+Medication List at Discharge
+ALPRAZolam 0.25 mg Oral 2 times daily PRN
+Amitriptyline HCl 25 mg Oral Nightly
+it
+Aspirin 81 mg Oral Daily, 0 Refill(s), Type: Maintenance
+Atorvastatin Calcium 80 mg Oral Daily
+Calcium Carbonate-Vitamin D 600 mg-400 unit 1 tablet Oral Daily
+chlordiazePOXIDE HCI 10 MG TAKE ONE CAPSULE BY MOUTH ONCE DAILY
+Ferrous Gluconate 324 mg Oral 2 times daily with breakfast and dinner, Take 2 hours before or 4 hours after acid reducers.
+Furosemide 20 mg Oral Daily
+Gabapentin 600 mg Oral 3 times daily
+glipiZIDE 5 MG take 1 tablet by mouth every morning AFTER BREAKFAST
+Glucosamine-Chondroitin 500-400 MG 1 tablet Oral 2 times daily
+Lisinopril 20 MG take 1 tablet by mouth once daily
+Metoprolol Tartrate 25 mg Oral Every 12 hours scheduled
+Multiple Vitamins-Minerals
+1 tablet Oral Daily
+1 tablet Oral Daily
+Multiple Vitamins-Minerals, Biotin w/ Vitamins C &... 1 tablet Oral Daily
+Omega-3 Fatty Acids 1,000 mg Oral 2 times daily, Administer whole. Do not break.
+Pyridoxine HCl 100 mg Oral Daily
+Sennosides-Docusate Sodium 8.6-50 MG 1 tablet Oral 2 times daily
+Printed by Danielle F at 11/1/2019 2:01 PM
+Printed by FERRATO, DANIELLE [3131]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+15/15
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 09/24/2018
+9/24/2018 1:00 PM Office Visit
+MRN: 1001848999
+Lorraine H Adamson
+Description: Female DOB: 1/25/1935 Provider: Henry D Todd, MD
+Department: Hartford Health Care Medical Group Plainville
+Diagnoses
+8
+Reason for Visit
+id
+Follow-up
+Reason for Visit History
+Anxiety - Primary
+Codes: F41.9
+Obesity with alveolar hypoventilation, unspecified
+classification, unspecified whether serious comorbidity
+present (HCC)
+Codes: E66.2
+Type 2 diabetes mellitus with complication, without long-term current use of insulin (HCC)
+Codes: E11.8
+Essential hypertension
+Codes: 110
+Mixed hyperlipidemia
+Codes: E78.2
+Progress Notes
+Progress Notes by Henry D Todd, MD at 9/24/2018 1:50 PM
+Author: Henry D Todd, MD Author Type: Physician
+Note Status: Signed
+Cosign: Cosign Not Required
+Filed:
+Encounter
+Date:
+9/24/2018 3:39 PM
+9/24/2018
+Editor: Henry D Todd, MD (Physician)
+2
+Hartford
+Health Care
+Connect to healthier.
+Plainville Practice
+201 North Mountain Road
+Suite 203
+Plainville, Ct. 06062
+Tel: ( 860) 827.4199
+Fax: (860) 225.2647
+Chief Con aint:
+Chief Complaint
+Patient presents with Follow-up
+O
+HPI:
+Lorraine H Adamson is a 83 y.o, female here forfu
+Chronic back pain-currently controlled
+HTN-blood pressure has been elevated. Under a great deal of stress with her sons at home
+DM-says sugars have been controlled
+HLD-compliant with statin. Denies myalgias
+Obesity-weight is about the same
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato (3131] at 11/1/19 2:02 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 09/24/2018
+Review of Systems
+Constitutional: Negative.
+HENT: Negative.
+Eyes: Negative.
+Respiratory: Negative.
+Cardiovascular: Negative.
+Gastrointestinal: Negative.
+Musculoskeletal: Negative.
+Skin: Negative.
+Neurological: Negative.
+Psychiatric/Behavioral: Negative.
+Date
+History.
+Past Medical History:
+Diagnosis
+DM (diabetes mellitus screen)
+ HLD (hyperlipidemia)
+Hypertension
+0
+Laterality
+Date
+Past Surgical History:
+Procedure
+COLON SURGERY
+rt. hemicolectomy 20070219230000
+PR COLONOSCOPY FLX DX W/COLLJ SPEC WHEN
+PERMD
+Colonoscopy '11/22/2011 09:48:32 - Koch MD
+PR EXPLORATION OF SPINAL FUSION
+lumbar fusion 20070131230000
+PR MASTECTOMY, PARTIAL
+left lumpectomy 19971231230000
+PR OSTEOTOMY LUMB SP,ANT,REMV DISK
+lumbar diskectomy 20061231230000
+PR REMOVAL GALLBLADDER
+Cholecystectomy; 20080617103317
+.
+Social History
+.
+.
+.
+Socioeconomic History
+ Marital status:
+Widowed
+Spouse name:
+Not on file
+Number of children:
+Not on file
+Years of education:
+Not on file
+Highest education level: Not on file
+Social Needs
+Financial resource strain: Not on file
+Food insecurity - Worry:
+Not on file
+ Food insecurity - inability: Not on file
+ Transportation needs - Not on file
+medical:
+ Transportation needs - non- Not on file
+medical:
+Occupational History
+Not on file
+Tobacco Use
+ Smoking status:
+Never Smoker
+Smokeless tobacco:
+Never Used
+O
+0
+.
+Adamso
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+.
+Adamso
+Substance and Sexual Activity
+Alcohol use:
+Yes
+Alcohol/week:
+0.0 oz
+Comment: wine (5 oz), liquor (hard) 1.5 oz, 1-2 times per month
+Drug use:
+No
+Sexual activity:
+No
+Other Topics
+Concern
+Not on file
+Social History Narrative
+Lives with spouse
+Parentage : 3 children
+Diet: regular
+.
+Age of Onset
+Family History
+Problem
+Cervical cancer
+ Lung cancer
+Relation
+Mother
+Father
+Reactions
+Other (See Comments)
+.
+Allergies
+Allergen
+Codeine
+'bouncing off the walls'
+dizzy
+Demerol [Meperidine]
+HCI
+Morphine
+Paxil [Paroxetine]
+Boils in mouth, lost sense of taste
+Tramadol
+Tylox [Oxycodone-Acetaminophen]
+GI Intolerance/Nausea/Vomiting
+.
+GI Intolerance/Nausea/Vomiting
+Other (See Comments)
+O
+GI Intolerance/Nausea/Vomiting
+Rash/Dermatitis and GII
+Intolerance/Nausea/Vomiting
+.
+Current Outpatient Medications
+|Medication|Sig|Dispense Refill|
+|amitriptyline (ELAVIL) 25 MG tablet|Take 1 tablet (25 mg total) by mouth nightly.|90 tablet 1|
+|aspirin 81 MG tablet|0 Refill(s), Type: Maintenance||
+|Calcium Carbonate-Vit D-Min (CALCIUM 1200 PO)|Take by mouth.||
+|chlordiazePOXIDE (LIBRIUM) 10 MG capsule|take 1 capsule by mouth once daily|90 capsule 1|
+|gabapentin (NEURONTIN) 300 MG capsule|take 2 capsules by mouth three times a day|540 capsule 3|
+|gabapentin (NEURONTIN) 600 MG tablet|||
+|glipiZIDE (GLUCOTROL XL) 5 MG 24 hr tablet|take 1 tablet by mouth every morning AFTER BREAKFAST|90 tablet 1|
+|Glucosamine 500 MG Cap|Take by mouth daily.||
+|hydrochlorothiazide (HYDRODIURIL) 25 MG tablet|Take 1 tablet (25 mg total) by mouth every morning.|90 tablet 1|
+|lisinopril PRINIVIL,ZeSTRIL)|Take 1 tablet (10 mg|90 tablet 3|
+|Lorraine H (MRN 1001848999) Printed by|Danielle Ferrato [3131]|at 11/1/19 2:02 PM|
+
+ 
+ 
+ 
+ 
+ ( Adamson , .
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+|Adamson,|Lorraine H (MR # 1001848999) DOB:|01/25/1935 Encounter Date: 09/24/2018|
+||10 MG tablet|total) by mouth daily. See Instructions, Instructions: TAKE 1 TABLET DAILY|
+||lisinopril (PRINIVIL,ZeSTRIL) 20 MG tablet|take 1 tablet by 90 tablet 1 mouth once daily|
+||Multiple Vitamins-Minerals (MULTIVITAMIN & MINERAL PO)|Take by mouth.|
+||Multiple Vitamins-Minerals (OCUVITE) tablet|Take by mouth.|
+||nabumetone (RELAFEN) 500 MG tablet|take 1 to 2 tablets by 180 tablet 0 mouth once daily if needed for pain|
+||Omega 3 1000 MG Cap capsule|Take 1,000 mg by mouth 2 (two) times a day. Administer whole. Do not break.|
+||prednisoLONE acetate (PRED FORTE) 1 % ophthalmic suspension||
+||pyridoxine (VITAMIN B-6) 100 MG tablet|Take by mouth.|
+||Sennosides-Docusate Sodium (STOOL SOFTENER & LAXATIVE PO)|stool softener, 2 tab(s), daily, 0 Refill(s), Type: Maintenance|
+||simvastatin (ZOCOR) 80 MG tablet|Take 1 tablet (80 mg 90 tablet 1 total) by mouth nightly. (Patient taking differently: Take 40 mg by mouth nightly. )|
+
+, 
+VIGAMOX 0.5 % ophthalmic solution
+No current facility-administered medications for this visit.
+Vitals:
+BP:
+Pulse:
+Temp:
+SpO2:
+Weight:
+Height:
+09/24/18 1311
+(!) 163/68
+80
+98.3 F (36.8 C)
+98%
+69.4 kg (153 lb)
+1.575 m (5'2')
+Physical Exam
+Constitutional: She is oriented to person, place, and time. She appears well-developed and well- nourished.
+HENT:
+Head: Normocephalic and atraumatic.
+Eyes: Pupils are equal, round, and reactive to light.
+Neck: Normal range of motion. Neck supple.
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato [3131] at 11/1/19 2:02 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+4/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MR # 1001848999) DOB: 01/25/1935 Encounter Date: 09/24/2018
+Cardiovascular: Normal rate, regular rhythm and normal heart sounds.
+Pulmonary/Chest: Effort normal and breath sounds normal.
+Abdominal: Soft. Bowel sounds are normal.
+Musculoskeletal: Normal range of motion.
+Neurological: She is alert and oriented to person, place, and time.
+Skin: Skin is warm and dry.
+ASSESSMENT/ PLAN:
+Patient is a 83 y.o. female here today for:
+Anxiety-alprazolam written
+Chronic back pain-continue Lyrica
+HTN-stressors likely increasing blood pressure. Repeat next visit
+DM-A1c pending
+HLD-lipids pending
+Obesity-diet education given
+There are no diagnoses linked to this encounter.
+There are no diagnoses linked to this encounter.
+Henry D Todd, MD
+09/24/18
+Medications Ordered This Encounter
+End
+2/8/2019
+Disp Refills Start
+ALPRAZolam (XANAX) 0.25 MG tablet
+60 tablet 0
+9/24/2018
+(Discontinued)
+Take 1 tablet (0.25 mg total) by mouth 2 (two) times a day as needed for anxiety. - Oral
+Reason for Discontinue: Reorder
+Z Discontinued Medications
+Reason for Discontinue
+Duplicate order
+simvastatin (ZOCOR) 40 MG tablet
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato (3131) at 11/1/19 2:02 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+5/16
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+|MPV|9.4 - 12.5 fL|10.6|
+|Neutrophils Auto|%|56.2|
+|Immature Granulocytes|%|0.1|
+|Lymphocytes Auto|%|32.0|
+|Monocytes Auto|%|7.2|
+|Eosinophils Auto|%|4.2|
+|Basophils Auto|%|0.3|
+|Abs Neutrophils Auto|2.00 - 7.50 Thou/uL|4.38|
+|Abs Immature Granulocytes|0.00 - 0.10 Thou/uL|0.01|
+|Abs Lymphocytes Auto|1.50 - 4.50 Thou/uL|2.49|
+|Abs Monocytes Auto|0.20 - 1.50 Thou/uL|0.56|
+|Abs Eosinophils Auto|0.00 - 0.70 Thou/uL|0.33|
+|Abs Basophils Auto|0.00 - 0.20 Thou/uL|0.02|
+|Resulting Agency||Hospital|
+|Specimen Collected: 12/28/18 5:45 AM|Last Resulted: 12/28/18 6:23 AM|Order Details View Encounter Details|
+
+Lab and Collection
+Routing Result History
+Additional Information
+Bill Type
+Client ID
+Specimen ID
+F455780_20181227210000
+Additional Information
+|Specimen Date|Specimen Time|Specimen|Specimen|Result Date|Result Time|
+|Taken|Taken|Received Date|Received Time|||
+|Dec 28, 2018|5:45 AM|Dec 28, 2018|6:07 AM|Dec 28, 2018|6:23 AM|
+
+Hartford Healthcare Laboratories, CT State License No.
+Backus Hospital Lab: HP-0230, Backus Plainfield Emergency Center Lab: CL-0766, HHC Cancer Institute: CL-0719, Charlotte Hungerford Hospital: HP-
+0245, Charlotte Hungerford Winsted Emergency Center Lab: CL-0720, Hartford Hospital: HP-0254, Hartford Hospital, Newington Campus: CL-0385, Midstate Medical Center Lab: HP-0310, The Hospital of Central CT Lab: HP-0222, The Hospital of Central CT Lab (Blood Gas): HP-0303, The Hospital of Central CT Bradley Emergency Center Lab: HP-0240, The Hospital of Central CT-Satellite Campus: HP-0261, Windham Hospital Lab: HP-0366
+Routing History
+Priority Sent On From
+To
+Message
+Type
+12/27/2018 2:56 Interface, Radiology Results In Asma Iftikhar, MD
+PM
+External Results Report
+Open External Results Report
+Adamson, Lorraine H (MRN 1001848999) Printed by Danielle Ferrato [3131] at 11/1/19 2:11 PM
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccarelord_detail.asp?from=ResultReview&Ndx=5
+3/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+||10 12/27/2018 06:27|9 12/27/2018 10:16|8 12/28/2018 05:45|7 12/28/2018 09:52|6 1/10/2019 14:06|
+|CHEMISTRY GE NERAL||||||
+|Sodium|143||140||136|
+|Potassium|4.0||3.8||2.7 *|
+|Chloride|103||106||96|
+|CO2|30||25||31|
+|Anion Gap|10||9||9|
+|BUN|20||20||29|
+|Creatinine|0.8||0.8||1.1|
+|Bun / Creat Ratio|25||25||26|
+|Glucose|156||147 *||178 *|
+|Calcium|8.9||8.9||10.1|
+|Magnesium|||2.0||2.3|
+|Protein, Total|||||5.9|
+|Albumin|||||3.5|
+|Globulin|||||2.4|
+|A/G Ratio|||||1.5|
+|eGFR|>60 *||>60 *||47*|
+|GFR - African A mer.|>60 *||>60*||57*|
+|Bilirubin Total|||||0.4|
+|Aspartate Aminot ra.|||||23|
+|Alanine Aminotra ns.|||||10|
+|Alkaline Phospha tase|||||59|
+|Iron||||21||
+|Total Iron Binding||||313||
+|UIBC||||292||
+|Iron Sat||||7||
+|Ferritin||||22||
+|Phosphorus||||||
+|CARDIAC/SKEL ETAL M.||||||
+|Troponin I|0.47|0.43 *|0.37|||
+|Troponin T||||||
+
+*
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+1/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+||10 12/27/2018 06:27|9 12/27/2018 10:16|8 12/28/2018 05:45|7 12/28/2018 09:52|6 1/10/2019 14:06|
+|ENDOCRINE/FE RTILITY||||||
+|Hemoglobin A1C||||||
+
+||5 1/11/2019 00:05|4 1/11/2019 05:35|3 1/12/2019 06:41|2 6/28/2019 15:25|1 8/8/2019 12:17|
+|CHEMISTRY GE NERAL||||||
+|Sodium|141|139|142|||
+|Potassium|3.1|3.7|3.5|||
+|Chloride|100|101|104|||
+|CO2|28|29|24|||
+|Anion Gap|13|9|14|||
+|BUN|21|19|16|||
+|Creatinine|0.9|0.9|0.9|||
+|Bun / Creat Ratio|23|21|18|||
+|Glucose|136 *|160 *|141 *|||
+|Calcium|9.0|9.3|8.7|||
+|Magnesium|2.3|2.1|2.1|||
+|Protein, Total||||||
+|Albumin||||||
+|Globulin||||||
+|A/G Ratio||||||
+|eGFR|60 *|60 *|60 *|||
+|GFR - African A mer.|73 *|73*|73 *|||
+|Bilirubin Total||||||
+|Aspartate Aminot ra.||||||
+|Alanine Aminotra ns||||||
+|Alkaline Phospha tase||||||
+|Iron||||||
+|Total Iron Binding||||||
+|UIBC||||||
+|Iron Sat||||||
+
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+2/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+||5 1/11/2019 00:05|4 1/11/2019 05:35|3 1/12/2019 06:41|2 6/28/2019 15:25|1 8/8/2019 12:17|
+|Ferritin||||||
+|Phosphorus|3.6|3.0|2.9|||
+|CARDIAC/SKEL ETAL M||||||
+|Troponin I||||||
+|Troponin T||||0.02 *||
+|ENDOCRINE/FE RTILITY||||||
+|Hemoglobin A1C|||||6.1 *|
+
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp?WhichFrame=3&Action=Print
+3/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MRN1001848999)
+Auth Prov: Kerry E McGuire
+80 Seymour St.
+Hartford CT 06102
+Hartford
+Hospital
+Connect to healthier.'
+Hartford Healthcare
+Imaging Result
+|Name:|DOB:|Sex:|Patient Class:|
+|Adamson, Lorraine H|1/25/1935|Female|Inpatient|
+|Procedures Performed:|Exam Date and Time:|Reason for Exam:|Diagnosis:|
+|CTA Chest W w/o contrast|12/28/2018 2:49 PM|Aortic stenosis|None Specified|
+|Performing Department:|Accession Number:|Patient MRN:|PCP:|
+|HH CT|HH2018122801428|1001848999|Todd, Henry D|
+|80 Seymour Street||||
+|Hartford CT 06102-8000||||
+
+860-972-2507
+CTA CORE VALVE
+CT ANGIOGRAPHY CHEST WITH AND WITHOUT CONTRAST
+CT ANGIOGRAPHY ABDOMEN AND PELVIS WITH AND WITHOUT CONTRAST
+CLINICAL INFORMATION:
+TAVR core valve protocol; aortic stenosis.
+COMPARISON:
+None
+TECHNIQUE:
+Volume acquisition CT of chest, abdomen and pelvis was performed both before and after the administration of IV contrast. A total of 80 mL of Omnipaque
+350 was utilized for the contrast-enhanced portion of the exam. Images were evaluated on an independent dedicated 3D workstation and 3D images were reconstructed and evaluated. A 3D model of the aorta was created and measurements were performed of the aorta. In addition, a 3D model of the abdominal and pelvic aorto-iliac-femoral vessels was also created along with curved reformat tracking.
+Specific vascular measurements were made during diastole, including the distance from the top of the right coronary artery to the annulus, the distance from the top of the left coronary artery to the annulus and the height of the sinus of Valsalva to the noncoronary cusp. The sinus of Valsalva diameters during diastole were also measured. The diameter of the aorta 40 mm above the annulus is reported. During systole, the maximal diameter of the annulus is reported (the major aortic annulus diameter) along with the diameter perpendicular to this (the minor aortic annulus diameter).
+Printed
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MRN1001848999)
+In addition, measurements of abdominal aorta and iliofemoral vessels are also reported.
+All of these specific vascular measurements are documented in PACs.
+DLP:
+1756.8 mGy-cm
+FINDINGS:
+VASCULAR:
+The aortic valve is calcified. The ascending thoracic aorta is normal in course and caliber without aneurysmal dilatation or dissection. There is a normal three-vessel aortic arch. There is a small amount calcification at the origin of the left subclavian artery without evidence of a hemodynamically significant stenosis. The visualized great vessels are patent without evidence of a hemodynamically significant stenosis. There is atherosclerotic calcification at the carotid bifurcations bilaterally. The descending thoracic aorta is normal in course and caliber without aneurysmal dilatation or dissection. The abdominal aorta is mild to moderately diseased with calcified and noncalcified atherosclerotic plaque. No abdominal aortic aneurysm. The common iliac arterial systems are widely patent.
+There is calcified and noncalcified atherosclerotic plaque at the origin of the celiac and SMA with less than 50% narrowing. The IMA is patent. There are single renal arteries bilaterally which are patent.
+NON-VASCULAR:
+Lungs: Respiratory motion degrades image quality in the lungs. There are several nodular opacities throughout the right lung measuring up to 5 mm;
+example lesions are 5 mm nodular opacity in the right upper lobe
+(311/1118), a 4 mm nodular opacity in the right upper lobe (215/1118) and a 2 mm nodular opacity also in the right upper lobe (235/1118). Additionally, there are scattered bilateral calcified granulomas in both lungs. There are bilateral small pleural effusions, left greater than right, with dependent atelectasis.
+Mediastinum: The heart size is mildly enlarged. There are coronary artery calcifications. No pericardial effusion. There are prominent mediastinal lymph nodes, the largest in the subcarinal station measures 1,5 cm. No axillary lymphadenopathy.
+Liver, Gallbladder, Bile Ducts: No focal hepatic lesions or intrahepatic biliary ductal dilatation. The gallbladder appears to be surgically absent.
+Pancreas: The pancreas is unremarkable.
+Spleen: Unremarkable.
+Printed
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MRN1001848999)
+Adrenal Glands, Kidneys, Ureters, Bladder: No adrenal nodules or masses.
+The kidneys enhance symmetrically. No renal mass. No hydronephrosis. The urinary bladder is well distended without evidence of wall thickening.
+Pelvis: There are coarse calcifications in the uterus likely due to calcified fibroids. No adnexal mass appreciated.
+Bones: There has been posterior fusion at L2 through L5 with laminectomy changes. Degenerative changes in the spine. No destructive bony lesions are appreciated. Degenerative changes in the right hip with subchondral sclerosis and subchondral cystic change and prominent osteophyte formation.
+Lymph Nodes: No abdominal or pelvic lymphadenopathy.
+Bowel: No evidence of bowel obstruction. Colonic diverticulosis without evidence of diverticulitis.
+IMPRESSION:
+1. A 3D model of the aorta was created and measurements were performed of the aorta. In addition, a 3D model of the abdominal and pelvic aorto-iliac-femoral vessels was also created along with curved reformat tracking. These values are reported in the PACS system.
+2. There are 2-5 mm nodular opacities in the right lung as described.
+According to the UPDATED 2017 Fleischner Society recommendations, the advised follow up imaging for solid nodules < 6 mm is:
+LOW-RISK PATIENT: No routine follow up.
+HIGH-RISK PATIENT: Optional CT at 12 months.
+3. Nonspecific prominent lymph nodes in the mediastinum measuring up to
+1.5
+cm in the subcarinal station.
+4. Small bilateral pleural effusions with adjacent atelectasis.
+Signed By: Robert W Gordon, MD on 12/28/2018 5:39 PM
+Ordered On 12/28/2018 6:51 AM
+|Ordering Provider|Authorizing Provider|Ordering User|Ordering Department|
+|Kerry E McGuire, APRN 860-972-2975|Kerry E McGuire, APRN 860-972-2975|Kerry E McGuire, APRN|HH CENTER 10|
+|Printed||||
+
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/3
+
+-------------------------------------------
+-------------------------------------------
+FACILITY
+THOCC - New Britain General Campus
+Echocardiography Lab
+100 Grand Street
+New Britain, CT 06050
+Tel (860) 224-5252 Fax (860) 224-5747
+TAC
+DIESEL
+ALISATION
+MONDI
+Hartford
+HealthCare
+Report Status: Finalized
+Transthoracic Echocardiography Report (TTE)
+|||Demographics||
+|Patient Name:|ADAMSON LORRAINE H|Date of Study:|12/26/2018|
+|MRN:|1001848999|Location:|NB N4 N422 N422-01|
+|Date of Birth:|01/25/1935|Age:|83 year(s)|
+|Gender:|Female|Ordering MD:|BAKER HOWARD N MD|
+|||Sonographer:|Annelli Kelsie RCS|
+
+Blood Pressure :
+111/57 mmHg
+Procedure
+Type of Study
+TTE procedure: HHC, Echocardiogram Comprehensive.
+Technical Quality: Good visualization
+Clinical Indications/Reason for Exam:
+Shortness of Breath
+Patient Status: Routine
+Conclusions
+Summary
+Global left ventricular systolic function is normal. Estimated left ventricular ejection fraction is 60-65%. Mild eccentric left ventricular hypertrophy is present. Left ventricular cavity size is normal. Grade Il diastolic dysfunction. Right ventricular size and systolic function are normal. Moderate aortic insufficiency. Calcified AV with severe aortic stenosis. The peak velocity measured through the aortic valve is
+4.97m/sec, with a mean gradient of 63.5mmHg.
+Findings
+Left Ventricle
+Global left ventricular systolic function is normal. Estimated left ventricular ejection fraction is 60-65%. Mild eccentric left ventricular hypertrophy is present. Left ventricular cavity size is normal. Grade II diastolic dysfunction (pseudonormalization of mitral inflow with evidence of elevated left atrial pressure) is present.
+Right Ventricle
+Right ventricular size and systolic function are normal.
+Left Atrium
+The left atrium is moderately dilated.
+Right Atrium
+The right atrium is normal in size.
+Aortic Valve
+A tricuspid aortic valve is present. The aortic valve leaflets are moderately thickened. There is moderate aortic insufficiency. There is severe aortic stenosis. The peak velocity measured through the aortic valve is 4.97m/sec, with a mean gradient of 63.5mmHg.
+Mitral Valve
+The mitral valve leaflets are mildly thickened. There is mild mitral regurgitation. Mild mitral annular calcification is present.
+Tricuspid Valve
+The tricuspid valve appears normal. There is mild tricuspid regurgitation. Estimated pulmonary artery systolic pressure is moderately elevated.
+Pulmonic Valve
+Patient Name: ADAMSON LORRAINE H
+Date of study: 12/26/2018 09:05 AM
+Page: 1 of 2
+
+-------------------------------------------
+-------------------------------------------
+FACILITY
+THOCC - New Britain General Campus
+Echocardiography Lab
+100 Grand Street
+New Britain, CT 06050
+Tel (860) 224-5252 Fax (860) 224-5747
+TAC
+DIESEL
+ALISATION
+MONDI
+Hartford
+HealthCare
+Report Status: Finalized
+The pulmonic valve is structurally normal. There is no pulmonic regurgitation.
+Pericardium
+There is a trace pericardial effusion.
+Miscellaneous
+The aortic root and ascending aorta are normal in size.
+|||M-Mode/2D|Measurements||
+|LV Diastolic Dimension:|4.2 cm||LV Septum Diastolic:|1.2 cm|
+|LV Systolic Dimension:|2.9 cm||LV PW Diastolic:|0.8 cm|
+|LV EDV:|154 ml||Sinuses of Valsalva:|3 cm|
+|LV ESV:|41.8 ml||Ascending Aorta Diameter:|3 cm|
+|LV Mass:|138.1 g||LVOT Diameter:|2 cm|
+|LA PA Diameter:|4 cm||||
+
+Doppler Measurements
+|AV Peak Velocity:|4.9 m/s|MV P1/2t:|117 msec|
+|AV Peak Gradient:|96 mmHg|MV Mean Gradient:|1.8 mmHg|
+|AV Mean Gradient:|63.5 mmHg|MV Area (PHT):|1,9 cm |
+|AV VTI:|137 cm|MV Peak E-Wave:|0.9 m/s|
+|LVOT Peak Velocity:|1.2 m/s|MV Peak A-Wave:|1.1 m/s|
+|LVOT VTI:|35.9 cm|MV E/A Ratio:|0.8|
+|AV Area (Continuity):|0.86 cm |E' Septal Velocity:|0.05 m/s|
+|AV P1/2t:|434 msec|E/E' Septal:|11|
+|TR Peak Velocity:|3.6 m/s|E' Lateral Velocity:|0.08 m/s|
+|TR Peak Gradient:|51.6 mmHg|E/E' Lateral:|17|
+|Estimated RAP:|5 mmHg|||
+
+56.6 mmHg
+Estimated RVSP:
+Electronically signed on 12/26/2018 at 12:54 PM
+Ching Gilbert M.D.
+Patient Name: ADAMSON LORRAINE H
+Date of study: 12/26/2018 09:05 AM
+Page: 2 of 2
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MRN1001848999)
+2
+Auth Prov: Ilana Klein Prenovitz
+100 Grand Street
+New Britain CT 06050
+The Hospital of Central Connecticut
+Connect to healthier.'
+Hartford Healthcare
+Imaging Result
+|Name:|DOB:|Sex:|Patient Class:|
+|Adamson, Lorraine H|1/25/1935|Female|Emergency|
+|Procedures Performed:|Exam Date and Time:|Reason for Exam:|Diagnosis:|
+|CT Thorax w/o contrast|12/26/2018 2:37 AM|dyspnea, respiratory distress|None Specified|
+|Performing Department:|Accession Number:|Patient MRN:|PCP:|
+|HOCC ED CT|NB2018122601127|1001848999|Todd, Henry D|
+|100 Grand Street New Britain CT 06050-2016 860-224-5556||||
+
+CT chest without contrast (axial sections with sagittal and coronal reformats) (December 26, 2018 at 02:34 hours)
+Clinical history: Dyspnea, respiratory distress.
+Technique: Helical axial sections of the chest were obtained without contrast. Iterative reconstruction technique was employed to reduce patient radiation exposure.
+Findings:
+There is ill-defined ground-glass attenuation in the lungs bilaterally, right more than left. Bibasilar streaky atelectasis is present. There is mild interstitial septal thickening. There is a 2 mm calcified granuloma in the right upper lobe posteriorly
+(axial image 9). There is a 3 mm nodule in the right upper lobe (axial images 22). Small-to- moderate bilateral pleural effusions are seen. There is no pneumothorax.
+There are a few prominent mediastinal lymph nodes, the largest measuring
+1.1 cm at the carina. There is mild cardiomegaly. Coronary artery calcification is noted. The aorta demonstrates atheromatous calcification without evidence of aneurysm. There is minimal pericardial effusion.
+Degenerative changes are identified in the spine, Lumbar spinal fusion is seen.
+Nonspecific perinephric fat stranding is noted bilaterally. The other visualized upper abdominal viscera have an unremarkable noncontrast appearance.
+Printed
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/2
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MRN1001848999)
+IMPRESSION:
+Ground-glass attenuation in the lungs, which may represent pulmonary edema or nonspecific pneumonitis.
+Cardiomegaly and bilateral pleural effusions, congestive heart failure cannot be excluded. Recommend clinical correlation.
+Other findings as described above.
+Signed By: Joseph Izzo, MD on 12/26/2018 2:58 AM
+Ordered On 12/26/2018 2:26 AM
+|Ordering Provider|Authorizing Provider|Ordering User|Ordering Department|
+|Ilana Klein Prenovitz, DO|Ilana Klein Prenovitz, DO|Ilana Klein Prenovitz, DO|HOCC EMERGENCY|
+|860-224-5675|860-224-5675|||
+|860-588-6530|860-588-6530|||
+
+Printed
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/2
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MRN1001848999)
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MRN1001848999)
+Printed
+The Hospital of Central Connecticut
+Connect to healthier.'
+Auth Prov: Ilana Klein Prenovitz
+100 Grand Street
+New Britain CT 06050
+Hartford Healthcare
+||Imaging Result|||
+|Name:|DOB:|Sex:|Patient Class:|
+|Adamson, Lorraine H|1/25/1935|Female|Emergency|
+|Procedures Performed:|Exam Date and Time:|Reason for Exam:|Diagnosis:|
+|XR Chest 2 views|12/26/2018 1:48 AM|respiratory distress|None Specified|
+|Performing Department:|Accession Number:|Patient MRN:|PCP:|
+|HOCC ED XRAY|NB2018122601110|1001848999|Todd, Henry D|
+|100 Grand Street||||
+|New Britain CT 06050-2016||||
+
+860-224-5556
+XR CHEST 2 VIEWS: 12/26/2018 1:30 AM
+CLINICAL HISTORY:
+respiratory distress.
+COMPARISON: 8/28/2007
+TECHNIQUE: PA and lateral views of the chest
+FINDING: The cardiac silhouette is enlarged. Linear and hazy opacities are seen at both lung bases which have increased in the interim. No pleural fluid is seen.
+IMPRESSION:
+Increasing infiltrates in the lung bases which could reflect developing consolidation versus atelectasis.
+Signed By: Jeffrey H Takahashi, MD on 12/26/2018 6:21 AM
+Ordered On 12/26/2018 1:26 AM
+|Ordering Provider|Authorizing Provider|Ordering User|Ordering Department|
+|Ilana Klein Prenovitz, DO|Ilana Klein Prenovitz, DO|Ilana Klein Prenovitz, DO|HOCC EMERGENCY|
+|860-224-5675|860-224-5675|||
+|860-588-6530|860-588-6530|||
+|||||
+
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/3
+
+-------------------------------------------
+-------------------------------------------
+11/1/2019
+Adamson, Lorraine H (MR#1001848999) Printed by FERRATO, DANIELLE [3131]
+Adamson, Lorraine H (MRN1001848999)
+Printed
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+3/3
+
+-------------------------------------------
+-------------------------------------------
+HARTFORD HOSPITAL PULMONARY LABORATORY
+Jefferson Building - Room 240
+Phone: (860) 972-2970
+Last Name: ADAMSON
+Study Date: 12/28/2018 01:19
+First Name: LORRAINE
+Patient ID: 1001848999
+Height: 64.0 in, 162.6 cm
+Second Number: 66420101
+Weight: 152.0 lbs, 69.1 kg
+Physician Name: MCGUIRE, Pack years:
+Birth Date: 1/25/1935
+Age: 83
+Technician Name: Paula Morgan
+Gender: Female
+Smoke Status: Never
+Testing Location: JB240 C Diagnosis: TAVR
+Spirometry
+||Predicted|Pre Drug Measured|Pre Drug % Predicted|Post Drug Measured|Post Drug % Predicted|%Change|
+|FVC|2.60|2.00|77|2.07|80|3|
+|FEV1|1.95|1.49|77|1.60|82|7|
+|FEV1/FVC|76|75|98|77|102|4|
+|FEF25-75%|1.67|1.11|66|1.43|86|29|
+|FEFmax|5.16|4.46|86|3.58|70|-20|
+|MET||0.89||0.72||-19|
+|MVV|55.68||||||
+|Plmax /MIP|-61.67||||||
+|PEmax /MEP|126.01||||||
+|||Lung Volumes|Nitrogen|Washout|||
+|TLC|4.69|||3.83|82||
+|FRC|2.70|||1.89|70||
+|RV|2.05|||1.80|88||
+|RV/TLC|44|||47|108||
+|ERV|0.65|||0.09|14||
+|VC|2.60|||2.03|78||
+|||Single Breath|Diffusion|Test|||
+|Dsb|16.18|||11.18|69||
+|DsbHb|16.18|||15.14|94||
+|VAsb|4.69|||3.41|73||
+
+.
+Flow Volume
+Effort#: 3,5
+Flow (L/s)
+16.0
+12.0
+8.0
+PEF
+4.0 D FEF25%
+LFEF5
+0.0 TREFF75%
+8.0
+-4.0
+-8.0
+ADAMSON, LORRAINE H
+CSN: 100066420101
+DOB: 1/25/1935 (83 yrs) Female
+MRN: 1001848999
+Adm Date: 12/26/2018
+IN MO
+-12.0
+- 16.0
+Volume (L)
+6100
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+1/2
+
+-------------------------------------------
+-------------------------------------------
+HARTFORD HOSPITAL PULMONARY LABORATORY
+Jefferson Building - Room 240
+Phone: (860) 972-2970
+Last Name: ADAMSON
+Study Date: 12/28/2018 01:19
+First Name: LORRAINE
+Patient ID: 1001848999
+Height: 64.0 in, 162.6 cm
+Second Number: 66420101
+Weight: 152.0 lbs, 69.1 kg
+Physician Name: MCGUIRE, Pack years:
+Birth Date: 1/25/1935
+Age: 83
+Technician Name: Paula Morgan
+Gender: Female
+Smoke Status: Never
+Testing Location: JB240 C Diagnosis: TAVR
+Spirometry
+||Predicted|Pre Drug Measured|Pre Drug % Predicted|Post Drug Measured|Post Drug % Predicted|%Change|
+|FVC|2.60|2.00|77|2.07|80|3|
+|FEV1|1.95|1.49|77|1.60|82|7|
+|FEV1/FVC|76|75|98|77|102|4|
+|FEF25-75%|1.67|1.11|66|1.43|86|29|
+|FEFmax|5.16|4.46|86|3.58|70|-20|
+|MET||0.89||0.72||-19|
+|MVV|55.68||||||
+|Plmax /MIP|-61.67||||||
+|PEmax /MEP|126.01||||||
+|||Lung Volumes|Nitrogen|Washout|||
+|TLC|4.69|||3.83|82||
+|FRC|2.70|||1.89|70||
+|RV|2.05|||1.80|88||
+|RV/TLC|44|||47|108||
+|ERV|0.65|||0.09|14||
+|VC|2.60|||2.03|78||
+|||Single|Breath Diffusion|Test|||
+|Dsb|16.18|||11.18|69||
+|DsbHb|16.18|||15.14|94||
+|VAsb|4.69|||3.41|73||
+
+Flow Volume
+Effort#: 3,5
+Flow (L/s)
+16.0
+12.0
+8.0
+PEF
+4.0 12
+FEF25%
+FEF50%
+0.0 LEEF75%
+8.0
+-4.0
+-8.0
+ADAMSON, LORRAINE H
+CSN: 100066420101
+DOB: 1/25/1935 (83 yrs) Female
+MRN: 1001848999
+Adm Date: 12/26/2018
+IM
+- 12.0
+- 16.0
+Volume (L)
+6100
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=snapshot
+2/2
+
+-------------------------------------------
+-------------------------------------------

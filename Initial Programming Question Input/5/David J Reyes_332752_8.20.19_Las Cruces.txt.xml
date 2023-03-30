@@ -1,0 +1,102 @@
+<ezNLP>
+<Icd10CmCode>
+<code value="Z82.49" rank="129" knowledgeId="128" isDisable="0" text="Family History;Hypertensive disorder;" isBillable="false" evidence="Hypertensive disorder" evidenceBegin="3928" evidenceEnd="3949" cuiList="20538;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Hypertensive disorder" begin="3928" end="3949" status="2" certainty="0" cui="C0020538" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.49" rank="129" knowledgeId="128" isDisable="0" text="Family History;Hypertensive disorder;" isBillable="false" evidence="Hypertensive disorder" evidenceBegin="4395" evidenceEnd="4416" cuiList="20538;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Hypertensive disorder" begin="4395" end="4416" status="2" certainty="0" cui="C0020538" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="243" knowledgeId="80" isDisable="0" text="Diabetes;" isBillable="false" evidence="Diabetes" evidenceBegin="5802" evidenceEnd="5810" cuiList="11849;" acceptRejectFlag="DEFAULT"/>
+<problem value="Diabetes" begin="5802" end="5810" status="1" certainty="0" cui="C0241863;C0011847;C0011849" tui="T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z98.0" rank="258" knowledgeId="128" isDisable="0" text="History;gastric bypass &amp; smal intestine reconstruction;gastric bypass &amp; smal intestine reconstruction;" isBillable="false" evidence="bypass_SEP_intestine" evidenceBegin="5296,5310" evidenceEnd="5302,5319" cuiList="21853;262926;741847;" acceptRejectFlag="DEFAULT"/>
+<procedure value="gastric bypass &amp; smal intestine reconstruction" begin="5288" end="5334" status="1" certainty="0" cui="C0842140;C0178854;C0017125;C0021829;C1704242;C1517454;C0524865;C1278920;C0741847;C0021853;C1708548;C0038351" tui="T061;T080;T024;T023;T061;T061;T061;T061;T061;T061;T061;T061;T061;T024;T023;T058;T061" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.49" rank="129" knowledgeId="128" isDisable="0" text="Family History;Heart disease;" isBillable="false" evidence="Heart disease" evidenceBegin="4379" evidenceEnd="4392" cuiList="18799;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Heart disease" begin="4379" end="4392" status="2" certainty="0" cui="C0018799" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z98.0" rank="258" knowledgeId="128" isDisable="0" text="History;gastric bypass &amp; smal intestine reconstruction;" isBillable="false" evidence="gastric bypass" evidenceBegin="5288" evidenceEnd="5302" cuiList="17125;262926;" acceptRejectFlag="DEFAULT"/>
+<code value="Z98.84" rank="258" knowledgeId="128" isDisable="0" text="History;gastric bypass &amp; smal intestine reconstruction;" isBillable="false" evidence="gastric bypass" evidenceBegin="5288" evidenceEnd="5302" cuiList="17125;262926;" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E28.2" rank="213" knowledgeId="116" isDisable="0" text="PCOS;" isBillable="false" evidence="PCOS" evidenceBegin="5812" evidenceEnd="5816" cuiList="32460;" acceptRejectFlag="DEFAULT"/>
+<problem value="PCOS" begin="5812" end="5816" status="1" certainty="0" cui="C0032460" tui="T047;T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.3" rank="129" knowledgeId="96" isDisable="0" text="Family History;Cerebrovascular accident;" isBillable="false" evidence="Cerebrovascular accident" evidenceBegin="3798" evidenceEnd="3822" cuiList="38454;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Cerebrovascular accident" begin="3798" end="3822" status="2" certainty="0" cui="C0038454" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="177" knowledgeId="112" isDisable="0" text="Type 2 diabetes mellitus;" isBillable="false" evidence="Type 2 diabetes mellitus" evidenceBegin="13259" evidenceEnd="13283" cuiList="11860;" acceptRejectFlag="DEFAULT"/>
+<problem value="Type 2 diabetes mellitus" begin="13259" end="13283" status="0" certainty="0" cui="C0011860;S20004383" tui="T046;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="243" knowledgeId="64" isDisable="0" text="Diabetes;" isBillable="false" evidence="Diabetes" evidenceBegin="5693" evidenceEnd="5701" cuiList="241863;" acceptRejectFlag="DEFAULT"/>
+<problem value="Diabetes" begin="5693" end="5701" status="1" certainty="0" cui="C0241863;C0011847;C0011849" tui="T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="999" knowledgeId="9" isDisable="0" text="Type 2 diabetes mellitus without complication;" isBillable="false" evidence="Type 2 diabetes mellitus without complication" evidenceBegin="13205" evidenceEnd="13250" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<modifier value="" begin="0" end="0" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z82.3" rank="129" knowledgeId="96" isDisable="0" text="Family History;Stroke;" isBillable="false" evidence="Stroke" evidenceBegin="3848" evidenceEnd="3854" cuiList="38454;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="Stroke" begin="3848" end="3854" status="2" certainty="0" cui="C0038454" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z98.84" rank="258" knowledgeId="128" isDisable="0" text="History;gastric bypass &amp; smal intestine reconstruction;" isBillable="false" evidence="gastric bypass" evidenceBegin="5417" evidenceEnd="5431" cuiList="17125;262926;" acceptRejectFlag="DEFAULT"/>
+<code value="Z98.0" rank="258" knowledgeId="128" isDisable="0" text="History;gastric bypass &amp; smal intestine reconstruction;" isBillable="false" evidence="gastric bypass" evidenceBegin="5417" evidenceEnd="5431" cuiList="17125;262926;" acceptRejectFlag="DEFAULT"/>
+<procedure value="gastric bypass &amp; smal intestine reconstruction" begin="5417" end="5463" status="1" certainty="0" cui="C0842140;C0178854;C0017125;C0021829;C1704242;C0524865;C1517454;C1278920;C0741847;C0021853;C1708548;C0038351" tui="T061;T061;T061;T061;T061;T061;T061;T061;T061;T061;T024;T023;T058;T080;T024;T023;T061" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="K21.9" rank="282" knowledgeId="116" isDisable="0" text="GERD;" isBillable="false" evidence="GERD" evidenceBegin="5911" evidenceEnd="5915" cuiList="17168;" acceptRejectFlag="DEFAULT"/>
+<problem value="GERD" begin="5911" end="5915" status="1" certainty="0" cui="C0017168" tui="T047;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.4" rank="1998" knowledgeId="9" isDisable="0" text="insulin;" isBillable="false" evidence="insulin" evidenceBegin="2101" evidenceEnd="2108" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="insulin" begin="2101" end="2108" status="0" certainty="0" code="NO-CODE" cui="C0202098;C0020884;C0021641;C3537244;C1533581" tui="T059;T116,T121,T125;T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="07/26/19" begin="2145" end="2153">
+<medData strength="200;3" strengthBegin="2109;2122" strengthEnd="2112;2123" strengthUnit="unit/mL;mL" strengthUnitBegin="2113;2124" strengthUnitEnd="2120;2126" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="subcutaneous" routeBegin="2128" routeEnd="2140"/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="339" knowledgeId="112" isDisable="0" text="TYPE 2 DIABETES;" isBillable="false" evidence="TYPE 2 DIABETES" evidenceBegin="13307" evidenceEnd="13322" cuiList="11860;" acceptRejectFlag="DEFAULT"/>
+<problem value="TYPE 2 DIABETES" begin="13307" end="13322" status="0" certainty="0" cui="C0011860;C0241863;C1320657;C0011847;S00005229;C0011849" tui="T033;T046;T061;T047;T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z68.30" rank="999" knowledgeId="9" isDisable="0" text="Body mass index;" isBillable="false" evidence="Body mass index" evidenceBegin="3118" evidenceEnd="3133" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<meas value="Body mass index" begin="3118" end="3133" status="0" certainty="0" code="EZBD001947">
+<measData value="0" begin="3116" end="3117" rank="1" unit="" unitBegin="" unitEnd=""/>
+<measData value="30+" begin="3134" end="3137" rank="2" unit="" unitBegin="" unitEnd=""/>
+</meas>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="243" knowledgeId="80" isDisable="0" text="Diabetes;" isBillable="false" evidence="Diabetes" evidenceBegin="6297" evidenceEnd="6305" cuiList="11849;" acceptRejectFlag="DEFAULT"/>
+<problem value="Diabetes" begin="6297" end="6305" status="0" certainty="0" cui="C0150544;C1272423;C0241863;C0011847;C0011849;S0001635" tui="T061;T058;T061;T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="177" knowledgeId="112" isDisable="0" text="IDDM;" isBillable="false" evidence="IDDM" evidenceBegin="5707" evidenceEnd="5711" cuiList="11860;" acceptRejectFlag="DEFAULT"/>
+<problem value="IDDM" begin="5707" end="5711" status="1" certainty="0" cui="C0011860" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z80.42" rank="388" knowledgeId="128" isDisable="0" text="Family History;prostate;Cancer;" isBillable="false" evidence="prostate_SEP_Cancer" evidenceBegin="4199,4232" evidenceEnd="4207,4238" cuiList="6826;241889;1278980;" acceptRejectFlag="DEFAULT"/>
+<anatomicalStructure value="prostate" begin="4199" end="4207" status="2" certainty="0" cui="C0033572;C1278980" tui="T023" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<problem value="Cancer" begin="4232" end="4238" status="2" certainty="0" cui="C0050385;C1516213;C0006675;C0998265;C0201925;C1306459;C0006826;C0019564" tui="T061;T191;T204;T059;T101;T121,T123,T196;T023;T170;T191;T169" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z98.0" rank="258" knowledgeId="128" isDisable="0" text="History;gastric bypass &amp; smal intestine reconstruction;gastric bypass &amp; smal intestine reconstruction;" isBillable="false" evidence="bypass_SEP_intestine" evidenceBegin="5425,5439" evidenceEnd="5431,5448" cuiList="21853;262926;741847;" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z98.890" rank="387" knowledgeId="128" isDisable="0" text="History;Cholecystectomy;" isBillable="false" evidence="Cholecystectomy" evidenceBegin="5217" evidenceEnd="5232" cuiList="8320;262926;" acceptRejectFlag="DEFAULT"/>
+<code value="Z90.49" rank="516" knowledgeId="128" isDisable="0" text="History;Cholecystectomy;" isBillable="false" evidence="Cholecystectomy" evidenceBegin="5217" evidenceEnd="5232" cuiList="8320;262926;" acceptRejectFlag="DEFAULT"/>
+<procedure value="Cholecystectomy" begin="5217" end="5232" status="1" certainty="0" cui="C0008320" tui="T061" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E11.9" rank="113" knowledgeId="80" isDisable="0" text="Diabetes mellitus;" isBillable="false" evidence="Diabetes mellitus" evidenceBegin="471" evidenceEnd="488" cuiList="11849;" acceptRejectFlag="DEFAULT"/>
+<problem value="Diabetes mellitus" begin="471" end="488" status="0" certainty="0" cui="C0011849" tui="T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+</ezNLP>

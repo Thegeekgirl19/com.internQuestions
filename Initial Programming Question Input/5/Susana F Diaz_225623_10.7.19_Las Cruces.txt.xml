@@ -1,0 +1,110 @@
+<ezNLP>
+<Icd10CmCode>
+<code value="Z00.00" rank="999" knowledgeId="9" isDisable="0" text="Encounter for general adult medical examination without abnormal findings;" isBillable="false" evidence="Encounter for general adult medical examination without abnormal findings" evidenceBegin="8784" evidenceEnd="8857" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<modifier value="" begin="0" end="0" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.51" rank="999" knowledgeId="9" isDisable="0" text="fluticasone propionate;" isBillable="false" evidence="fluticasone propionate" evidenceBegin="1438" evidenceEnd="1460" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="fluticasone propionate" begin="1438" end="1460" status="0" certainty="0" code="NO-CODE" cui="C0033474;C0392214;C0360577;C0117996;C0082607" tui="T109,T121;T200;T109,T121;T200;T109,T121;T109;T119" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="05/17/17" begin="1501" end="1509">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E78.5" rank="999" knowledgeId="9" isDisable="0" text="E78.5;" isBillable="false" evidence="E78.5" evidenceBegin="9682" evidenceEnd="9687" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z12.11" rank="999" knowledgeId="9" isDisable="0" text="Encounter for screening for malignant neoplasm;colon;" isBillable="false" evidence="Encounter for screening for malignant neoplasm_SEP_colon" evidenceBegin="10751,10801" evidenceEnd="10797,10806" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.899" rank="999" knowledgeId="9" isDisable="0" text="atorvastatin;" isBillable="false" evidence="atorvastatin" evidenceBegin="9718" evidenceEnd="9730" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="atorvastatin" begin="9718" end="9730" status="0" certainty="0" code="NO-CODE" cui="C1667395;C0286651" tui="T200;T109,T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="40" strengthBegin="9731" strengthEnd="9733" strengthUnit="mg" strengthUnitBegin="9734" strengthUnitEnd="9736" dosage="1;90" dosageBegin="9751;9794" dosageEnd="9752;9796" form="tablet;tablet;TABLET" formBegin="9797;9737;9753" formEnd="9803;9743;9759" frequency="AT BEDTIME" frequencyBegin="9778" frequencyEnd="9788" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="BY MOUTH" routeBegin="9760" routeEnd="9768"/></med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.899" rank="999" knowledgeId="9" isDisable="0" text="Atorvastatin;" isBillable="false" evidence="Atorvastatin" evidenceBegin="9639" evidenceEnd="9651" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="Atorvastatin" begin="9639" end="9651" status="0" certainty="0" code="NO-CODE" cui="C1667395;C0286651" tui="T109,T121;T200" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="a day" begin="9661" end="9666">
+<medData strength="40" strengthBegin="9655" strengthEnd="9657" strengthUnit="mg" strengthUnitBegin="9658" strengthUnitEnd="9660" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="a day" frequencyBegin="9661" frequencyEnd="9666" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M81.0" rank="342" knowledgeId="116" isDisable="0" text="osteoporosis;" isBillable="false" evidence="osteoporosis" evidenceBegin="9460" evidenceEnd="9472" cuiList="29456;" acceptRejectFlag="DEFAULT"/>
+<problem value="osteoporosis" begin="9460" end="9472" status="0" certainty="0" cui="C0029456;C1962963;S00014921" tui="T046;T047;T033;T060;T033;T060;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="C50.919" rank="147" knowledgeId="64" isDisable="0" text="malignant neoplasm;breast;" isBillable="false" evidence="malignant neoplasm_SEP_breast" evidenceBegin="9204,9226" evidenceEnd="9222,9232" cuiList="6141;6826;" acceptRejectFlag="DEFAULT"/>
+<problem value="malignant neoplasm" begin="9204" end="9222" status="0" certainty="0" cui="C0027651;C3540688;C1306459;C0006826;C2981607;C0024667;C1458155;C0006142" tui="T170;T191;T191;T061;T061;T170;T191;T060;T191" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<anatomicalStructure value="breast" begin="9226" end="9232" status="0" certainty="0" cui="C1521735;C0929301;C0006141;C1268990" tui="T080;T023" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z80.3" rank="646" knowledgeId="96" isDisable="0" text="Family History;tumor;" isBillable="false" evidence="Malignant tumor_SEP_breast" evidenceBegin="2346,2365" evidenceEnd="2361,2371" cuiList="6826;241889;" acceptRejectFlag="DEFAULT"/>
+<problem value="tumor" begin="2356" end="2361" status="2" certainty="0" cui="C0027651;C1306459;C0006826;C0024667;C3273930;C1458155;C0006142" tui="T191;T191;T191;T191;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I10" rank="999" knowledgeId="9" isDisable="0" text="Essential (primary) hypertension;" isBillable="false" evidence="Essential (primary) hypertension" evidenceBegin="9947" evidenceEnd="9979" cuiList="85580" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E78.5" rank="342" knowledgeId="116" isDisable="0" text="Hyperlipidemia;" isBillable="false" evidence="Hyperlipidemia" evidenceBegin="9689" evidenceEnd="9703" cuiList="20473;" acceptRejectFlag="DEFAULT"/>
+<problem value="Hyperlipidemia" begin="9689" end="9703" status="0" certainty="0" cui="S00002881;C1706412;C0020473" tui="T046;T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z68.24" rank="999" knowledgeId="9" isDisable="0" text="BMI;" isBillable="false" evidence="BMI" evidenceBegin="5750" evidenceEnd="5753" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<meas value="BMI" begin="5750" end="5753" status="0" certainty="1" code="EZBD001947">
+<measData value="24.6" begin="5754" end="5758" rank="1" unit="" unitBegin="" unitEnd=""/>
+</meas>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E78.5" rank="342" knowledgeId="116" isDisable="0" text="Hyperlipidemia;" isBillable="false" evidence="Hyperlipidemia" evidenceBegin="9562" evidenceEnd="9576" cuiList="20473;" acceptRejectFlag="DEFAULT"/>
+<problem value="Hyperlipidemia" begin="9562" end="9576" status="0" certainty="0" cui="S00002881;C1706412;C0020473" tui="T046;T047;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="F17.200" rank="999" knowledgeId="9" isDisable="0" text=";" isBillable="false" evidence="Current every day smoker" evidenceBegin="2558" evidenceEnd="2582" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I83.813" rank="999" knowledgeId="9" isDisable="0" text="I83.813;" isBillable="false" evidence="I83.813" evidenceBegin="10994" evidenceEnd="11001" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M79.604" rank="129" knowledgeId="128" isDisable="0" text="pain;extremities;" isBillable="false" evidence="bilateral lower extremities_SEP_pain" evidenceBegin="11021,11054" evidenceEnd="11048,11058" cuiList="230415;30193;" acceptRejectFlag="DEFAULT"/>
+<problem value="pain" begin="11054" end="11058" status="0" certainty="0" cui="C0030193;C1557397;C0242936;C1882272" tui="T046;T184;T047;T046;T046;T047;T184;T073,T093;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<anatomicalStructure value="extremities" begin="11037" end="11048" status="0" certainty="0" cui="C0023216;S20003606;S00013847;S00015316;C0278454;C0230416;S00004208;C0015385;S00004569;C0230415;C0226813" tui="T029;T023;T046;T023;T023" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M79.669" rank="98" knowledgeId="65" isDisable="0" text="pain;extremity;" isBillable="false" evidence="lower extremity_SEP_pain" evidenceBegin="10930,10964" evidenceEnd="10945,10968" cuiList="23216;30193;" acceptRejectFlag="DEFAULT"/>
+<problem value="pain" begin="10964" end="10968" status="0" certainty="0" cui="C0030193;C1557397;C0242936;C1882272" tui="T046;T184;T047;T046;T184;T073,T093;T033;T184" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<anatomicalStructure value="extremity" begin="10936" end="10945" status="0" certainty="0" cui="C0023216;C0278454;C0439746;C0015385;C0226813" tui="T082;T023;T023;T029" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="I83.90" rank="246" knowledgeId="117" isDisable="0" text="varicose veins;" isBillable="false" evidence="varicose veins" evidenceBegin="11238" evidenceEnd="11252" cuiList="42345;" acceptRejectFlag="DEFAULT"/>
+<problem value="varicose veins" begin="11238" end="11252" status="0" certainty="0" cui="C0042449;C0439652;C1278960;C0042345" tui="T082;T047;T023;T047" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="M81.0" rank="342" knowledgeId="116" isDisable="0" text="osteoporosis;" isBillable="false" evidence="osteoporosis" evidenceBegin="9530" evidenceEnd="9542" cuiList="29456;" acceptRejectFlag="DEFAULT"/>
+<problem value="osteoporosis" begin="9530" end="9542" status="0" certainty="0" cui="C0029456;C1962963;S00014921" tui="T060;T033;T046;T047;T033;T060;T033;T060;T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="E78.00" rank="65" knowledgeId="64" isDisable="0" text="High Cholesterol;" isBillable="false" evidence="High Cholesterol" evidenceBegin="3655" evidenceEnd="3671" cuiList="1522133;" acceptRejectFlag="DEFAULT"/>
+<finding value="High Cholesterol" begin="3655" end="3671" status="1" certainty="0" cui="C1522133" tui="T033" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z80.3" rank="646" knowledgeId="128" isDisable="0" text="Family History;breast;tumor;" isBillable="false" evidence="Malignant tumor_SEP_breast" evidenceBegin="2442,2461" evidenceEnd="2457,2467" cuiList="6826;241889;1268990;" acceptRejectFlag="DEFAULT"/>
+<problem value="tumor" begin="2452" end="2457" status="2" certainty="0" cui="C0027651;C1306459;C0006826;C3273930;C0024667;C1458155;C0006142" tui="T191;T033;T191;T191;T191" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<anatomicalStructure value="breast" begin="2461" end="2467" status="2" certainty="0" cui="C1521735;C0929301;C0006141;C1268990" tui="T080;T023" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z79.899" rank="999" knowledgeId="9" isDisable="0" text="atorvastatin;" isBillable="false" evidence="atorvastatin" evidenceBegin="1245" evidenceEnd="1257" cuiList="-1" acceptRejectFlag="DEFAULT"/>
+<med value="atorvastatin" begin="1245" end="1257" status="0" certainty="0" code="NO-CODE" cui="C1667395;C0286651" tui="T200;T109,T121" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="10/07/19" begin="1271" end="1279">
+<medData strength="40" strengthBegin="1258" strengthEnd="1260" strengthUnit="mg" strengthUnitBegin="1261" strengthUnitEnd="1263" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="1264" formEnd="1270" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="C50.919" rank="34" knowledgeId="16" isDisable="0" text="cancer;" isBillable="false" evidence="breast cancer" evidenceBegin="8661" evidenceEnd="8674" cuiList="678222;" acceptRejectFlag="DEFAULT"/>
+<problem value="cancer" begin="8668" end="8674" status="0" certainty="0" cui="C0050385;C1516213;C0006675;C0678222;C0998265;C0201925;C1306459;C0006826;C0019564;C0006142" tui="T191;T061;T191;T204;T059;T101;T121,T123,T196;T023" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+<Icd10CmCode>
+<code value="Z12.39" rank="325" knowledgeId="64" isDisable="0" text="malignant neoplasm;screening mammogram;" isBillable="false" evidence="screening mammogram_SEP_malignant neoplasm_SEP_breast" evidenceBegin="9309,9333,9355" evidenceEnd="9328,9351,9361" cuiList="6826;220908;" acceptRejectFlag="DEFAULT"/>
+<procedure value="screening mammogram" begin="9309" end="9328" status="0" certainty="0" cui="C0430054;C2922125;C1305399;C1705053;C0220909;C0220908;C0183185;C1710031;C0203028;C1736899;C0199230;S00006058;C0024671" tui="T060;T061;T046;T060;T061;T059;T169;T058;T074;T061;T060;T061;T061;T060" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<problem value="malignant neoplasm" begin="9333" end="9351" status="0" certainty="0" cui="C0027651;C3540688;C1306459;C2981607;C0006826;C0024667;C1458155;C0006142" tui="T061;T060;T170;T191;T061;T061;T191;T191;T170;T191" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</Icd10CmCode>
+</ezNLP>

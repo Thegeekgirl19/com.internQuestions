@@ -1,0 +1,513 @@
+9/9/2019
+Encounter - Office Visit Date of service: 05/18/18 Patient: HENRY PALMUCCI DOB: 12/20/1938 PRN: HP501785
+|PATIENT HENRY|PALMUCCI|FACILITY Village Medical Associates|ENCOUNTER NOTE TYPE|SOAP Note|
+|DOB|12/20/1938|T (203)865-6400|SEEN BY|Bjorn Ringstad|
+|AGE|80 yrs|F (203) 865-0195||physician/surgeon|
+|SEX|Male|12 Village Street|DATE|05/18/2018|
+|PRN|HP501785|North Haven, CT 06473|AGE AT DOS|79 yrs|
+||||Electronically signed physician/surgeon|by Bjorn Ringstad at 05/19/2018 09:54|
+
+am
+Chief complaint
+CPX : 10:15 AM) (Arrival time: 10:38 AM)
+Diagnoses
+|Current|ACUITY|START|STOP|
+|Body mass index (BMI) 38.0-38.9, adult|Chronic|11/16/2016||
+|Other hyperlipidemia|Chronic|11/16/2016||
+|Essential (primary) hypertension|Chronic|11/16/2016||
+|Other obesity due to excess calories|Chronic|11/16/2016||
+|Body mass index (BMI) 19 or less, adult|Chronic|10/03/2016||
+|Personal history of nicotine dependence|Chronic|10/03/2016||
+|Positional vertigo|Chronic|11/24/2014||
+|Obesity|Chronic|10/08/2014||
+|Hyperlipidemia|Chronic|08/18/2014||
+|Varices|Chronic|||
+|Benign prostatic hyperplasia|Chronic|||
+|Type 2 diabetes with diabetic neuropathy|Chronic|||
+|Primary hypertension|Chronic|||
+|Proteinuria|Chronic|||
+|Historical|ACUITY|START|STOP|
+|Balanitis|Acute|09/04/2014|07/15/2017|
+|Osteoarthritis of knee|Acute|11/04/2015|07/15/2017|
+|Recurrent urinary tract infection|Acute|09/04/2014|02/12/2016|
+|Encounter comment: to see URO by Bjorn Ringstad MD on 09/04/14||||
+|Dermatitis|Chronic||11/04/2015|
+|Unspecified essential hypertension|Chronic||10/05/2015|
+|Diabetes mellitus without mention of complication, unspecified type, not stated as uncontrolled|type Il or Chronic||10/05/2015| |Neuropathy|Chronic|10/08/2014|10/05/2015|
+|||||
+
+Active Goals
+https://static.practicefusion.com/apps/ehr/index.html?#/PF/charts/patients/4b9d2780-5912-47d4-9098-d0c7e4778830/encounter/2f18b6d4-3294-4055-... 1/3
+
+-------------------------------------------
+-------------------------------------------
+9/9/2019
+Encounter - Office Visit Date of service: 05/18/18 Patient: HENRY PALMUCCI DOB: 12/20/1938 PRN: HP501785
+DESCRIPTION
+EFFECTIVE DATE
+No active goals recorded
+Inactive Goals
+DESCRIPTION
+EFFECTIVE DATE
+No inactive goals recorded
+Subjective
+HENRY PALMUCC) has history of diabetes ,osteoarthritis, obesity ,BPH, recurrent UTIs.
+He has lately been doing quite well and has been followed by urology and also by the orthopedic surgeon
+At this point she continues to go to the gym almost every day He is married The family history is positive for father dying of a respiratory infection at 55
+His mother died at 84 of congestive heart failure He had one brother who died relatively young ofalcoholism.
+ROS
+1. Constitutional-- good appetite, normal energy level ,denies fever chills
+2. Eyes-- no glaucoma, no visual problems
+3. ENT-no hearing loss, no nosebleed no sinus pain no ringing in the ears ,no dysarthria
+4. Cardiovascular-no chest pain or pressure, no fainting spells
+5. Respiratory: no dyspnea, no asthma, no wheezing ,no coughing
+6. GI/GU-- no lower G.I. bleeding, no reflux or heartburn, no diarrhea no constipation, no nausea, no vomiting No dysuria or urinary problem.No bleeding
+7. Extremities-- no claudication ,no leg swelling
+8. Hem/lymph-- no easy bleeding, no bruising
+9. Metabolic ,/Endocrine -- no excessive thirst, no heat or cold intolerance
+10. Musculoskeletal -- no joint pains or arthritis ,no mobility limitations
+11. Skin-no growths rashes or itching
+12. Psychiatry-- no depression, no anxiety, no mood or thought disorders
+13. Neurological-denies transient paralysis, weakness, numbness, tingling seizures or tremors, No headaches
+No falls reported
+Objective
+UA negative
+Physical exam today shows him obese blood pressure is 135/85 head and neck examination is normal.
+He has no carotid bruits ,no thyroid enlargement His lungs are clear, his heart exam is normal. He is status post gallbladder surgery He has good femoral pulses -no sign of AAA
+His foot exam is normal with good footcare ,good pulses slightly decreased sensory to monofilament.
+Cardiogram shows sinus rhythm regular rhythm.
+TUG test -6
+There's no sign of depression.
+Assessment
+https://static.practicefusion.com/apps/ehr/index.html?#/PF/charts/patients/4b9d2780-5912-47d4-9098-d0c7e4778830/encounter/2f18b6d4-3294-4055-... 2/3
+
+-------------------------------------------
+-------------------------------------------
+9/9/2019
+Encounter - Office Visit Date of service: 05/18/18 Patient: HENRY PALMUCCI DOB: 12/20/1938 PRN: HP501785
+Hypertension is well-controlled.
+Diabetes in patient with Morbid Obesity.
+Osteoarthritis of the knees
+No sign of depression
+Plan
+Lab work has been ordered he's up-to-date on vaccines.
+He will again attempt to lose some weight.
+Follow-up in four months
+addendum.
+He does have a living will with his wife Francine who has power of attorney.
+Orders
+LAB ORDERS
+Vendor Order 1805MMG6 added on 05/18/18
+Quest Diagnostics (QDRT)
+22218129
+496 - HEMOGLOBIN A1C
+6517 - MICROALBUMIN, RANDOM URINE (W/CREATININE)
+7600 - LIPID PANEL, STANDARD
+10165 - BASIC METABOLIC PANEL
+IMAGING ORDERS
+No orders attached to this encounter.
+practice fusion
+https://static.practicefusion.com/apps/ehr/index.html?#/PF/charts/patients/4b9d2780-5912-47d4-9098-d0c7e4778830/encounter/2f18b6d4-3294-4055-... 3/3
+
+-------------------------------------------
+-------------------------------------------
+NOV-10-2016 03:29 From:
+To:2038650195
+Page:1/1
+EST
+Eye Surgery Associates, LLC
+BRIAN M. DEBROTF, MD, FACS ANTHONY MUSTO, MD, FACS
+VICENTE A. DIAZ, MD, MBA
+Report of Eye Exam for Diabetes Mellitus
+Date of Exam: 11-9-16
+TO (Primary Care Physician): Doctor Ringstad
+RE (Patient Name): Henry Palmucci (0.0.B. 12-10-38)
+Your patient had an examination, including dilated fundus examination, with the following findings referable to diabetes, and recommendation to the patient:
+No or minimal visible retinopathy
+annual exam rccommeded, per ADA guidelines
+www.
+Background retinopathy (BDR) without clinically significant macular edema (CSME)
+- closer follow up required (-Q4-6 M)
+CSME, rcquiring treatment
+Proliferative retinopathy (PDR) without high-risk characteristics (HRC)
+- follow-up-Q 4 M
+HRC, requiring pan-retinal scatter photocoagulation (PRP)
+O More severe:
+Please contact us if you need additional information. Thank you.
+3
+R
+O 495 HAWLEY LANE, STRATFORD, CT 06614 TEL: (203) 375-5819 FAX (203) 377-4937
+46 PRINCE STREET, SUITE 104, NEW HAVEN, CT 06519 TEL.: (203) 785-1755 FAX (203) 772-3259
+
+-------------------------------------------
+-------------------------------------------
+EYE EXAM
+System
+Category
+eye exam
+From
+Kathleen Izaguirre
+Import date
+Wed Nov 09 00:00:00 EST 2016
+Import user id 2b7dcff2-f13b-47b3-b460-6aa5c1919084
+Import user name Kathleen Izaguirre
+Message (as HTML) -
+Notify doctor true
+Sent
+Wed Nov 09 14:29:07 EST 2016
+Signing user id 7fc848a2-fbac-47dd-95f0-61cacf060f68
+Sign off
+false
+Subject
+EYE EXAM
+To
+HENRY PALMUCCI (1938-12-20, HP501785)
+
+-------------------------------------------
+-------------------------------------------
+9/9/2019
+Order #WC730106L
+Lab Results for PALMUCCI, HENRY (Male, 12/20/1938) practice fusion
+Laboratory
+Collection: 07/16/2019 08:02 am
+Order #: WC730106
+Accession #: WC730106L
+Name:
+Quest Diagnostics (QDRT)
+Patient information
+Requesting Provider
+Name: Bjorn Ringstad
+Patient ID:
+Home:
+Mobile:
+Address:
+HP501785
+203-468-6916
+203-687-6957
+642 SMITH AVE
+NEW HAVEN, CT 06513
+Attachments
+attachment1
+Vendor note: FASTING:YES
+FASTING: YES
+COPY(IES) SENT TO:
+|Observations|Result|Reference / UoM|Date/Status|
+|COPY(IES) SENT TO: 1|||07/17/2019 07:26 pm|
+
+Vendor note :
+PALMUCCI HENRY
+642 SMITH AVE
+NEW HAVEN,CT
+06513
+LIPID PANEL WITH REFLEX TO DIRECT LDL
+|Observations|Result|Reference / UoM|Date/Status|
+|CHOLESTEROL, TOTAL 2|150|<200 mg/dL|07/17/2019 07:26 pm|
+
+LIPID PANEL WITH REFLEX TO DIRECT LDL
+|Observations|Result|Reference / UoM|Date/Status|
+|HDL CHOLESTEROL 2|38|>40 mg/dL Below low normal|07/17/2019 07:26 pm|
+
+LIPID PANEL WITH REFLEX TO DIRECT LDL
+|Observations|Result|Reference / UoM|Date/Status|
+|TRIGLYCERIDES 2|213|<150 mg/dL Above high normal|07/17/2019 07:26 pm|
+
+ 
+LIPID PANEL WITH REFLEX TO DIRECT LDL
+|Observations|Result|Reference / UoM|Date/Status|
+|LDL-CHOLESTEROL 2|81|mg/dL (calc)|07/17/2019 07:26 pm|
+
+https://static.practicefusion.com/apps/ehr/index.html?#IPF/charts/patients/4b9d2780-5912-47d4-9098-d0c7e4778830/results/d2d0fa3d-6509-4075-945... 1/3
+
+-------------------------------------------
+-------------------------------------------
+9/9/2019
+Order #WC730106L
+Result
+Reference / UOM
+Date/Status
+Observations
+Vendor note: Reference range: <100
+Desirable range <100 mg/dL for primary prevention;
+ < 70 mg/dL for patients with CHD or diabetic patients with > or = 2 CHD risk factors.
+LDL-C is now calculated using the Martin-Hopkins calculation, which is a validated novel method providing better accuracy than the Friedewald equation in the estimation of LDL-C.
+Martin SS et al. JAMA. 2013;310(19): 2061-2068
+(http://education. QuestDiagnostics.com/faq/FAQ164 (http://education. QuestDiagnostics.com/faq/FAQ164))
+LIPID PANEL WITH REFLEX TO DIRECT LDL
+|Observations|Result|Reference / UoM|Date/Status|
+|CHOL/HDLC RATIO 2|3.9|<5.0 (calc)|07/17/2019 07:26 pm|
+
+LIPID PANEL WITH REFLEX TO DIRECT LDL
+|Observations|Result|Reference / UoM|Date/Status|
+|NON HDL CHOLESTEROL 2|112|<130 mg/dL (calc)|07/17/2019 07:26 pm|
+
+Vendor note : For patients with diabetes plus 1 major ASCVD risk factor, treating to a non-HDL-C goal of <100 mg/dL
+(LDL-C of<70 mg/dL) is considered a therapeutic option.
+MICROALBUMIN, RANDOM URINE (W/CREATININE)
+|Observations|Result|Reference / UoM|Date/Status|
+|CREATININE, RANDOM URINE 2|40|20-320 mg/dL|07/17/2019 07:26 pm|
+
+MICROALBUMIN , RANDOM URINE ( W / CREATININE )
+|Observations|Result|Reference / UoM|Date/Status|
+|MICROALBUMIN 2|9.9|See Note: mg/dL|07/17/2019 07:26 pm|
+
+Vendor note : Reference Range :
+Reference Range
+Not established
+MICROALBUMIN/CR ... RATIO, RANDOM URINE 2
+248
+07/17/2019 07:26 pm
+<30 mcg/mg creat
+Above high normal
+Vendor note:
+The ADA defines abnormalities in albumin
+excretion as follows:
+Category
+Result (mcg/mg creatinine)
+Normal
+<30
+Microalbuminuria 30-299
+Clinical albuminuria > OR = 300
+The ADA recommends that at least two of three specimens collected within a 3-6 month period be abnormal before considering a patient to be within a diagnostic category.
+BASIC METABOLIC PANEL
+Observations
+Result
+Reference / UOM
+Date/Status
+https://static.practicefusion.com/apps/ehr/index.html?#/PF/charts/patients/4b9d2780-5912-47d4-9098-d0c7e4778830/results/d2d0fa3d-6509-4075-945... 2/3
+
+-------------------------------------------
+-------------------------------------------
+9/9/2019
+Order #WC730106L
+|Observations|Result|Reference / UoM|Date/Status|
+|GLUCOSE 2|186|65-99 mg/dL Above high normal|07/17/2019 07:26 pm|
+
+ 
+Vendor note:
+Fasting reference interval
+07/17/2019 07:26 pm
+07/17/2019 07:26 pm
+For someone without known diabetes, a glucose value >125 mg/dL indicates that they may have diabetes and this should be confirmed with a follow-up test
+UREA NITROGEN (BUN) 2
+17
+7-25 mg/dL
+CREATININE 2
+0.90
+0.70-1.11 mg/dL
+Vendor note: For patients >49 years of age, the reference limit for Creatinine is approximately 13% higher for people
+|identified as African-American.||||
+|eGFR NON-AFR. AMERICAN 2|80|> OR = 60 mL/min/1.73m2|07/17/2019 07:26 pm|
+|eGFR AFRICAN AMERICAN 2|93|> OR = 60 mL/min/1.73m2|07/17/2019 07:26 pm|
+|BUN/CREATININE RATIO 2|NOT APPLICABLE|6-22 (calc)|07/17/2019 07:26 pm|
+|SODIUM 2|137|135-146 mmol/L|07/17/2019 07:26 pm|
+|POTASSIUM 2|4.2|3.5-5.3 mmol/L|07/17/2019 07:26 pm|
+|CHLORIDE 2|101|98-110 mmol/L|07/17/2019 07:26 pm|
+|CARBON DIOXIDE 2|23|20-32 mmol/L|07/17/2019 07:26 pm|
+|CALCIUM 2|9.3|8.6-10.3 mg/dL|07/17/2019 07:26 pm|
+
+HEMOGLOBIN A10
+|Observations|Result|Reference / UoM|Date/Status|
+|HEMOGLOBIN A1c 2|8.1|<5.7 % of total Hgb Above high normal|07/17/2019 07:26 pm|
+
+ 
+Vendor note : For someone without known diabetes , a hemoglobin Alc value of 6.5% or greater indicates that they may have diabetes and this should be confirmed with a follow-up test.
+For someone with known diabetes, a value <7% indicates that their diabetes is well controlled and a value greater than or equal to 7% indicates suboptimal control. Ale targets should be individualized based on duration of diabetes, age, comorbid conditions, and other considerations.
+Currently, no consensus exists regarding use of hemoglobin Alc for diagnosis of diabetes for children.
+PDF Report1
+|Observations|Result|Reference / UoM|Date/Status|
+|See Attachment|||07/16/2019 08:02 am|
+
+Performing Laboratory
+QUEST DIAGNOSTICS
+1
+-
+null
+2 Quest Diagnostics LLC-Quest Diagnostics LLC-Salim
+200 Forest St, 3Rd FI, Suite B
+Marlborough, MA 01752-3023
+https://static.practicefusion.com/apps/ehr/index.html?#IPF/charts/patients/4b9d2780-5912-47d4-9098-d0c7e4778830/results/d2d0fa3d-6509-4075-945... 3/3
+
+-------------------------------------------
+-------------------------------------------
+9/9/2019
+Order #WC449993H
+Lab Results for PALMUCCI, HENRY (Male, 12/20/1938) practice fusion
+Laboratory
+Collection: 04/08/2019 08:24 am
+Order #: WC449993H
+Accession #: WC449993H
+Name:
+Quest Diagnostics (QDRT)
+Patient information
+Requesting Provider
+Name: Bjorn Ringstad
+Patient ID:
+Home:
+Mobile:
+Address:
+HP501785
+203-468-6916
+203-687-6957
+642 SMITH AVE
+NEW HAVEN, CT 06513
+Attachments
+attachment1
+COPY(IES) SENT TO:
+|Observations|Result|Reference / UoM|Date/Status|
+|COPY(IES) SENT TO: 1|.||04/09/2019 03:40 pm|
+
+Vendor note :
+PALMUCCI HENRY
+642 SMITH AVE
+NEW HAVEN,CT
+06513
+MICROALBUMIN, RANDOM URINE (W/CREATININE)
+|Observations|Result|Reference / UoM|Date/Status|
+|CREATININE, RANDOM URINE 2|140|20-320 mg/dL|04/09/2019 03:40 pm|
+
+MICROALBUMIN, RANDOM URINE (W/CREATININE)
+|Observations|Result|Reference / UoM|Date/Status|
+|MICROALBUMIN 2|11.9|See Note: mg/dL|04/09/2019 03:40 pm|
+
+Vendor note: Reference Range:
+Reference Range
+Not established
+MICROALBUMIN/CR ... RATIO, RANDOM URINE 2
+85
+04/09/2019 03:40 pm
+<30 mcg/mg creat
+Above high normal
+Vendor note:
+The ADA defines abnormalities in albumin
+excretion as follows:
+Category
+Result (mcg/mg creatinine)
+Normal
+<30
+Microalbuminuria 30-299
+Clinical albuminuria > OR = 300
+The ADA recommends that at least two of three specimens collected within a 3-6 month period be abnormal before considering a patient to be within a diagnostic category.
+BASIC METABOLIC PANEL
+https://static.practicefusion.com/apps/ehr/index.html?#IPF/charts/patients/4b9d2780-5912-47d4-9098-d0c7e4778830/results/5909d44c-26b9-4acc-a7...
+1/2
+
+-------------------------------------------
+-------------------------------------------
+9/9/2019
+Order #WC449993H
+|Observations|Result|Reference/UoM|Date/Status|
+|GLUCOSE 2|201|65-99 mg/dL Above high normal|04/09/2019 03:40 pm|
+
+ 
+Vendor note:
+Fasting reference interval
+04/09/2019 03:40 pm
+04/09/2019 03:40 pm
+For someone without known diabetes, a glucose value >125 mg/dL indicates that they may have diabetes and this should be confirmed with a follow-up test
+UREA NITROGEN (BUN) 2
+17
+7-25 mg/dL
+CREATININE 2
+1.02
+0.70-1.11 mg/dL
+Vendor note: For patients >49 years of age, the reference limit for Creatinine is approximately 13% higher for people
+|identified as African-American.||||
+|eGFR NON-AFR. AMERICAN 2|69|> OR = 60 mL/min/1.73m2|04/09/2019 03:40 pm|
+|eGFR AFRICAN AMERICAN 2|80|> OR = 60 mL/min/1.73m2|04/09/2019 03:40 pm|
+|BUN/CREATININE RATIO 2|NOT APPLICABLE|6-22 (calc)|04/09/2019 03:40 pm|
+|SODIUM 2|138|135-146 mmol/L|04/09/2019 03:40 pm|
+|POTASSIUM 2|4.7|3.5-5.3 mmol/L|04/09/2019 03:40 pm|
+|CHLORIDE 2|101|98-110 mmol/L|04/09/2019 03:40 pm|
+|CARBON DIOXIDE 2|24|20-32 mmol/L|04/09/2019 03:40 pm|
+|CALCIUM 2|9.6|8.6-10.3 mg/dL|04/09/2019 03:40 pm|
+
+HEMOGLOBIN A10
+|Observations|Result|Reference / UoM|Date/Status|
+|HEMOGLOBIN A1c 2|7.3|<5.7 % of total Hgb Above high normal|04/09/2019 03:40 pm|
+
+ 
+Vendor note : For someone without known diabetes , a hemoglobin Alc value of 6.5% or greater indicates that they may have diabetes and this should be confirmed with a follow-up test.
+For someone with known diabetes, a value <7% indicates that their diabetes is well controlled and a value greater than or equal to 7% indicates suboptimal control. Alc targets should be individualized based on duration of diabetes, age, comorbid conditions, and other considerations.
+Currently, no consensus exists regarding use of hemoglobin Alc for diagnosis of diabetes for children.
+PDF Report1
+|Observations|Result|Reference / UoM|Date/Status|
+|See Attachment|||04/08/2019 08:24 am|
+
+Performing Laboratory
+QUEST DIAGNOSTICS
+1
+-
+null
+2 Quest Diagnostics LLC-Quest Diagnostics LLC-Salim
+200 Forest St, 3Rd FI, Suite B
+Marlborough, MA 01752-3023
+https://static.practicefusion.com/apps/ehr/index.html?#IPF/charts/patients/4b9d2780-5912-47d4-9098-d0c7e4778830/results/5909d44c-26b9-4acc-a7...
+2/2
+
+-------------------------------------------
+-------------------------------------------
+Fax Server
+3/8/2017 7:24:48 PM
+PAGE
+47007
+Fax Server
+Palmucci, Henry (MR # MR1945544)
+Page 3 of 6
+Routed Notes (continued)
+H&P by Bhutta, Abdul, MD at 3/8/2017 7:15 PM (continued)
+Vitals:
+I have reviewed the patient's current vital signs as documented in the patient's EMR.
+Last 24 hours: Temp: [97.6 F (36.4 C)-102.2 F (39 C)] 97.9 F (36.6 C)
+Pulse: [77-91] 80
+Resp: [16-20] 20
+BP: (100-171)/(76-84) 171182
+SpO2: [93 %-98 %] 93 %
+Rhysical Exam
+Physical Exam
+Constitutional: He is oriented to person, place, and time. He appears well-developed and well-nourished.
+Head: Normocephalic and atraumatic.
+Mouth/Throat: Oropharynx is clear and moist.
+Eyes: Conjunctivae and EOM are normal. Pupils are equal, round, and reactive to light.
+Neck: Normal range of motion. Neck supple. No thyromegaly present.
+Cardiovascular: Normal rate, regular rhythm and normal heart sounds.
+Pulmonary/Chest: Effort normal and breath sounds normal. He has no wheezes.
+Abdominal/GI: Soft. Bowel sounds are normal. He exhibits no distension. There is no tenderness.
+Musculoskeletal: Normal range of motion.
+Lymphadenopathy: He has no cervical adenopathy.
+Neurological: He is alert and oriented to person, place, and time. No cranial nerve deficit.
+Skin: Skin is warm and dry.
+Psychiatric: He has a normal mood and affect. His behavior is normal. Judgment and thought content normal.
+Labs:
+I have reviewed the patient's labs within the last 24 hrs.
+Last 24 hours:
+Recent Results from the past 24 hours
+Lipase
+Collection Time: 03/08/17 1:35 PM
+|Result|Value|Ref Rangs|
+|Lipase|22|<60 U/L|
+|cac auto differential Collection Time: 03/08/17 1:35 PM|||
+|Result|Value|Ref Range|
+|WBC|3.8 (L)|4.0 10.0 x1000/uL|
+|RBC|4.3|3.8 5.9 M/uL|
+|Hemoglobin|12.5|12.0 18.0 g/dL|
+|Hematocrit|37.5|37.0 52.0 %|
+|MCV|87.6|78.0 94.0 fL|
+|MCHC|33.3|31.0 36.0 g/dL|
+|RDW-CV|13.5|11.0 18.0 %|
+|Platelets|122 (L)|140 440 x1000/uL|
+|MPV|9.7|6.0 11.0 fL|
+|ANC (Abs Neutrophil Count)|2.4|1.0 11.0 X 1000/uL|
+|Neutrophils|62.1|37.0 84.0 %|
+|Lymphocytes|22.2|8.0 49.0 %|
+|Absolute Lymphocyte Count|0.8 (L)|1.0 4.0x 1000/uL|
+|Monocytes|15.1 (H)|4.0 15.0 %|
+|Monocyte Absolute Count|0.6|0.0 2.0x 1000/uL|
+|Eosinophils|0.3|0.0 7.0 %|
+|Eosinophil Absolute Count|0.0|0.0 1.0x 1000/uL|
+|Basophil|0.0|0.0 4.0 %|
+|Basophil Absolute Count|0.0|0.0 - 0.0: X 1000/uL|
+
+- - - - - - - - - - - - - - - - -
+
+-------------------------------------------
+-------------------------------------------

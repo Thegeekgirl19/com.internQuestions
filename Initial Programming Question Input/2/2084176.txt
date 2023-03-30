@@ -1,0 +1,633 @@
+NextGen Patient Record
+Name: Canny, Genevieve
+DOB: 03/05/1933
+Collection Date & Time
+05/29/2018
+12:28
+BASIC METABOLIC P-
+ANION GAP
+11
+BLOOD UREA NITRO. 38
+BUN/CREAT RATIO
+31.7
+CALCIUM
+9.3
+CHLORIDE
+105
+CO2
+25
+CREATININE
+1.20
+EGFR (AFR AMER) 52
+EGFR (NON AFRICAN... 43
+GLUCOSE
+81
+POTASSIUM
+49
+SODIUM
+141
+I-I-DI-----
+
+-------------------------------------------
+-------------------------------------------
+2/005
+Electradiszlassigned By: Nawaz, Hafsa 29 PX1%8190413486 M AM PAGE
+Yale NewHaven
+Yale-New Haven Hospital
+Health
+Yale New Haven
+Hospital
+Fax Server
+Patient: Canny, Genevieve
+MRN: MR583007
+20 York Street, New Haven CT 05510
+Brien R. Smith MD Medical Director
+Phone: 800 305 3278 Fax: 203 688 8569 www ynnh.org
+Final Report
+Canny, Genevieve MR583007
+F. 84 yrs, 3/5/1933
+DRAW WH
+H: 203-934-4968
+Ordering Provider: Nawaz, Hatsa
+Mushtaq, MD
+Cancelled
+Deelgth
+See Abnormal Values: Hemoglobin A1C (H), Vitamin B12 (H), CEC and Differential (H), Comprehensive Metabolic Panel
+(H)
+Report Recipient: Nawaz, Hafsa Mushtaq, MD
+Hematology
+||12/12/17 1029 R1 Range||
+|WBC|5,2 4.0-10.0||
+|RBC|4.3 3.9-5,9||
+|Hemoglobin|13.5 12.0-18.0|g/dL|
+|Hematocrit|41.5 37,0-52.0|%|
+|MCV|97.4 (H) 75.094,0|fl|
+|MCHC|32.5 31.0.38.0|g/dl.|
+|RDW-CV|12.2 11.5-145|%|
+|Platelets|266 140-440|x1000)L|
+|MPV|11.6 (H) 5.0-11.0|IL|
+|ANC (Abs Neutrophil Count)|2.8 1.0-11.0|x|
+|Neutrophils|54.2 37.0-940|%|
+|Lymphocytes|33.9 8.0-49.0|%|
+|Absolute Lymphocyte Count|1.8 1.0-4.0|x 1000/LL|
+|Monocytes|9.6 4.0-15.0|%|
+|Monocyte Absolute Count|0,5 0.0-2.0|x 1000/pl.|
+|Eosinophils|1.3 0.0-7.0|%|
+|Eosinophil Absolute Count|0.1 0.0-1.0|N 1000/ul.|
+|Basophil|0.8 0.0-40|%|
+|Basophil Absolute Count|00 0.0-0 0|x 1000/ul.|
+|Immature Granulecytes|0.2 0.0-3.0|%|
+|Absolute Immature Granulocyte Count|0.0 0.0-0.3|x|
+|nRBC|0.0 0.0-1.0|%|
+|Absolute nRBC|0.0 0.0-0.0|* 1000(pt.|
+|MICH|31.7 (H) 27.0-31.0|pg|
+|Performing Lab(s)|YNHH SRC LAB||
+
+1000
+.
+R1
+Effective July 6, 2017, Bridgeport Greenwich, North Haven Medical Center, Trumbull Pediatric Hematology Oncology Lab, Smilow
+Care Centers SRC, Shoreline Laboratories and York Street will have new reference ranges for RDWY
+11.5-14.5%
+Chemistry
+Result Flag Key: H- High
+Page 1 of 4
+Printed: 12/14/2017 4:06 AM
+Patient Canny, Genevieve MRN, MR583007
+
+-------------------------------------------
+-------------------------------------------
+2032851261
+12/14/2017 4:14:34 AM
+PAGE
+3/005
+Fax Server
+Patient: Canny, Genevieve
+MRN: MR583007
+Yale New Haven
+Health
+Yale New Haven
+Hospital
+Yale-New Haven Hospital
+20 York Street, New Haven CT 06510
+Stian R Sath MD - Medical Director
+Phone: 800 306.3278 Fax. 203.688.8569
+www yrihihi.org
+Final Report
+SHEMISTRY
+12/12/17 1029
+Range
+|Cholesterol C1|||196|DI|See Comment mg/dL|
+|Total Cholesterol|(mg/dL) Adults|(>18 years) Children (<18 years)||||
+|Desirable Borderline-High High| < 200 200-239 > =240| < 170 170-199 > =200||||
+|HDL|||78||>=40 mgld.|
+|Triglycerides C2|||137|02|e-150 mg/dL|
+|Triglycerides (mg/dL)|Adults (>18|years) Children (<18 years)||||
+|Desirable Borderline-High High|<150 150-199 200-499|Not Established Not Established Not Established||||
+|Chol/HDL Ratio|||2.5||<=5|
+|LDL Calculated C3|||91|G3|See Comment mg/dl.|
+|LDL Cholesterol|(mg/dL) Adults|(>18 years) Children (<18 years)||||
+|||||||
+|Desirable Above Desirable Borderline-High High| < 100 100-129 130-159 160-189| < 110 Not Established 110-129 > =130||||
+|Very High|>=190|Not Established||||
+|Thyroid Stimulating Hormone|||0.945||0.270-4.200|
+|Sodium|||141||136-145 mmol/L|
+|Potassium|||5.7|(H)|3.3-5.0 mmol/L|
+|Chloride|||103||98-108 mmol/L|
+|CO2|||26||22-29 mmol/L|
+|Anion Gap|||12||7-17|
+|Glucose|||115|(H)|70-100 mg/dl|
+|BUN|||29|(H)|8-23 mg/dL|
+|Creatinine|||1.20||0.50-1.20 mg/dl|
+|Calcium|||9,5||6.8-10.2 mg/al.|
+|BUN/Creatinine Ratio|||24.2|(H)|10.0-20.0|
+|Total Protein|||7.5||6.6-8.7 grdt|
+|Albumin|||4.5||3.9-4.9 gidl|
+|Total Bilirubin|||0.6||0.0-1.2 mg/dl.|
+|Alkaline Phosphatase|||80||35-104 un|
+|Alanine Aminotransferase|(ALT)||12||0-33 UIL|
+|Aspartate Aminotransferase|(AST)||25||0.32 U/L|
+
+(
+)
+(
+(
+ml
+esult Flag Key : H- High
+(
+(
+( (
+Page 2 of 4
+Printed: 12/14/2017 4:06 AM
+Patient Carny Gonoviove MRN: MR583007
+
+-------------------------------------------
+-------------------------------------------
+2032851261
+12/14/2017 4:14:34 AM
+PAGE
+47005
+Fax Server
+Patient Canny, Genevieve
+MRN: MR583007
+Yale New Haven
+Health
+Yale New Haven
+Hospital
+Yale-New Haven Hospital
+20 York Street, New Haven CT 06510
+Brian Smith MD - Medical Director
+Phone: 800.305 3276 Fax: 203.668.6559
+R.
+www.yrhhory
+Final Report
+||12/12/17 1029|Range|
+|Globulin|3.0|2.3-3.5 gidl.|
+|A/G Ratio|1.5|1.0-2.2|
+|AST/ALT Ratio|2.1|0.3-4.9|
+|eGFR (Afr Amer)|52 CA|>50 mU/min/1.73|
+|C4 Values under 60mL/min/1 73m2 may indicate CKD if noted for more than 3 months. eGFR is only valid if creatinine is at steady state.||m2|
+|eGFR (NON African-American) C5 Values under 60mL/min/1.73m2 may indicate CKD if noted for more than 3 months. eGFR is only valid if creatinine is at steady state.|43 CS|>00 mUmin/1.73 m2|
+|Vitamin B12|1500 (H)|211-948 pgiml|
+|Performing Lab(s)|YNHH SRC LAB||
+|Vitamin D-25 Hydroxy (Final result)|||
+|Value||Range|
+|Vit D, 25-Hydroxy 42||20-50|
+|A serum 25(OH) vitamin D concentration of at least 20 ng/mL is necessary to prevent secondary hyperparathyroidism. For reducing fracture risk or optimizing skeletal muscle function, higher serum vitamin|||
+
+ml 25 ( OH ) in the range of 30 ng / ml , to be optimal Blood specimen 17R - 346YL0039 from Unspecified Ordered by Unspecified . Authorized by Nawaz , Hatsa Mushtaq MD Collected : 12/12/2017 1029 Received : 1029. Resulted 12/13/2017 1320 by YSM LAB .
+D
+values, thought are
+Immunology/Serology
+IMMUNOLOGY/SEROLOGY
+||12/12/17 1029|Range|
+|Hemoglobi A1c|6.1 (H) 01|4 10-5.6 %|
+|a Hemoglobin A1c values of 5.7-6.4 % identify individuals with an increased risk for future diabetes and to whom the term pre-diabetes may be applied. Hemoglobin A1c values greater than 6.4% on more than one occasion are diagnostic of diabetes. Lowering HbA1c to below 7% is considered to reduce microvascular and neuropathic complications of diabetes.||| |This boronate affinity Hb A1c method provides accurate analytical results in the presence of nearly all Hb variants.|||
+|Hb F higher than 10% of total Hb may yield falsely low|||
+|results. Conditions that shorten red cell survival, such as|||
+|the presence of unstable hemoglobins like Hb SS, Hb CC, and|||
+|Hb SC, or other causes of hemolytic anemia may yield falsely|||
+|low results. Iron deficiency anemia may yield falsely high results.|||
+
+Result Flag Key : H. High
+Page: 3 of 4
+Printed: 12/14/2017 4:06 AM
+Patient Carny, Genevieve MRN: MR583007
+
+-------------------------------------------
+-------------------------------------------
+ElectroboatesizesBy: Wu Rivas, Lena MQ 10/29394
+65 PM PAGE
+27004
+Fax Server
+Yale Medicine
+CARDIOVASCULAR MEDICINE
+Yali/NewHavanda
+YM Cardiovascular Medicine at B4 North Main Street
+Joseph J Brennan, MD
+84 North Main Street
+Branford CT 06406
+Phone 203.483-8300
+Fax 203-83-8314
+October 11, 2018
+Lena Wu Rivas, MD
+477 Boston Post Rd
+Orange CT 06477-3548
+Patient: Genevieve Canny
+MR Number: MR583007
+Date of Birth: 3/5/1933
+Date of Visit: 10/11/2018
+Dear Dr. Wu Rivas:
+Thank you for referring Genevieve Canny to me for evaluation. Attached is my progress note from the visit.
+Subjective:
+Chief Complaint: Ms. Genevieve Canny comes in today for a follow up evaluation of ectopy
+History of Present Illness:
+The patient presents for followup. She had last been seen by me in March of this year. She had been referred because of an abnormal electrocardiogram. The electrocardiogram had noted to have both ventricular and supraventricular ectopy. She underwent a Holter monitor which revealed 7951 PVCs (3.7% of total QRSs) as well as supraventricular ectopy with 2069 supraventricular ectopic beats. There was no atrial fibrillation noted.
+There was no nonsustained ventricular tachycardia. She underwent an echocardiogram which was normal, No treatment was indicated therefore for her ectopy.
+She continues to remain extremely active. She did have an ornament fall on her left foot while shopping at
+Home Goods. This has led to a protracted period of physical therapy and some reduction in her usual activity.
+She has had no chest discomfort. She denies symptomatic palpitations, presyncope or syncope.
+Medicali listorya
+Patient's medications, allergies, problem list, past medical, surgical, social and family histories were reviewed and updated as appropriate.
+Meflications
+Current Medications
+Sig
+RE: Canny, Genevieve -- MR# MR583007
+Page 2
+
+-------------------------------------------
+-------------------------------------------
+2032851281
+10/11/2018 5:22:05 PM
+PAGE
+3/004
+Fax Server
+ 
+|aspirin 81 MG EC tablet|Take 81 mg by mouth 2 (two) times daily (0800, 1800)||
+|calcium-vitamin D 250-100 mg-unit per tablet|Take 1 tablet by mouth 2 (two) times daily.||
+|dexlansoprazole (DEXILANT) 60 mg CpDM|Take 60 mg by mouth daily,||
+|fish oll-omega-3 fatty acids 1,000 mg capsule|Take 2 g by mouth.||
+|fosinopril (MONOPRIL) 40 MG tablet|Take 40 mg by mouth once daily.||
+|levothyroxine (SYNTHROID, LEVOTHROID) 88 MCG tablet|Take 88 mcg by mouth Daily.||
+|multivitamin capsule|Take 1 capsule by mouth daily.||
+|naproxen sodium (ANAPROX) 220 MG tablet|Take 220 mg by mouth 2 (two) times daily with breakfast and dinner,||
+|omeprazole (PRILOSEC) 20 MG capsule|Take 20 mg by mouth daily.||
+|PARoxetine (PAXIL) 10 MG tablet simvastatin (ZOCOR) 20 MG tablet|Take 10 mg by mouth Daily. Take 20 mg by mouth Daily.||
+|triamterene-hydrochlorothiazide (MAXZIDE-25)37.5-25 mg per tablet|Take by mouth Daily.||
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Review of Systems:
+The following ROS documentation is the transcribed Review of System completed by the patient at intake:
+Review of Systems
+Cardiovascular: Positive for leasing
+Musculoskeletal: Positive for arthintis, back up and joint selle
+The remainder of the 12 point review of systems was reviewed with the patient and is negative.
+Obiective:
+Vital Signs:
+BP 126/80 (Site: ra, Position: Sitting, Cuff Size: Medium) | Pulse 80 Ht 5' (1.524 m) Wt 59 kg | BMI 25.39 kg/m2 (130
+lbs.)
+W Readings from last 3 Encounters:
+10/11/18
+I
+I
+59 kg
+03/14/18
+63,3 kg
+04/19/17
+68 kg
+Physical Exam
+GENERAL: On exam, she appears much younger than her stated age. VITAL SIGNS her blood pressure is
+126/80, heart rate of 80 and regular, though there are frequent extrasystoles. CHEST: Her chest is clear.
+HEART: Her cardiac exam reveals frequent extrasystoles without murmur or gallop. There are no carotid
+RE: Canny, Genevieve -- MR#: MR583007
+Page 3
+
+-------------------------------------------
+-------------------------------------------
+2032851261
+10/11/2018 5:22:05 PM
+PAGE
+4/004
+Fax Server bruits. EXTREMITIES: There is no lower extremity edema, though there is some asymmetric enlargement of the dorsum of her left foot related to her injury.
+Stress Test:
+None
+ECG:
+NSR PVCs/PACS
+Assessment and Rian
+The patient is doing well from a cardiovascular perspective. I have not made any medical changes. We have discussed the options of treating both her ventricular and supraventricular ectopy with the use of beta blockade. I do not feel that it is indicated. She does not wish to consider medical therapy. I have, therefore, made no changes. She will continue to be seen in this office at 9.6 month intervals or sooner should symptoms dictate.
+Signed:
+Electronically signed by Joseph Jareniran, MD, October 11, 2018
+Sincerely, Electronically signed by Joseph J Brennan, MD 
+RE: Canny, Genevieve -- MR#: MR583007
+Page 4
+
+-------------------------------------------
+-------------------------------------------
+CONTENTS
+Encounter: 5/29/2018 11:15:00 AM
+Master_lm
+Canny, Genevieve 000000006577 03/05/1933 05/29/2018 11:15 AM 217
+PATIENT: Genevieve Canny
+DATE OF BIRTH: 03/05/1933
+DATE: 05/29/2018 11:15 AM
+VISIT TYPE: Office Visit
+This 85 year old female presents for Follow Up of hypertension, Follow Up of HYPOTHYROIDISM and Hyperlipidemia *
+History of Present Illness:
+1. Follow Up of hypertension
+The HTN started in 1985. The symptoms began 33 years ago. The severity has been described as being mild-moderate.
+Risk factors include age over age 60. Pertinent negatives include chest pain, fatigue and headache.
+2. Follow Up of HYPOTHYROIDISM
+The symptoms began 24 years ago. The symptoms are reported as being moderate. The symptoms occur constantly. The location is THYROID. Relieving factors include LEVOTHYROXINE.
+3. Hyperlipidemia *
+Duration of disorder: 33 Years. The severity of the problem is moderate. The problem is controlled with medication.
+Patient compliance with medication is good and with follow up is good. Reasons for screening do not include alcohol use.
+Pertinent negatives include abdominal pain, bloating, chest pain, fatigue and headache.
+PROBLEM LIST:
+Problem Description Onset Date Chronic
+Hyperlipidemia 03/07/2014 Y
+Chronic GERD 05/29/2018 N
+Contusion 02/21/2014 Y
+Sprain of ankle 02/21/2014 Y
+Shoulder joint pain 02/21/2014 Y
+Joint pain in ankle and foot 02/21/2014 Y
+Hypothyroidism 03/07/2014 Y
+PAST MEDICAL/SURGICAL HISTORY (Detailed)
+DIAGNOSTICS HISTORY:
+Test Ordered Interpretation Result completed
+X-RAY EXAM OF WRIST Left wrist
+10/21/2014 see scanned
+report
+06/07/2016
+MAMMOGRAM, SCREENING negative See scanned report. 09/22/2016
+EYE EXAM PT GOES YRLY 03/16/2016
+EYE EXAM PT GOES YRLY 03/14/2017
+
+-------------------------------------------
+-------------------------------------------
+Test Ordered Ordering Comments Modifier
+X-RAY EXAM OF WRIST Left wrist
+10/21/2014
+MAMMOGRAM, SCREENING
+EYE EXAM
+Canny, Genevieve 000000006577 03/05/1933 05/29/2018 11:15 AM 3/7
+EYE EXAM
+Family History (Detailed)
+Relationship Family Member Name Deceased Age at Death Condition Onset Age Cause of Death
+Father Y
+Father Y Hypertension N
+Mother Hypertension N
+Mother Coronary artery disease
+N
+SOCIAL HISTORY (Detailed)
+Preferred language is English.
+MARITAL STATUS/FAMILY/SOCIAL SUPPORT
+Currently widowed.
+Has children:
+Smoking status: Never smoker.
+CAFFEINE
+The patient uses caffeine: tea and chocolate. - 4 cups a day.
+LIFESTYLE
+Moderate activity level. Exercises 2-3 a week.
+DIET
+healthy.
+HOME ENVIRONMENT/SAFETY
+Carbon monoxide detector at home.
+The patient is at risk for falls.
+The Patient has fallen 1 times in the last year.
+The fall(s) resulted in injury. Details: HEMATOMA ON LEG SWELING.
+Uses seat belts.
+Advance Directives
+Reviewed
+Medications (active prior to today)
+Medication Name Sig Desc Start Date Stop Date Refilled Elsewhere aspirin 81 mg
+tablet,delayed release
+take 1 tablet by oral route
+every day
+// 05/29/2018 05/29/2018 Y
+Aleve 220 mg tablet take 1 tablet by oral route every 12 hours as needed
+// Y
+times
+
+-------------------------------------------
+-------------------------------------------
+Multi Vitamin 9 mg
+iron/15 mL oral liquid
+take 1 capsule by oral route
+every morning for 1
+morning
+11/16/2015 N
+Citracal with Vitamin D
+Maximum 315 mg-250
+unit tablet
+take 1 capsule by oral route
+every morning for 1
+morning
+11/16/2015 N
+Glucosamine Msm 1,500
+mg-500 mg/30 mL oral
+liquid
+take 1 capsule by oral route
+every morning for 1
+morning
+11/16/2015 N
+Fish Oil 100 mg-160
+mg-1,000 mg capsule
+take 1 each by oral route
+every day for 1 day
+11/16/2015 N
+Grape Seed 25 mg
+capsule
+take 1 capsule by oral route
+every morning for 1
+morning
+11/16/2015 N
+Canny, Genevieve 000000006577 03/05/1933 05/29/2018 11:15 AM 417
+Co Q-10 200 mg capsule take 1 capsule by oral route every morning for 1 morning
+11/16/2015 N fosinopril 40 mg tablet take 1 tablet by oral route every day
+01/16/2018 01/16/2018 N
+triamterene 37.5
+mg-hydrochlorothiazide
+25 mg capsule
+TAKE 1 CAPSULE BY ORAL
+ROUTE EVERY DAY
+01/16/2018 01/16/2018 N simvastatin 20 mg tablet take 1 tablet by oral route every day in the evening
+01/16/2018 01/16/2018 N
+
+-------------------------------------------
+-------------------------------------------
+levothyroxine 88 mcg
+tablet
+take 1 tablet by oral route
+every day
+01/16/2018 01/16/2018 N paroxetine 10 mg tablet take 1 tablet by oral route every day
+01/16/2018 01/16/2018 N
+Dexilant 60 mg capsule, delayed release take 1 capsule by oral route every day
+01/16/2018 07/27/2018 01/16/2018 N
+Patient Status
+Completed with information received for patient in a summary of care record.
+Medication Reconciliation
+Medications reconciled today.
+Medication Reviewed
+Adherence Medication Name Sig Desc Elsewhere Status taking as directed Aleve 220 mg tablet take 1 tablet by oral route every 12 hours as needed
+Y Verified taking as directed Multi Vitamin 9 mg iron/15 ml oral liquid take 1 capsule by oral route every morning for 1 morning
+N Verified taking as directed Citracal with Vitamin D
+Maximum 315 mg-250 unit
+tablet
+take 1 capsule by oral route every morning for 1 morning
+N Verified
+taking as directed Glucosamine Msm 1,500
+mg-500 mg/30 mL oral liquid
+take 1 capsule by oral route every morning for 1 morning
+N Verified taking as directed Fish Oil 100 mg-160 mg-1,000
+mg capsule take 1 each by oral route every day for 1 day
+N Verified taking as directed Grape Seed 25 mg capsule take 1 capsule by oral route every morning for 1 morning
+N Verified taking as directed Co Q-10 200 mg capsule take 1 capsule by oral route every morning for 1 morning
+
+-------------------------------------------
+-------------------------------------------
+N Verified taking as directed fosinopril 40 mg tablet take 1 tablet by oral route every day N Verified taking as directed triamterene 37.5 mg-hydrochlorothiazide 25
+mg capsule
+TAKE 1 CAPSULE BY ORAL ROUTE EVERY
+DAY
+N Verified taking as directed simvastatin 20 mg tablet take 1 tablet by oral route every day in the evening
+N Verified taking as directed levothyroxine 88 mcg tablet take 1 tablet by oral route every day N Verified
+taking as directed Dexilant 60 mg capsule, delayed release take 1 capsule by oral route every day N Verified
+taking as directed paroxetine 10 mg tablet take 1 tablet by oral route every day N Verified
+taking as directed aspirin 81 mg tablet,delayed release take 2 tablet by oral route every day N Verified
+Allergies
+Ingredient Reaction Medication Name Comment
+NO KNOWN DRUG
+ALLERGIES
+Canny, Genevieve 000000006577 03/05/1933 05/29/2018 11:15 AM 5/7
+Reviewed, no changes.
+REVIEW OF SYSTEMS
+System Neg/Pos Details
+Constitutional Negative Fatigue, fever and night sweats.
+ENMT Negative Ear drainage, hearing loss and nasal drainage.
+Eyes Negative Eye discharge, vision changes and vision loss.
+Respiratory Negative Cough, dyspnea and wheezing.
+Cardio Negative Chest pain, claudication and irregular heartbeat/palpitations.
+GI Negative Abdominal pain, bloating, constipation, diarrhea and vomiting.
+GU Negative Dysuria, hematuria, irregular menses and polyuria.
+Endocrine Negative Cold intolerance, heat intolerance, polydipsia and polyphagia.
+Neuro Negative Gait disturbance and headache.
+Psych Positive Feeling down, depressed or hopeless (several days), Little interest or pleasure in doing things (several days).
+Psych Negative Anxiety and depression.
+Integumentary Negative Pruritus and rash.
+MS Negative Joint swelling and muscle weakness.
+Hema/Lymph Negative Easy bleeding and easy bruising.
+Allergic/Immuno Negative Environmental allergies and food allergies.
+Reproductive Negative Dysmenorrhea, menorrhagia and vaginal discharge.
+VITAL SIGNS
+Time BP
+mm/Hg
+Pulse
+
+-------------------------------------------
+-------------------------------------------
+/min
+Resp
+/min
+Temp
+F
+Ht ft Ht in Ht cm Wt Ib Wt kg BMI
+kg/m2
+BSA
+m2
+02 Sat%
+11:11 AM 132/68 88 97.2 4.0 10.50 148.59 136.00 61.689 27.94 1.60 96
+MEASURED BY
+Time Measured by
+11:11 AM Chris Pellicano
+Screening Summary:
+The following were reviewed: tobacco use
+Physical Exam
+Exam Findings Details
+Constitutional Normal Well developed.
+Ears Normal Inspection - Right: Normal, Left: Normal. Canal - Right: Normal, Left:
+Normal. TM - Right: Normal, Left: Normal. Hearing - Right: Normal, Left:
+Normal.
+Nasopharynx Normal External nose - Normal. Lips/teeth/gums - Normal. Tonsils - Normal.
+Oropharynx - Normal.
+Neck Exam Normal Inspection - Normal. Palpation - Normal. Thyroid gland - Normal.
+Respiratory Normal Inspection - Normal. Auscultation - Normal.
+Cardiovascular Normal Regular rate and rhythm. No murmurs, gallops, or rubs.
+Abdomen Normal Inspection - Normal. Auscultation - Normal. No abdominal tenderness.
+No hepatic enlargement. No splenic enlargement. No hernia.
+Skin Normal Inspection - Normal.
+Extremity Normal No edema.
+Psychiatric Normal Orientation - Oriented to time, place, person & situation. Appropriate mood and affect.
+Completed Orders (this encounter)
+Order Side Interpretation Result Details
+Patient Health several days 2
+Canny, Genevieve 000000006577 03/05/1933 05/29/2018 11:15 AM 6/7
+Questionnaire (PHQ-2)
+Dietary management
+education, guidance, and counseling
+Assessment/Plan
+# Detail Type Description
+1. Assessment Essential (primary) hypertension (110).
+Impression contineu current as stable..
+Plan Orders Basic Metabolic Panel (BMP) to be performed.
+2. Assessment Hypothyroidism (acquired) (E03.9).
+Impression doing well with last tsh will monitor and recheck level in 6months..
+
+-------------------------------------------
+-------------------------------------------
+3. Assessment Body mass index (BMI) 27.0-27.9, adult (768.27).
+Plan Orders Today's instructions / counseling include(s) Dietary management education, guidance, and counseling.
+4. Assessment Spinal stenosis at L4-L5 level (M48.061).
+Impression yhas been on alevel 2 tabs dialy but wil decrease aleve and take aone with a tylenol of 500mg daily..
+5. Assessment Chronic GERD (K21.9).
+Impression ond exilant, had EGD ith dr perez, now given instruction for tapering off. will start to do
+SO..
+6. Assessment Hyperkalemia (E87.5).
+Impression last time in decebmer had a potassiu m of 5.7, will send for labs as onfosinopril, but has had more kiwi and bananas. will stop those and senf or a level..
+7. Assessment CKD (chronic kidney disease) stage 3, GFR 30-59 ml/min (N18.3).
+Impression stable for the last 4 yr , continue to montior..
+Fall Risk Plan
+The Patient has fallen 1 times in the last year. The fall(s) resulted in injury. Details: HEMATOMA ON LEG
+SWELING.
+Medications (Added, Continued or Stopped this visit)
+Started Medication Directions Stopped
+Aleve 220 mg tablet take 1 tablet by oral route every 12 hours as needed aspirin 81 mg tablet, delayed release take 1 tablet by oral route every day 05/29/2018
+05/29/2018 aspirin 81 mg tablet, delayed release take 2 tablet by oral route every day
+11/16/2015 Citracal with Vitamin D
+Maximum 315 mg-250 unit
+tablet
+take 1 capsule by oral route every morning for 1 morning
+11/16/2015 Co Q-10 200 mg capsule take 1 capsule by oral route every morning for 1 morning
+01/16/2018 Dexilant 60 mg capsule, delayed release take 1 capsule by oral route every day 07/27/2018
+11/16/2015 Fish Oil 100 mg-160 mg-1,000
+mg capsule take 1 each by oral route every day for 1 day
+01/16/2018 fosinopril 40 mg tablet take 1 tablet by oral route every day
+11/16/2015 Glucosamine Msm 1,500
+mg-500 mg/30 mL oral liquid
+take 1 capsule by oral route every morning for 1 morning
+11/16/2015 Grape Seed 25 mg capsule take 1 capsule by oral route every morning for Canny, Genevieve 000000006577 03/05/1933 05/29/2018 11:15 AM 7/7
+1 morning
+
+-------------------------------------------
+-------------------------------------------
+01/16/2018 levothyroxine 88 mcg tablet take 1 tablet by oral route every day
+11/16/2015 Multi Vitamin 9 mg iron/15 mL oral liquid take 1 capsule by oral route every morning for 1 morning
+01/16/2018 paroxetine 10 mg tablet take 1 tablet by oral route every day
+01/16/2018 simvastatin 20 mg tablet take 1 tablet by oral route every day in the evening
+01/16/2018 triamterene 37.5
+mg-hydrochlorothiazide 25 mg
+capsule
+TAKE 1 CAPSULE BY ORAL ROUTE EVERY DAY
+Counseling / Educational Factors:
+Counseling / educational factors reviewed.
+Electronically signed by: Lena Wu Rivas MD 05/29/2018 11:50 AM
+Document generated by: Lena Wu Rivas 05/29/2018 11:50 AM
+Electronically signed by Lena Wu Rivas MD on 05/29/2018 11:50 AM
+
+-------------------------------------------
+-------------------------------------------

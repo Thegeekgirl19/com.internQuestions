@@ -1,0 +1,592 @@
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+McMahon, Donald T (MR # 1002093862) DOB: 07/14/1945 Encounter Date: 06/26/2019
+MRN: 1002093862
+McMahon, Donald T
+Office Visit 6/26/2019
+Hartford Health Care Medical
+Group Masonic
+Provider: John Huang, MD (Internal Medicine)
+Primary diagnosis: Impaired fasting glucose
+Reason for Visit: Referred by John Huang, MD
+Progress Notes
+Assessment & Plan
+Assessment
+Diagnoses and all orders for this visit:
+Impaired fasting glucose
+POCT Glycosylated Hemoglobin (Hb A1C)
+-
+Dyslipidemia
+Recent Results (from the past 168 hour(s))
+POCT Glycosylated Hemoglobin (Hb A1C)
+Collection Time : 06/26/19 9:01 AM
+|Result|Value|Ref Range|
+|Hemoglobin A1C|5.4|4.0 6.0 %|
+|Lot Number|0||
+|Quality Control|Pass|Pass|
+
+-
+1. Impaired glucose - A1c done in house, still excellent cotnrol. No need for meds.
+2. Dyslipidemia - asymptomatic on statin. Continue same, check labs by next visit.
+RTC 6 mo SWV.
+Communication barriers and lifestyle preferences were addressed with the patient. The care plan including medications and self-management goals were reviewed to the best of the patient's abilities.
+All questions and concerns were answered. Patient and/or family verbalized understanding of the plan of care.
+Subjective
+Subjective
+Patient ID: Donald T McMahon is a 73 y.o. male.
+HPL
+Dyslipidemia: compliant with Livalo, no myalgia but arthralgia knees. Last LDL 84 in Dec 2018, target
+LDL 100. Gym 3 days, no chest pain, no shortness of breath, no dizziness, no headache. No smoking.
+Impaired glucose: weight stable. Last A1c 5+ last year. No vision problems, Ophtho UTD q 1 y, waiting on cataracts. No periph neuropathy.
+Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/3
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+McMahon, Donald T (MR # 1002093862) DOB: 07/14/1945 Encounter Date: 06/26/2019
+Review of Systems
+Constitutional: Negative for activity change, appetite change and chills.
+Respiratory: Negative for cough and shortness of breath.
+Cardiovascular: Negative for chest pain, palpitations and leg swelling.
+Gastrointestinal: Negative for abdominal pain, blood in stool and constipation.
+Genitourinary: Negative for difficulty urinating (nocturia x 2), dysuria and frequency.
+Musculoskeletal: Negative for arthralgias, back pain and gait problem.
+Neurological: Negative for dizziness and headaches.
+Psychiatric/Behavioral: Negative for sleep disturbance.
+Objective
+Objective
+Vitals:
+BP:
+Pulse:
+Resp:
+Temp:
+SpO2:
+Weight:
+Height:
+06/26/19 0819
+(!) 130/58
+61
+16
+97.1 F (36.2 C)
+95%
+114 kg (252 lb)
+1.842 m (6' 0.5')
+Physical Exam
+Constitutional: He appears well-developed and well-nourished.
+Cardiovascular: Normal rate, regular rhythm and normal heart sounds.
+Pulmonary/Chest: Effort normal and breath sounds normal. No stridor. No respiratory distress.
+Abdominal: Soft. Bowel sounds are normal. He exhibits no distension. There is no tenderness.
+Vitals reviewed.
+Instructions
+Return in about 6 months (around 12/26/2019) for SWV.
+AVS - With Med List (Printed 6/26/2019), After Visit Summary (Automatic SnapShot taken 6/26/2019)
+Additional Documentation
+Vitals:
+BP 130/58 ! (BP Location: Right arm, Patient Position: Sitting, Cuff Size: Large) Pulse 61
+Temp 97.1 F (36.2 C) (Oral) Resp 16 Ht 1.842 m (6' 0.5') Wt 114 kg (252 lb) SpO2 95%
+BMI 33.71 kg/m BSA 2.41 m2 More Vitals
+Flowsheets:
+Vital Signs
+Encounter Info: Billing Info, History, Allergies, Detailed Report
+Media
+Electronic signature on 6/26/2019 8:13 AM - Signed
+Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/3
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+McMahon, Donald T (MR # 1002093862) DOB: 07/14/1945 Encounter Date: 06/26/2019
+Orders placed
+POCT Glycosylated Hemoglobin (Hb A1C)
+Medication Changes
+None
+Visit Diagnoses
+Impaired fasting glucose
+Dyslipidemia
+Printed by Kristin C at 9/17/2019 1:36 PM
+Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/3
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+McMahon, Donald T (MR # 1002093862) DOB: 07/14/1945 Encounter Date: 12/28/2018
+MRN: 1002093862
+McMahon, Donald T
+Office Visit 12/28/2018
+Hartford Health Care Medical
+Group Masonic
+Provider: John Huang, MD (Internal Medicine)
+Primary diagnosis: Routine medical exam
+Reason for Visit: Annual Exam; Referred by John Huang, MD
+Progress Notes
+Assessment and Plan
+Assessment
+Donald was seen today for annual exam.
+Diagnoses and all orders for this visit:
+Routine medical exam
+red fasting glucose
+Hemoglobin A1c; Future
+-
+Special screening for malignant neoplasm of prostate
+PSA, Total, Reflex PSA, Free; Future
+-
+Dyslipidemia
+Comprehensive Metabolic Panel; Future
+Lipid Panel Reflex Direct LDL (Quest Only); Future
+-
+-
+Recent Results (from the past 504 hour(s))
+Complete Blood Count, without Differential
+Collection Time : 12/12/18 7:49 AM
+|Result|Value|Ref Range|
+|White Blood Cell|6.3|3.8 10.8|
+|Count||Thousand/uL|
+|Red Blood Cell|5.24|4.20 5.80|
+|Count||Million/uL|
+|Hemoglobin|15.7|13.2 17.1 g/dL|
+|Hematocrit|46.0|38.5 50.0 %|
+|MCV|87.8|80.0 - 100.0 fL|
+|MCH|30.0|27.0 33.0|
+|MCHC|34.1|pg 32.0 36.0|
+|RDW|13.1|g/dL 11.0 - 15.0 %|
+|Platelet Count|245|140 400 Thousand/uL|
+|MPV|9.3|7.5 - 12.5 fL|
+|Comprehensive Collection Time:|Metabolic Panel 12/12/18 7:49 AM||
+|Result Glucose|Value 100 (H)|Ref Range 65 99 mg/dL|
+
+-
+-
+-
+-
+-
+-
+-
+Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/6
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+|McMahon,|Donald T (MR # 1002093862)|DOB: 07/14/1945|Encounter Date:|
+||Blood Urea Nitrogen|15|7 25 mg/dL|
+||(BUN)|||
+||Creatinine|1.15|0.70 1.18|
+||||mg/dL|
+||eGFR Non-African American|63|> OR = 60 mL/min/1.73 m2|
+||eGFR African American|73|> OR = 60 mL/min/1.73 m2|
+||BUN/Creatinine Ratio|NOT APPLICABL E|6 - 22 (calc)|
+||Sodium|140|135 146 mmol/L|
+||Potassium|4.4|3.5 5.3 mmol/L|
+||Chloride|106|98 110 mmol/L|
+||CO2|25|20 32 mmol/L|
+||Calcium|9.4|8.6 10.3 mg/dL|
+||Protein, Total|7.3|6.1 - 8.1 g/dL|
+||Albumin|4.3|3.6 5.1 g/dL|
+||Globulin|3.0|1.9 3.7 g/dL (calc)|
+||Albumin/Globulin Ratio|1.4|1.0 2.5 (calc)|
+||Bilirubin, Total|1.4 (H)|0.2 1.2 mg/dL|
+||Alkaline|47|40 - 115 U/L|
+||Phosphatase|||
+||Aspartate|20|10 35 U/L|
+||Aminotrans (AST) Alanine Aminotrans|23|9 46 U/L|
+
+, ) 12/28/2018
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- ( ALT ) Lipid Panel Reflex Direct LDL ( Quest Only )
+Collection Time : 12/12/18 7:49 AM
+|Result|Value|Ref Range|
+|Cholesterol, Total|149|<200 mg/dL|
+|Cholesterol, HDL|46|>40 mg/dL|
+|Triglycerides|97|<150 mg/dL|
+|LDL Cholesterol|84|mg/dL (calc)|
+|Cholesterol/HDL|3.2|<5.0 (calc)|
+|Ratio|||
+|Non HDL Chol. (LDL+VLDL)|103|<130 mg/dL (calc)|
+|PSA, Total, Reflex PSA, Collection Time:|Free 12/12/18 7:49 AM||
+|Result|Value|Ref Range|
+|PSA, Total|1.9|< OR = 4.0 ng/mL|
+|Hepatitis C Virus (HCV) Collection Time:|Antibody 12/12/18 7:49 AM||
+|Result|Value|Ref Range|
+|Hepatitis C Antibody|NON-|NON-|
+||REACTIVE|REACTIVE|
+
+, )
+Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/6
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+McMahon, Donald T (MR # 1002093862) DOB: 07/14/1945 Encounter Date: 12/28/2018
+Hepatitis C Antibody 0.01
+<1.00
+(s/co)
+Hemoglobin A1c
+Collection Time: 12/12/18 7:49 AM
+Result
+Value Ref Range
+Hemoglobin A1C 5.4
+<5.7 % of total Hgb
+During the course of the visit the patient was educated and counseled about appropriate screening and preventive services including:
+Pneumococcal vaccine
+Influenza vaccine
+Prostate cancer screening
+Colorectal cancer screening
+Diabetes screening
+Glaucoma screening
+Weight control
+Advanced directives
+Screening Counseling & Education
+Cardiovascular screening is current.
+Diabetes screening is current.
+Colorectal Cancer screening is current and next due 2021.
+Prostate Cancer screening is current.
+Osteoporosis screening is not indicated.
+Glaucoma screening is current.
+HIV screening is not indicated.
+Immunizations patient is up to date with immunizations.
+Safety Elements seat belts yes and smoke detectors yes.
+RTC 1 y SWV.
+Communication barriers and lifestyle preferences were addressed with the patient. The care plan including medications and self-management goals were reviewed to the best of the patient's abilities.
+All questions and concerns were answered. Patient and/or family verbalized understanding of the plan of care.
+Patient has been provided with verbal and written information about the scope of services included in a preventative examination. Patient agrees that medical problems / concerns will be evaluated and managed during this visit and may result in a separate office visit and billing charge. Not Applicable
+Subjective
+Subjective
+Donald T McMahon, 73 y.o., presents to the clinic today for his annual medicare wellness visit.
+HPL
+Medicare Screening Tests and Risk Assessments
+Hospitalizations
+Previous hospitalizations within the past year: none
+Screenings
+Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/6
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+McMahon, Donald T (MR # 1002093862) DOB: 07/14/1945 Encounter Date: 12/28/2018
+ECG:performed today
+Osteoporosis Risk Assessment: none identified
+HIV Risk Assessment: none identified
+Mood Disorder
+PHQ-2:PHQ-2 Total Score: 0
+GAD-2:GAD-2 Total Score : 0
+Functional Ability/Level of Safety.
+Current Activities:
+ADL's: unlimited
+Fall Risk Screening:
+Have you fallen in the past year ?: No
+Do you have difficulty walking, or getting out of a bed or chair ?: No
+Fall Risk Factors: mobility impairment
+Home Safety Risk Factors: loose rugs and no grab bars in the bathroom
+Cognitive Impairment Screening:
+no impairments identified
+Advanced Directives
+Do you have an Advanced Directives: Yes: will provide copy (wife to decide, wants no prolonged heroics if no hope)
+Diet and Physical Activity.
+Diet: well balanced diet
+Weight concerns:obesity
+Exercise type: treadmill and weights three times weekly
+General Health
+Hearing:
+slightly decreased bilateral
+Vision: regular eye exams, glasses and sees q 1 y Ryan
+Dental: regular dental visits and sees qomo and upper bridge
+Pertinent History
+The following portions of the patient's history were reviewed and updated as appropriate: allergies, current medications, problem list, past medical history, past surgical history, past family history and past social history.
+Review of Systems
+Constitutional: Negative for activity change, appetite change, fatigue and unexpected weight change.
+Respiratory: Negative for cough and shortness of breath.
+Cardiovascular: Negative for chest pain, palpitations and leg swelling.
+Gastrointestinal: Negative for abdominal pain, blood in stool and constipation.
+Genitourinary: Negative for difficulty urinating (nocturia x 1), dysuria and frequency.
+Musculoskeletal: Positive for arthralgias (bilat knees). Negative for back pain and gait problem.
+Neurological: Negative for dizziness and headaches.
+Psychiatric/Behavioral: Negative for sleep disturbance (light snoring).
+CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+4/6
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+McMahl
+Objective
+Objective
+Vitals:
+BP:
+Pulse:
+SpO2:
+Weight:
+Height:
+12/28/18 0829
+128/82
+78
+98%
+113 kg (250 lb)
+1.842 m (6' 0.5')
+Physical Exam
+Constitutional: He appears well-developed and well-nourished.
+HENT:
+Head: Normocephalic and atraumatic.
+Right Ear: External ear normal.
+Left Ear: External ear normal.
+Nose: Nose normal.
+Mouth/Throat: Oropharynx is clear and moist.
+Eyes: Conjunctivae and EOM are normal. Pupils are equal, round, and reactive to light. No scleral icterus.
+Neck: Normal range of motion. Neck supple. No thyromegaly present.
+Cardiovascular: Normal rate, regular rhythm, normal heart sounds and intact distal pulses.
+No murmur heard.
+Pulmonary/Chest: Effort normal and breath sounds normal. No respiratory distress.
+Abdominal: Soft. Bowel sounds are normal. He exhibits no distension. There is no tenderness.
+Musculoskeletal: Normal range of motion. He exhibits no edema or deformity.
+Skin: Skin is warm and dry. No rash noted. No erythema.
+Vitals reviewed.
+Instructions
+Return in about 1 year (around 12/28/2019) for SWV.
+Today's Body mass index is 33.44 kg/m2. which is above normal limits. We discussed the risks of being overweight. Work on healthy food choices, portion control, and increased physical activity.
+AVS - With Med List (Printed 12/28/2018)
+Additional Documentation
+Vitals:
+BP 128/82 (BP Location: Right arm, Patient Position: Sitting, Cuff Size: Medium (Standard))
+Pulse 78 Ht 1.842 m (6' 0.5') Wt 113 kg (250 lb) SpO2 98% BMI 33.44 kg/m BSA 2.4 m 
+Flowsheets: Wellness Fall Risk, Mini-Cog, Audit-C, Bone Density, ACO Wellness, PHQ-9 Depression Scale, GAD-7 Anxiety Screen, Health Risk Assessment, Advance Directives
+Encounter Info: Billing Info, History, Allergies, Detailed Report
+Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+5/6
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+McMahon, Donald T (MR # 1002093862) DOB: 07/14/1945 Encounter Date: 12/28/2018
+Orders placed
+Comprehensive Metabolic Panel
+Hemoglobin A1c
+Lipid Panel Reflex Direct LDL (Quest Only)
+PSA, Total, Reflex PSA, Free
+Medication Changes
+X Amoxieittin-Pot Etavutanate 875-125-446 Hablet Orat 2 times daily
+Visit Diagnoses
+Routine medical exam
+Impaired fasting glucose
+Special screening for malignant neoplasm of prostate
+Dyslipidemia
+Printed by Kristin C at 9/17/2019 1:39 PM
+Printed by CRAIG, KRISTIN [3497]
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+6/6
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+ImageConnect
+HHC MMC PC 67 Masonic McMahon, Donald T
+Avenue
+MRN: 1002093862, DOB: 7/14/1945, Sex: M
+67 Masonic Avenue Acct #: 21713900718
+Wallingford CT 06492 Visit date: 5/19/2017
+3095
+Result
+Report
+Display Study Images
+Study Result
+TECHNIQUE: Grayscale, color Doppler, and pulsed wave Doppler images of the bilateral carotid arteries were obtained.
+COMPARIS
+N: None.
+FINDINGS:
+Plaque is noted in the right carotid bulb extending into the ICA Both carotid systems demonstrate normal waveforms with brisk systolic upstrokes.
+The velocities on the RIGHT (cm/s):
+Right external carotid: 68
+Right internal carotid: 60
+Right common carotid: 114
+Right ICA/CCA ratio: 0.5
+Right vertebral artery: Patent with flow directed to the head.
+The velocities on the LEFT (cm/s):
+Left external carotid: 66
+Left internal carotid: 51
+Left common carotid: 119
+Left ICA/CCA ratio: 0.4
+Left vertebral Artery: Patent with flow directed to the head.
+IMPRESSION:
+1. [Less than 50%] stenosis right internal carotid artery.
+2. [Less than 50%] stenosis left internal carotid artery.
+3. [Bilateral vertebral artery flow directed toward the head in normal fashion.]
+*Peak Systolic VelocityPercentage Stenosis
+< 125 cm/seco - 49%
+125 cm/sec - 250 cm/sec50 - 69%
+250 cm/sec - 400 cm/sec70 - 90%
+>400 cm/sec> 90%
+Measurement of carotid stenosis is based on velocity parameters that correlate the residual internal carotid diameter with North American Symptomatic Carotid Endarterectomy Trial (NASCET)-based stenosis levels.
+Imaging
+US Arterial duplex carotid extracranial-Bilateral (Order: 100645531) - 5/19/2017
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+1/3
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+Result History
+US Arterial duplex carotid extracranial-Bilateral (Order #100645531) on 5/25/2017 - Order Result
+History Report
+US Arterial duplex carotid extracranial-Bilateral
+Status: Final result
+Signed by
+Pager
+Signed
+WEISS, LAURENCE M
+Date/Time
+5/25/2017 11:08
+Phone
+203-694-8402
+Exam Information
+Status
+Exam
+Begun
+5/25/2017 08:51
+Exam
+Ended
+5/25/2017 09:28
+Final [99]
+Reviewed by
+John Huang, MD
+5/25/2017 9:54 PM
+Link to Epic Procedure Log
+Procedure Log
+External Result Report Encounter
+External Result Report
+View Encounter
+Reprint Order Requisition
+US Arterial duplex carotid extracranial-Bilateral (Order #100645531) on 5/19/17
+Ordered On 5/19/2017 12:14 PM
+Ordering Provider
+John Huang, MD
+Authorizing Provider Ordering User
+John Huang, MD John Huang, MD
+Ordering Department
+HHCMG MASONIC
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+2/3
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+Ordering Provider
+203-284-3144
+Authorizing Provider Ordering User
+203-284-3144
+Ordering Department
+ImageConnect
+Display Study Images
+McMahon, Donald T (MRN 1002093862) Printed by Kristin Craig (3497) at 9/17/19 1:41 PM
+https://hhclink.hhchealth.org/EpicCareLink-PRD/common/epic_main.asp?menu=chartreview&sub=Review
+3/3
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+||6 12/28/2017 08:24|5 6/26/2018 08:17|4 8/15/2018 00:00|3 12/12/2018 07:49|2 12/28/2018|1 6/26/2019 09:01|
+|COMPLETE B LOOD COUNT|||||||
+|White Blood C ell C||||6.3 *|||
+|Red Blood Cell Count||||5.24 *|||
+|Hemoglobin||||15.7 *|||
+|Hematocrit||||46.0 *|||
+|MCV||||87.8 *|||
+|MCH||||30.0 *|||
+|MCHC||||34.1|||
+|RDW||||13.1|||
+|Platelet Count||||245 *|||
+|MPV||||9.3 *|||
+|CHEMISTRY GENERAL|||||||
+|Sodium|142*|||140*|||
+|Potassium|4.4*|||4.4*|||
+|Chloride|108*|||106*|||
+|CO2|26*|||25 *|||
+|BUN|13*|||15*|||
+|Creatinine|1.12 *|||1.15 *|||
+|Bun / Creat Ra tio|NOT APPLIC ABLE *|||NOT APPLIC ABLE *|||
+|Glucose|112 *|||100 *|||
+|Calcium|9.1 *|||9.4 *|||
+|Protein, Total|7.0 *|||7.3*|||
+|Albumin|4.0*|||4.3 *|||
+|Globulin|3.0*|||3.0*|||
+|A/G Ratio|1.3 *|||1.4*|||
+|eGFR African American|76*|||73*|||
+|eGFR Non- African A|65 *|||63 *|||
+|Bilirubin Total|1.1 *|||1.4*|||
+|Aspartate Ami notra|21 1 *|||20 *|||
+
+*
+*
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp? WhichFrame=3&Action=Print
+1/2
+
+-------------------------------------------
+-------------------------------------------
+9/17/2019
+McMahon, Donald T (MR#1002093862) Printed by CRAIG, KRISTIN [3497]
+||6 12/28/2017 08:24|5 6/26/2018 08:17|4 8/15/2018 00:00|3 12/12/2018 07:49|2 12/28/2018|1 6/26/2019 09:01|
+|Alanine Aminot rans|26*|||23 *|||
+|Alkaline Phosp hatase|55*|||47*|||
+|LIPID PROFIL E|||||||
+|Cholesterol|156*|||149*|||
+|Triglycerides|87 *|||97 *|||
+|HDL|42 *|||46 *|||
+|LDL Cholester ol|96 *|||84 *|||
+|Cholesterol/H DL Ratio|3.7*|||3.2*|||
+|Non HDL Chol. (LDL|114 *|||103 *|||
+|ENDOCRINE/ FERTILITY|||||||
+|Hemoglobin A 1C|5.4*|||5.4*|||
+|TUMOR/MALI GNANCY M|||||||
+|PSA, Total|1.4 *|||1.9*|||
+|HEPATITIS TE STING|||||||
+|Hepatitis C Ant ibody||||NON- REACTI VE *|||
+|Hepatitis C Ant ibo||||0.01 = *|||
+|POINT OF CA RE TESTING|||||||
+|Hemoglobin A 1C||5.5||||5.4|
+|Quality Control||Pass||||Pass|
+|PATH REFER RAL|||||||
+|Report|||MIDST ATE MEDIC A..||||
+|SURGICAL PA THOLOGY|||||||
+|(REPORT) PA THOLOGY.|||||||
+|ECG|||||||
+|ECG 12-LEAD|||||||
+
+...
+...
+https://hhclink.hhchealth.org/epiccarelink-prd/epiccare/resultreviewPrint.asp? WhichFrame=3&Action=Print
+2/2
+
+-------------------------------------------
+-------------------------------------------

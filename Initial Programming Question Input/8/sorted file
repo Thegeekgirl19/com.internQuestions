@@ -1,0 +1,263 @@
+0019T	extracorporeal shock wave	musculoskeletal system
+0051T	implantation	heart, artificial	cardiectomy
+0051T	implantation	heart, artificial	cardiectomy	replacement
+0051T	implantation procedure	entire heart	total replacement	intracorporeal
+0051T	implantation procedure	heart	total replacement	intracorporeal
+0052T	repair	heart, artificial	intracorporeal
+0052T	repair	heart, artificial	thoracic
+0052T	replacement	heart, artificial	intracorporeal
+0052T	replacement	heart, artificial	thoracic
+0052T	total replacement	replacement	entire heart	intracorporeal
+0052T	total replacement	replacement	heart	intracorporeal
+0053T	repair	heart, artificial
+0053T	repair	heart, artificial	intracorporeal
+0053T	replacement	heart, artificial
+0053T	replacement	heart, artificial	intracorporeal
+0053T	total replacement	replacement	entire heart	intracorporeal
+0071T	ablate	entire uterus	neoplasms	ultrasound services and procedures	focal
+0071T	ablate	neoplasms	entire uterus	ultrasound services and procedures	focal
+0071T	ablate	neoplasms	uterus	ultrasound services and procedures	focal
+0071T	ablate	uterus	neoplasms	ultrasound services and procedures	focal
+0072T	ablate	entire uterus	neoplasms	ultrasound services and procedures	focal
+0072T	ablate	neoplasms	entire uterus	ultrasound services and procedures	focal
+0072T	ablate	neoplasms	uterus	ultrasound services and procedures	focal
+0072T	ablate	uterus	neoplasms	ultrasound services and procedures	focal
+0126T	carotid intima-media thickness	arteries	carotid
+0126T	intima media thickness	arteries	carotid
+0169T	catheter placement	stereotactic	brain
+0169T	catheter placement	stereotactic	entire brain
+0171T	distraction therapy	lumbar region	bone structure of spine	devices	clinical act of insertion
+0171T	distraction therapy	lumbar region	entire vertebra	devices	clinical act of insertion
+0172T	distraction therapy	lumbar region	bone structure of spine	devices	clinical act of insertion
+0172T	distraction therapy	lumbar region	entire vertebra	devices	clinical act of insertion
+0191T	implantation	eye glaucoma	drainage device
+0191T	insertion	eye glaucoma	drainage device
+0200T	augmentation procedure	bone structure of sacrum	percutaneous test
+0200T	augmentation procedure	entire sacrum	percutaneous test
+0200T	augmentation procedure	structure of sacrum	percutaneous test
+0200T	sacroplasty	percutaneous test	bone structure of sacrum
+0200T	sacroplasty	percutaneous test	entire sacrum
+0200T	sacroplasty	percutaneous test	structure of sacrum
+0201T	augmentation procedure	bone structure of sacrum	percutaneous test
+0201T	augmentation procedure	entire sacrum	percutaneous test
+0201T	augmentation procedure	structure of sacrum	percutaneous test
+0201T	sacroplasty	percutaneous test	bone structure of sacrum
+0201T	sacroplasty	percutaneous test	entire sacrum
+0201T	sacroplasty	percutaneous test	structure of sacrum
+0223T	diagnostic imaging	entire heart	acoustics	cardiography
+0223T	diagnostic imaging	heart	acoustics	cardiography
+0224T	diagnostic imaging	entire heart	acoustics	cardiography
+0224T	diagnostic imaging	heart	acoustics	cardiography
+0225T	diagnostic imaging	entire heart	acoustics	cardiography
+0225T	diagnostic imaging	heart	acoustics	cardiography
+0228T	transforaminal epidural injection	ultrasound guidance	cervical
+0228T	transforaminal epidural injection	ultrasound guidance	thoracic
+0230T	transforaminal epidural injection	ultrasound guidance	lumbar
+0230T	transforaminal epidural injection	ultrasound guidance	sacral
+0232T	injection	platelet rich plasma
+0254T	endoprosthesis	bone structure of ilium	arteries
+0255T	endoprosthesis	bone structure of ilium	arteries	radiological supervision	interpretation process
+0262T	prosthesis implantation	entire pulmonary valve
+0262T	prosthesis implantation	pulmonary valve structure
+0270T	bilateral lead removal
+0278T	transcutaneous electrical modulation pain reprocessing
+0302T	intracardiac ischemia monitoring system	entire heart	clinical act of insertion
+0302T	intracardiac ischemia monitoring system	entire heart	explant	replacement
+0302T	intracardiac ischemia monitoring system	heart	clinical act of insertion
+0302T	intracardiac ischemia monitoring system	heart	explant	replacement
+0303T	intracardiac ischemia monitoring system	entire heart	clinical act of insertion
+0303T	intracardiac ischemia monitoring system	entire heart	explant	replacement
+0303T	intracardiac ischemia monitoring system	heart	clinical act of insertion
+0303T	intracardiac ischemia monitoring system	heart	explant	replacement
+0304T	intracardiac ischemia monitoring system	entire heart	clinical act of insertion
+0304T	intracardiac ischemia monitoring system	entire heart	explant	replacement
+0304T	intracardiac ischemia monitoring system	heart	clinical act of insertion
+0304T	intracardiac ischemia monitoring system	heart	explant	replacement
+0305T	intracardiac ischemia monitoring system	entire heart	evaluation procedure
+0305T	intracardiac ischemia monitoring system	heart	evaluation procedure
+0306T	intracardiac ischemia monitoring system	entire heart	evaluation procedure
+0306T	intracardiac ischemia monitoring system	heart	evaluation procedure
+0307T	intracardiac ischemia monitoring system	entire heart	explant
+0307T	intracardiac ischemia monitoring system	heart	explant
+0308T	insertion	ocular telescope prosthesis	removal	crystalline lens
+0446T	creation	subcutaneous pocket	insertion	glucose sensor
+0447T	removal	glucose sensor	subcutaneous pocket
+0448T	removal	glucose sensor	subcutaneous pocket	creation
+0449T	insertion	aqueous drainage device	subconjunctival space
+0451T	insertion OR replacement	counterpulsation device	vascular graft	vascular hemostatic seal
+0452T	insertion OR replacement	aortic counterpulsation device	vascular hemostatic seal
+0453T	insertion OR replacement	mechano-electrical skin interface
+0454T	insertion OR replacement	subcutaneous electrode
+0455T	removal	aortic counterpulsation device	vascular hemostatic seal	mechano-electrical skin interface
+0456T	removal	aortic counterpulsation device	vascular hemostatic seal
+0457T	removal	mechano-electrical skin interface
+0458T	removal	subcutaneous electrode
+0459T	relocation	skin pocket	replacement	mechano-electrical skin interface OR electrodes
+0460T	repositioning	subcutaneous electrode
+0461T	repositioning	aortic counterpulsation device
+0462T	programming device evaluation	adjustment	mechano-electrical skin interface	analysis OR review OR report
+0462T	programming device evaluation	analysis OR review OR report	ventricular assist system	aortic counterpulsation
+0463T	interrogation device evaluation	analysis OR review OR report	ventricular assist system	aortic counterpulsation
+0464T	visual evoked potential OR visual evoked potential procedure	glaucoma
+0464T	visual evoked potential OR visual evoked potential procedure	glaucoma	interpretation OR report
+0465T	injection	suprachoroidal	pharmacologic agent
+0466T	insertion	chest wall	respiratory	electrode OR electrode array
+0467T	revision OR replacement	chest wall	respiratory	electrode OR electrode array
+0468T	removal	chest wall	respiratory	electrode OR electrode array
+0509F	urinary incontinence procedures	entire bladder	care plan:finding:point in time:{setting}:document:{provider}	documented
+0509F	urinary incontinence procedures	urinary bladder	care plan:finding:point in time:{setting}:document:{provider}	documented
+10021	aspiration	needle
+10021	fine needle aspiration
+10022	aspiration	ct-guided	fine-needle
+10022	aspiration	fine-needle	ultrasound-guided
+10022	fine needle aspiration	imaging guidance
+10022	fine needle aspiration	ultrasound-guided
+10022	fine-needle aspiration	thyroid
+10022	ultrasound-guided	fine-needle	biopsy
+10022	ultrasound-guided	thyroid nodule	biopsy
+10040	i&d	entire skin	acne injury
+10040	i&d	skin	acne injury
+10040,10060,10061,10080,10081,10120,10121,10140,10160,10180	drainage procedure	integumentary system
+10040,10060,10061,10080,10081,10120,10121,10140,10160,10180	incisional technique	integumentary system
+10060	excision	drainage	abscess
+10060	i&d	entire skin	abscess	simple
+10060	i&d	entire skin	abscess	singular
+10060	i&d	fingertip
+10060	i&d	skin	abscess	simple
+10060	i&d	skin	abscess	singular
+10060	incision	abscess	drain
+10060	incision	abscess draining
+10060	incision	drainage	abdominal wall	abscess
+10060	incision	drainage	abscess
+10060	incision	drainage	buttock	abscess
+10060	incision	drainage	buttock wound
+10060	incision	drainage	carbuncle
+10060	incision	drainage	cyst
+10060	incision	drainage	furuncle
+10060	incision	drainage	paronychia
+10060	incision	drainage	suppurative hidradenitis
+10060,10061	i&d	entire skin	abscess
+10060,10061	i&d	skin	abscess
+10061	i&d	entire skin	abscess	complicated
+10061	i&d	entire skin	abscess	numerous
+10061	i&d	skin	abscess	complicated
+10061	i&d	skin	abscess	numerous
+10061	incision	drainage	abscess
+10061	incision	drainage	carbuncle
+10061	incision	drainage	cyst
+10061	incision	drainage	furuncle
+10061	incision	drainage	paronychia
+10061	incision	drainage	suppurative hidradenitis
+10080	i&d	entire skin	cyst	pilonidal	simple
+10080	i&d	skin	cyst	pilonidal	simple
+10080,10081	i&d	entire skin	cyst	pilonidal
+10080,10081	i&d	skin	cyst	pilonidal
+10081	i&d	entire skin	cyst	pilonidal	complicated
+10081	i&d	skin	cyst	pilonidal	complicated
+10081	incision	drainage	pilonidal	cyst
+10120	incision	removal	foreign body	subcutaneous tissues
+10120	removal	foreign body	heel
+10120	removal	stab incision	foreign body	subcutaneous tissues
+10120,10121	i&d	entire skin	foreign bodies
+10120,10121	i&d	skin	foreign bodies
+10121	i&d	entire skin	foreign bodies	complicated
+10121	i&d	skin	foreign bodies	complicated
+10140	evacuation	hematoma	incision	breast
+10140	evacuation	seroma
+10140	i&d	entire skin	hematoma
+10140	i&d	skin	hematoma
+10140	incision	drainage	seroma
+10140	incision and drainage	seroma
+10160	aspiration	drainage	abscess
+10160	aspiration	puncture	abscess
+10160	drainage	abscess	needle
+10160	drainage	aspiration	abscess
+10160	i&d	entire skin	puncture aspiration
+10160	i&d	skin	puncture aspiration
+10160	needle aspiration	abscess
+10180	i&d	entire skin	complexed
+10180	i&d	skin	complexed
+1050F	medical history	nevus
+11000	excision	entire skin	debridement	eczematous
+11000	excision	entire skin	debridement	infected
+11000	excision	skin	debridement	eczematous
+11000	excision	skin	debridement	infected
+11000,11004,11005,11006,11010,11011,11012,11042,11043,11044	debridement	integumentary system
+11000,11004,11005,11006,11010,11011,11012,11042,11043,11044	excision	integumentary system	debridement
+11004	debridement	anogenital region	infected
+11004	debridement	entire perineum	infected
+11004	excision	entire skin	debridement	external genitalia	anogenital region
+11004	excision	entire skin	debridement	external genitalia	entire perineum
+11004	excision	skin	debridement	external genitalia	anogenital region
+11004	excision	skin	debridement	external genitalia	entire perineum
+11004,11005,11006	excision	entire skin	debridement	subcu tissues	infected
+11004,11005,11006	excision	skin	debridement	subcu tissues	infected
+11005	debridement	abdominal wall cavity
+11005	debridement	abdominal wall structure	infected
+11005	debridement	abdominal wound cavity
+11005	debridement	entire abdominal wall	infected
+11005	excision	entire skin	debridement	external genitalia	abdominal wall structure
+11005	excision	entire skin	debridement	external genitalia	entire abdominal wall
+11005	excision	skin	debridement	external genitalia	abdominal wall structure
+34706	repair	infrarenal aorta	aorto bi iliac endograft	rupture
+34707	repair	infrarenal aorta	ilio iliac tube endograft
+34708	repair	infrarenal aorta	ilio iliac tube endograft	aneurysm
+34708	repair	infrarenal aorta	ilio iliac tube endograft	dissection
+34708	repair	infrarenal aorta	ilio iliac tube endograft	penetrating ulcer
+34708	repair	infrarenal aorta	ilio iliac tube endograft	pseudoaneurysm
+34708	repair	infrarenal aorta	ilio iliac tube endograft	rupture
+34709	placement	extension prosthesis	repair	infrarenal abdominal aortic aneurysm
+34709	placement	extension prosthesis	repair	infrarenal abdominal iliac aneurysm
+34710	delayed	placement	extension prosthesis	repair	infrarenal abdominal aortic aneurysm	initial
+34710	placement	extension prosthesis	repair	infrarenal abdominal aortic aneurysm	initial
+34711	delayed	placement	extension prosthesis	repair	infrarenal abdominal aortic aneurysm	additional
+34711	placement	extension prosthesis	repair	infrarenal abdominal aortic aneurysm	additional
+34712	transcatheter delivery	anchor	endograft
+34712	transcatheter delivery	fixation device	endograft
+34712	transcatheter delivery	screw	endograft
+34712	transcatheter delivery	tack	endograft
+34713	closure	femoral artery	percutaneous
+34713	closure	femoral artery	percutaneous access	ultrasound
+34713	closure	femoral artery	percutaneous access	ultrasound guidance
+34808	insertion	iliac artery	occlusion device
+34825	endovascular iliac artery repair	extension prosthesis	placement
+34900	tube endoprosthesis	arteries	bone structure of ilium
+35201	surgical repair	blood vessel	direct type of relationship
+35206	surgical repair	blood vessel	direct type of relationship
+35206	surgical repair	upper	limb structure	blood vessel
+35206	surgical repair	upper	limb structure	entire blood vessel
+35207	repair	finger	digital artery
+35207	surgical repair	blood vessel	direct type of relationship
+35211	surgical repair	blood vessel	direct type of relationship
+35216	surgical repair	blood vessel	direct type of relationship
+35221	surgical repair	blood vessel	direct type of relationship
+35226	angioplasty	artery	leg
+62324	injection	placement	indwelling catheter	cervical OR thoracic
+62325	injection	placement	indwelling catheter	cervical OR thoracic
+62326	injection	placement	indwelling catheter	lumbar OR sacral OR caudal
+62327	injection	placement	indwelling catheter	lumbar OR sacral OR caudal
+62362	placement	infusion pump	programmable	removal	spinal cord
+62365	explant	entire spinal cord	pump (device)
+62365	explant	spinal cord	pump (device)
+62380	decompression	endoscopic	spinal cord OR nerve root	laminotomy OR facetectomy OR foraminotomy OR discectomy
+63005	laminectomy	l4-l5	spinal stenosis
+63020	laminotomy OR hemilaminectomy	decompression	nerve root	cervical
+63020	laminotomy OR hemilaminectomy	excision	herniated intervertebral disc	cervical
+63020	laminotomy OR hemilaminectomy	facetectomy OR foraminotomy	cervical
+63030	discectomy
+63030	discectomy	lumbar OR l1 vertebra OR l2 vertebra OR l3 vertebra OR l4 vertebra OR l5 vertebra OR l1-l2
+63030	facetectomy	foraminotomy	hemilaminotomy	l1-l2
+63030	facetectomy	foraminotomy	hemilaminotomy	lumbar
+63030	hemilaminectomy OR laminectomy	l1 OR l2 OR l3 OR l4 OR l5	foraminotomy OR facetectomy
+63030	hemilaminotomy	microdiscectomy	l1 OR l2 OR l3 OR l4 OR l5 OR l3-4
+63030	laminectomy	l4-l5	microdiscectomy
+63030	laminoforaminotomy
+63030	laminoforaminotomy	microdiscectomy	l5-s1
+63030	laminotomy OR hemilaminectomy	decompression	nerve root	lumbar
+63030	laminotomy OR hemilaminectomy	excision	herniated intervertebral disc	lumbar
+63030	laminotomy OR hemilaminectomy	facetectomy OR foraminotomy	lumbar
+63030	microdiscectomy	l4-l5
+63030	microdiscectomy	l5-s1 OR lumbar OR l4-5 OR l1 OR l2 OR l3 OR l4 OR l5	hemilaminotomy
+63030	microlumbar	discectomy
+63040	excision	entire intervertebral disc	herniated
+63040	excision	intervertebral disc structure	herniated

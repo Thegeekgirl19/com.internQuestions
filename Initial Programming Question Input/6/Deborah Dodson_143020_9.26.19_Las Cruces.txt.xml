@@ -1,0 +1,2652 @@
+<ezNLP>
+<Section value="Report Unknown Section" begin="0" end="0" secBegin="0" secEnd="48">
+<Paragraph pgNo="1" begin="0" end="47">
+<Sentence sentNo="1" begin="0" end="47" sentText="DODSON, DEBORAH K (id #143020, dob: 1Z/Z1/1956)">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="2" begin="48" end="48">
+</Paragraph>
+</Section>
+<Section value="Patient" begin="49" end="56" secBegin="56" secEnd="126">
+<Paragraph pgNo="3" begin="49" end="56">
+<Sentence sentNo="2" begin="49" end="56" sentText="Patient">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="4" begin="57" end="126">
+<Sentence sentNo="3" begin="57" end="97" sentText="Name DODSON, DEBORAH (62yo, F) ID# Appt.">
+</Sentence>
+<Sentence sentNo="4" begin="98" end="126" sentText="Date/Time 09/26/2019 09:45AM">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Report Unknown Section" begin="127" end="127" secBegin="127" secEnd="351">
+<Paragraph pgNo="5" begin="127" end="133">
+<Sentence sentNo="5" begin="127" end="133" sentText="143020">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="6" begin="134" end="185">
+<Sentence sentNo="6" begin="134" end="162" sentText="DOB 12/21/1956 Service Dept.">
+</Sentence>
+<Sentence sentNo="7" begin="163" end="185" sentText="MWB_MOUNTAINVIEW HARRY">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="7" begin="186" end="190">
+<Sentence sentNo="8" begin="186" end="190" sentText="BASS">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="8" begin="191" end="191">
+</Paragraph>
+<Paragraph pgNo="9" begin="192" end="215">
+<Sentence sentNo="9" begin="192" end="215" sentText="Provider HARRY BASS, MD">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="10" begin="216" end="216">
+</Paragraph>
+<Paragraph pgNo="11" begin="217" end="247">
+<Sentence sentNo="10" begin="217" end="247" sentText="Insurance Med Primary: BCBS NM">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="12" begin="248" end="274">
+<Sentence sentNo="11" begin="248" end="274" sentText="Insurance # : YIV926753511">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="13" begin="275" end="297">
+<Sentence sentNo="12" begin="275" end="297" sentText="Policy/Group #: NG2301">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="14" begin="298" end="350">
+<Sentence sentNo="13" begin="298" end="350" sentText="Prescription: PRIME NEW MEXICO - Member is eligible.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="15" begin="351" end="351">
+</Paragraph>
+</Section>
+<Section value="Chief Complaint" begin="352" end="367" secBegin="367" secEnd="994">
+<Paragraph pgNo="16" begin="352" end="367">
+<Sentence sentNo="14" begin="352" end="367" sentText="Chief Complaint">
+<RelationSet id="1">
+<finding value="Chief Complaint" begin="352" end="367" status="0" certainty="0" cui="C0277786" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="17" begin="368" end="394">
+<Sentence sentNo="15" begin="368" end="394" sentText="Allergic Rhinitis/Symptoms">
+<RelationSet id="2">
+<problem value="Allergic Rhinitis" begin="368" end="385" status="0" certainty="0" cui="S00011051;C2607914" tui="T046;T047" rank="800;787" code="NO-CODE" sourceType="ezDIML2;MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="18" begin="395" end="395">
+</Paragraph>
+<Paragraph pgNo="19" begin="396" end="425">
+<Sentence sentNo="16" begin="396" end="425" sentText="patient presents in follow up">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="20" begin="426" end="426">
+</Paragraph>
+<Paragraph pgNo="21" begin="427" end="446">
+<Sentence sentNo="17" begin="427" end="446" sentText="Patient&apos;s Care Team">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="22" begin="447" end="447">
+</Paragraph>
+<Paragraph pgNo="23" begin="448" end="555">
+<Sentence sentNo="18" begin="448" end="555" sentText="Other: HARRY BASS MD: 2425 S TELSHOR BLVD, LAS CRUCES, NM 33011-3301, Ph (575) 522-0330, Fax (575) 522-3620">
+<RelationSet id="3">
+<lab value="Ph" begin="518" end="520" status="0" certainty="0" code="NO-CODE" cui="C0332119;C0031843;C0455458;C0031526;C0202165;C0020283;C1304686;C1705397" tui="T080;T081;T039;T028;T059;T046;T033;T034" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<labData value="575" begin="522" end="525" rank="2" unit="" unitBegin="" unitEnd=""/>
+<labData value="522-0330" begin="527" end="535" rank="1" unit="" unitBegin="" unitEnd=""/>
+</lab>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="24" begin="556" end="571">
+<Sentence sentNo="19" begin="556" end="571" sentText="NPI: 1952393364">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="25" begin="572" end="572">
+</Paragraph>
+<Paragraph pgNo="26" begin="573" end="593">
+<Sentence sentNo="20" begin="573" end="593" sentText="Patient&apos;s Pharmacies">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="27" begin="594" end="594">
+</Paragraph>
+<Paragraph pgNo="28" begin="595" end="702">
+<Sentence sentNo="21" begin="595" end="702" sentText="1SzAgie-ON PHARMACY #1909 (ERX): 1235 EL PASEO ROAD, LAS CRUCES NM 33001, Ph (575) 541-1264, Fax (575) 541-">
+<RelationSet id="4">
+<lab value="Ph" begin="669" end="671" status="0" certainty="0" code="NO-CODE" cui="C0332119;C0031843;C0455458;C0031526;C0202165;C0020283;C1304686;C1705397" tui="T080;T081;T039;T028;T059;T046;T033;T034" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="1909" begin="616" end="620">
+<labData value="541-1264" begin="678" end="686" rank="1" unit="" unitBegin="" unitEnd=""/>
+<labData value="575" begin="673" end="676" rank="2" unit="" unitBegin="" unitEnd=""/>
+</date>
+</lab>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="29" begin="703" end="703">
+</Paragraph>
+<Paragraph pgNo="30" begin="704" end="710">
+<Sentence sentNo="22" begin="704" end="710" sentText="\ tals">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="31" begin="711" end="711">
+</Paragraph>
+<Paragraph pgNo="32" begin="712" end="781">
+<Sentence sentNo="23" begin="712" end="781" sentText=": 5 it 6 in (167.64 cm) : 139 lbs With clothes : 122/71 sitting L arm">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="33" begin="782" end="826">
+<Sentence sentNo="24" begin="782" end="826" sentText="0925201909 50 am (63.05 kg) 0925201909 52 am">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="34" begin="827" end="843">
+<Sentence sentNo="25" begin="827" end="843" sentText="0925201909 52 am">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="35" begin="844" end="844">
+</Paragraph>
+<Paragraph pgNo="36" begin="845" end="893">
+<Sentence sentNo="26" begin="845" end="893" sentText=": 22.4 0925201 9 104 bpm 09252019 94% R00 Air at">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="37" begin="894" end="924">
+<Sentence sentNo="27" begin="894" end="924" sentText="09 52 am 09 52 am Rest 09 2019">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="38" begin="925" end="933">
+<Sentence sentNo="28" begin="925" end="933" sentText="09 53 am">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="39" begin="934" end="934">
+</Paragraph>
+<Paragraph pgNo="40" begin="935" end="993">
+<Sentence sentNo="29" begin="935" end="970" sentText=": 1809252019 09 50 : 98.1 Fn (36.72">
+</Sentence>
+<Sentence sentNo="30" begin="971" end="993" sentText="C) am 0925201909 52 am">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="41" begin="994" end="994">
+</Paragraph>
+</Section>
+<Section value="Allergies" begin="995" end="1004" secBegin="1004" secEnd="1005">
+<Paragraph pgNo="42" begin="995" end="1004">
+<Sentence sentNo="31" begin="995" end="1004" sentText="Allergies">
+<RelationSet id="5">
+<problem value="Allergies" begin="995" end="1004" status="0" certainty="0" cui="C0020517;C0002111;C3539909;C0489531;C3542994" tui="T046;T091;T047;T033;T046" rank="791;765;765;595;242" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;MEDCIN;SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="43" begin="1005" end="1005">
+</Paragraph>
+</Section>
+<Section value="Reviewed Allergies" begin="1006" end="1024" secBegin="1024" secEnd="1177">
+<Paragraph pgNo="44" begin="1006" end="1024">
+<Sentence sentNo="32" begin="1006" end="1024" sentText="Reviewed Allergies">
+<RelationSet id="6">
+<problem value="Allergies" begin="1015" end="1024" status="0" certainty="0" cui="C0020517;C0002111;C3539909;C0489531;C3542994" tui="T046;T091;T047;T033;T046" rank="791;765;765;595;242" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;MEDCIN;SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="45" begin="1025" end="1025">
+</Paragraph>
+<Paragraph pgNo="46" begin="1026" end="1052">
+<Sentence sentNo="33" begin="1026" end="1052" sentText="BACTRIM: Other - lethargic">
+<RelationSet id="7">
+<problem value="lethargic" begin="1043" end="1052" status="0" certainty="0" cui="C0023380" tui="T184" rank="795" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="47" begin="1053" end="1053">
+</Paragraph>
+<Paragraph pgNo="48" begin="1054" end="1062">
+<Sentence sentNo="34" begin="1054" end="1062" sentText="COUMADIN">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="49" begin="1063" end="1063">
+</Paragraph>
+<Paragraph pgNo="50" begin="1064" end="1074">
+<Sentence sentNo="35" begin="1064" end="1074" sentText="DARVOCET-N">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="51" begin="1075" end="1075">
+</Paragraph>
+<Paragraph pgNo="52" begin="1076" end="1084">
+<Sentence sentNo="36" begin="1076" end="1084" sentText="DILAUDID">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="53" begin="1085" end="1085">
+</Paragraph>
+<Paragraph pgNo="54" begin="1086" end="1095">
+<Sentence sentNo="37" begin="1086" end="1095" sentText="FLUCELVAX">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="55" begin="1096" end="1096">
+</Paragraph>
+<Paragraph pgNo="56" begin="1097" end="1130">
+<Sentence sentNo="38" begin="1097" end="1130" sentText="NITROFURANTOIN: Diarrhea - nausea">
+<RelationSet id="8">
+<problem value="Diarrhea" begin="1113" end="1121" status="0" certainty="0" cui="S00007979;C0011991;C1963091" tui="T046;T184;T033" rank="800;797;551" code="NO-CODE" sourceType="ezDIML2;MTH;NCI"/>
+</RelationSet>
+<RelationSet id="9">
+<problem value="nausea" begin="1124" end="1130" status="0" certainty="0" cui="C0027497;C1963179" tui="T184;T033" rank="797;551" code="NO-CODE" sourceType="MTH;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="57" begin="1131" end="1167">
+<Sentence sentNo="39" begin="1131" end="1167" sentText="STATINS-HMG-COA REDUCTASE INHIBITORS">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="58" begin="1168" end="1176">
+<Sentence sentNo="40" begin="1168" end="1176" sentText="WARFARIN">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="59" begin="1177" end="1177">
+</Paragraph>
+</Section>
+<Section value="Medications" begin="1178" end="1189" secBegin="1189" secEnd="1189">
+<Paragraph pgNo="60" begin="1178" end="1189">
+<Sentence sentNo="41" begin="1178" end="1189" sentText="Medications">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Reviewed Medications" begin="1190" end="1210" secBegin="1210" secEnd="3474">
+<Paragraph pgNo="61" begin="1190" end="1210">
+<Sentence sentNo="42" begin="1190" end="1210" sentText="Reviewed Medications">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="62" begin="1211" end="1211">
+</Paragraph>
+<Paragraph pgNo="63" begin="1212" end="1253">
+<Sentence sentNo="43" begin="1212" end="1253" sentText="ALPRAZoIam 0.25 mg tablet 09/13/19 filled">
+<RelationSet id="10">
+<med value="ALPRAZoIam 0.25 mg" begin="1212" end="1230" status="0" certainty="0" cui="C0983487" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="ALPRAZoIam" begin="1212" end="1222" status="0" certainty="0" cui="C0002333" tui="T109,T121" rank="795" code="NO-CODE" sourceType="MSH">
+<date value="09/13/19" begin="1238" end="1246">
+<medData strength="0.25" strengthBegin="1223" strengthEnd="1227" strengthUnit="mg" strengthUnitBegin="1228" strengthUnitEnd="1230" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="1231" formEnd="1237" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="64" begin="1254" end="1292">
+<Sentence sentNo="44" begin="1254" end="1292" sentText="TAKE ONE TABLET BY MOUTH 3 TIMES DAILY">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="65" begin="1293" end="1293">
+</Paragraph>
+<Paragraph pgNo="66" begin="1294" end="1338">
+<Sentence sentNo="45" begin="1294" end="1338" sentText="cephALEXin 250 mg tablet 09/26/19 prescribed">
+<RelationSet id="11">
+<med value="cephALEXin 250 mg tablet" begin="1294" end="1318" status="0" certainty="0" cui="C0975442" tui="T200" rank="666" code="NO-CODE" sourceType="MTHFDA"/>
+<med value="cephALEXin 250 mg" begin="1294" end="1311" status="0" certainty="0" cui="C0984638" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="cephALEXin" begin="1294" end="1304" status="0" certainty="0" cui="C0007716;C0700517" tui="T109,T195;T109,T195" rank="795;774" code="NO-CODE" sourceType="MSH;RXNORM">
+<date value="09/26/19" begin="1319" end="1327">
+<medData strength="250" strengthBegin="1305" strengthEnd="1308" strengthUnit="mg" strengthUnitBegin="1309" strengthUnitEnd="1311" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="1312" formEnd="1318" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="67" begin="1339" end="1402">
+<Sentence sentNo="46" begin="1339" end="1402" sentText="Take 1 tablet(s) every day by oral route as needed for 30 days.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="68" begin="1403" end="1403">
+</Paragraph>
+<Paragraph pgNo="69" begin="1404" end="1447">
+<Sentence sentNo="47" begin="1404" end="1447" sentText="ciprofloxacin 500 mg tablet 07/31/19 filled">
+<RelationSet id="12">
+<med value="ciprofloxacin 500 mg tablet" begin="1404" end="1431" status="0" certainty="0" cui="C0975677" tui="T200" rank="245" code="NO-CODE" sourceType="RXNORM"/>
+<med value="ciprofloxacin 500 mg" begin="1404" end="1424" status="0" certainty="0" cui="C1123173" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="ciprofloxacin" begin="1404" end="1417" status="0" certainty="0" cui="C0008809" tui="T109,T121" rank="795" code="NO-CODE" sourceType="MSH">
+<date value="07/31/19" begin="1432" end="1440">
+<medData strength="500" strengthBegin="1418" strengthEnd="1421" strengthUnit="mg" strengthUnitBegin="1422" strengthUnitEnd="1424" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="1425" formEnd="1431" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="70" begin="1448" end="1511">
+<Sentence sentNo="48" begin="1448" end="1511" sentText="Take 1 tablet(s) every day by oral route as needed for 30 days.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="71" begin="1512" end="1512">
+</Paragraph>
+<Paragraph pgNo="72" begin="1513" end="1573">
+<Sentence sentNo="49" begin="1513" end="1573" sentText="DULoxetine 30 mg capsule,delayed release 09/26/19 prescribed">
+<RelationSet id="13">
+<med value="DULoxetine 30 mg" begin="1513" end="1529" status="0" certainty="0" cui="C1621163" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="DULoxetine" begin="1513" end="1523" status="0" certainty="0" cui="C0245561" tui="T109,T121" rank="787" code="NO-CODE" sourceType="MSH">
+<date value="09/26/19" begin="1554" end="1562">
+<medData strength="30" strengthBegin="1524" strengthEnd="1526" strengthUnit="mg" strengthUnitBegin="1527" strengthUnitEnd="1529" dosage="" dosageBegin="" dosageEnd="" form="capsule" formBegin="1530" formEnd="1537" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="73" begin="1574" end="1614">
+<Sentence sentNo="50" begin="1574" end="1614" sentText="TAKE ONE CAPSULE BY MOUTH ONE TIME DAILY">
+<RelationSet id="13">
+<anatomicalStructure value="MOUTH" begin="1594" end="1599" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="74" begin="1615" end="1615">
+</Paragraph>
+<Paragraph pgNo="75" begin="1616" end="1616">
+</Paragraph>
+<Paragraph pgNo="76" begin="1617" end="1617">
+</Paragraph>
+<Paragraph pgNo="77" begin="1618" end="1618">
+</Paragraph>
+<Paragraph pgNo="78" begin="1619" end="1619">
+</Paragraph>
+<Paragraph pgNo="79" begin="1620" end="1667">
+<Sentence sentNo="51" begin="1620" end="1667" sentText="DODSON, DEBORAH K (id #143020, dob: 12/21/1956)">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="80" begin="1668" end="1668">
+</Paragraph>
+<Paragraph pgNo="81" begin="1669" end="1714">
+<Sentence sentNo="52" begin="1669" end="1714" sentText="enalapril maleate 5 mg tablet 08/31/19 filled">
+<RelationSet id="14">
+<med value="enalapril maleate 5 mg" begin="1669" end="1691" status="0" certainty="0" cui="C2608730" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="enalapril maleate" begin="1669" end="1686" status="0" certainty="0" cui="C0700452" tui="T116,T121" rank="793" code="NO-CODE" sourceType="MSH"/>
+<med value="enalapril_SEP_5 mg" begin="1669_SEP_1687" end="1678_SEP_1691" status="0" certainty="0" cui="C1123178" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="enalapril" begin="1669" end="1678" status="0" certainty="0" cui="C0014025" tui="T116,T121" rank="795" code="NO-CODE" sourceType="MSH"/>
+<med value="maleate" begin="1679" end="1686" status="0" certainty="0" cui="C0220874;C0024572" tui="T109;T109" rank="797;797" code="NO-CODE" sourceType="MTH;MTH">
+<date value="08/31/19" begin="1699" end="1707">
+<medData strength="5" strengthBegin="1687" strengthEnd="1688" strengthUnit="mg" strengthUnitBegin="1689" strengthUnitEnd="1691" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="1692" formEnd="1698" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="82" begin="1715" end="1754">
+<Sentence sentNo="53" begin="1715" end="1754" sentText="TAKE ONE TABLET BY MOUTH ONE TIME DAILY">
+<RelationSet id="14">
+<anatomicalStructure value="MOUTH" begin="1734" end="1739" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="83" begin="1755" end="1755">
+</Paragraph>
+<Paragraph pgNo="84" begin="1756" end="1795">
+<Sentence sentNo="54" begin="1756" end="1795" sentText="ibuprofen 800 mg tablet 06/25/19 filled">
+<RelationSet id="15">
+<med value="ibuprofen 800 mg tablet" begin="1756" end="1779" status="0" certainty="0" cui="C0689175" tui="T200" rank="245" code="NO-CODE" sourceType="RXNORM"/>
+<med value="ibuprofen 800 mg" begin="1756" end="1772" status="0" certainty="0" cui="C0986668" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="ibuprofen" begin="1756" end="1765" status="0" certainty="0" cui="C0020740;C0699203" tui="T109,T121;T109,T121" rank="795;792" code="NO-CODE" sourceType="MSH;MSH">
+<date value="06/25/19" begin="1780" end="1788">
+<medData strength="800" strengthBegin="1766" strengthEnd="1769" strengthUnit="mg" strengthUnitBegin="1770" strengthUnitEnd="1772" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="1773" formEnd="1779" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="85" begin="1796" end="1853">
+<Sentence sentNo="55" begin="1796" end="1853" sentText="Take 1 tablet(s) 3 times a day by oral route for 90 days.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="86" begin="1854" end="1854">
+</Paragraph>
+<Paragraph pgNo="87" begin="1855" end="1918">
+<Sentence sentNo="56" begin="1855" end="1918" sentText="Kenalog 40 mg/mL suspension for injection 09/26/19 administered">
+<RelationSet id="16">
+<med value="Kenalog 40" begin="1855" end="1865" status="0" certainty="0" cui="C0699693" tui="T110,T121" rank="792" code="NO-CODE" sourceType="MSH"/>
+<med value="Kenalog" begin="1855" end="1862" status="0" certainty="0" cui="C0699689" tui="T110,T121" rank="792" code="NO-CODE" sourceType="MSH">
+<date value="09/26/19" begin="1897" end="1905">
+<medData strength="40" strengthBegin="1863" strengthEnd="1865" strengthUnit="mg/mL" strengthUnitBegin="1866" strengthUnitEnd="1871" dosage="" dosageBegin="" dosageEnd="" form="suspension;injection" formBegin="1872;1887" formEnd="1882;1896" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="injection" routeBegin="1887" routeEnd="1896"/></date>
+</med>
+</RelationSet>
+<RelationSet id="17">
+<procedure value="injection" begin="1887" end="1896" status="0" certainty="0" cui="C1828121;C1272883;C1533685;C0021485" tui="T169;T122;T061;T061" rank="795;767;767;151" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;CHV"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="88" begin="1919" end="1987">
+<Sentence sentNo="57" begin="1919" end="1958" sentText="Take 1 mL by injection route for 1 day.">
+</Sentence>
+<Sentence sentNo="58" begin="1959" end="1987" sentText="Administer Note: by dr hbass">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="89" begin="1988" end="1988">
+</Paragraph>
+<Paragraph pgNo="90" begin="1989" end="2032">
+<Sentence sentNo="59" begin="1989" end="2032" sentText="metFORMIN 500 mg tablet 09/26/19 prescribed">
+<RelationSet id="18">
+<med value="metFORMIN 500 mg tablet" begin="1989" end="2012" status="0" certainty="0" cui="C0978483" tui="T200" rank="666" code="NO-CODE" sourceType="MTHFDA"/>
+<med value="metFORMIN 500 mg" begin="1989" end="2005" status="0" certainty="0" cui="C0987665" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="metFORMIN" begin="1989" end="1998" status="0" certainty="0" cui="C0025598" tui="T109,T121" rank="795" code="NO-CODE" sourceType="MSH">
+<date value="09/26/19" begin="2013" end="2021">
+<medData strength="500" strengthBegin="1999" strengthEnd="2002" strengthUnit="mg" strengthUnitBegin="2003" strengthUnitEnd="2005" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="2006" formEnd="2012" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="91" begin="2033" end="2086">
+<Sentence sentNo="60" begin="2033" end="2086" sentText="Take 1 tablet(s) every day by oral route for 90 days.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="92" begin="2087" end="2087">
+</Paragraph>
+<Paragraph pgNo="93" begin="2088" end="2117">
+<Sentence sentNo="61" begin="2088" end="2117" sentText="multivitamin 03/08/18 entered">
+<RelationSet id="19">
+<med value="multivitamin" begin="2088" end="2100" status="0" certainty="0" cui="C0042890;C0301532" tui="T109,T121,T127;T109,T121,T127" rank="767;741" code="NO-CODE" sourceType="SNOMEDCTUS;VANDF">
+<date value="03/08/18" begin="2101" end="2109">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="94" begin="2118" end="2118">
+</Paragraph>
+<Paragraph pgNo="95" begin="2119" end="2170">
+<Sentence sentNo="62" begin="2119" end="2170" sentText="Niacin (niacinamide) 500 mg tablet 03/08/18 entered">
+<RelationSet id="20">
+<med value="Niacin_SEP_500 mg tablet" begin="2119_SEP_2140" end="2125_SEP_2153" status="0" certainty="0" cui="C0689750" tui="T200" rank="245" code="NO-CODE" sourceType="RXNORM"/>
+<med value="Niacin_SEP_niacinamide" begin="2119_SEP_2127" end="2125_SEP_2138" status="0" certainty="0" cui="C2927978" tui="T121" rank="796" code="NO-CODE" sourceType="RXNORM"/>
+<med value="Niacin_SEP_500 mg" begin="2119_SEP_2140" end="2125_SEP_2146" status="0" certainty="0" cui="C0988083" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="Niacin" begin="2119" end="2125" status="0" certainty="0" cui="C0027996;C1142562" tui="T109,T121,T127;T059" rank="797;572" code="NO-CODE" sourceType="MTH;NCI">
+<date value="03/08/18" begin="2154" end="2162">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+<RelationSet id="21">
+<med value="niacinamide_SEP_500 mg" begin="2127_SEP_2140" end="2138_SEP_2146" status="0" certainty="0" cui="C0988120" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="niacinamide" begin="2127" end="2138" status="0" certainty="0" cui="C0028027" tui="T109,T121,T127" rank="797" code="NO-CODE" sourceType="MTH">
+<date value="03/08/18" begin="2154" end="2162">
+<medData strength="500" strengthBegin="2140" strengthEnd="2143" strengthUnit="mg" strengthUnitBegin="2144" strengthUnitEnd="2146" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="2147" formEnd="2153" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="96" begin="2171" end="2190">
+<Sentence sentNo="63" begin="2171" end="2190" sentText="Take by oral route.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="97" begin="2191" end="2225">
+<Sentence sentNo="64" begin="2191" end="2225" sentText="Internal Note: Take two once daily">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="98" begin="2226" end="2226">
+</Paragraph>
+<Paragraph pgNo="99" begin="2227" end="2281">
+<Sentence sentNo="65" begin="2227" end="2281" sentText="ondansetron 8 mg disintegrating tablet 07/16/19 filled">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="100" begin="2282" end="2356">
+<Sentence sentNo="66" begin="2282" end="2356" sentText="Place 1 tablet(s) twice a day by translingual route as needed for 10 days.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="101" begin="2357" end="2357">
+</Paragraph>
+<Paragraph pgNo="102" begin="2358" end="2399">
+<Sentence sentNo="67" begin="2358" end="2399" sentText="promethazine 25 mg tablet 08/22/19 filled">
+<RelationSet id="22">
+<med value="promethazine" begin="2358" end="2370" status="0" certainty="0" cui="C0033405" tui="T109,T121" rank="795" code="NO-CODE" sourceType="MSH">
+<date value="08/22/19" begin="2384" end="2392">
+<medData strength="25" strengthBegin="2371" strengthEnd="2373" strengthUnit="mg" strengthUnitBegin="2374" strengthUnitEnd="2376" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="2377" formEnd="2383" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="103" begin="2400" end="2445">
+<Sentence sentNo="68" begin="2400" end="2445" sentText="Take 1 tablet(s) every 6 hours by oral route.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="104" begin="2446" end="2446">
+</Paragraph>
+<Paragraph pgNo="105" begin="2447" end="2491">
+<Sentence sentNo="69" begin="2447" end="2491" sentText="Synthroid 112 mcg tablet 09/26/19 prescribed">
+<RelationSet id="23">
+<med value="Synthroid" begin="2447" end="2456" status="0" certainty="0" cui="C0728762" tui="T116,T121" rank="797" code="NO-CODE" sourceType="MTH">
+<date value="09/26/19" begin="2472" end="2480">
+<medData strength="112" strengthBegin="2457" strengthEnd="2460" strengthUnit="mcg" strengthUnitBegin="2461" strengthUnitEnd="2464" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="2465" formEnd="2471" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="106" begin="2492" end="2545">
+<Sentence sentNo="70" begin="2492" end="2545" sentText="Take 1 tablet(s) every day by oral route for 90 days.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="107" begin="2546" end="2546">
+</Paragraph>
+<Paragraph pgNo="108" begin="2547" end="2590">
+<Sentence sentNo="71" begin="2547" end="2590" sentText="temazepam 30 mg capsule 09/26/19 prescribed">
+<RelationSet id="24">
+<med value="temazepam 30 mg" begin="2547" end="2562" status="0" certainty="0" cui="C0990507" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="temazepam" begin="2547" end="2556" status="0" certainty="0" cui="C0039468" tui="T109,T121" rank="795" code="NO-CODE" sourceType="MSH">
+<date value="09/26/19" begin="2571" end="2579">
+<medData strength="30" strengthBegin="2557" strengthEnd="2559" strengthUnit="mg" strengthUnitBegin="2560" strengthUnitEnd="2562" dosage="" dosageBegin="" dosageEnd="" form="capsule" formBegin="2563" formEnd="2570" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="109" begin="2591" end="2631">
+<Sentence sentNo="72" begin="2591" end="2631" sentText="TAKE ONE CAPSULE BY MOUTH ONE TIME DAILY">
+<RelationSet id="24">
+<anatomicalStructure value="MOUTH" begin="2611" end="2616" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="110" begin="2632" end="2632">
+</Paragraph>
+<Paragraph pgNo="111" begin="2633" end="2705">
+<Sentence sentNo="73" begin="2633" end="2705" sentText="triamterene 37.5 mg-hydrochlorothiazide 25 mg tablet 09/26/19 prescribed">
+<RelationSet id="25">
+<med value="triamterene 37.5 mg-hydrochlorothiazide_SEP_mg" begin="2633_SEP_2676" end="2672_SEP_2678" status="0" certainty="0" cui="C0990911" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="triamterene_SEP_mg-hydrochlorothiazide 25 mg" begin="2633_SEP_2650" end="2644_SEP_2678" status="0" certainty="0" cui="C1383892" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="triamterene_SEP_mg-hydrochlorothiazide" begin="2633_SEP_2650" end="2644_SEP_2672" status="0" certainty="0" cui="C0813211" tui="T109,T121" rank="797" code="NO-CODE" sourceType="MTH"/>
+<med value="triamterene" begin="2633" end="2644" status="0" certainty="0" cui="C0040869;C0700653" tui="T109,T121;T109,T121" rank="795;792" code="NO-CODE" sourceType="MSH;MSH">
+<date value="09/26/19" begin="2686" end="2694">
+<medData strength="37.5" strengthBegin="2645" strengthEnd="2649" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+<RelationSet id="26">
+<med value="triamterene 37.5 mg-hydrochlorothiazide" begin="2633" end="2672" status="0" certainty="0" cui="C0990911" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="triamterene_SEP_mg-hydrochlorothiazide 25" begin="2633_SEP_2650" end="2644_SEP_2675" status="0" certainty="0" cui="C1383892" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="mg-hydrochlorothiazide 25 mg tablet" begin="2650" end="2685" status="0" certainty="0" cui="C0977518" tui="T200" rank="666" code="NO-CODE" sourceType="MTHFDA"/>
+<med value="mg-hydrochlorothiazide 25 mg" begin="2650" end="2678" status="0" certainty="0" cui="C0986526" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="mg-hydrochlorothiazide" begin="2650" end="2672" status="0" certainty="0" cui="C0020261;C0439210;C0373675;C2348270;C0024467" tui="T109,T121;T081;T059;T196;T196" rank="795;767;572;558;472" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;NCI;NCI;AOD">
+<date value="09/26/19" begin="2686" end="2694">
+<medData strength="25" strengthBegin="2673" strengthEnd="2675" strengthUnit="mg" strengthUnitBegin="2676" strengthUnitEnd="2678" dosage="" dosageBegin="" dosageEnd="" form="tablet" formBegin="2679" formEnd="2685" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="112" begin="2706" end="2745">
+<Sentence sentNo="74" begin="2706" end="2745" sentText="TAKE ONE TABLET BY MOUTH ONE TIME DAILY">
+<RelationSet id="26">
+<anatomicalStructure value="MOUTH" begin="2725" end="2730" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="113" begin="2746" end="2746">
+</Paragraph>
+<Paragraph pgNo="114" begin="2747" end="2791">
+<Sentence sentNo="75" begin="2747" end="2791" sentText="Vascepa 0.5 gram capsule 09/26/19 prescribed">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="115" begin="2792" end="2848">
+<Sentence sentNo="76" begin="2792" end="2848" sentText="Take 1 capsule(s) twice a day by oral route for 30 days.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="116" begin="2849" end="2849">
+</Paragraph>
+<Paragraph pgNo="117" begin="2850" end="2858">
+<Sentence sentNo="77" begin="2850" end="2858" sentText="L lysine">
+<RelationSet id="26">
+<anatomicalStructure value="L lysine" begin="2850" end="2858" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="118" begin="2859" end="2867">
+<Sentence sentNo="78" begin="2859" end="2867" sentText="Vaccines">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="119" begin="2868" end="2868">
+</Paragraph>
+<Paragraph pgNo="120" begin="2869" end="2886">
+<Sentence sentNo="79" begin="2869" end="2886" sentText="Reviewed Vaccines">
+<RelationSet id="27">
+<med value="Vaccines" begin="2878" end="2886" status="0" certainty="0" cui="C0042210;C0042196" tui="T121,T129;T061" rank="797;627" code="NO-CODE" sourceType="MTH;CPT">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="121" begin="2887" end="2887">
+</Paragraph>
+<Paragraph pgNo="122" begin="2888" end="2957">
+<Sentence sentNo="80" begin="2888" end="2909" sentText="VaccineType Date Amt.">
+</Sentence>
+<Sentence sentNo="81" begin="2910" end="2933" sentText="Route Site NDC Lam Mtr.">
+<RelationSet id="27">
+<med value="Lam Mtr" begin="2925" end="2932" status="0" certainty="0" code="NO-CODE" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="82" begin="2934" end="2938" sentText="Exp.">
+</Sentence>
+<Sentence sentNo="83" begin="2939" end="2957" sentText="Date vrs Vaocmator">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="123" begin="2958" end="2974">
+<Sentence sentNo="84" begin="2958" end="2974" sentText="Date onVlS Given">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="124" begin="2975" end="2975">
+</Paragraph>
+<Paragraph pgNo="125" begin="2976" end="2988">
+<Sentence sentNo="85" begin="2976" end="2988" sentText="Pneumoooccal">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="126" begin="2989" end="3031">
+<Sentence sentNo="86" begin="2989" end="3031" sentText="pneumoooocal polysaccharlde PPV23 04/28/15">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="127" begin="3032" end="3070">
+<Sentence sentNo="87" begin="3032" end="3070" sentText="pneumoooocal polysaccharlde PPV23 2015">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="128" begin="3071" end="3078">
+<Sentence sentNo="88" begin="3071" end="3078" sentText="Tetanus">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="129" begin="3079" end="3103">
+<Sentence sentNo="89" begin="3079" end="3103" sentText="tetanus toxold, adsorbed">
+<RelationSet id="28">
+<med value="tetanus toxold" begin="3079" end="3093" status="0" certainty="0" cui="C0305062;C0039620" tui="T116,T121,T129;T121,T129" rank="795;765" code="NO-CODE" sourceType="MSH;SNOMEDCTUS">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="130" begin="3104" end="3104">
+</Paragraph>
+<Paragraph pgNo="131" begin="3105" end="3133">
+<Sentence sentNo="90" begin="3105" end="3133" sentText="UTD, -Flu 2013-19 (allergic)">
+<RelationSet id="29">
+<problem value="allergic" begin="3124" end="3132" status="0" certainty="-2" cui="C0020517;C0002111;C3539909;C0700624;C0489531;C3542994" tui="T046;T091;T047;T169;T033;T046" rank="791;765;765;703;595;242" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;SNMI;MEDCIN;SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="132" begin="3134" end="3134">
+</Paragraph>
+<Paragraph pgNo="133" begin="3135" end="3144">
+<Sentence sentNo="91" begin="3135" end="3144" sentText="Problem 5">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="134" begin="3145" end="3145">
+</Paragraph>
+<Paragraph pgNo="135" begin="3146" end="3163">
+<Sentence sentNo="92" begin="3146" end="3163" sentText="Reviewed Problems">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="136" begin="3164" end="3164">
+</Paragraph>
+<Paragraph pgNo="137" begin="3165" end="3178">
+<Sentence sentNo="93" begin="3165" end="3178" sentText="0 Candidiasis">
+<RelationSet id="30">
+<problem value="Candidiasis" begin="3167" end="3178" status="0" certainty="0" cui="C0006840" tui="T047" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="138" begin="3179" end="3179">
+</Paragraph>
+<Paragraph pgNo="139" begin="3180" end="3196">
+<Sentence sentNo="94" begin="3180" end="3196" sentText="o Hypothyroidism">
+<RelationSet id="31">
+<problem value="Hypothyroidism" begin="3182" end="3196" status="0" certainty="0" cui="C0020676" tui="T047" rank="795" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="140" begin="3197" end="3197">
+</Paragraph>
+<Paragraph pgNo="141" begin="3198" end="3264">
+<Sentence sentNo="95" begin="3198" end="3264" sentText="I Type 2 diabetes mellitus without mmplication - Onset: 03/03/2013">
+<RelationSet id="32">
+<problem value="Type 2 diabetes mellitus" begin="3200" end="3224" status="0" certainty="0" cui="S20004383;C0011860" tui="T046;T047" rank="800;795" code="NO-CODE" sourceType="ezDIML2;MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="142" begin="3265" end="3281">
+<Sentence sentNo="96" begin="3265" end="3281" sentText="0 Hyperlipidemia">
+<RelationSet id="33">
+<problem value="Hyperlipidemia" begin="3267" end="3281" status="0" certainty="0" cui="S00002881;C0020473;C1706412" tui="T046;T047;T033" rank="800;797;792" code="NO-CODE" sourceType="ezDIML2;MTH;MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="143" begin="3282" end="3282">
+</Paragraph>
+<Paragraph pgNo="144" begin="3283" end="3297">
+<Sentence sentNo="97" begin="3283" end="3297" sentText="c Hypermlcemia">
+<RelationSet id="33">
+<problem value="Hypermlcemia" begin="3285" end="3297" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="145" begin="3298" end="3298">
+</Paragraph>
+<Paragraph pgNo="146" begin="3299" end="3308">
+<Sentence sentNo="98" begin="3299" end="3308" sentText="0 Anxiety">
+<RelationSet id="34">
+<problem value="Anxiety" begin="3301" end="3308" status="0" certainty="0" cui="C0003467;C0860603;C1963064;C0003469" tui="T041;T033;T033;T048" rank="797;595;551;551" code="NO-CODE" sourceType="MTH;MEDCIN;NCI;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="147" begin="3309" end="3309">
+</Paragraph>
+<Paragraph pgNo="148" begin="3310" end="3310">
+</Paragraph>
+<Paragraph pgNo="149" begin="3311" end="3311">
+</Paragraph>
+<Paragraph pgNo="150" begin="3312" end="3312">
+</Paragraph>
+<Paragraph pgNo="151" begin="3313" end="3313">
+</Paragraph>
+<Paragraph pgNo="152" begin="3314" end="3361">
+<Sentence sentNo="99" begin="3314" end="3361" sentText="DODSON, DEBORAH K (id #143020, dob: 12/21/1956)">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="153" begin="3362" end="3362">
+</Paragraph>
+<Paragraph pgNo="154" begin="3363" end="3373">
+<Sentence sentNo="100" begin="3363" end="3373" sentText="0 Insomnia">
+<RelationSet id="35">
+<problem value="Insomnia" begin="3365" end="3373" status="0" certainty="0" cui="C0917801;C1963237" tui="T184;T033" rank="791;551" code="NO-CODE" sourceType="MSH;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="155" begin="3374" end="3374">
+</Paragraph>
+<Paragraph pgNo="156" begin="3375" end="3399">
+<Sentence sentNo="101" begin="3375" end="3399" sentText="c Essential hypertension">
+<RelationSet id="36">
+<problem value="Essential hypertension" begin="3377" end="3399" status="0" certainty="0" cui="C2882073;C0085580" tui="T047;T047" rank="800;797" code="NO-CODE" sourceType="ICD10CM;MTH"/>
+<problem value="hypertension" begin="3387" end="3399" status="0" certainty="0" cui="C0020538" tui="T047" rank="795" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="157" begin="3400" end="3413">
+<Sentence sentNo="102" begin="3400" end="3413" sentText="0 Hemorrhoids">
+<RelationSet id="37">
+<problem value="Hemorrhoids" begin="3402" end="3413" status="0" certainty="0" cui="C0019112;C1963134" tui="T020;T033" rank="797;551" code="NO-CODE" sourceType="MTH;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="158" begin="3414" end="3414">
+</Paragraph>
+<Paragraph pgNo="159" begin="3415" end="3431">
+<Sentence sentNo="103" begin="3415" end="3431" sentText="a Osteoarthritis">
+<RelationSet id="37">
+<problem value="Osteoarthritis" begin="3417" end="3431" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="160" begin="3432" end="3432">
+</Paragraph>
+<Paragraph pgNo="161" begin="3433" end="3457">
+<Sentence sentNo="104" begin="3433" end="3457" sentText="- Lumbar discogenic pain">
+<RelationSet id="38">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<anatomicalStructure value="Lumbar" begin="3435" end="3441" status="0" certainty="0"/>
+<problem value="pain" begin="3453" end="3457" status="0" certainty="0"/>
+</Relation>
+<anatomicalStructure value="Lumbar" begin="3435" end="3441" status="0" certainty="0" cui="C0024090" tui="T029" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="Lumbar discogenic pain" begin="3435" end="3457" status="0" certainty="0" cui="C3662826" tui="T047" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="discogenic pain" begin="3442" end="3457" status="0" certainty="0" cui="C3662528" tui="T047" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="Lumbar_SEP_pain" begin="3435_SEP_3453" end="3441_SEP_3457" status="0" certainty="0" cui="C0024031" tui="T184" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="pain" begin="3453" end="3457" status="0" certainty="0" cui="C0030193;C1557397;C1882272;C0242936" tui="T184;T033;T033;T073,T093" rank="797;551;551;366" code="NO-CODE" sourceType="MTH;NCI;NCI;HL7V3.0"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="162" begin="3458" end="3473">
+<Sentence sentNo="105" begin="3458" end="3473" sentText="0 Hyperglycemia">
+<RelationSet id="39">
+<problem value="Hyperglycemia" begin="3460" end="3473" status="0" certainty="0" cui="S00000244;C0020456;C0005802" tui="T046;T033,T047;T118" rank="800;797;525" code="NO-CODE" sourceType="ezDIML2;MTH;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="163" begin="3474" end="3474">
+</Paragraph>
+</Section>
+<Section value="Family History" begin="3475" end="3489" secBegin="3489" secEnd="3636">
+<Paragraph pgNo="164" begin="3475" end="3489">
+<Sentence sentNo="106" begin="3475" end="3489" sentText="Family History">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="165" begin="3490" end="3490">
+</Paragraph>
+<Paragraph pgNo="166" begin="3491" end="3514">
+<Sentence sentNo="107" begin="3491" end="3514" sentText="Reviewed Family History">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="167" begin="3515" end="3543">
+<Sentence sentNo="108" begin="3515" end="3543" sentText="Mother - Alzheimer s disease">
+<RelationSet id="40">
+<problem value="Alzheimer" begin="3524" end="3533" status="2" certainty="0" cui="S00010747" tui="T046" rank="800" code="NO-CODE" sourceType="ezDIML2"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="168" begin="3544" end="3555">
+<Sentence sentNo="109" begin="3544" end="3555" sentText="- Arthritis">
+<RelationSet id="41">
+<problem value="Arthritis" begin="3546" end="3555" status="2" certainty="0" cui="C0003864" tui="T047" rank="795" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="169" begin="3556" end="3607">
+<Sentence sentNo="110" begin="3556" end="3607" sentText="Father - Malignant neoplasm of brain (died age: 64)">
+<RelationSet id="42">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<modifier value="Malignant" begin="3565" end="3574" status="2" certainty="0"/>
+<problem value="neoplasm" begin="3575" end="3583" status="2" certainty="0"/>
+<anatomicalStructure value="brain" begin="3587" end="3592" status="2" certainty="0"/>
+</Relation>
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<problem value="neoplasm" begin="3575" end="3583" status="2" certainty="0"/>
+<anatomicalStructure value="brain" begin="3587" end="3592" status="2" certainty="0"/>
+</Relation>
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<modifier value="Malignant" begin="3565" end="3574" status="2" certainty="0"/>
+<problem value="neoplasm" begin="3575" end="3583" status="2" certainty="0"/>
+</Relation>
+<modifier value="Malignant" begin="3565" end="3574" status="2" certainty="0" cui="C0205282" tui="T080" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="Malignant neoplasm_SEP_brain" begin="3565_SEP_3587" end="3583_SEP_3592" status="2" certainty="0" cui="C0153633;C0750979" tui="T191;T191" rank="797;150" code="NO-CODE" sourceType="MTH;CHV"/>
+<problem value="Malignant neoplasm" begin="3565" end="3583" status="2" certainty="0" cui="C0006826;C1306459" tui="T191;T191" rank="797;765" code="NO-CODE" sourceType="MTH;SNOMEDCTUS"/>
+<problem value="neoplasm_SEP_brain" begin="3575_SEP_3587" end="3583_SEP_3592" status="2" certainty="0" cui="C0006118" tui="T191" rank="797" code="NO-CODE" sourceType="MTH"/>
+<problem value="neoplasm" begin="3575" end="3583" status="2" certainty="0" cui="C0027651;C2981607" tui="T191;T170" rank="797;572" code="NO-CODE" sourceType="MTH;NCI"/>
+<anatomicalStructure value="brain" begin="3587" end="3592" status="2" certainty="0" cui="C0006104;C1269537" tui="T023;T023" rank="797;765" code="NO-CODE" sourceType="MTH;SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="170" begin="3608" end="3614">
+<Sentence sentNo="111" begin="3608" end="3614" sentText="- lung">
+<RelationSet id="43">
+<anatomicalStructure value="lung" begin="3610" end="3614" status="2" certainty="0" cui="C0024109;C2709248;C1278908;C0819757" tui="T023;T080;T023;T024" rank="797;767;765;572" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;SNOMEDCTUS;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="171" begin="3615" end="3635">
+<Sentence sentNo="112" begin="3615" end="3635" sentText="Brother - Well adult">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="172" begin="3636" end="3636">
+</Paragraph>
+</Section>
+<Section value="Social History" begin="3637" end="3651" secBegin="3651" secEnd="3652">
+<Paragraph pgNo="173" begin="3637" end="3651">
+<Sentence sentNo="113" begin="3637" end="3651" sentText="Social History">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="174" begin="3652" end="3652">
+</Paragraph>
+</Section>
+<Section value="Reviewed Social History" begin="3653" end="3676" secBegin="3676" secEnd="4267">
+<Paragraph pgNo="175" begin="3653" end="3676">
+<Sentence sentNo="114" begin="3653" end="3676" sentText="Reviewed Social History">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="176" begin="3677" end="3677">
+</Paragraph>
+<Paragraph pgNo="177" begin="3678" end="3683">
+<Sentence sentNo="115" begin="3678" end="3683" sentText="Adult">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="178" begin="3684" end="3684">
+</Paragraph>
+<Paragraph pgNo="179" begin="3685" end="3746">
+<Sentence sentNo="116" begin="3685" end="3746" sentText="Tobacco Smoking Status: Former smoker (Notes: Remote history)">
+<RelationSet id="44">
+<problem value="Tobacco Smoking" begin="3685" end="3700" status="1" certainty="0" cui="S00005223;C0439994;C0302836;C0453996" tui="T046;T131;T131;T055" rank="800;797;797;793" code="NO-CODE" sourceType="ezDIML2;MTH;MTH;MSH"/>
+<finding value="Tobacco Smoking Status" begin="3685" end="3707" status="1" certainty="0" cui="S20005125;C3496610" tui="T046;T033" rank="800;797" code="NO-CODE" sourceType="ezDIML2;MTH"/>
+<finding value="Smoking Status" begin="3693" end="3707" status="1" certainty="0" cui="C1519386" tui="T201" rank="576" code="NO-CODE" sourceType="NCI"/>
+<finding value="Smoking" begin="3693" end="3700" status="1" certainty="0" cui="S00005017;S00005278;S00004127;C0037369;C0037366;C1519384;C1881674" tui="T046;T046;T046;T055;T069,T131;T033;T067" rank="800;800;800;797;797;595;562" code="NO-CODE" sourceType="ezDIML2;ezDIML2;ezDIML2;MTH;MTH;MEDCIN;NCI"/>
+</RelationSet>
+<RelationSet id="45">
+<finding value="Former smoker" begin="3709" end="3722" status="0" certainty="0" cui="C0337671" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+<finding value="smoker" begin="3716" end="3722" status="0" certainty="0" cui="C0337664" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="180" begin="3747" end="3757">
+<Sentence sentNo="117" begin="3747" end="3757" sentText="Non-smoker">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="181" begin="3758" end="3758">
+</Paragraph>
+<Paragraph pgNo="182" begin="3759" end="3782">
+<Sentence sentNo="118" begin="3759" end="3782" sentText="Has smoked since age: 0">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="183" begin="3783" end="3783">
+</Paragraph>
+<Paragraph pgNo="184" begin="3784" end="3803">
+<Sentence sentNo="119" begin="3784" end="3803" sentText="Nicotine patches: N">
+<RelationSet id="46">
+<med value="Nicotine patches" begin="3784" end="3800" status="0" certainty="0" cui="C0358855" tui="T200" rank="792" code="NO-CODE" sourceType="MSH"/>
+<med value="Nicotine" begin="3784" end="3792" status="0" certainty="0" cui="C0028040;C0202431" tui="T109,T121,T131;T059" rank="797;629" code="NO-CODE" sourceType="MTH;CPT"/>
+<med value="patches" begin="3793" end="3800" status="0" certainty="0" cui="C0994894;C0332461;C1305400;C0991556;C0445403;C1533128;C1707974;C1367881;C1706366" tui="T074;T033;T074;T074;T122;T122;T122;T116,T192;T081" rank="776;765;765;765;765;765;576;576;575" code="NO-CODE" sourceType="RXNORM;SNOMEDCTUS;SNOMEDCTUS;SNOMEDCTUS;SNOMEDCTUS;SNOMEDCTUS;NCI;NCI;NCI">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="patches" formBegin="3793" formEnd="3800" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="185" begin="3804" end="3804">
+</Paragraph>
+<Paragraph pgNo="186" begin="3805" end="3826">
+<Sentence sentNo="120" begin="3805" end="3826" sentText="Chewing tobacco: none">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="187" begin="3827" end="3850">
+<Sentence sentNo="121" begin="3827" end="3850" sentText="Tobacco-years of use: 0">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="188" begin="3851" end="3851">
+</Paragraph>
+<Paragraph pgNo="189" begin="3852" end="3872">
+<Sentence sentNo="122" begin="3852" end="3872" sentText="Alcohol intake: None">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="190" begin="3873" end="3873">
+</Paragraph>
+<Paragraph pgNo="191" begin="3874" end="3897">
+<Sentence sentNo="123" begin="3874" end="3897" sentText="Alcohol-years of use: 0">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="192" begin="3898" end="3898">
+</Paragraph>
+<Paragraph pgNo="193" begin="3899" end="3929">
+<Sentence sentNo="124" begin="3899" end="3929" sentText="Are you currently employed?: N">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="194" begin="3930" end="3949">
+<Sentence sentNo="125" begin="3930" end="3949" sentText="Occupation: retired">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="195" begin="3950" end="3950">
+</Paragraph>
+<Paragraph pgNo="196" begin="3951" end="3964">
+<Sentence sentNo="126" begin="3951" end="3964" sentText="Education: 12">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="197" begin="3965" end="3965">
+</Paragraph>
+<Paragraph pgNo="198" begin="3966" end="3989">
+<Sentence sentNo="127" begin="3966" end="3989" sentText="Marital status: Married">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="199" begin="3990" end="3990">
+</Paragraph>
+<Paragraph pgNo="200" begin="3991" end="4004">
+<Sentence sentNo="128" begin="3991" end="4004" sentText="Diet: Regular">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="201" begin="4005" end="4005">
+</Paragraph>
+<Paragraph pgNo="202" begin="4006" end="4031">
+<Sentence sentNo="129" begin="4006" end="4031" sentText="Exercise level: Ocmsional">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="203" begin="4032" end="4032">
+</Paragraph>
+<Paragraph pgNo="204" begin="4033" end="4058">
+<Sentence sentNo="130" begin="4033" end="4058" sentText="General stress level: Low">
+<RelationSet id="47">
+<modifier value="Low" begin="4055" end="4058" status="0" certainty="0" cui="C0205251;C0441994;C1708760;C2700150" tui="T080;T082;T080;T170" rank="797;767;576;572" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;NCI;NCI"/>
+</RelationSet>
+<RelationSet id="48">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<modifier value="General" begin="4033" end="4040" status="0" certainty="0"/>
+<lab value="stress level" begin="4041" end="4053" status="0" certainty="0"/>
+</Relation>
+<modifier value="General" begin="4033" end="4040" status="0" certainty="0" cui="C0205246" tui="T082" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<lab value="stress level" begin="4041" end="4053" status="0" certainty="0" code="NO-CODE" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+</lab>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="205" begin="4059" end="4059">
+</Paragraph>
+<Paragraph pgNo="206" begin="4060" end="4087">
+<Sentence sentNo="131" begin="4060" end="4087" sentText="Catteine intake: Occasional">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="207" begin="4088" end="4088">
+</Paragraph>
+<Paragraph pgNo="208" begin="4089" end="4105">
+<Sentence sentNo="132" begin="4089" end="4105" sentText="Illicit drugs: 0">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="209" begin="4106" end="4106">
+</Paragraph>
+<Paragraph pgNo="210" begin="4107" end="4136">
+<Sentence sentNo="133" begin="4107" end="4136" sentText="Illicit drugs-years of use: 0">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="211" begin="4137" end="4137">
+</Paragraph>
+<Paragraph pgNo="212" begin="4138" end="4177">
+<Sentence sentNo="134" begin="4138" end="4177" sentText="Live alone or with others?: with others">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="213" begin="4178" end="4197">
+<Sentence sentNo="135" begin="4178" end="4197" sentText="Sexually active?: N">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="214" begin="4198" end="4198">
+</Paragraph>
+<Paragraph pgNo="215" begin="4199" end="4219">
+<Sentence sentNo="136" begin="4199" end="4219" sentText="Advance directive: Y">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="216" begin="4220" end="4220">
+</Paragraph>
+<Paragraph pgNo="217" begin="4221" end="4266">
+<Sentence sentNo="137" begin="4221" end="4266" sentText="Most Recent Tobacco Use Screening: 07/16/2019">
+<RelationSet id="49">
+<problem value="Tobacco" begin="4233" end="4240" status="0" certainty="1" cui="S20010072;C0040329" tui="T046;T109,T121,T131" rank="800;797" code="NO-CODE" sourceType="ezDIML2;MTH"/>
+<finding value="Tobacco Use" begin="4233" end="4244" status="0" certainty="1" cui="S20008719;C0543414;C0040336;C0040335;C0841002" tui="T046;T055;T033;T033;T033" rank="800;797;767;719;595" code="NO-CODE" sourceType="ezDIML2;MTH;SNOMEDCTUS;RCDSY;MEDCIN"/>
+<finding value="Use" begin="4241" end="4244" status="0" certainty="1" cui="C0042153;C1947944;C0457083;C1273517" tui="T169;T170;T169;T033" rank="789;767;576;150" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;NCI;CHV"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="218" begin="4267" end="4267">
+</Paragraph>
+</Section>
+<Section value="Surgical History" begin="4268" end="4284" secBegin="4284" secEnd="4285">
+<Paragraph pgNo="219" begin="4268" end="4284">
+<Sentence sentNo="138" begin="4268" end="4284" sentText="Surgical History">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="220" begin="4285" end="4285">
+</Paragraph>
+</Section>
+<Section value="Reviewed Surgical History" begin="4286" end="4311" secBegin="4311" secEnd="4367">
+<Paragraph pgNo="221" begin="4286" end="4311">
+<Sentence sentNo="139" begin="4286" end="4311" sentText="Reviewed Surgical History">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="222" begin="4312" end="4324">
+<Sentence sentNo="140" begin="4312" end="4324" sentText="Hysterectomy">
+<RelationSet id="50">
+<procedure value="Hysterectomy" begin="4312" end="4324" status="1" certainty="0" cui="C0020699;C1548863" tui="T061;T058" rank="797;355" code="NO-CODE" sourceType="MTH;HL7V2.5"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="223" begin="4325" end="4340">
+<Sentence sentNo="141" begin="4325" end="4340" sentText="Cholecystectomy">
+<RelationSet id="51">
+<procedure value="Cholecystectomy" begin="4325" end="4340" status="1" certainty="0" cui="C0008320" tui="T061" rank="795" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="224" begin="4341" end="4366">
+<Sentence sentNo="142" begin="4341" end="4366" sentText="Back Surgery - 01/01/2016">
+<RelationSet id="52">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<procedure value="Surgery" begin="4346" end="4353" status="1" certainty="0"/>
+<anatomicalStructure value="Back" begin="4341" end="4345" status="1" certainty="0"/>
+</Relation>
+<procedure value="Back Surgery" begin="4341" end="4353" status="1" certainty="0" cui="C0741419" tui="T061" rank="644" code="NO-CODE" sourceType="MDR"/>
+<procedure value="Surgery" begin="4346" end="4353" status="1" certainty="0" cui="C0038895;C0038894;C0543467;C1705196" tui="T169;T091;T058;T078" rank="794;791;767;571" code="NO-CODE" sourceType="MSH;MSH;SNOMEDCTUS;NCI"/>
+<anatomicalStructure value="Back" begin="4341" end="4345" status="1" certainty="0" cui="C0205095;C0004600;C1995000;C1281593" tui="T082;T029;T029;T029" rank="797;797;765;234" code="NO-CODE" sourceType="MTH;MTH;SNOMEDCTUS;SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="225" begin="4367" end="4367">
+</Paragraph>
+</Section>
+<Section value="GYN History" begin="4368" end="4379" secBegin="4379" secEnd="4401">
+<Paragraph pgNo="226" begin="4368" end="4379">
+<Sentence sentNo="143" begin="4368" end="4379" sentText="GYN History">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="227" begin="4380" end="4380">
+</Paragraph>
+<Paragraph pgNo="228" begin="4381" end="4401">
+<Sentence sentNo="144" begin="4381" end="4401" sentText="Reviewed GYN History">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Obstetric History" begin="4402" end="4419" secBegin="4419" secEnd="4446">
+<Paragraph pgNo="229" begin="4402" end="4419">
+<Sentence sentNo="145" begin="4402" end="4419" sentText="Obstetric History">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="230" begin="4420" end="4446">
+<Sentence sentNo="146" begin="4420" end="4446" sentText="Reviewed Obstetric History">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Past Medical History" begin="4447" end="4467" secBegin="4467" secEnd="4468">
+<Paragraph pgNo="231" begin="4447" end="4467">
+<Sentence sentNo="147" begin="4447" end="4467" sentText="Past Medical History">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="232" begin="4468" end="4468">
+</Paragraph>
+</Section>
+<Section value="Reviewed Past Medical History" begin="4469" end="4498" secBegin="4498" secEnd="4700">
+<Paragraph pgNo="233" begin="4469" end="4498">
+<Sentence sentNo="148" begin="4469" end="4498" sentText="Reviewed Past Medical History">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="234" begin="4499" end="4522">
+<Sentence sentNo="149" begin="4499" end="4522" sentText="DVT/Pulmonary Emboli: Y">
+<RelationSet id="53">
+<problem value="DVT" begin="4499" end="4502" status="1" certainty="0" cui="C0149871;C0340708" tui="T047;T047" rank="797;711" code="NO-CODE" sourceType="MTH;RCD"/>
+</RelationSet>
+<RelationSet id="54">
+<problem value="Pulmonary Emboli" begin="4503" end="4519" status="1" certainty="0" cui="C0034065" tui="T047" rank="724" code="NO-CODE" sourceType="RCD"/>
+<anatomicalStructure value="Pulmonary" begin="4503" end="4512" status="1" certainty="0" cui="C0024109;C2709248;C1278908;C0819757" tui="T023;T080;T023;T024" rank="797;767;765;572" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;SNOMEDCTUS;NCI"/>
+<finding value="Emboli" begin="4513" end="4519" status="1" certainty="0" cui="C1704212;C2046122" tui="T033;T033" rank="797;592" code="NO-CODE" sourceType="MTH;MEDCIN"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="235" begin="4523" end="4536">
+<Sentence sentNo="150" begin="4523" end="4536" sentText="Depression: Y">
+<RelationSet id="55">
+<problem value="Depression" begin="4523" end="4533" status="1" certainty="0" cui="C0011570;C0460137;C0011581;C0344315;C1579931;C1999266" tui="T048;T169;T048;T033;T184;T033" rank="795;765;765;601;592;551" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;OMIM;MEDCIN;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="236" begin="4537" end="4537">
+</Paragraph>
+<Paragraph pgNo="237" begin="4538" end="4573">
+<Sentence sentNo="151" begin="4538" end="4573" sentText="Hypertension/High Blood Pressure: Y">
+<RelationSet id="56">
+<problem value="Hypertension/High Blood Pressure" begin="4538" end="4570" status="1" certainty="0" cui="C2882073;C0155616" tui="T047;T047" rank="800;800" code="NO-CODE" sourceType="ICD10CM;ICD10CM"/>
+<problem value="Hypertension" begin="4538" end="4550" status="1" certainty="0" cui="C0020538" tui="T047" rank="795" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+<RelationSet id="57">
+<problem value="High Blood Pressure" begin="4551" end="4570" status="1" certainty="0" cui="C0020538;C0857121" tui="T047;T033" rank="791;151" code="NO-CODE" sourceType="MSH;CHV"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="238" begin="4574" end="4574">
+</Paragraph>
+<Paragraph pgNo="239" begin="4575" end="4599">
+<Sentence sentNo="152" begin="4575" end="4599" sentText="Documents for Discussion">
+<RelationSet id="58">
+<procedure value="Discussion" begin="4589" end="4599" status="1" certainty="0" cui="C0557061;C2584313" tui="T061;T054" rank="767;576" code="NO-CODE" sourceType="SNOMEDCTUS;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="240" begin="4600" end="4600">
+</Paragraph>
+<Paragraph pgNo="241" begin="4601" end="4635">
+<Sentence sentNo="153" begin="4601" end="4635" sentText="Discussed the following documents:">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="242" begin="4636" end="4674">
+<Sentence sentNo="154" begin="4636" end="4674" sentText="0 T3, FREE, SERUM OR PLASMA - 09/13/19">
+<RelationSet id="59">
+<anatomicalStructure value="T3" begin="4638" end="4640" status="1" certainty="-2" cui="C0459952;C0041014;C0202237;C1705601;C1442882;C0475374;C0428419" tui="T023;T116,T121,T125;T059;T028;T116,T123;T033;T059" rank="999;760;644;575;575;575;572" code="NO-CODE" sourceType="EZDI;SNOMEDCTUS;MDR;NCI;NCI;NCI;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="243" begin="4675" end="4675">
+</Paragraph>
+<Paragraph pgNo="244" begin="4676" end="4685">
+<Sentence sentNo="155" begin="4676" end="4685" sentText="Screening">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="245" begin="4686" end="4700">
+<Sentence sentNo="156" begin="4686" end="4700" sentText="None recorded.">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="HPI" begin="4701" end="4704" secBegin="4704" secEnd="4834">
+<Paragraph pgNo="246" begin="4701" end="4704">
+<Sentence sentNo="157" begin="4701" end="4704" sentText="HPI">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="247" begin="4705" end="4705">
+</Paragraph>
+<Paragraph pgNo="248" begin="4706" end="4706">
+</Paragraph>
+<Paragraph pgNo="249" begin="4707" end="4707">
+</Paragraph>
+<Paragraph pgNo="250" begin="4708" end="4708">
+</Paragraph>
+<Paragraph pgNo="251" begin="4709" end="4709">
+</Paragraph>
+<Paragraph pgNo="252" begin="4710" end="4757">
+<Sentence sentNo="158" begin="4710" end="4757" sentText="DODSON, DEBORAH K (id #143020, dob: 12/21/1956)">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="253" begin="4758" end="4758">
+</Paragraph>
+<Paragraph pgNo="254" begin="4759" end="4785">
+<Sentence sentNo="159" begin="4759" end="4785" sentText="Allergies/Nasal Stuffiness">
+<RelationSet id="60">
+<problem value="Nasal Stuffiness" begin="4769" end="4785" status="0" certainty="0" cui="C0027424" tui="T184" rank="644" code="NO-CODE" sourceType="MDR"/>
+<problem value="Allergies/Nasal" begin="4759" end="4774" status="0" certainty="0" cui="C0847614" tui="T047" rank="506" code="NO-CODE" sourceType="ICPC2ICD10ENG"/>
+<anatomicalStructure value="Nasal" begin="4769" end="4774" status="0" certainty="0" cui="C0028429;C1278896;C0234847;C1272939;C1522019" tui="T023;T023;T042;T122;T169" rank="797;765;765;575;575" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;SNOMEDCTUS;NCI;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="255" begin="4786" end="4806">
+<Sentence sentNo="160" begin="4786" end="4806" sentText="Reported by patient.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="256" begin="4807" end="4807">
+</Paragraph>
+<Paragraph pgNo="257" begin="4808" end="4834">
+<Sentence sentNo="161" begin="4808" end="4834" sentText="Onset/Timing: recent onset">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Location" begin="4835" end="4844" secBegin="4844" secEnd="4944">
+<Paragraph pgNo="258" begin="4835" end="4944">
+<Sentence sentNo="162" begin="4835" end="4944" sentText="Location: bilateral; stuffy nose bilaterally; nasal discharge from both nostrils; given 40mg triamcinolone IM">
+<RelationSet id="61">
+<modifier value="bilateral_SEP_bilaterally" begin="4845_SEP_4868" end="4854_SEP_4879" status="0" certainty="0" cui="C0238767" tui="T082" rank="999" code="NO-CODE" sourceType="EZDI"/>
+<modifier value="bilateral" begin="4845" end="4854" status="0" certainty="0" cui="S00007001;C0205090;C0205091" tui="T046;T082;T082" rank="800;797;797" code="NO-CODE" sourceType="ezDIML2;MTH;MTH"/>
+</RelationSet>
+<RelationSet id="62">
+<problem value="nose_SEP_discharge from" begin="4863_SEP_4887" end="4867_SEP_4901" status="0" certainty="0" cui="C1260880" tui="T184" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="stuffy nose_SEP_nasal" begin="4856_SEP_4881" end="4867_SEP_4886" status="0" certainty="0" cui="C0027424" tui="T184" rank="489" code="NO-CODE" sourceType="ICPC2P"/>
+<finding value="bilateral_SEP_nose bilaterally_SEP_discharge from both nostrils" begin="4845_SEP_4863_SEP_4887" end="4854_SEP_4879_SEP_4915" status="0" certainty="0" cui="C2237483;C2237482;C2220034" tui="T033;T033;T033" rank="797;595;595" code="NO-CODE" sourceType="MTH;MEDCIN;MEDCIN"/>
+</RelationSet>
+<RelationSet id="63">
+<modifier value="bilateral_SEP_bilaterally_SEP_both" begin="4845_SEP_4868_SEP_4902" end="4854_SEP_4879_SEP_4906" status="0" certainty="0" cui="C0238767" tui="T082" rank="999" code="NO-CODE" sourceType="EZDI"/>
+<modifier value="bilaterally" begin="4868" end="4879" status="0" certainty="0" cui="C0205090;C0205091" tui="T082;T082" rank="797;797" code="NO-CODE" sourceType="MTH;MTH"/>
+</RelationSet>
+<RelationSet id="64">
+<med value="triamcinolone" begin="4928" end="4941" status="0" certainty="0" cui="C0040864;C0699692" tui="T110,T121;T110,T121" rank="795;150" code="NO-CODE" sourceType="MSH;CHV">
+<medData strength="40" strengthBegin="4923" strengthEnd="4925" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="IM;nasal" routeBegin="4942;4881" routeEnd="4944;4886"/></med>
+</RelationSet>
+<RelationSet id="65">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<finding value="nasal discharge" begin="4881" end="4896" status="0" certainty="0"/>
+<anatomicalStructure value="nostrils" begin="4907" end="4915" status="0" certainty="0"/>
+</Relation>
+<problem value="nose_SEP_nasal discharge from" begin="4863_SEP_4881" end="4867_SEP_4901" status="0" certainty="0" cui="C1260880" tui="T184" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="stuffy_SEP_nasal" begin="4856_SEP_4881" end="4862_SEP_4886" status="0" certainty="0" cui="C0027424" tui="T184" rank="489" code="NO-CODE" sourceType="ICPC2P"/>
+<finding value="bilateral_SEP_nose bilaterally_SEP_nasal discharge from both nostrils" begin="4845_SEP_4863_SEP_4881" end="4854_SEP_4879_SEP_4915" status="0" certainty="0" cui="C2237483;C2237482;C2220034" tui="T033;T033;T033" rank="797;595;595" code="NO-CODE" sourceType="MTH;MEDCIN;MEDCIN"/>
+<anatomicalStructure value="bilaterally_SEP_both nostrils" begin="4868_SEP_4902" end="4879_SEP_4915" status="0" certainty="0" cui="C1720438;C1720679" tui="T023;T023" rank="765;765" code="NO-CODE" sourceType="SNOMEDCTUS;SNOMEDCTUS"/>
+<anatomicalStructure value="nostrils" begin="4907" end="4915" status="0" certainty="0" cui="C0595944" tui="T030" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="HPI" begin="4945" end="4945" secBegin="4945" secEnd="5518">
+<Paragraph pgNo="259" begin="4946" end="4954">
+<Sentence sentNo="163" begin="4946" end="4954" sentText="Diabetes">
+<RelationSet id="66">
+<problem value="Diabetes" begin="4946" end="4954" status="0" certainty="0" cui="C0011847;C0011849;C0241863" tui="T047;T047;T033" rank="797;644;644" code="NO-CODE" sourceType="MTH;MDR;MDR"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="260" begin="4955" end="4975">
+<Sentence sentNo="164" begin="4955" end="4975" sentText="Reported by patient.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="261" begin="4976" end="4976">
+</Paragraph>
+<Paragraph pgNo="262" begin="4977" end="4994">
+<Sentence sentNo="165" begin="4977" end="4994" sentText="Duration: chronic">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="263" begin="4995" end="5131">
+<Sentence sentNo="166" begin="4995" end="5131" sentText="Control: treated with diet and oral medications; Hemoglobin A1 C has been less than 7; Hemoglobin A1 C goal is less than 6.5; HgbA1c 5.6">
+<RelationSet id="67">
+<med value="medications" begin="5031" end="5042" status="0" certainty="0" cui="S00005978;C0013227" tui="T046;T121" rank="800;576" code="NO-CODE" sourceType="ezDIML2;NCI">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="oral" routeBegin="5026" routeEnd="5030"/></med>
+</RelationSet>
+<RelationSet id="68">
+<lab value="Hemoglobin A1 C" begin="5044" end="5059" status="0" certainty="0" code="NO-CODE" cui="C0019046;C0518015;C0019020;C1275423;C0017645;C2239101" tui="T116,T123;T059;T033;T116,T123;T059;T116,T123;T059" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<labData value="7" begin="5079" end="5080" rank="1" unit="" unitBegin="" unitEnd=""/>
+</lab>
+</RelationSet>
+<RelationSet id="69">
+<lab value="Hemoglobin A1 C goal" begin="5082" end="5102" status="0" certainty="0" code="NO-CODE" cui="C2051503;C0018017;C0019046;C0518015;C0679840;C0019020;C1275423;C0017645;C2239101" tui="T170;T061;T116,T123;T059;T116,T123;T059;T116,T123;T059;T033" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<labData value="6.5" begin="5116" end="5119" rank="1" unit="" unitBegin="" unitEnd=""/>
+</lab>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="264" begin="5132" end="5132">
+</Paragraph>
+<Paragraph pgNo="265" begin="5133" end="5147">
+<Sentence sentNo="167" begin="5133" end="5147" sentText="Hypertipidemia">
+<RelationSet id="70">
+<problem value="Hypertipidemia" begin="5133" end="5147" status="0" certainty="0" cui="C0020473" tui="T047" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="266" begin="5148" end="5168">
+<Sentence sentNo="168" begin="5148" end="5168" sentText="Reported by patient.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="267" begin="5169" end="5169">
+</Paragraph>
+<Paragraph pgNo="268" begin="5170" end="5203">
+<Sentence sentNo="169" begin="5170" end="5203" sentText="Quality cholesterol; triglyceride">
+<RelationSet id="71">
+<lab value="Quality cholesterol" begin="5170" end="5189" status="0" certainty="0" code="NO-CODE" cui="C0008377;C0201950" tui="T110,T123;T059" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+</lab>
+</RelationSet>
+<RelationSet id="72">
+<lab value="triglyceride" begin="5191" end="5203" status="0" certainty="0" cui="C0041004;C0202236;C0017860" tui="T119,T123;T059;T118,T119,T121" rank="797;644;258" code="NO-CODE" sourceType="MTH;MDR;CSP">
+</lab>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="269" begin="5204" end="5222">
+<Sentence sentNo="170" begin="5204" end="5222" sentText="Severity: moderate">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="270" begin="5223" end="5286">
+<Sentence sentNo="171" begin="5223" end="5286" sentText="Context: hypertension; diabetes; given rx for Vascepa 0.5mg bid">
+<RelationSet id="73">
+<problem value="hypertension" begin="5232" end="5244" status="0" certainty="0" cui="C0020538" tui="T047" rank="795" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+<RelationSet id="74">
+<problem value="diabetes" begin="5246" end="5254" status="0" certainty="0" cui="C0011847;C0011849;C0241863" tui="T047;T047;T033" rank="797;644;644" code="NO-CODE" sourceType="MTH;MDR;MDR"/>
+</RelationSet>
+<RelationSet id="75">
+<med value="Vascepa" begin="5269" end="5276" status="0" certainty="0" cui="C3486026" tui="T121" rank="774" code="NO-CODE" sourceType="RXNORM">
+<medData strength="0.5" strengthBegin="5277" strengthEnd="5280" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="bid" frequencyBegin="5283" frequencyEnd="5286" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="271" begin="5287" end="5287">
+</Paragraph>
+<Paragraph pgNo="272" begin="5288" end="5300">
+<Sentence sentNo="172" begin="5288" end="5300" sentText="Hypertension">
+<RelationSet id="76">
+<problem value="Hypertension" begin="5288" end="5300" status="0" certainty="0" cui="C0020538" tui="T047" rank="795" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="273" begin="5301" end="5321">
+<Sentence sentNo="173" begin="5301" end="5321" sentText="Reported by patient.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="274" begin="5322" end="5322">
+</Paragraph>
+<Paragraph pgNo="275" begin="5323" end="5412">
+<Sentence sentNo="174" begin="5323" end="5412" sentText="Context: medimtion compliance: yes; medication effective: yes; medimtion side effects: no">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="276" begin="5413" end="5440">
+<Sentence sentNo="175" begin="5413" end="5440" sentText="Aggravating Factors: stress">
+<RelationSet id="77">
+<finding value="stress" begin="5434" end="5440" status="0" certainty="0" cui="C0038435;C0231297;C0723460;C0597530" tui="T033;T169;T109,T121;T078" rank="797;703;673;576" code="NO-CODE" sourceType="MTH;SNMI;MMSL;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="277" begin="5441" end="5441">
+</Paragraph>
+<Paragraph pgNo="278" begin="5442" end="5445">
+<Sentence sentNo="176" begin="5442" end="5445" sentText="UTI">
+<RelationSet id="78">
+<problem value="UTI" begin="5442" end="5445" status="0" certainty="0" cui="C0042029;C0077906" tui="T047;T116,T118,T121" rank="797;519" code="NO-CODE" sourceType="MTH;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="279" begin="5446" end="5466">
+<Sentence sentNo="177" begin="5446" end="5466" sentText="Reported by patient.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="280" begin="5467" end="5467">
+</Paragraph>
+<Paragraph pgNo="281" begin="5468" end="5518">
+<Sentence sentNo="178" begin="5468" end="5518" sentText="Notes: Chronic utis Given rx cefalexin 250mg daily">
+<RelationSet id="79">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<problem value="utis" begin="5483" end="5487" status="0" certainty="0"/>
+<modifier value="Chronic" begin="5475" end="5482" status="0" certainty="0"/>
+</Relation>
+<problem value="Chronic utis" begin="5475" end="5487" status="0" certainty="0" cui="C0262421" tui="T047" rank="644" code="NO-CODE" sourceType="MDR"/>
+<problem value="utis" begin="5483" end="5487" status="0" certainty="0" cui="C0042029;C0077906" tui="T047;T116,T118,T121" rank="644;519" code="NO-CODE" sourceType="MDR;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="ROS" begin="5519" end="5522" secBegin="5522" secEnd="8357">
+<Paragraph pgNo="282" begin="5519" end="5522">
+<Sentence sentNo="179" begin="5519" end="5522" sentText="ROS">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="283" begin="5523" end="5523">
+</Paragraph>
+<Paragraph pgNo="284" begin="5524" end="6384">
+<Sentence sentNo="180" begin="5524" end="5641" sentText="Patient reports visual changes but reports no dry eyes, no irritation, no seeing double (diplopia), and no discharge.">
+<RelationSet id="80">
+<problem value="changes_SEP_eyes" begin="5547_SEP_5574" end="5554_SEP_5578" status="0" certainty="1" cui="C0743675;C2461378" tui="T047;T061" rank="491;383" code="NO-CODE" sourceType="CCPSS;ICD10PCS"/>
+<problem value="visual_SEP_no" begin="5540_SEP_5567" end="5546_SEP_5569" status="0" certainty="1" cui="S00018678" tui="T046" rank="800" code="NO-CODE" sourceType="ezDIML2"/>
+<finding value="visual changes" begin="5540" end="5554" status="0" certainty="1" cui="S00015555;S00008215;C0750280" tui="T046;T046;T033" rank="800;800;601" code="NO-CODE" sourceType="ezDIML2;ezDIML2;OMIM"/>
+<finding value="changes_SEP_no" begin="5547_SEP_5567" end="5554_SEP_5569" status="0" certainty="1" cui="C0442739" tui="T033" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="81">
+<modifier value="dry" begin="5570" end="5573" status="0" certainty="-2" cui="C0205222;C1512080;C0011682;C2827485;C0180560" tui="T080;T080;T070;T031;T073" rank="797;576;576;575;150" code="NO-CODE" sourceType="MTH;NCI;NCI;NCI;CHV"/>
+</RelationSet>
+<RelationSet id="82">
+<anatomicalStructure value="visual_SEP_eyes" begin="5540_SEP_5574" end="5546_SEP_5578" status="0" certainty="1" cui="C0724297;C0150933;C3251784" tui="T109,T121;T023;T039" rank="797;634;151" code="NO-CODE" sourceType="MTH;AIR;CHV"/>
+<anatomicalStructure value="eyes" begin="5574" end="5578" status="0" certainty="-2" cui="C0015392;C1280202;C1522230" tui="T023;T023;T082" rank="797;765;233" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="83">
+<finding value="irritation" begin="5583" end="5593" status="0" certainty="-2" cui="C0441723;C1706307;C2700617" tui="T067;T033;T041" rank="797;576;576" code="NO-CODE" sourceType="MTH;NCI;NCI"/>
+</RelationSet>
+<RelationSet id="84">
+<problem value="diplopia" begin="5613" end="5621" status="0" certainty="-2" cui="C0012569" tui="T047" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="84">
+<finding value="discharge" begin="5631" end="5640" status="0" certainty="-2" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="181" begin="5642" end="5834" sentText="She reports pain with urination, increased urinary frequency, and urinary tract infections but reports no incontinence, no hematuria, no feelings of urgency, and no flank pain; blood in urine.">
+<RelationSet id="85">
+<problem value="pain" begin="5654" end="5658" status="0" certainty="1" cui="C0030193;C1557397;C1882272;C0242936" tui="T184;T033;T033;T073,T093" rank="797;551;551;366" code="NO-CODE" sourceType="MTH;NCI;NCI;HL7V3.0"/>
+</RelationSet>
+<RelationSet id="86">
+<problem value="urinary tract infections" begin="5708" end="5732" status="0" certainty="0" cui="C0042029" tui="T047" rank="797" code="NO-CODE" sourceType="MTH"/>
+<problem value="infections" begin="5722" end="5732" status="0" certainty="0" cui="C0009450;C1556682" tui="T047;T033" rank="795;551" code="NO-CODE" sourceType="MSH;NCI"/>
+<anatomicalStructure value="urinary tract" begin="5708" end="5721" status="0" certainty="0" cui="C0042027;C1508753;C1280341" tui="T023;T022;T023" rank="797;530;234" code="NO-CODE" sourceType="MTH;NCI;SNOMEDCTUS"/>
+<anatomicalStructure value="tract" begin="5716" end="5721" status="0" certainty="0" cui="C1185740" tui="T023" rank="692" code="NO-CODE" sourceType="FMA"/>
+<finding value="infections_SEP_no" begin="5722_SEP_5745" end="5732_SEP_5747" status="0" certainty="0" cui="C2712241" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="87">
+<problem value="incontinence" begin="5748" end="5760" status="0" certainty="-2" cui="C0021167;C0231238" tui="T047;T169" rank="797;767" code="NO-CODE" sourceType="MTH;SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="88">
+<finding value="hematuria" begin="5765" end="5774" status="0" certainty="-2" cui="C0018965;C0221752" tui="T033;T034" rank="797;592" code="NO-CODE" sourceType="MTH;MEDCIN"/>
+</RelationSet>
+<RelationSet id="89">
+<problem value="pain_SEP_blood_SEP_urine" begin="5813_SEP_5819_SEP_5828" end="5817_SEP_5824_SEP_5833" status="0" certainty="-2" cui="C0473234" tui="T184" rank="592" code="NO-CODE" sourceType="MEDCIN"/>
+<problem value="blood_SEP_urine" begin="5819_SEP_5828" end="5824_SEP_5833" status="0" certainty="-2" cui="S20008218;C0018965;C0221752" tui="T046;T033;T034" rank="800;767;652" code="NO-CODE" sourceType="ezDIML2;SNOMEDCTUS;MDR"/>
+<anatomicalStructure value="blood" begin="5819" end="5824" status="0" certainty="-2" cui="S0001759;C0005767;C0005768;C0392895;C0333275;C0229664" tui="T023;T024;T031;T098;T080;T031" rank="999;797;797;767;765;576" code="NO-CODE" sourceType="EZDI;MTH;MTH;SNOMEDCTUS;SNOMEDCTUS;NCI"/>
+</RelationSet>
+<RelationSet id="90">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<problem value="pain" begin="5813" end="5817" status="0" certainty="-2"/>
+<anatomicalStructure value="flank" begin="5807" end="5812" status="0" certainty="-2"/>
+</Relation>
+<problem value="flank pain" begin="5807" end="5817" status="0" certainty="-2" cui="C0016199" tui="T184" rank="797" code="NO-CODE" sourceType="MTH"/>
+<problem value="pain" begin="5813" end="5817" status="0" certainty="-2" cui="C0030193;C1557397;C1882272;C0242936" tui="T184;T033;T033;T073,T093" rank="797;551;551;366" code="NO-CODE" sourceType="MTH;NCI;NCI;HL7V3.0"/>
+<finding value="no_SEP_pain" begin="5804_SEP_5813" end="5806_SEP_5817" status="0" certainty="-2" cui="C0234225" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<anatomicalStructure value="flank" begin="5807" end="5812" status="0" certainty="-2" cui="C0230171" tui="T029" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="91">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<finding value="urinary frequency" begin="5685" end="5702" status="0" certainty="0"/>
+<modifier value="increased" begin="5675" end="5684" status="0" certainty="0"/>
+</Relation>
+<problem value="increased_SEP_frequency" begin="5675_SEP_5693" end="5684_SEP_5702" status="0" certainty="0" cui="S00006164" tui="T046" rank="800" code="NO-CODE" sourceType="ezDIML2"/>
+<problem value="urinary frequency" begin="5685" end="5702" status="0" certainty="0" cui="S00011204" tui="T046" rank="800" code="NO-CODE" sourceType="ezDIML2"/>
+<finding value="increased urinary frequency" begin="5675" end="5702" status="0" certainty="0" cui="C0042023" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<modifier value="increased" begin="5675" end="5684" status="0" certainty="0" cui="C0442805;C0205217" tui="T169;T081" rank="797;797" code="NO-CODE" sourceType="MTH;MTH"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="182" begin="5835" end="5951" sentText="She reportsarthralgias/joint pain and back pain but reports no swelling in the extremities and no dif culty walking.">
+<RelationSet id="92">
+<finding value="walking" begin="5943" end="5950" status="0" certainty="-2" cui="C0080331;C0600108;C2368355;C2346415" tui="T056;T033;T184;T033" rank="795;765;595;595" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;MEDCIN;MEDCIN"/>
+</RelationSet>
+<RelationSet id="93">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<problem value="pain" begin="5864" end="5868" status="0" certainty="0"/>
+<anatomicalStructure value="joint" begin="5858" end="5863" status="0" certainty="0"/>
+</Relation>
+<problem value="joint pain" begin="5858" end="5868" status="0" certainty="0" cui="C0003862;C1963066" tui="T184;T033" rank="791;551" code="NO-CODE" sourceType="MSH;NCI"/>
+<problem value="pain" begin="5864" end="5868" status="0" certainty="0" cui="C0030193;C1557397;C1882272;C0242936" tui="T184;T033;T033;T073,T093" rank="797;551;551;366" code="NO-CODE" sourceType="MTH;NCI;NCI;HL7V3.0"/>
+<anatomicalStructure value="joint" begin="5858" end="5863" status="0" certainty="0" cui="C0022417;C0521339;C0444497;C1269611;C0392905;C1706309" tui="T030;T169;T082;T030;T022;T074" rank="797;797;767;765;765;575" code="NO-CODE" sourceType="MTH;MTH;SNOMEDCTUS;SNOMEDCTUS;SNOMEDCTUS;NCI"/>
+</RelationSet>
+<RelationSet id="94">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<problem value="pain" begin="5878" end="5882" status="0" certainty="0"/>
+<anatomicalStructure value="back" begin="5873" end="5877" status="0" certainty="0"/>
+</Relation>
+<problem value="pain_SEP_swelling" begin="5878_SEP_5898" end="5882_SEP_5906" status="0" certainty="-2" cui="S00004867" tui="T046" rank="800" code="NO-CODE" sourceType="ezDIML2"/>
+<problem value="back pain" begin="5873" end="5882" status="0" certainty="0" cui="C0004604;C1963071" tui="T184;T033" rank="797;551" code="NO-CODE" sourceType="MTH;NCI"/>
+<problem value="pain" begin="5878" end="5882" status="0" certainty="0" cui="C0030193;C1557397;C1882272;C0242936" tui="T184;T033;T033;T073,T093" rank="797;551;551;366" code="NO-CODE" sourceType="MTH;NCI;NCI;HL7V3.0"/>
+<finding value="pain_SEP_no" begin="5878_SEP_5895" end="5882_SEP_5897" status="0" certainty="0" cui="C0234225" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<anatomicalStructure value="back" begin="5873" end="5877" status="0" certainty="0" cui="C0205095;C0004600;C1995000;C1281593" tui="T082;T029;T029;T029" rank="797;797;765;234" code="NO-CODE" sourceType="MTH;MTH;SNOMEDCTUS;SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="95">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<problem value="swelling" begin="5898" end="5906" status="0" certainty="-2"/>
+<anatomicalStructure value="extremities" begin="5914" end="5925" status="0" certainty="-2"/>
+</Relation>
+<problem value="swelling_SEP_extremities" begin="5898_SEP_5914" end="5906_SEP_5925" status="0" certainty="-2" cui="C0158369" tui="T184" rank="506" code="NO-CODE" sourceType="ICPC2ICD10ENG"/>
+<problem value="swelling" begin="5898" end="5906" status="0" certainty="-2" cui="C0038999;C0013604" tui="T033;T046" rank="797;290" code="NO-CODE" sourceType="MTH;CST"/>
+<finding value="back_SEP_swelling" begin="5873_SEP_5898" end="5877_SEP_5906" status="0" certainty="-2" cui="C2195215" tui="T033" rank="595" code="NO-CODE" sourceType="MEDCIN"/>
+<finding value="no swelling" begin="5895" end="5906" status="0" certainty="0" cui="C0577599" tui="T033" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<anatomicalStructure value="extremities" begin="5914" end="5925" status="0" certainty="-2" cui="C0015385;C0278454" tui="T023;T023" rank="795;151" code="NO-CODE" sourceType="MSH;CHV"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="183" begin="5952" end="6205" sentText="She reports loss of consciousness but reports no slurred speech, no weakness, no numbness, no tingling, no tremors, no seizures, no dizziness, no headaches, no memory lapses or changes, no difficulty nding desired words, and no loss of balance or falls.">
+<RelationSet id="96">
+<finding value="loss_SEP_consciousness_SEP_no" begin="5964_SEP_5972_SEP_5998" end="5968_SEP_5985_SEP_6000" status="0" certainty="1" cui="C1998154" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<finding value="loss_SEP_consciousness" begin="5964_SEP_5972" end="5968_SEP_5985" status="0" certainty="1" cui="C0041657" tui="T033" rank="791" code="NO-CODE" sourceType="MSH"/>
+<finding value="consciousness" begin="5972" end="5985" status="0" certainty="1" cui="C0234421;C0009791" tui="T041;T033" rank="795;151" code="NO-CODE" sourceType="MSH;CHV"/>
+</RelationSet>
+<RelationSet id="97">
+<finding value="slurred speech" begin="6001" end="6015" status="0" certainty="-2" cui="C0234518" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+<finding value="no_SEP_speech" begin="5998_SEP_6009" end="6000_SEP_6015" status="0" certainty="-2" cui="C0278249" tui="T033" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<finding value="speech" begin="6009" end="6015" status="0" certainty="-2" cui="C0037817;C2137063;C0846595" tui="T040;T033;T060" rank="797;592;592" code="NO-CODE" sourceType="MTH;MEDCIN;MEDCIN"/>
+</RelationSet>
+<RelationSet id="98">
+<problem value="weakness" begin="6020" end="6028" status="0" certainty="-2" cui="C0004093" tui="T184" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="99">
+<problem value="numbness" begin="6033" end="6041" status="0" certainty="-2" cui="C0028643" tui="T184" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="100">
+<problem value="tingling" begin="6046" end="6054" status="0" certainty="-2" cui="S00024185;C2242996" tui="T046;T184" rank="800;765" code="NO-CODE" sourceType="ezDIML2;SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="101">
+<problem value="tremors" begin="6059" end="6066" status="0" certainty="-2" cui="C0040822;C1963252" tui="T184;T033" rank="797;551" code="NO-CODE" sourceType="MTH;NCI"/>
+</RelationSet>
+<RelationSet id="102">
+<problem value="seizures" begin="6071" end="6079" status="0" certainty="-2" cui="C0036572;C1959629" tui="T184;T033" rank="797;551" code="NO-CODE" sourceType="MTH;NCI"/>
+</RelationSet>
+<RelationSet id="103">
+<finding value="dizziness" begin="6084" end="6093" status="0" certainty="-2" cui="C0012833;C0476207;C0476206;C0392701;C1963093;C0042571" tui="T184;T184;T184;T184;T033;T184" rank="797;767;765;713;551;151" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;SNOMEDCTUS;SNMI;NCI;CHV"/>
+</RelationSet>
+<RelationSet id="104">
+<problem value="headaches" begin="6098" end="6107" status="0" certainty="-2" cui="C0018681;C2096315" tui="T184;T033" rank="797;592" code="NO-CODE" sourceType="MTH;MEDCIN"/>
+<finding value="no headaches" begin="6095" end="6107" status="0" certainty="0" cui="C0423624" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="105">
+<problem value="memory lapses" begin="6112" end="6125" status="0" certainty="-2" cui="C0557932" tui="T048" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<finding value="memory" begin="6112" end="6118" status="0" certainty="-2" cui="C0025260;C0700327;C1706377;C0679055" tui="T041;T033;T073;T041" rank="797;767;575;150" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;NCI;CHV"/>
+</RelationSet>
+<RelationSet id="106">
+<problem value="loss_SEP_balance" begin="6180_SEP_6188" end="6184_SEP_6195" status="0" certainty="-2" cui="C0241981" tui="T184" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="184" begin="6206" end="6384" sentText="She reports anxiety and sleep disturbances but reports no irritability, no depression, no panic attacks, feeling safe in relationship, no paranoia, and no thoughts about suicide.">
+<RelationSet id="107">
+<problem value="anxiety" begin="6218" end="6225" status="0" certainty="1" cui="C0003467;C0860603;C1963064;C0003469" tui="T041;T033;T033;T048" rank="797;595;551;551" code="NO-CODE" sourceType="MTH;MEDCIN;NCI;NCI"/>
+</RelationSet>
+<RelationSet id="108">
+<problem value="sleep disturbances" begin="6230" end="6248" status="0" certainty="1" cui="C0037317;C0700201;C0851578" tui="T184;T047;T047" rank="797;765;562" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;NCI"/>
+</RelationSet>
+<RelationSet id="109">
+<finding value="irritability" begin="6264" end="6276" status="0" certainty="-2" cui="C0022107;C2700617" tui="T033;T041" rank="765;551" code="NO-CODE" sourceType="SNOMEDCTUS;NCI"/>
+</RelationSet>
+<RelationSet id="110">
+<problem value="depression" begin="6281" end="6291" status="0" certainty="-2" cui="C0011570;C0460137;C0011581;C0344315;C1579931;C1999266" tui="T048;T169;T048;T033;T184;T033" rank="795;765;765;601;592;551" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;OMIM;MEDCIN;NCI"/>
+</RelationSet>
+<RelationSet id="111">
+<problem value="panic attacks" begin="6296" end="6309" status="0" certainty="-2" cui="C0086769" tui="T048" rank="793" code="NO-CODE" sourceType="MSH"/>
+<problem value="attacks" begin="6302" end="6309" status="0" certainty="-2" cui="C1304680;C0004063;C0699795;C1261512;C0277793" tui="T033;T037;T074;T054;T079" rank="767;726;675;481;233" code="NO-CODE" sourceType="SNOMEDCTUS;RCDSY;MMSL;AOD;SNOMEDCTUS"/>
+<finding value="panic" begin="6296" end="6301" status="0" certainty="-2" cui="C0030318" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="112">
+<problem value="paranoia" begin="6344" end="6352" status="0" certainty="-2" cui="C1456784" tui="T048" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="285" begin="6385" end="7971">
+<Sentence sentNo="185" begin="6385" end="6519" sentText="She reports no runny nose, no nasal congestion, no frequent sneezing, no sinus pressure, no itching, and no hives; seasonal allergies.">
+<RelationSet id="113">
+<problem value="runny nose" begin="6400" end="6410" status="0" certainty="-2" cui="C1260880" tui="T184" rank="713" code="NO-CODE" sourceType="SNMI"/>
+<anatomicalStructure value="nose" begin="6406" end="6410" status="0" certainty="-2" cui="C0028429;C1278896;C1272939;C1522019" tui="T023;T023;T122;T169" rank="797;765;575;575" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;NCI;NCI"/>
+</RelationSet>
+<RelationSet id="114">
+<problem value="nasal congestion" begin="6415" end="6431" status="0" certainty="-2" cui="C0027424;C2136984" tui="T184;T033" rank="800;592" code="NO-CODE" sourceType="ICD10CM;MEDCIN"/>
+<problem value="congestion" begin="6421" end="6431" status="0" certainty="-2" cui="C0700148" tui="T046" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<anatomicalStructure value="nasal" begin="6415" end="6420" status="0" certainty="-2" cui="C0028429;C1278896;C0234847;C1272939;C1522019" tui="T023;T023;T042;T122;T169" rank="797;765;765;575;575" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;SNOMEDCTUS;NCI;NCI"/>
+</RelationSet>
+<RelationSet id="115">
+<problem value="sneezing" begin="6445" end="6453" status="0" certainty="-2" cui="S20006264;C0037383" tui="T046;T033" rank="800;795" code="NO-CODE" sourceType="ezDIML2;MSH"/>
+</RelationSet>
+<RelationSet id="116">
+<problem value="sinus pressure" begin="6458" end="6472" status="0" certainty="-2" cui="C0848633" tui="T184" rank="644" code="NO-CODE" sourceType="MDR"/>
+<problem value="sinus" begin="6458" end="6463" status="0" certainty="-2" cui="C1305231;C0030471;C0423772" tui="T030;T030;T190" rank="692;491;234" code="NO-CODE" sourceType="FMA;CCPSS;SNOMEDCTUS"/>
+<finding value="no_SEP_pressure" begin="6455_SEP_6464" end="6457_SEP_6472" status="0" certainty="-2" cui="C1882095" tui="T067" rank="562" code="NO-CODE" sourceType="NCI"/>
+<finding value="pressure" begin="6464" end="6472" status="0" certainty="-2" cui="C0033095;C0460139;C1306345" tui="T067;T033;T169" rank="795;767;765" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="117">
+<problem value="itching" begin="6477" end="6484" status="0" certainty="-2" cui="C0033774" tui="T184" rank="791" code="NO-CODE" sourceType="MSH"/>
+<finding value="no itching" begin="6474" end="6484" status="0" certainty="0" cui="C1276050" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="118">
+<problem value="seasonal allergies" begin="6500" end="6518" status="0" certainty="-2" cui="C0018621" tui="T047" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="allergies" begin="6509" end="6518" status="0" certainty="-2" cui="C0020517;C0002111;C3539909;C0489531;C3542994" tui="T046;T091;T047;T033;T046" rank="791;765;765;595;242" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;MEDCIN;SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="186" begin="6520" end="6675" sentText="She reports no fever, no chills, no night sweats, no signi cant weight loss, no exercise intolerance, normal appetite, and no sleep disturbances: insomnia.">
+<RelationSet id="119">
+<finding value="fever" begin="6535" end="6540" status="0" certainty="-2" cui="C0015967;C0424755" tui="T033;T033" rank="797;592" code="NO-CODE" sourceType="MTH;MEDCIN"/>
+</RelationSet>
+<RelationSet id="120">
+<problem value="chills" begin="6545" end="6551" status="0" certainty="-2" cui="S20006677;C0085593" tui="T046;T184" rank="800;797" code="NO-CODE" sourceType="ezDIML2;MTH"/>
+</RelationSet>
+<RelationSet id="121">
+<problem value="night sweats" begin="6556" end="6568" status="0" certainty="-2" cui="C0028081" tui="T184" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="122">
+<finding value="weight loss" begin="6584" end="6595" status="0" certainty="-2" cui="C0043096" tui="T033" rank="795" code="NO-CODE" sourceType="MSH"/>
+<finding value="weight" begin="6584" end="6590" status="0" certainty="-2" cui="C0043100;C1305866;C0424653;C2053618;C1705104;C0005910" tui="T081;T060;T184;T033;T078;T032" rank="797;652;595;592;575;491" code="NO-CODE" sourceType="MTH;MDR;MEDCIN;MEDCIN;NCI;CCPSS"/>
+</RelationSet>
+<RelationSet id="123">
+<problem value="exercise intolerance" begin="6600" end="6620" status="0" certainty="-2" cui="C0424551" tui="T184" rank="753" code="NO-CODE" sourceType="SNOMEDCTVET"/>
+</RelationSet>
+<RelationSet id="124">
+<problem value="sleep disturbances" begin="6646" end="6664" status="0" certainty="-2" cui="C0037317;C0700201;C0851578" tui="T184;T047;T047" rank="797;765;562" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;NCI"/>
+</RelationSet>
+<RelationSet id="125">
+<problem value="insomnia" begin="6666" end="6674" status="0" certainty="-2" cui="C0917801;C1963237" tui="T184;T033" rank="791;551" code="NO-CODE" sourceType="MSH;NCI"/>
+</RelationSet>
+<RelationSet id="126">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<bodyFunction value="appetite" begin="6629" end="6637" status="0" certainty="-2"/>
+<modifier value="normal" begin="6622" end="6628" status="0" certainty="-2"/>
+</Relation>
+<bodyFunction value="appetite" begin="6629" end="6637" status="0" certainty="-2" cui="NO-CUI" tui="NO-TUI" rank="NO_RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<modifier value="normal" begin="6622" end="6628" status="0" certainty="-2" cui="C0949333;C0205307;C1882114;C1704701;C2698497;C0558145;C0848894" tui="T080;T080;T081;T081;T170;T033;T033" rank="797;797;575;575;572;572;489" code="NO-CODE" sourceType="MTH;MTH;NCI;NCI;NCI;NCI;ICPC2P"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="187" begin="6676" end="6773" sentText="She reports no dif culty hearing, no ear pain, no vertigo, and no ringing in the ears (tinnitus).">
+<RelationSet id="127">
+<problem value="vertigo" begin="6726" end="6733" status="0" certainty="-2" cui="C0042571;C1069915;C2096293;C1135208" tui="T184;T204;T033;T047" rank="797;751;592;293" code="NO-CODE" sourceType="MTH;NCBI;MEDCIN;ICD9CM"/>
+</RelationSet>
+<RelationSet id="128">
+<anatomicalStructure value="ears" begin="6757" end="6761" status="0" certainty="-2" cui="C0013443;C0521421;C1522191" tui="T023;T023;T169" rank="795;765;233" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="129">
+<finding value="ringing_SEP_ears_SEP_tinnitus" begin="6742_SEP_6757_SEP_6763" end="6749_SEP_6761_SEP_6771" status="0" certainty="-2" cui="C0040264" tui="T033" rank="800" code="NO-CODE" sourceType="ICD10CM"/>
+<finding value="tinnitus" begin="6763" end="6771" status="0" certainty="-2" cui="C1963249" tui="T033" rank="551" code="NO-CODE" sourceType="NCI"/>
+</RelationSet>
+<RelationSet id="130">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<problem value="pain" begin="6717" end="6721" status="0" certainty="-2"/>
+<anatomicalStructure value="ear" begin="6713" end="6716" status="0" certainty="-2"/>
+</Relation>
+<problem value="ear pain" begin="6713" end="6721" status="0" certainty="-2" cui="C0013456;C2015928" tui="T184;T033" rank="765;592" code="NO-CODE" sourceType="SNOMEDCTUS;MEDCIN"/>
+<problem value="pain" begin="6717" end="6721" status="0" certainty="-2" cui="C0030193;C1557397;C1882272;C0242936" tui="T184;T033;T033;T073,T093" rank="797;551;551;366" code="NO-CODE" sourceType="MTH;NCI;NCI;HL7V3.0"/>
+<finding value="no_SEP_pain" begin="6710_SEP_6717" end="6712_SEP_6721" status="0" certainty="-2" cui="C0234225" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<anatomicalStructure value="ear" begin="6713" end="6716" status="0" certainty="-2" cui="C0521422;C0013443;C0521421;C1522191;C1272926" tui="T082;T023;T023;T169;T122" rank="797;795;765;575;575" code="NO-CODE" sourceType="MTH;MSH;SNOMEDCTUS;NCI;NCI"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="188" begin="6774" end="6860" sentText="She reports no dif culty smelling, no frequent nosebleeds, and no nose/sinus problems.">
+<RelationSet id="131">
+<anatomicalStructure value="nose/sinus" begin="6840" end="6850" status="0" certainty="-2" cui="C0030471;C1278898" tui="T030;T023" rank="797;765" code="NO-CODE" sourceType="MTH;SNOMEDCTUS"/>
+<anatomicalStructure value="nose" begin="6840" end="6844" status="0" certainty="-2" cui="C0028429;C1278896;C1272939;C1522019" tui="T023;T023;T122;T169" rank="797;765;575;575" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;NCI;NCI"/>
+</RelationSet>
+<RelationSet id="132">
+<problem value="nose/sinus problems" begin="6840" end="6859" status="0" certainty="-2" cui="C0577887" tui="T047" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="sinus" begin="6845" end="6850" status="0" certainty="-2" cui="C1305231;C0423772" tui="T030;T190" rank="692;234" code="NO-CODE" sourceType="FMA;SNOMEDCTUS"/>
+<finding value="nose_SEP_problems" begin="6840_SEP_6851" end="6844_SEP_6859" status="0" certainty="-2" cui="C0577885" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<finding value="problems" begin="6851" end="6859" status="0" certainty="-2" cui="C0033213;C1254481" tui="T033;T033" rank="797;797" code="NO-CODE" sourceType="MTH;MTH"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="189" begin="6861" end="7112" sentText="She reports no sore throat, no dif culty swallowing (dysphagia), no anterior neck pain/tendemess, no unusual taste of foods, no bleeding gums, no snoring, no change in voice, no dry mouth, no mouth ulcers, no oral abnormalities, and no teeth problems.">
+<RelationSet id="133">
+<problem value="sore throat" begin="6876" end="6887" status="0" certainty="-2" cui="C0242429;C0031350;C0723402" tui="T184;T047;T109,T121" rank="797;150;150" code="NO-CODE" sourceType="MTH;CHV;CHV"/>
+<problem value="sore" begin="6876" end="6880" status="0" certainty="-2" cui="S00002340;C0234233;C1455785" tui="T046;T184;T080" rank="800;767;765" code="NO-CODE" sourceType="ezDIML2;SNOMEDCTUS;SNOMEDCTUS"/>
+<anatomicalStructure value="throat" begin="6881" end="6887" status="0" certainty="-2" cui="C3665375;C0031354;C1280698;C0230069" tui="T023;T023;T023;T029" rank="797;791;765;765" code="NO-CODE" sourceType="MTH;MSH;SNOMEDCTUS;SNOMEDCTUS"/>
+<finding value="no sore throat" begin="6873" end="6887" status="0" certainty="0" cui="C0423631" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="134">
+<finding value="swallowing" begin="6902" end="6912" status="0" certainty="-2" cui="C0011167;C1706486;C0740170;C3665547" tui="T040;T169;T033;T061" rank="791;767;765;592" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;MEDCIN"/>
+</RelationSet>
+<RelationSet id="135">
+<problem value="dysphagia" begin="6914" end="6923" status="0" certainty="-2" cui="C0011168" tui="T047" rank="791" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+<RelationSet id="136">
+<problem value="bleeding" begin="6989" end="6997" status="0" certainty="-2" cui="C0019080" tui="T046" rank="791" code="NO-CODE" sourceType="MSH"/>
+<problem value="gums" begin="6998" end="7002" status="0" certainty="-2" cui="C0017562;C1378701;C2316648;C0812395;C2012701;C2348904" tui="T023;T122;T081;T121;T184;T081" rank="791;767;765;661;592;575" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;NDDF;MEDCIN;NCI"/>
+<finding value="bleeding gums" begin="6989" end="7002" status="0" certainty="-2" cui="C0017565" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<finding value="no bleeding" begin="6986" end="6997" status="0" certainty="0" cui="C2712233" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="137">
+<problem value="snoring" begin="7007" end="7014" status="0" certainty="-2" cui="C0037384" tui="T184" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="138">
+<finding value="change_SEP_voice" begin="7019_SEP_7029" end="7025_SEP_7034" status="0" certainty="-2" cui="C0518179;C0543441;C0700281" tui="T184;T033;T033" rank="767;328;328" code="NO-CODE" sourceType="SNOMEDCTUS;NOC;NOC"/>
+<finding value="no change" begin="7016" end="7025" status="0" certainty="-2" cui="C0442739" tui="T033" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="139">
+<problem value="dry mouth" begin="7039" end="7048" status="0" certainty="-2" cui="C0043352" tui="T184" rank="791" code="NO-CODE" sourceType="MSH"/>
+<modifier value="mouth" begin="7043" end="7048" status="0" certainty="-2" cui="C0442027;C0226896;C1278910;C1267547;C0230028;C1272919;C1527415" tui="T082;T030;T029;T029;T029;T122;T169" rank="797;795;765;765;765;575;575" code="NO-CODE" sourceType="MTH;MSH;SNOMEDCTUS;SNOMEDCTUS;SNOMEDCTUS;NCI;NCI"/>
+</RelationSet>
+<RelationSet id="140">
+<problem value="oral abnormalities" begin="7070" end="7088" status="0" certainty="-2" cui="C0026633" tui="T019" rank="795" code="NO-CODE" sourceType="MSH"/>
+<modifier value="oral" begin="7070" end="7074" status="0" certainty="-2" cui="C0442027;C0226896;C1278910;C1267547;C0230028;C1272919;C1527415" tui="T082;T030;T029;T029;T029;T122;T169" rank="797;795;765;765;765;575;575" code="NO-CODE" sourceType="MTH;MSH;SNOMEDCTUS;SNOMEDCTUS;SNOMEDCTUS;NCI;NCI"/>
+<finding value="abnormalities" begin="7075" end="7088" status="0" certainty="-2" cui="C1704258;C0000769" tui="T033;T169" rank="999;794" code="NO-CODE" sourceType="EZDI;MSH"/>
+</RelationSet>
+<RelationSet id="141">
+<anatomicalStructure value="teeth" begin="7097" end="7102" status="0" certainty="-2" cui="C0040426;C1281562;C2239132;C1519551" tui="T023;T023;T058;T024" rank="795;765;592;572" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;MEDCIN;NCI"/>
+</RelationSet>
+<RelationSet id="142">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<modifier value="anterior" begin="6929" end="6937" status="0" certainty="-2"/>
+<problem value="pain" begin="6943" end="6947" status="0" certainty="-2"/>
+<anatomicalStructure value="neck" begin="6938" end="6942" status="0" certainty="-2"/>
+</Relation>
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<problem value="pain" begin="6943" end="6947" status="0" certainty="-2"/>
+<anatomicalStructure value="neck" begin="6938" end="6942" status="0" certainty="-2"/>
+</Relation>
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<modifier value="anterior" begin="6929" end="6937" status="0" certainty="-2"/>
+<problem value="pain" begin="6943" end="6947" status="0" certainty="-2"/>
+</Relation>
+<modifier value="anterior" begin="6929" end="6937" status="0" certainty="-2" cui="C0205094" tui="T169" rank="797" code="NO-CODE" sourceType="MTH"/>
+<problem value="anterior neck pain" begin="6929" end="6947" status="0" certainty="-2" cui="C0751724" tui="T184" rank="790" code="NO-CODE" sourceType="MSH"/>
+<problem value="neck pain" begin="6938" end="6947" status="0" certainty="-2" cui="C0007859;C1963180" tui="T184;T033" rank="797;551" code="NO-CODE" sourceType="MTH;NCI"/>
+<problem value="pain" begin="6943" end="6947" status="0" certainty="-2" cui="C0030193;C1557397;C1882272;C0242936" tui="T184;T033;T033;T073,T093" rank="797;551;551;366" code="NO-CODE" sourceType="MTH;NCI;NCI;HL7V3.0"/>
+<finding value="no_SEP_pain" begin="6926_SEP_6943" end="6928_SEP_6947" status="0" certainty="-2" cui="C0234225" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<anatomicalStructure value="neck" begin="6938" end="6942" status="0" certainty="-2" cui="C0027530;C1281592;C2137077" tui="T029;T023;T033" rank="797;765;592" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;MEDCIN"/>
+</RelationSet>
+<RelationSet id="143">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<anatomicalStructure value="mouth" begin="7053" end="7058" status="0" certainty="-2"/>
+<problem value="ulcers" begin="7059" end="7065" status="0" certainty="-2"/>
+</Relation>
+<anatomicalStructure value="mouth" begin="7053" end="7058" status="0" certainty="-2" cui="C0442027;C0226896;C1278910;C1267547;C0230028;C1272919;C1527415" tui="T082;T030;T029;T029;T029;T122;T169" rank="797;795;765;765;765;575;575" code="NO-CODE" sourceType="MTH;MSH;SNOMEDCTUS;SNOMEDCTUS;SNOMEDCTUS;NCI;NCI"/>
+<problem value="mouth ulcers" begin="7053" end="7065" status="0" certainty="-2" cui="C0149745" tui="T047" rank="797" code="NO-CODE" sourceType="MTH"/>
+<problem value="ulcers" begin="7059" end="7065" status="0" certainty="-2" cui="C0041582" tui="T046" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="190" begin="7113" end="7340" sentText="She reports no chest pain, no arm pain on exertion, no shortness of breath when walking, no shortness of breath when lying down, no palpitations, no known heart murmur, no Iightheadedness, no mlf orjaw pain, and no ankle edema.">
+<RelationSet id="144">
+<problem value="shortness_SEP_breath" begin="7168_SEP_7181" end="7177_SEP_7187" status="0" certainty="-2" cui="C0013404" tui="T184" rank="790" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+<RelationSet id="145">
+<problem value="shortness_SEP_breath" begin="7205_SEP_7218" end="7214_SEP_7224" status="0" certainty="-2" cui="C0013404" tui="T184" rank="790" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+<RelationSet id="146">
+<finding value="no palpitations" begin="7242" end="7257" status="0" certainty="0" cui="C0425596" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<finding value="palpitations" begin="7245" end="7257" status="0" certainty="-2" cui="C0030252;C3160712" tui="T033;T033" rank="797;551" code="NO-CODE" sourceType="MTH;NCI"/>
+</RelationSet>
+<RelationSet id="147">
+<problem value="Iightheadedness" begin="7285" end="7300" status="0" certainty="-2" cui="C0220870" tui="T184" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="148">
+<problem value="pain" begin="7315" end="7319" status="0" certainty="-2" cui="C0030193;C1557397;C1882272;C0242936" tui="T184;T033;T033;T073,T093" rank="797;551;551;366" code="NO-CODE" sourceType="MTH;NCI;NCI;HL7V3.0"/>
+<finding value="no_SEP_pain" begin="7302_SEP_7315" end="7304_SEP_7319" status="0" certainty="-2" cui="C0234225" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="149">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<anatomicalStructure value="chest" begin="7128" end="7133" status="0" certainty="-2"/>
+<problem value="pain" begin="7134" end="7138" status="0" certainty="-2"/>
+</Relation>
+<anatomicalStructure value="chest" begin="7128" end="7133" status="0" certainty="-2" cui="C0817096;C1521735" tui="T029;T080" rank="797;797" code="NO-CODE" sourceType="MTH;MTH"/>
+<problem value="reports_SEP_chest pain" begin="7117_SEP_7128" end="7124_SEP_7138" status="0" certainty="-2" cui="S00017019;C0008031" tui="T046;T184" rank="800;797" code="NO-CODE" sourceType="ezDIML2;MTH"/>
+<problem value="chest pain" begin="7128" end="7138" status="0" certainty="-2" cui="S00016270" tui="T046" rank="800" code="NO-CODE" sourceType="ezDIML2"/>
+<problem value="pain" begin="7134" end="7138" status="0" certainty="-2" cui="C0030193;C1557397;C1882272;C0242936" tui="T184;T033;T033;T073,T093" rank="797;551;551;366" code="NO-CODE" sourceType="MTH;NCI;NCI;HL7V3.0"/>
+<finding value="no_SEP_pain" begin="7125_SEP_7134" end="7127_SEP_7138" status="0" certainty="-2" cui="C0234225" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="150">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<anatomicalStructure value="arm" begin="7143" end="7146" status="0" certainty="-2"/>
+<problem value="pain" begin="7147" end="7151" status="0" certainty="-2"/>
+</Relation>
+<anatomicalStructure value="arm" begin="7143" end="7146" status="0" certainty="-2" cui="C0446516;C1269078;C1140618;C1269612" tui="T029;T023;T029;T029" rank="795;765;765;765" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;SNOMEDCTUS"/>
+<problem value="arm pain" begin="7143" end="7151" status="0" certainty="-2" cui="S20008939;C0239377" tui="T046;T184" rank="800;797" code="NO-CODE" sourceType="ezDIML2;MTH"/>
+<problem value="pain" begin="7147" end="7151" status="0" certainty="-2" cui="C0030193;C1557397;C1882272;C0242936" tui="T184;T033;T033;T073,T093" rank="797;551;551;366" code="NO-CODE" sourceType="MTH;NCI;NCI;HL7V3.0"/>
+<finding value="no_SEP_pain" begin="7140_SEP_7147" end="7142_SEP_7151" status="0" certainty="-2" cui="C0234225" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="151">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<problem value="murmur" begin="7274" end="7280" status="0" certainty="-2"/>
+<anatomicalStructure value="heart" begin="7268" end="7273" status="0" certainty="-2"/>
+</Relation>
+<finding value="heart murmur" begin="7268" end="7280" status="0" certainty="-2" cui="C0018808" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+<anatomicalStructure value="heart" begin="7268" end="7273" status="0" certainty="-2" cui="C0018787;C1281570" tui="T023;T023" rank="797;765" code="NO-CODE" sourceType="MTH;SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="152">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<problem value="edema" begin="7334" end="7339" status="0" certainty="-2"/>
+<anatomicalStructure value="ankle" begin="7328" end="7333" status="0" certainty="-2"/>
+</Relation>
+<problem value="edema" begin="7334" end="7339" status="0" certainty="-2" cui="C0013604" tui="T046" rank="797" code="NO-CODE" sourceType="MTH"/>
+<finding value="ankle edema" begin="7328" end="7339" status="0" certainty="-2" cui="C0235439" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<anatomicalStructure value="ankle" begin="7328" end="7333" status="0" certainty="-2" cui="C0003086;C1283839;C0003087" tui="T029;T029;T030" rank="797;765;575" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;NCI"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="191" begin="7341" end="7467" sentText="She reports no cough, no wheezing, no shortness of breath, no rapid breathing, no sputum production, and no coughing up blood.">
+<RelationSet id="153">
+<problem value="cough" begin="7356" end="7361" status="0" certainty="-2" cui="S00003732;C0010200;C0687152;C1961131" tui="T046;T184;T033;T033" rank="800;795;711;551" code="NO-CODE" sourceType="ezDIML2;MSH;RCD;NCI"/>
+<finding value="no cough" begin="7353" end="7361" status="0" certainty="0" cui="C0425502" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="154">
+<problem value="wheezing" begin="7366" end="7374" status="0" certainty="-2" cui="C0043144" tui="T184" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="155">
+<problem value="shortness_SEP_breath" begin="7379_SEP_7392" end="7388_SEP_7398" status="0" certainty="-2" cui="C0013404" tui="T184" rank="790" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+<RelationSet id="156">
+<problem value="rapid breathing" begin="7403" end="7418" status="0" certainty="-2" cui="C0231835" tui="T184" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<finding value="breathing" begin="7409" end="7418" status="0" certainty="-2" cui="S00011792;C0035203;C0004048;C2015926" tui="T046;T039;T040;T033" rank="800;791;765;592" code="NO-CODE" sourceType="ezDIML2;MSH;SNOMEDCTUS;MEDCIN"/>
+</RelationSet>
+<RelationSet id="157">
+<finding value="no sputum" begin="7420" end="7429" status="0" certainty="0" cui="C0425518" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="158">
+<problem value="coughing up blood" begin="7449" end="7466" status="0" certainty="-2" cui="C0019079" tui="T184" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="coughing up" begin="7449" end="7460" status="0" certainty="-2" cui="S00002443" tui="T046" rank="800" code="NO-CODE" sourceType="ezDIML2"/>
+<problem value="coughing" begin="7449" end="7457" status="0" certainty="-2" cui="S00003732;C0010200;C0687152;C1961131" tui="T046;T184;T033;T033" rank="800;797;711;551" code="NO-CODE" sourceType="ezDIML2;MTH;RCD;NCI"/>
+<finding value="no coughing" begin="7446" end="7457" status="0" certainty="0" cui="C0425502" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="192" begin="7468" end="7773" sentText="She reports no nausea, no vomiting, not vomiting blood, no abdominal pain, normal appetite, no diarrhea, no constipation, no dyspepsia/reflux, no heartburn, no early satiety, complete emptying of stool, no bloating, able to restrain bowel movement, no bowel urgency, and no blood in stool/on toilet paper.">
+<RelationSet id="159">
+<problem value="reports_SEP_nausea" begin="7472_SEP_7483" end="7479_SEP_7489" status="0" certainty="-2" cui="S20005516;S00007221" tui="T046;T046" rank="800;800" code="NO-CODE" sourceType="ezDIML2;ezDIML2"/>
+<problem value="nausea" begin="7483" end="7489" status="0" certainty="-2" cui="C0027497;C1963179" tui="T184;T033" rank="797;551" code="NO-CODE" sourceType="MTH;NCI"/>
+<finding value="no nausea" begin="7480" end="7489" status="0" certainty="0" cui="C0423584" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="160">
+<problem value="vomiting" begin="7494" end="7502" status="0" certainty="-2" cui="C0042963;C0042965;C1963281" tui="T184;T031;T033" rank="797;765;551" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;NCI"/>
+<finding value="no vomiting" begin="7491" end="7502" status="0" certainty="0" cui="C0375548" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="161">
+<problem value="vomiting blood" begin="7508" end="7522" status="0" certainty="-2" cui="S20007251;C0018926" tui="T046;T184" rank="800;765" code="NO-CODE" sourceType="ezDIML2;SNOMEDCTUS"/>
+<anatomicalStructure value="blood" begin="7517" end="7522" status="0" certainty="-2" cui="S0001759;C0005767;C0005768;C0392895;C0333275;C0229664" tui="T023;T024;T031;T098;T080;T031" rank="999;797;797;767;765;576" code="NO-CODE" sourceType="EZDI;MTH;MTH;SNOMEDCTUS;SNOMEDCTUS;NCI"/>
+</RelationSet>
+<RelationSet id="162">
+<problem value="abdominal pain" begin="7527" end="7541" status="0" certainty="-2" cui="S00014489;S20004548;S00001470;C0000737" tui="T046;T046;T046;T184" rank="800;800;800;797" code="NO-CODE" sourceType="ezDIML2;ezDIML2;ezDIML2;MTH"/>
+<finding value="no abdominal pain" begin="7524" end="7541" status="0" certainty="0" cui="C0423651" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="163">
+<problem value="diarrhea" begin="7563" end="7571" status="0" certainty="-2" cui="S00007979;C0011991;C1963091" tui="T046;T184;T033" rank="800;797;551" code="NO-CODE" sourceType="ezDIML2;MTH;NCI"/>
+</RelationSet>
+<RelationSet id="164">
+<problem value="constipation" begin="7576" end="7588" status="0" certainty="-2" cui="S00006742;C0009806;C1963087" tui="T046;T184;T033" rank="800;797;551" code="NO-CODE" sourceType="ezDIML2;MTH;NCI"/>
+</RelationSet>
+<RelationSet id="165">
+<problem value="dyspepsia" begin="7593" end="7602" status="0" certainty="-2" cui="C0013395" tui="T184" rank="795" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+<RelationSet id="166">
+<problem value="reflux" begin="7603" end="7609" status="0" certainty="-2" cui="C0232483;C1882919;C0017168" tui="T046;T067;T047" rank="797;561;530" code="NO-CODE" sourceType="MTH;NCI;NCI"/>
+</RelationSet>
+<RelationSet id="167">
+<problem value="heartburn" begin="7614" end="7623" status="0" certainty="-2" cui="C0018834;C0847097" tui="T184;T184" rank="797;151" code="NO-CODE" sourceType="MTH;CHV"/>
+</RelationSet>
+<RelationSet id="168">
+<problem value="bloating" begin="7674" end="7682" status="0" certainty="-2" cui="S00005140;C1291077" tui="T046;T184" rank="800;765" code="NO-CODE" sourceType="ezDIML2;SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="168">
+<bodyFunction value="bowel movement" begin="7701" end="7715" status="0" certainty="-2" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+<RelationSet id="169">
+<problem value="bowel urgency" begin="7720" end="7733" status="0" certainty="-2" cui="C0426636" tui="T047" rank="592" code="NO-CODE" sourceType="MEDCIN"/>
+<anatomicalStructure value="bowel" begin="7720" end="7725" status="0" certainty="-2" cui="C0021853" tui="T023" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="170">
+<problem value="blood_SEP_stool" begin="7742_SEP_7751" end="7747_SEP_7756" status="0" certainty="-2" cui="C1321898;C0018932" tui="T184;T033" rank="797;765" code="NO-CODE" sourceType="MTH;SNOMEDCTUS"/>
+<anatomicalStructure value="blood" begin="7742" end="7747" status="0" certainty="-2" cui="S0001759;C0005767;C0005768;C0392895;C0333275;C0229664" tui="T023;T024;T031;T098;T080;T031" rank="999;797;797;767;765;576" code="NO-CODE" sourceType="EZDI;MTH;MTH;SNOMEDCTUS;SNOMEDCTUS;NCI"/>
+<finding value="blood_SEP_toilet paper" begin="7742_SEP_7760" end="7747_SEP_7772" status="0" certainty="-2" cui="C1277592" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="171">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<modifier value="normal" begin="7543" end="7549" status="0" certainty="-2"/>
+<bodyFunction value="appetite" begin="7550" end="7558" status="0" certainty="-2"/>
+</Relation>
+<modifier value="normal" begin="7543" end="7549" status="0" certainty="-2" cui="C0949333;C0205307;C1882114;C1704701;C2698497;C0558145;C0848894" tui="T080;T080;T081;T081;T170;T033;T033" rank="797;797;575;575;572;572;489" code="NO-CODE" sourceType="MTH;MTH;NCI;NCI;NCI;NCI;ICPC2P"/>
+<bodyFunction value="appetite" begin="7550" end="7558" status="0" certainty="-2" cui="NO-CUI" tui="NO-TUI" rank="NO_RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="193" begin="7774" end="7971" sentText="She reports no dry skin, no abnormal mole, no jaundice, no rashes, no discoloration, no excessive facial or body hair (hirsutism), no hair thinning, no growths / lesions, and no excessive sweating.">
+<RelationSet id="172">
+<modifier value="dry" begin="7789" end="7792" status="0" certainty="-2" cui="C0205222;C1512080;C0011682;C2827485;C0180560" tui="T080;T080;T070;T031;T073" rank="797;576;576;575;150" code="NO-CODE" sourceType="MTH;NCI;NCI;NCI;CHV"/>
+</RelationSet>
+<RelationSet id="172">
+<anatomicalStructure value="skin" begin="7793" end="7797" status="0" certainty="-2" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+<RelationSet id="173">
+<problem value="mole" begin="7811" end="7815" status="0" certainty="-2" cui="C0027960;C0027962;C0439189;C0020217;C1456781" tui="T191;T191;T081;T191;T191" rank="791;765;711;242;151" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;RCD;SNOMEDCTUS;CHV"/>
+<finding value="abnormal" begin="7802" end="7810" status="0" certainty="-2" cui="C1704258;C0205161;C2699333" tui="T033;T080;T170" rank="797;797;572" code="NO-CODE" sourceType="MTH;MTH;NCI"/>
+</RelationSet>
+<RelationSet id="174">
+<problem value="jaundice" begin="7820" end="7828" status="0" certainty="-2" cui="C0022346;C2203646" tui="T046;T184" rank="795;592" code="NO-CODE" sourceType="MSH;MEDCIN"/>
+</RelationSet>
+<RelationSet id="175">
+<problem value="no rashes" begin="7830" end="7839" status="0" certainty="0" cui="S00022276" tui="T046" rank="800" code="NO-CODE" sourceType="ezDIML2"/>
+<problem value="rashes" begin="7833" end="7839" status="0" certainty="-2" cui="C0015230" tui="T047" rank="791" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+<RelationSet id="176">
+<finding value="discoloration" begin="7844" end="7857" status="0" certainty="-2" cui="C0332572" tui="T033" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="177">
+<finding value="excessive facial_SEP_body hair_SEP_hirsutism" begin="7862_SEP_7882_SEP_7893" end="7878_SEP_7891_SEP_7902" status="0" certainty="-2" cui="C0019572" tui="T033" rank="800" code="NO-CODE" sourceType="ICD10CM"/>
+</RelationSet>
+<RelationSet id="178">
+<finding value="lesions" begin="7936" end="7943" status="0" certainty="-2" cui="C0221198" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="179">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<modifier value="excessive" begin="7862" end="7871" status="0" certainty="-2"/>
+<problem value="facial" begin="7872" end="7878" status="0" certainty="-2"/>
+</Relation>
+<modifier value="excessive" begin="7862" end="7871" status="0" certainty="-2" cui="C0442802" tui="T080" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="excessive facial_SEP_hair" begin="7862_SEP_7887" end="7878_SEP_7891" status="0" certainty="-2" cui="C2128203" tui="T184" rank="595" code="NO-CODE" sourceType="MEDCIN"/>
+<modifier value="facial" begin="7872" end="7878" status="0" certainty="-2" cui="C0524465;C0015450;C1281591;C2828055" tui="T082;T029;T023;T028" rank="797;797;765;575" code="NO-CODE" sourceType="MTH;MTH;SNOMEDCTUS;NCI"/>
+<anatomicalStructure value="facial_SEP_hair" begin="7872_SEP_7887" end="7878_SEP_7891" status="0" certainty="-2" cui="C1289344;C0221980;C0239496" tui="T023;T023;T033" rank="765;765;314" code="NO-CODE" sourceType="SNOMEDCTUS;SNOMEDCTUS;DXP"/>
+<finding value="excessive facial_SEP_body hair_SEP_hirsutism" begin="7862_SEP_7882_SEP_7893" end="7878_SEP_7891_SEP_7902" status="0" certainty="-2" cui="C0019572" tui="T033" rank="595" code="NO-CODE" sourceType="MEDCIN"/>
+</RelationSet>
+<RelationSet id="180">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<modifier value="excessive" begin="7952" end="7961" status="0" certainty="-2"/>
+<finding value="sweating" begin="7962" end="7970" status="0" certainty="-2"/>
+</Relation>
+<modifier value="excessive" begin="7952" end="7961" status="0" certainty="-2" cui="C0442802" tui="T080" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="excessive sweating" begin="7952" end="7970" status="0" certainty="-2" cui="C0700590" tui="T184" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<finding value="sweating" begin="7962" end="7970" status="0" certainty="-2" cui="C0038984;C0038990" tui="T031;T033" rank="797;797" code="NO-CODE" sourceType="MTH;MTH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="286" begin="7972" end="8156">
+<Sentence sentNo="194" begin="7972" end="8063" sentText="She reports no fatigue, no cold intolerance, no heat intolerance, and no unusual body odor.">
+<RelationSet id="181">
+<problem value="fatigue" begin="7987" end="7994" status="0" certainty="-2" cui="C0015672;C2024893" tui="T184;T033" rank="797;592" code="NO-CODE" sourceType="MTH;MEDCIN"/>
+</RelationSet>
+<RelationSet id="182">
+<problem value="cold intolerance" begin="7999" end="8015" status="0" certainty="-2" cui="C0009269;C2107731" tui="T184;T184" rank="797;592" code="NO-CODE" sourceType="MTH;MEDCIN"/>
+<problem value="cold" begin="7999" end="8003" status="0" certainty="-2" cui="C0009264;C0234192;C0024117;C0009443;C0812387;C0010412" tui="T070;T039;T047;T047;T033;T061" rank="791;767;765;765;750;304" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;SNOMEDCTUS;SNMI;ALT"/>
+</RelationSet>
+<RelationSet id="183">
+<problem value="heat intolerance" begin="8020" end="8036" status="0" certainty="-2" cui="C0231274;C2107732" tui="T046;T184" rank="797;592" code="NO-CODE" sourceType="MTH;MEDCIN"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="195" begin="8064" end="8156" sentText="She reports no bruising, no swollen glands, no clotting problems, and no bleeding disorders.">
+<RelationSet id="184">
+<problem value="bruising" begin="8079" end="8087" status="0" certainty="-2" cui="C0009938" tui="T037" rank="791" code="NO-CODE" sourceType="MSH"/>
+<finding value="reports_SEP_bruising" begin="8068_SEP_8079" end="8075_SEP_8087" status="0" certainty="-2" cui="C2136686" tui="T033" rank="595" code="NO-CODE" sourceType="MEDCIN"/>
+<finding value="no bruising" begin="8076" end="8087" status="0" certainty="0" cui="C3532634" tui="T033" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="185">
+<problem value="swollen" begin="8092" end="8099" status="0" certainty="-2" cui="C0038999;C0013604" tui="T033;T046" rank="703;150" code="NO-CODE" sourceType="SNMI;CHV"/>
+<anatomicalStructure value="glands" begin="8100" end="8106" status="0" certainty="-2" cui="C1285092" tui="T023" rank="797" code="NO-CODE" sourceType="MTH"/>
+<finding value="no swollen glands" begin="8089" end="8106" status="0" certainty="0" cui="C0558762" tui="T033" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<finding value="swollen glands" begin="8092" end="8106" status="0" certainty="-2" cui="C0497156" tui="T033" rank="719" code="NO-CODE" sourceType="RCDSY"/>
+</RelationSet>
+<RelationSet id="186">
+<finding value="problems" begin="8120" end="8128" status="0" certainty="-2" cui="C0033213;C1254481" tui="T033;T033" rank="797;797" code="NO-CODE" sourceType="MTH;MTH"/>
+</RelationSet>
+<RelationSet id="187">
+<problem value="bleeding disorders" begin="8137" end="8155" status="0" certainty="-2" cui="C0019080;C1458140;C0005779" tui="T046;T046;T047" rank="791;765;765" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS"/>
+<problem value="disorders" begin="8146" end="8155" status="0" certainty="-2" cui="C0012634" tui="T047" rank="765" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<finding value="no bleeding" begin="8134" end="8145" status="0" certainty="0" cui="C2712233" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="287" begin="8157" end="8157">
+</Paragraph>
+<Paragraph pgNo="288" begin="8158" end="8227">
+<Sentence sentNo="196" begin="8158" end="8227" sentText="Additionally reports: Additionally reports: Documented by Psalas,cma.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="289" begin="8228" end="8228">
+</Paragraph>
+<Paragraph pgNo="290" begin="8229" end="8332">
+<Sentence sentNo="197" begin="8229" end="8332" sentText="I, Harry Bass, M.D., have reviewed any and all documentation by a scribe and authenticate its accuracy.">
+<RelationSet id="187">
+<problem value="Harry Bass" begin="8232" end="8242" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="291" begin="8333" end="8356">
+<Sentence sentNo="198" begin="8333" end="8356" sentText="ROS as noted in the HPI">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="292" begin="8357" end="8357">
+</Paragraph>
+</Section>
+<Section value="Physical Exam" begin="8358" end="8371" secBegin="8371" secEnd="8552">
+<Paragraph pgNo="293" begin="8358" end="8371">
+<Sentence sentNo="199" begin="8358" end="8371" sentText="Physical Exam">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="294" begin="8372" end="8372">
+</Paragraph>
+<Paragraph pgNo="295" begin="8373" end="8405">
+<Sentence sentNo="200" begin="8373" end="8405" sentText="Patient is a 62-year-old female.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="296" begin="8406" end="8406">
+</Paragraph>
+<Paragraph pgNo="297" begin="8407" end="8518">
+<Sentence sentNo="201" begin="8407" end="8494" sentText="Const &apos;onal: General Appearance: healthy-appearing, well-nourished, and well-developed.">
+<RelationSet id="187">
+<finding value="well-nourished" begin="8459" end="8473" status="0" certainty="1" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="202" begin="8495" end="8518" sentText="Level of Distress: NAD.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="298" begin="8519" end="8551">
+<Sentence sentNo="203" begin="8519" end="8551" sentText="Ambulatlon: ambulating normally.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="299" begin="8552" end="8552">
+</Paragraph>
+</Section>
+<Section value="Psychiatric" begin="8553" end="8565" secBegin="8565" secEnd="8590">
+<Paragraph pgNo="300" begin="8553" end="8590">
+<Sentence sentNo="204" begin="8553" end="8590" sentText="Psychiatric: Insight: good judgement.">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Mental Status" begin="8591" end="8605" secBegin="8605" secEnd="8746">
+<Paragraph pgNo="301" begin="8591" end="8746">
+<Sentence sentNo="205" begin="8591" end="8650" sentText="Mental Status: normal mood and affect and active and alert.">
+<RelationSet id="188">
+<modifier value="normal" begin="8606" end="8612" status="0" certainty="0" cui="C0949333;C0205307;C1882114;C1704701;C2698497;C0558145;C0848894" tui="T080;T080;T081;T081;T170;T033;T033" rank="797;797;575;575;572;572;489" code="NO-CODE" sourceType="MTH;MTH;NCI;NCI;NCI;NCI;ICPC2P"/>
+</RelationSet>
+<RelationSet id="189">
+<finding value="alert" begin="8644" end="8649" status="0" certainty="0" cui="C1443086;C0718338;C0239110;C3665546;C2347453" tui="T041;T109,T121;T033;T169;T170" rank="713;673;592;576;576" code="NO-CODE" sourceType="SNMI;MMSL;MEDCIN;NCI;NCI"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="206" begin="8651" end="8691" sentText="Orientation: to time, place, and person.">
+</Sentence>
+<Sentence sentNo="207" begin="8692" end="8746" sentText="Memory: recent memory normal and remote memory normal.">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Lungs" begin="8748" end="8754" secBegin="8754" secEnd="9016">
+<Paragraph pgNo="302" begin="8748" end="8962">
+<Sentence sentNo="208" begin="8748" end="8786" sentText="Lungs: Respiratory effort: no dyspnea.">
+<RelationSet id="190">
+<problem value="dyspnea" begin="8778" end="8785" status="0" certainty="-2" cui="C0013404;C2024878" tui="T184;T033" rank="797;592" code="NO-CODE" sourceType="MTH;MEDCIN"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="209" begin="8787" end="8838" sentText="Percussion: no dullness, atness, or hyperresonance.">
+<RelationSet id="191">
+<finding value="dullness" begin="8802" end="8810" status="0" certainty="-2" cui="C0541911" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="192">
+<problem value="hyperresonance" begin="8823" end="8837" status="0" certainty="-2" cui="C0231882" tui="T184" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="210" begin="8839" end="8962" sentText="Auscultation: no wheezing, rales/crackles, or rhonchi and breath sounds normal, good air movement, and CTA except as noted.">
+<RelationSet id="193">
+<problem value="wheezing" begin="8856" end="8864" status="0" certainty="-2" cui="C0043144" tui="T184" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="194">
+<problem value="rales/crackles" begin="8866" end="8880" status="0" certainty="-2" cui="C0034642" tui="T184" rank="797" code="NO-CODE" sourceType="MTH"/>
+<finding value="rales" begin="8866" end="8871" status="0" certainty="-2" cui="C0240859" tui="T033" rank="575" code="NO-CODE" sourceType="NCI"/>
+</RelationSet>
+<RelationSet id="195">
+<problem value="rales/crackles" begin="8866" end="8880" status="0" certainty="-2" cui="C0034642" tui="T184" rank="791" code="NO-CODE" sourceType="MSH"/>
+<finding value="crackles" begin="8872" end="8880" status="0" certainty="-2" cui="C0240859" tui="T033" rank="575" code="NO-CODE" sourceType="NCI"/>
+</RelationSet>
+<RelationSet id="196">
+<problem value="rhonchi" begin="8885" end="8892" status="0" certainty="-2" cui="C0035508" tui="T184" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="196">
+<bodyFunction value="breath sounds" begin="8897" end="8910" status="0" certainty="-2" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+<RelationSet id="197">
+<modifier value="normal" begin="8911" end="8917" status="0" certainty="-2" cui="C0949333;C0205307;C1882114;C1704701;C2698497;C0558145;C0848894" tui="T080;T080;T081;T081;T170;T033;T033" rank="797;797;575;575;572;572;489" code="NO-CODE" sourceType="MTH;MTH;NCI;NCI;NCI;NCI;ICPC2P"/>
+</RelationSet>
+<RelationSet id="198">
+<procedure value="CTA" begin="8942" end="8945" status="0" certainty="-2" cui="C1536105;C3540513" tui="T060;T028" rank="999;575" code="NO-CODE" sourceType="EZDI;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="303" begin="8963" end="8963">
+</Paragraph>
+<Paragraph pgNo="304" begin="8964" end="8964">
+</Paragraph>
+<Paragraph pgNo="305" begin="8965" end="8965">
+</Paragraph>
+<Paragraph pgNo="306" begin="8966" end="8966">
+</Paragraph>
+<Paragraph pgNo="307" begin="8967" end="8967">
+</Paragraph>
+<Paragraph pgNo="308" begin="8968" end="9015">
+<Sentence sentNo="211" begin="8968" end="9015" sentText="DODSON, DEBORAH K (id #143020, dob: 12/21/1956)">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="309" begin="9016" end="9016">
+</Paragraph>
+</Section>
+<Section value="Cardiovascular" begin="9017" end="9032" secBegin="9032" secEnd="9394">
+<Paragraph pgNo="310" begin="9017" end="9225">
+<Sentence sentNo="212" begin="9017" end="9063" sentText="Cardiovascular: Apical Impulse: not displaced.">
+</Sentence>
+<Sentence sentNo="213" begin="9064" end="9140" sentText="Heart Auscultation: normal S1 and S2; no murmurs, rubs, or gallops; and RRR.">
+<RelationSet id="199">
+<anatomicalStructure value="Heart" begin="9064" end="9069" status="0" certainty="-2" cui="C0018787;C1281570" tui="T023;T023" rank="797;765" code="NO-CODE" sourceType="MTH;SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="199">
+<bodyFunction value="S2" begin="9098" end="9100" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+<RelationSet id="200">
+<finding value="murmurs" begin="9105" end="9112" status="0" certainty="-2" cui="C0018808" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="200">
+<finding value="rubs" begin="9114" end="9118" status="0" certainty="-2" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+<RelationSet id="200">
+<finding value="gallops" begin="9123" end="9130" status="0" certainty="-2" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+<RelationSet id="201">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<modifier value="normal" begin="9084" end="9090" status="0" certainty="0"/>
+<bodyFunction value="S1" begin="9091" end="9093" status="0" certainty="0"/>
+</Relation>
+<modifier value="normal" begin="9084" end="9090" status="0" certainty="0" cui="C0949333;C0205307;C1882114;C1704701;C2698497;C0558145;C0848894" tui="T080;T080;T081;T081;T170;T033;T033" rank="797;797;575;575;572;572;489" code="NO-CODE" sourceType="MTH;MTH;NCI;NCI;NCI;NCI;ICPC2P"/>
+<bodyFunction value="S1" begin="9091" end="9093" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO_RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="214" begin="9141" end="9172" sentText="Neck vessels: no mrotid bruits.">
+<RelationSet id="202">
+<anatomicalStructure value="Neck vessels" begin="9141" end="9153" status="0" certainty="-2" cui="C0947149" tui="T023" rank="999" code="NO-CODE" sourceType="EZDI"/>
+<anatomicalStructure value="vessels" begin="9146" end="9153" status="0" certainty="-2" cui="C0042591;C0148346;C0005847;C1511228" tui="T029;T118,T121;T023;T024" rank="767;722;701;571" code="NO-CODE" sourceType="SNOMEDCTUS;MSH;SNM;NCI"/>
+<anatomicalStructure value="Neck" begin="9141" end="9145" status="0" certainty="-2" cui="C0027530;C1281592;C2137077" tui="T029;T023;T033" rank="797;765;592" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;MEDCIN"/>
+</RelationSet>
+<RelationSet id="203">
+<finding value="bruits" begin="9165" end="9171" status="0" certainty="-2" cui="C0006318" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="215" begin="9173" end="9225" sentText="Pulses including femoral / pedal: normal throughout.">
+<RelationSet id="203">
+<meas value="Pulses" begin="9173" end="9179" status="0" certainty="-2" code="EZBD000016">
+</meas>
+</RelationSet>
+<RelationSet id="204">
+<modifier value="normal" begin="9207" end="9213" status="0" certainty="0" cui="C0949333;C0205307;C1882114;C1704701;C2698497;C0558145;C0848894" tui="T080;T080;T081;T081;T170;T033;T033" rank="797;797;575;575;572;572;489" code="NO-CODE" sourceType="MTH;MTH;NCI;NCI;NCI;NCI;ICPC2P"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="311" begin="9226" end="9226">
+</Paragraph>
+<Paragraph pgNo="312" begin="9227" end="9394">
+<Sentence sentNo="216" begin="9227" end="9301" sentText="Musculoskeletal:: Motor Strength and Tone: normal tone and motor strength.">
+<RelationSet id="205">
+<modifier value="normal" begin="9270" end="9276" status="0" certainty="0" cui="C0949333;C0205307;C1882114;C1704701;C2698497;C0558145;C0848894" tui="T080;T080;T081;T081;T170;T033;T033" rank="797;797;575;575;572;572;489" code="NO-CODE" sourceType="MTH;MTH;NCI;NCI;NCI;NCI;ICPC2P"/>
+</RelationSet>
+<RelationSet id="205">
+<bodyFunction value="motor strength" begin="9286" end="9300" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="217" begin="9302" end="9394" sentText="Joints, Bones, and Muscles: no mntractures, malalignment, tenderness, or bony abnormalities.">
+<RelationSet id="206">
+<anatomicalStructure value="Bones" begin="9310" end="9315" status="0" certainty="-2" cui="C0262950;C0391978;C1266908;C1266909" tui="T023;T024;T023;T022" rank="792;790;765;765" code="NO-CODE" sourceType="MSH;MSH;SNOMEDCTUS;SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="207">
+<problem value="tenderness" begin="9360" end="9370" status="0" certainty="-2" cui="C0234233;C0684239" tui="T184;T041" rank="767;472" code="NO-CODE" sourceType="SNOMEDCTUS;AOD"/>
+</RelationSet>
+<RelationSet id="208">
+<finding value="abnormalities" begin="9380" end="9393" status="0" certainty="-2" cui="C1704258;C0000769" tui="T033;T169" rank="999;794" code="NO-CODE" sourceType="EZDI;MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Extremities" begin="9395" end="9407" secBegin="9407" secEnd="9448">
+<Paragraph pgNo="313" begin="9395" end="9447">
+<Sentence sentNo="218" begin="9395" end="9447" sentText="Extremities: no edema, varimsities, or palpable mrd.">
+<RelationSet id="209">
+<anatomicalStructure value="Extremities" begin="9395" end="9406" status="0" certainty="0" cui="C0015385;C0278454" tui="T023;T023" rank="795;151" code="NO-CODE" sourceType="MSH;CHV"/>
+</RelationSet>
+<RelationSet id="210">
+<problem value="edema" begin="9411" end="9416" status="0" certainty="-2" cui="C0013604" tui="T046" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="314" begin="9448" end="9448">
+</Paragraph>
+</Section>
+<Section value="Neurologic" begin="9449" end="9460" secBegin="9460" secEnd="9747">
+<Paragraph pgNo="315" begin="9449" end="9562">
+<Sentence sentNo="219" begin="9449" end="9503" sentText="Neurologic: Gait and Station: normal gait and station.">
+<RelationSet id="210">
+<bodyFunction value="Gait" begin="9461" end="9465" status="0" certainty="-2" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+<RelationSet id="211">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<bodyFunction value="gait" begin="9486" end="9490" status="0" certainty="0"/>
+<modifier value="normal" begin="9479" end="9485" status="0" certainty="0"/>
+</Relation>
+<bodyFunction value="gait" begin="9486" end="9490" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO_RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+<modifier value="normal" begin="9479" end="9485" status="0" certainty="0" cui="C0949333;C0205307;C1882114;C1704701;C2698497;C0558145;C0848894" tui="T080;T080;T081;T081;T170;T033;T033" rank="797;797;575;575;572;572;489" code="NO-CODE" sourceType="MTH;MTH;NCI;NCI;NCI;NCI;ICPC2P"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="220" begin="9504" end="9535" sentText="Cranial Nerves: grossly intact.">
+<RelationSet id="212">
+<anatomicalStructure value="Cranial Nerves" begin="9504" end="9518" status="0" certainty="0" cui="C0010268;C1269897;C0496937" tui="T023;T023;T191" rank="797;765;610" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;ICD10"/>
+<anatomicalStructure value="Cranial" begin="9504" end="9511" status="0" certainty="0" cui="C3163632;C0037303;C1279062" tui="T082;T023;T023" rank="797;791;765" code="NO-CODE" sourceType="MTH;MSH;SNOMEDCTUS"/>
+<anatomicalStructure value="Nerves" begin="9512" end="9518" status="0" certainty="0" cui="C0027740;C1280541;C0027769;C0027757" tui="T024;T023;T184;T024" rank="797;765;709;572" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;RCDSY;NCI"/>
+</RelationSet>
+<RelationSet id="213">
+<modifier value="intact" begin="9528" end="9534" status="0" certainty="0" cui="C0205266" tui="T080" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="221" begin="9536" end="9562" sentText="Sensation: grossly intact.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="316" begin="9563" end="9563">
+</Paragraph>
+<Paragraph pgNo="317" begin="9564" end="9697">
+<Sentence sentNo="222" begin="9564" end="9682" sentText="Ski nspection and palpation: no rash, lesions, ulcer, induration, nodules, jaundice, or abnormal nevi and good turgor.">
+<RelationSet id="214">
+<finding value="Ski" begin="9564" end="9567" status="0" certainty="-2" cui="C0425040;C0037262;C0301560;C0812379" tui="T033;T029;T073;T028" rank="767;767;767;596" code="NO-CODE" sourceType="SNOMEDCTUS;SNOMEDCTUS;SNOMEDCTUS;OMIM"/>
+</RelationSet>
+<RelationSet id="215">
+<problem value="no rash" begin="9593" end="9600" status="0" certainty="-2" cui="S00022276" tui="T046" rank="800" code="NO-CODE" sourceType="ezDIML2"/>
+<problem value="rash" begin="9596" end="9600" status="0" certainty="-2" cui="C0015230" tui="T047" rank="791" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+<RelationSet id="216">
+<finding value="lesions" begin="9602" end="9609" status="0" certainty="-2" cui="C0221198" tui="T033" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+<RelationSet id="217">
+<problem value="ulcer" begin="9611" end="9616" status="0" certainty="-2" cui="C0041582;C1963256" tui="T046;T033" rank="797;551" code="NO-CODE" sourceType="MTH;NCI"/>
+</RelationSet>
+<RelationSet id="218">
+<problem value="induration" begin="9618" end="9628" status="0" certainty="-2" cui="C0332534" tui="T046" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="219">
+<problem value="nodules" begin="9630" end="9637" status="0" certainty="-2" cui="C0028259;C0228505" tui="T020;T023" rank="797;695" code="NO-CODE" sourceType="MTH;NEU"/>
+</RelationSet>
+<RelationSet id="220">
+<problem value="jaundice" begin="9639" end="9647" status="0" certainty="-2" cui="C0022346;C2203646" tui="T046;T184" rank="795;592" code="NO-CODE" sourceType="MSH;MEDCIN"/>
+</RelationSet>
+<RelationSet id="221">
+<problem value="nevi" begin="9661" end="9665" status="0" certainty="-2" cui="C0027960;C0027962;C1456781" tui="T191;T191;T191" rank="797;765;150" code="NO-CODE" sourceType="MTH;SNOMEDCTUS;CHV"/>
+<finding value="abnormal" begin="9652" end="9660" status="0" certainty="-2" cui="C1704258;C0205161;C2699333" tui="T033;T080;T170" rank="797;797;572" code="NO-CODE" sourceType="MTH;MTH;NCI"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="223" begin="9683" end="9697" sentText="Nails: normal.">
+<RelationSet id="222">
+<anatomicalStructure value="Nails" begin="9683" end="9688" status="0" certainty="-2" cui="C0027342;C2039340;C3538766" tui="T023;T184;T028" rank="795;592;575" code="NO-CODE" sourceType="MSH;MEDCIN;NCI"/>
+</RelationSet>
+<RelationSet id="223">
+<modifier value="normal" begin="9690" end="9696" status="0" certainty="0" cui="C0949333;C0205307;C1882114;C1704701;C2698497;C0558145;C0848894" tui="T080;T080;T081;T081;T170;T033;T033" rank="797;797;575;575;572;572;489" code="NO-CODE" sourceType="MTH;MTH;NCI;NCI;NCI;NCI;ICPC2P"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="318" begin="9698" end="9698">
+</Paragraph>
+<Paragraph pgNo="319" begin="9699" end="9747">
+<Sentence sentNo="224" begin="9699" end="9747" sentText="Back: Thoramlumbar Appearance: normal curvature.">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Assessment / Plan" begin="9748" end="9765" secBegin="9765" secEnd="10071">
+<Paragraph pgNo="320" begin="9748" end="9765">
+<Sentence sentNo="225" begin="9748" end="9765" sentText="Assessment / Plan">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="321" begin="9766" end="9766">
+</Paragraph>
+<Paragraph pgNo="322" begin="9767" end="9800">
+<Sentence sentNo="226" begin="9767" end="9800" sentText="Documented by scribe, SPinon, CMA">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="323" begin="9801" end="9899">
+<Sentence sentNo="227" begin="9801" end="9899" sentText="I, Harry Bass MD, have reviewed any and all documentation by a scribe and authentimte its accuracy">
+<RelationSet id="224">
+<problem value="MD" begin="9815" end="9817" status="0" certainty="0" cui="C0025037;C0026850" tui="T019;T019,T047" rank="999;797" code="NO-CODE" sourceType="EZDI;MTH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="324" begin="9900" end="9900">
+</Paragraph>
+<Paragraph pgNo="325" begin="9901" end="9927">
+<Sentence sentNo="228" begin="9901" end="9927" sentText="1. Renewal of prescription">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="326" begin="9928" end="10071">
+<Sentence sentNo="229" begin="9928" end="10071" sentText="276.0: Enmunter for issue of repeat prescription temazepam 30 mg mpsule - TAKE ONE CAPSULE BY MOUTH ONE TIME DAILY Qty: 90 mpsule(s) Refills: 1">
+<RelationSet id="225">
+<med value="temazepam 30 mg" begin="9977" end="9992" status="0" certainty="0" cui="C0990507" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="temazepam" begin="9977" end="9986" status="0" certainty="0" cui="C0039468" tui="T109,T121" rank="795" code="NO-CODE" sourceType="MSH">
+<medData strength="30" strengthBegin="9987" strengthEnd="9989" strengthUnit="mg" strengthUnitBegin="9990" strengthUnitEnd="9992" dosage="ONE" dosageBegin="10007" dosageEnd="10010" form="CAPSULE" formBegin="10011" formEnd="10018" frequency="ONE TIME DAILY" frequencyBegin="10028" frequencyEnd="10042" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="BY MOUTH" routeBegin="10019" routeEnd="10027"/></med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Pharmacy" begin="10072" end="10081" secBegin="10081" secEnd="10211">
+<Paragraph pgNo="327" begin="10072" end="10211">
+<Sentence sentNo="230" begin="10072" end="10183" sentText="Pharmacy: SAV-ON PHARMACY #1909 metformin 500 mg tablet - Take 1 tablet(s) every day by oral route for 90 days.">
+<RelationSet id="226">
+<med value="metformin 500 mg tablet_SEP_tablet_SEP_oral" begin="10104_SEP_10137_SEP_10160" end="10127_SEP_10143_SEP_10164" status="0" certainty="0" cui="C0978483" tui="T200" rank="681" code="NO-CODE" sourceType="MMSL"/>
+<med value="metformin_SEP_tablet_SEP_oral" begin="10104_SEP_10137_SEP_10160" end="10113_SEP_10143_SEP_10164" status="0" certainty="0" cui="C1246863" tui="T200" rank="780" code="NO-CODE" sourceType="RXNORM"/>
+<med value="metformin 500 mg" begin="10104" end="10120" status="0" certainty="0" cui="C0987665" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="metformin" begin="10104" end="10113" status="0" certainty="0" cui="C0025598" tui="T109,T121" rank="795" code="NO-CODE" sourceType="MSH">
+<date value="1909" begin="10099" end="10103">
+<medData strength="500" strengthBegin="10114" strengthEnd="10117" strengthUnit="mg" strengthUnitBegin="10118" strengthUnitEnd="10120" dosage="1" dosageBegin="10135" dosageEnd="10136" form="tablet;tablet" formBegin="10121;10137" formEnd="10127;10143" frequency="every day" frequencyBegin="10147" frequencyEnd="10156" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="oral" routeBegin="10160" routeEnd="10164"/></date>
+</med>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="231" begin="10184" end="10211" sentText="Qty: 90 tablet(s) Re lls: 3">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Pharmacy" begin="10212" end="10221" secBegin="10221" secEnd="10251">
+<Paragraph pgNo="328" begin="10212" end="10251">
+<Sentence sentNo="232" begin="10212" end="10251" sentText="Pharmacy: SAV-ON PHARMACY #1909 Note to">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Pharmacy" begin="10252" end="10261" secBegin="10261" secEnd="10415">
+<Paragraph pgNo="329" begin="10252" end="10291">
+<Sentence sentNo="233" begin="10252" end="10291" sentText="Pharmacy: Take one before largest meal.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="330" begin="10292" end="10395">
+<Sentence sentNo="234" begin="10292" end="10395" sentText="triamterene 37.5 rng-hydrochlorothiazide 25 mg tablet - TAKE ONE TABLET BY MOUTH ONE TIME DAILY Qty: 90">
+<RelationSet id="227">
+<med value="triamterene_SEP_rng-hydrochlorothiazide" begin="10292_SEP_10309" end="10303_SEP_10332" status="0" certainty="0" cui="C0813211" tui="T109,T121" rank="797" code="NO-CODE" sourceType="MTH"/>
+<med value="triamterene 37.5_SEP_mg" begin="10292_SEP_10336" end="10308_SEP_10338" status="0" certainty="0" cui="C0990911" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="triamterene_SEP_25 mg" begin="10292_SEP_10333" end="10303_SEP_10338" status="0" certainty="0" cui="C1383892" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="triamterene" begin="10292" end="10303" status="0" certainty="0" cui="C0040869;C0700653" tui="T109,T121;T109,T121" rank="795;792" code="NO-CODE" sourceType="MSH;MSH">
+<medData strength="25" strengthBegin="10333" strengthEnd="10335" strengthUnit="mg" strengthUnitBegin="10336" strengthUnitEnd="10338" dosage="ONE" dosageBegin="10353" dosageEnd="10356" form="TABLET;tablet" formBegin="10357;10339" formEnd="10363;10345" frequency="ONE TIME DAILY" frequencyBegin="10373" frequencyEnd="10387" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="BY MOUTH" routeBegin="10364" routeEnd="10372"/></med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="331" begin="10396" end="10415">
+<Sentence sentNo="235" begin="10396" end="10415" sentText="tablet(s) Re lls: 3">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Pharmacy" begin="10416" end="10425" secBegin="10425" secEnd="10559">
+<Paragraph pgNo="332" begin="10416" end="10447">
+<Sentence sentNo="236" begin="10416" end="10447" sentText="Pharmacy: SAV-ON PHARMACY #1909">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="333" begin="10448" end="10549">
+<Sentence sentNo="237" begin="10448" end="10549" sentText="duloxetine 30 mg capsule,de|ayed release - TAKE ONE CAPSULE BY MOUTH ONE TIME DAILY Qty: 90 mpsule(s)">
+<RelationSet id="228">
+<med value="duloxetine 30 mg" begin="10448" end="10464" status="0" certainty="0" cui="C1621163" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="duloxetine" begin="10448" end="10458" status="0" certainty="0" cui="C0245561" tui="T109,T121" rank="787" code="NO-CODE" sourceType="MSH">
+<medData strength="30" strengthBegin="10459" strengthEnd="10461" strengthUnit="mg" strengthUnitBegin="10462" strengthUnitEnd="10464" dosage="ONE" dosageBegin="10496" dosageEnd="10499" form="capsule;CAPSULE" formBegin="10465;10500" formEnd="10472;10507" frequency="ONE TIME DAILY" frequencyBegin="10517" frequencyEnd="10531" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="BY MOUTH" routeBegin="10508" routeEnd="10516"/></med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="334" begin="10550" end="10559">
+<Sentence sentNo="238" begin="10550" end="10559" sentText="Re lls: 3">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Pharmacy" begin="10560" end="10569" secBegin="10569" secEnd="10792">
+<Paragraph pgNo="335" begin="10560" end="10591">
+<Sentence sentNo="239" begin="10560" end="10591" sentText="Pharmacy: SAV-ON PHARMACY #1909">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="336" begin="10592" end="10592">
+</Paragraph>
+<Paragraph pgNo="337" begin="10593" end="10610">
+<Sentence sentNo="240" begin="10593" end="10610" sentText="2. Hyperlipidemia">
+<RelationSet id="229">
+<problem value="Hyperlipidemia" begin="10596" end="10610" status="0" certainty="0" cui="S00002881;C0020473;C1706412" tui="T046;T047;T033" rank="800;797;792" code="NO-CODE" sourceType="ezDIML2;MTH;MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="338" begin="10611" end="10644">
+<Sentence sentNo="241" begin="10611" end="10644" sentText="E73.5: Hyperlipidemia, unspeci ed">
+<RelationSet id="230">
+<problem value="Hyperlipidemia" begin="10618" end="10632" status="0" certainty="0" cui="S00002881;C0020473;C1706412" tui="T046;T047;T033" rank="800;797;792" code="NO-CODE" sourceType="ezDIML2;MTH;MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="339" begin="10645" end="10680">
+<Sentence sentNo="242" begin="10645" end="10680" sentText="HIGH CHOLESTEROL: CARE INSTRUCTIONS">
+<RelationSet id="231">
+<finding value="HIGH CHOLESTEROL" begin="10645" end="10661" status="0" certainty="0" cui="C1522133" tui="T033" rank="644" code="NO-CODE" sourceType="MDR"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="340" begin="10681" end="10792">
+<Sentence sentNo="243" begin="10681" end="10763" sentText="Vascepa 0.5 gram mpsule - Take 1 capsule(s) twice a day by oral route for 30 days.">
+</Sentence>
+<Sentence sentNo="244" begin="10764" end="10792" sentText="Qty: 60 capsule(s) Re lls: 2">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Pharmacy" begin="10793" end="10802" secBegin="10802" secEnd="11135">
+<Paragraph pgNo="341" begin="10793" end="10824">
+<Sentence sentNo="245" begin="10793" end="10824" sentText="Pharmacy: SAV-ON PHARMACY #1909">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="342" begin="10825" end="10878">
+<Sentence sentNo="246" begin="10825" end="10878" sentText="LIPID PANEL - To be performed on or around 12/26/2019">
+<RelationSet id="232">
+<lab value="LIPID" begin="10825" end="10830" status="0" certainty="0" cui="C0023779" tui="T119" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<lab value="LIPID PANEL" begin="10825" end="10836" status="0" certainty="0" cui="C0200382" tui="T059" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS">
+<date value="12/26/2019" begin="10868" end="10878">
+</date>
+</lab>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="343" begin="10879" end="10929">
+<Sentence sentNo="247" begin="10879" end="10929" sentText="ALT SGPT - To be performed on or around 12/26/2019">
+<RelationSet id="233">
+<lab value="SGPT" begin="10883" end="10887" status="0" certainty="0" cui="C0036828" tui="T059" rank="644" code="NO-CODE" sourceType="MDR">
+<date value="12/26/2019" begin="10919" end="10929">
+</date>
+</lab>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="344" begin="10930" end="10930">
+</Paragraph>
+<Paragraph pgNo="345" begin="10931" end="10948">
+<Sentence sentNo="248" begin="10931" end="10948" sentText="3. Hypothyroidism">
+<RelationSet id="234">
+<problem value="Hypothyroidism" begin="10934" end="10948" status="0" certainty="0" cui="C0020676" tui="T047" rank="795" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="346" begin="10949" end="10983">
+<Sentence sentNo="249" begin="10949" end="10983" sentText="E03.9: Hypothyroidism, unspecified">
+<RelationSet id="234">
+<modifier value="E03.9" begin="10949" end="10954" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+<RelationSet id="235">
+<problem value="Hypothyroidism" begin="10956" end="10970" status="0" certainty="0" cui="C0020676" tui="T047" rank="795" code="NO-CODE" sourceType="MSH"/>
+</RelationSet>
+<RelationSet id="236">
+<modifier value="unspecified" begin="10972" end="10983" status="0" certainty="0" cui="C0205370;C2983689" tui="T080;T033" rank="797;572" code="NO-CODE" sourceType="MTH;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="347" begin="10984" end="11019">
+<Sentence sentNo="250" begin="10984" end="11019" sentText="0 HYPOTHYROIDISM: CARE INSTRUCTIONS">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="348" begin="11020" end="11135">
+<Sentence sentNo="251" begin="11020" end="11100" sentText="Synthroid 112 mcg tablet - Take 1 tablet(s) every day by oral route for 90 days.">
+<RelationSet id="237">
+<med value="Synthroid 112 mcg_SEP_tablet_SEP_oral" begin="11020_SEP_11054_SEP_11077" end="11037_SEP_11060_SEP_11081" status="0" certainty="0" cui="C0707574" tui="T200" rank="781" code="NO-CODE" sourceType="RXNORM"/>
+<med value="Synthroid" begin="11020" end="11029" status="0" certainty="0" cui="C0728762" tui="T116,T121" rank="797" code="NO-CODE" sourceType="MTH">
+<date value="every day" begin="11064" end="11073">
+<medData strength="112" strengthBegin="11030" strengthEnd="11033" strengthUnit="mcg" strengthUnitBegin="11034" strengthUnitEnd="11037" dosage="1" dosageBegin="11052" dosageEnd="11053" form="tablet;tablet" formBegin="11038;11054" formEnd="11044;11060" frequency="every day" frequencyBegin="11064" frequencyEnd="11073" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="oral" routeBegin="11077" routeEnd="11081"/></date>
+</med>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="252" begin="11101" end="11135" sentText="Qty: 90 tablet(s) Re lls: 3 DAW: Y">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Pharmacy" begin="11136" end="11145" secBegin="11145" secEnd="11785">
+<Paragraph pgNo="349" begin="11136" end="11167">
+<Sentence sentNo="253" begin="11136" end="11167" sentText="Pharmacy: SAV-ON PHARMACY #1909">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="350" begin="11168" end="11213">
+<Sentence sentNo="254" begin="11168" end="11213" sentText="TSH - To be performed on or around 12/26/2019">
+<RelationSet id="238">
+<lab value="TSH" begin="11168" end="11171" status="0" certainty="0" code="NO-CODE" cui="C0040160;C0202230;C0696098;C1535531" tui="T059;T116,T121,T125;T059;T116,T121,T125" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="12/26/2019" begin="11203" end="11213">
+</date>
+</lab>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="351" begin="11214" end="11264">
+<Sentence sentNo="255" begin="11214" end="11264" sentText="T4 TOTAL - To be performed on or around 12/26/2019">
+<RelationSet id="239">
+<anatomicalStructure value="T4" begin="11214" end="11216" status="0" certainty="0" cui="C0459951;C0040165;C0202231;C0475751;C1281902" tui="T023;T116,T121,T125;T059;T033;T059" rank="999;760;644;575;572" code="NO-CODE" sourceType="EZDI;SNOMEDCTUS;MDR;NCI;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="352" begin="11265" end="11315">
+<Sentence sentNo="256" begin="11265" end="11315" sentText="T3 TOTAL - To be performed on or around 12/26/2019">
+<RelationSet id="240">
+<anatomicalStructure value="T3" begin="11265" end="11267" status="0" certainty="0" cui="C0459952;C0041014;C0202237;C1705601;C1442882;C0475374;C0428419" tui="T023;T116,T121,T125;T059;T028;T116,T123;T033;T059" rank="999;760;644;575;575;575;572" code="NO-CODE" sourceType="EZDI;SNOMEDCTUS;MDR;NCI;NCI;NCI;NCI"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="353" begin="11316" end="11316">
+</Paragraph>
+<Paragraph pgNo="354" begin="11317" end="11365">
+<Sentence sentNo="257" begin="11317" end="11365" sentText="4. Type 2 diabetes mellitus without complication">
+<RelationSet id="241">
+<problem value="Type 2 diabetes mellitus without complication" begin="11320" end="11365" status="0" certainty="0" cui="C0494290" tui="T047" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+<problem value="Type 2 diabetes mellitus_SEP_complication" begin="11320_SEP_11353" end="11344_SEP_11365" status="0" certainty="-2" cui="S00022499;C2874104" tui="T046;T047" rank="800;800" code="NO-CODE" sourceType="ezDIML2;ICD10CM"/>
+<problem value="Type 2 diabetes mellitus" begin="11320" end="11344" status="0" certainty="0" cui="S20004383;C0011860" tui="T046;T047" rank="800;795" code="NO-CODE" sourceType="ezDIML2;MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="355" begin="11366" end="11419">
+<Sentence sentNo="258" begin="11366" end="11419" sentText="E1 1.9: Type 2 diabetes mellitus without mmplications">
+<RelationSet id="242">
+<problem value="Type 2 diabetes mellitus" begin="11374" end="11398" status="0" certainty="0" cui="S20004383;C0011860" tui="T046;T047" rank="800;795" code="NO-CODE" sourceType="ezDIML2;MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="356" begin="11420" end="11515">
+<Sentence sentNo="259" begin="11420" end="11515" sentText="0 TYPE 2 DIABETES: CARE INSTRUCTIONS o HEMOGLOBIN A1C - To be performed on or around 12/26/2019">
+<RelationSet id="243">
+<problem value="TYPE 2 DIABETES" begin="11422" end="11437" status="0" certainty="0" cui="C0011860" tui="T047" rank="592" code="NO-CODE" sourceType="MEDCIN"/>
+<problem value="2 DIABETES" begin="11427" end="11437" status="0" certainty="0" cui="S00005229" tui="T046" rank="800" code="NO-CODE" sourceType="ezDIML2"/>
+<problem value="DIABETES" begin="11429" end="11437" status="0" certainty="0" cui="C0011847;C0011849;C0241863" tui="T047;T047;T033" rank="797;644;644" code="NO-CODE" sourceType="MTH;MDR;MDR"/>
+<finding value="TYPE_SEP_DIABETES" begin="11422_SEP_11429" end="11426_SEP_11437" status="0" certainty="0" cui="C1320657" tui="T033" rank="767" code="NO-CODE" sourceType="SNOMEDCTUS"/>
+</RelationSet>
+<RelationSet id="244">
+<lab value="HEMOGLOBIN A1C" begin="11459" end="11473" status="0" certainty="0" code="NO-CODE" cui="C0373638;C0202054;C0019046;C0518015;C0019018;C0017645;C2239101" tui="T116,T123;T059;T116,T123;T059;T033" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="12/26/2019" begin="11505" end="11515">
+<labData value="2" begin="11427" end="11428" rank="2" unit="" unitBegin="" unitEnd=""/>
+<labData value="0" begin="11420" end="11421" rank="1" unit="" unitBegin="" unitEnd=""/>
+</date>
+</lab>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="357" begin="11516" end="11575">
+<Sentence sentNo="260" begin="11516" end="11575" sentText="0 GLUCOSE FASTING - To be performed on or around 12/26/2019">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="358" begin="11576" end="11576">
+</Paragraph>
+<Paragraph pgNo="359" begin="11577" end="11613">
+<Sentence sentNo="261" begin="11577" end="11613" sentText="5. Recurrent urinary tract infection">
+<RelationSet id="245">
+<Relation cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE">
+<modifier value="Recurrent" begin="11580" end="11589" status="0" certainty="0"/>
+<problem value="urinary tract infection" begin="11590" end="11613" status="0" certainty="0"/>
+</Relation>
+<modifier value="Recurrent" begin="11580" end="11589" status="0" certainty="0" cui="C2945760" tui="T079" rank="797" code="NO-CODE" sourceType="MTH"/>
+<problem value="Recurrent urinary tract infection" begin="11580" end="11613" status="0" certainty="0" cui="C0262655;C3532611" tui="T047;T033" rank="797;595" code="NO-CODE" sourceType="MTH;MEDCIN"/>
+<problem value="urinary tract infection" begin="11590" end="11613" status="0" certainty="0" cui="C0042029" tui="T047" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="360" begin="11614" end="11663">
+<Sentence sentNo="262" begin="11614" end="11663" sentText="N39.0: Urinary tract infection, site not speci ed">
+<RelationSet id="245">
+<modifier value="N39.0" begin="11614" end="11619" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+<RelationSet id="246">
+<problem value="Urinary tract infection" begin="11621" end="11644" status="0" certainty="0" cui="C0042029" tui="T047" rank="797" code="NO-CODE" sourceType="MTH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="361" begin="11664" end="11785">
+<Sentence sentNo="263" begin="11664" end="11756" sentText="0 cephalexin 250 mg tablet - Take 1 tablet(s) every day by oral route as needed for 30 days.">
+<RelationSet id="247">
+<med value="cephalexin 250 mg tablet_SEP_tablet_SEP_oral" begin="11666_SEP_11700_SEP_11723" end="11690_SEP_11706_SEP_11727" status="0" certainty="0" cui="C0975442" tui="T200" rank="797" code="NO-CODE" sourceType="MTH"/>
+<med value="cephalexin_SEP_tablet_SEP_oral" begin="11666_SEP_11700_SEP_11723" end="11676_SEP_11706_SEP_11727" status="0" certainty="0" cui="C1245388" tui="T200" rank="780" code="NO-CODE" sourceType="RXNORM"/>
+<med value="cephalexin 250 mg" begin="11666" end="11683" status="0" certainty="0" cui="C0984638" tui="T200" rank="778" code="NO-CODE" sourceType="RXNORM"/>
+<med value="cephalexin" begin="11666" end="11676" status="0" certainty="0" cui="C0007716;C0700517" tui="T109,T195;T109,T195" rank="795;774" code="NO-CODE" sourceType="MSH;RXNORM">
+<date value="every day" begin="11710" end="11719">
+<medData strength="250" strengthBegin="11677" strengthEnd="11680" strengthUnit="mg" strengthUnitBegin="11681" strengthUnitEnd="11683" dosage="1" dosageBegin="11698" dosageEnd="11699" form="tablet;tablet" formBegin="11684;11700" formEnd="11690;11706" frequency="as needed;every day" frequencyBegin="11734;11710" frequencyEnd="11743;11719" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="oral" routeBegin="11723" routeEnd="11727"/></date>
+</med>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="264" begin="11757" end="11785" sentText="Qty: 30 tablet(s) Refills: 1">
+</Sentence>
+</Paragraph>
+</Section>
+<Section value="Pharmacy" begin="11786" end="11795" secBegin="11795" secEnd="12549">
+<Paragraph pgNo="362" begin="11786" end="11817">
+<Sentence sentNo="265" begin="11786" end="11817" sentText="Pharmacy: SAV-ON PHARMACY #1909">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="363" begin="11818" end="11818">
+</Paragraph>
+<Paragraph pgNo="364" begin="11819" end="11853">
+<Sentence sentNo="266" begin="11819" end="11853" sentText="6. Upper respiratory tract allergy">
+<RelationSet id="248">
+<problem value="Upper respiratory tract allergy" begin="11822" end="11853" status="0" certainty="0" cui="C2607914" tui="T047" rank="800" code="NO-CODE" sourceType="ICD10CM"/>
+<problem value="allergy" begin="11846" end="11853" status="0" certainty="0" cui="C0020517;C0002111;C3539909;C0489531;C3542994" tui="T046;T091;T047;T033;T046" rank="791;765;765;595;242" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;SNOMEDCTUS;MEDCIN;SNOMEDCTUS"/>
+<modifier value="Upper" begin="11822" end="11827" status="0" certainty="0" cui="C1282910" tui="T082" rank="797" code="NO-CODE" sourceType="MTH"/>
+<anatomicalStructure value="Upper respiratory tract" begin="11822" end="11845" status="0" certainty="0" cui="C0458578;C3665590" tui="T023;T022" rank="797;765" code="NO-CODE" sourceType="MTH;SNOMEDCTUS"/>
+<anatomicalStructure value="respiratory tract" begin="11828" end="11845" status="0" certainty="0" cui="C0282335;C1283798;C0035237" tui="T023;T023;T022" rank="792;765;530" code="NO-CODE" sourceType="MSH;SNOMEDCTUS;NCI"/>
+<anatomicalStructure value="tract" begin="11840" end="11845" status="0" certainty="0" cui="C1185740" tui="T023" rank="692" code="NO-CODE" sourceType="FMA"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="365" begin="11854" end="11890">
+<Sentence sentNo="267" begin="11854" end="11890" sentText="J30.9: Allergic rhinitis, unspeci ed">
+<RelationSet id="248">
+<modifier value="J30.9" begin="11854" end="11859" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+<RelationSet id="249">
+<problem value="Allergic rhinitis" begin="11861" end="11878" status="0" certainty="0" cui="S00011051;C2607914" tui="T046;T047" rank="800;787" code="NO-CODE" sourceType="ezDIML2;MSH"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="366" begin="11891" end="12007">
+<Sentence sentNo="268" begin="11891" end="11976" sentText="0 Kenalog 40 mg/mL suspension for injection - Take 1 mL by injection route for 1 day.">
+<RelationSet id="250">
+<modifier value="injection_SEP_route" begin="11925_SEP_11960" end="11934_SEP_11965" status="0" certainty="0" cui="C1828121" tui="T169" rank="795" code="NO-CODE" sourceType="MSH"/>
+<procedure value="injection" begin="11925" end="11934" status="0" certainty="0" cui="C1272883;C1533685;C0021485" tui="T122;T061;T061" rank="767;767;151" code="NO-CODE" sourceType="SNOMEDCTUS;SNOMEDCTUS;CHV"/>
+</RelationSet>
+</Sentence>
+<Sentence sentNo="269" begin="11977" end="12007" sentText="Quantity: 40 mg Lot #: abd2236">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="367" begin="12008" end="12073">
+<Sentence sentNo="270" begin="12008" end="12073" sentText="Route: Injection Site: Left Arm Exp Date: 09/01/2020 Administered">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="368" begin="12074" end="12074">
+</Paragraph>
+<Paragraph pgNo="369" begin="12075" end="12090">
+<Sentence sentNo="271" begin="12075" end="12090" sentText="Return to Of ce">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="370" begin="12091" end="12184">
+<Sentence sentNo="272" begin="12091" end="12184" sentText="0 to see HARRY BASS, MD for Follow-up at MVHB_MOUNTAINVIEW HARRY BASS on or around 12/26/2019">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="371" begin="12185" end="12185">
+</Paragraph>
+<Paragraph pgNo="372" begin="12186" end="12204">
+<Sentence sentNo="273" begin="12186" end="12204" sentText="Encounter Sign-Off">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="373" begin="12205" end="12256">
+<Sentence sentNo="274" begin="12205" end="12256" sentText="Encounter signed-off by HARRY BASS, MD, 09/26/2019.">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="374" begin="12257" end="12257">
+</Paragraph>
+<Paragraph pgNo="375" begin="12258" end="12295">
+<Sentence sentNo="275" begin="12258" end="12295" sentText="Encounter performed by HARRY BASS, MD">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="376" begin="12296" end="12296">
+</Paragraph>
+<Paragraph pgNo="377" begin="12297" end="12297">
+</Paragraph>
+<Paragraph pgNo="378" begin="12298" end="12298">
+</Paragraph>
+<Paragraph pgNo="379" begin="12299" end="12346">
+<Sentence sentNo="276" begin="12299" end="12346" sentText="DODSON, DEBORAH K (id #143020, dob: 12/21/1956)">
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="380" begin="12347" end="12347">
+</Paragraph>
+<Paragraph pgNo="381" begin="12348" end="12405">
+<Sentence sentNo="277" begin="12348" end="12405" sentText="Encounter scribed for HARRY BASS, MD by Sylvia Pinon, Cma">
+<RelationSet id="250">
+<problem value="Cma" begin="12402" end="12405" status="0" certainty="0" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" code="NO-CODE" sourceType="NO-SOURCETYPE"/>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="382" begin="12406" end="12478">
+<Sentence sentNo="278" begin="12406" end="12478" sentText="Encounter signed by Sylvia Pinon, Cma as scribe at 09/26/2019 at 10:36am">
+<RelationSet id="250">
+<med value="Cma" begin="12440" end="12443" status="0" certainty="0" code="NO-CODE" cui="NO-CUI" tui="NO-TUI" rank="NO-RANK" sourceType="NO-SOURCETYPE">
+<date value="09/26/2019" begin="12457" end="12467">
+<medData strength="" strengthBegin="" strengthEnd="" strengthUnit="" strengthUnitBegin="" strengthUnitEnd="" dosage="" dosageBegin="" dosageEnd="" form="" formBegin="" formEnd="" frequency="" frequencyBegin="" frequencyEnd="" frequencyUnit="" frequencyUnitBegin="" frequencyUnitEnd="" route="" routeBegin="" routeEnd=""/></date>
+</med>
+</RelationSet>
+</Sentence>
+</Paragraph>
+<Paragraph pgNo="383" begin="12479" end="12549">
+<Sentence sentNo="279" begin="12479" end="12549" sentText="Encounter reviewed &amp; signed by HARRY BASS, MD on 09/26/2019 at 10:36am">
+</Sentence>
+</Paragraph>
+</Section>
+</ezNLP>
